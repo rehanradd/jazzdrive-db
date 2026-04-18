@@ -110,5 +110,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925237\", \"status\": \"U\", \"etag\": \"NXrWpz3Ww8qY5Gb6pxKrgQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241925237\", \"url\": \"/sapi/download/file?action=get&k=igx7whP51Ud13E9R3c4FAX1BytNV9sDLkfGQQNe1WNKTmemOm7fQJMm52D2AYynVUfqw-JcrcQbvcw0O8_vwmuYc7W-GGI87aZphxtmCATknhNZB8Pu7N-XeKU1BvSv0dSIrQXm4NGS6YBfdw6v-jW5fPUuiVS3ubwVYuPlmFZx-1m7dvI8&node=1i220\", \"date\": 1776517491918, \"creationdate\": 1776517492000, \"modificationdate\": 1776517492000, \"uploaded\": 1776517491860, \"size\": 36, \"name\": \"Dramas - Ertugrul - Season2 - S02E01_Test (1).txt\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"NXrWpz3Ww8qY5Gb6pxKrgQ==\", \"favorite\": false}]}, \"responsetime\": 1776517491949, \"type\": \"file\"}"
+  },
+  "82751e71b3b4345468e0f0e2d4a6ee1611e6e1815c92523324d5ebfe8ae7c7d3": {
+    "name": "Inuyashiki (2018).mp4",
+    "path": "movies\\12\\123\\1234\\Inuyashiki (2018).mp4",
+    "mediatype": "video",
+    "size_bytes": 1024,
+    "uploaded_at": "2026-04-18T13:05:14Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/sapi/download/video?action=get&k=JoBIsKjnK-a27DsnOpbgbGY6yazeE-phBK5f_WPm5CBn-ju74g3Cu7lerb6fmPF-lLhu5QEpLIZs0ljGlZJ_aw9eusiPLh7zOYaIIMkrl4LW00-Gtk0b3hF0X7yHSmXQP6sIZG5oTl685GcQMAnK93qrAFulutRU0AP9wXhFF0LOk1iRjErWCEmuwbu0hJe9FaA&node=1i220",
+    "remote_id": "241925241",
+    "remote_folder_id": "0",
+    "tmdb_title": "Inuyashiki",
+    "tmdb_year": "2018",
+    "tmdb_rating": 7.6,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/lyqkQ6y7d4YGVQrRjtmGTRMVcDY.jpg",
+    "tmdb_overview": "A middle-aged office worker encounters aliens and is gifted with alien technology and limitless powers.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925241\", \"status\": \"U\", \"etag\": \"I1GgAnE0WYTpZw8uexq6iA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241925241\", \"url\": \"/sapi/download/video?action=get&k=5kO3FvMhj47OL3mzZKKqw0OGMoD-GWp-4ghk4uu26xfst4it4VE21Y6A5qHY7FqFFwaZOUj2tzgmzytTQ9cJ9t2l3Ghs7Swil3sFTnQRI52PA_XiYrf7lX-VRkST7ZwnMdZnweh6NpLjYdryYezZhTMhgXTZGETegDJCvvAxTDYWqtR9iCc&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=JoBIsKjnK-a27DsnOpbgbGY6yazeE-phBK5f_WPm5CBn-ju74g3Cu7lerb6fmPF-lLhu5QEpLIZs0ljGlZJ_aw9eusiPLh7zOYaIIMkrl4LW00-Gtk0b3hF0X7yHSmXQP6sIZG5oTl685GcQMAnK93qrAFulutRU0AP9wXhFF0LOk1iRjErWCEmuwbu0hJe9FaA&node=1i220\", \"date\": 1776517564962, \"creationdate\": 1776517565000, \"modificationdate\": 1776517565000, \"uploaded\": 1776517564878, \"size\": 1024, \"name\": \"12 - 123 - 1234 - Inuyashiki (2018).mp4\", \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=PI432x9R-AnXXKwLTtKbmH_t4_ZbeDH-NPA-EMOOO--CNSs39TkkjE4MwaqC87ridxHJb7-rVrgeZ0e1jU-RRoImoe71F2HkM6AJbgereXtdzitwdVyo5OqNsj8ocC-CMpn7WAQfEH_WwbbYt734KfMV2GYdOoT3gr96SWApClSVi_I7VkrTYijnQaCACm_AgEY&node=1i220\", \"etag\": \"0I1GgAnE0WYTpZw8uexq6iA==\"}, {\"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=JoBIsKjnK-a27DsnOpbgbGY6yazeE-phBK5f_WPm5CBn-ju74g3Cu7lerb6fmPF-lLhu5QEpLIZs0ljGlZJ_aw9eusiPLh7zOYaIIMkrl4LW00-Gtk0b3hF0X7yHSmXQP6sIZG5oTl685GcQMAnK93qrAFulutRU0AP9wXhFF0LOk1iRjErWCEmuwbu0hJe9FaA&node=1i220\", \"etag\": \"0I1GgAnE0WYTpZw8uexq6iA==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"I1GgAnE0WYTpZw8uexq6iA==\", \"favorite\": false}]}, \"responsetime\": 1776517565005, \"type\": \"video\"}"
   }
 }
