@@ -190,5 +190,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241924458\", \"status\": \"U\", \"etag\": \"dDWRyirlwaV0ykLqjMjqtg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241924458\", \"url\": \"/sapi/download/audio?action=get&k=R0Xj7zKPl9qGcCxU5VamqGXfK7lYhGK1E0-U--AvsiTBtF-4-xOE2F_IywgMBxRkgIB98bCcQc3nksNzSJ-lBPZHPA4OfKn7wOrb2_jIQlfS3RPKmPtrDru95YQTZJYxJoreoiTfpyVhNEDOPieGZzi0nq06pv87yWTkjzftb6U3Ic7zqqM&node=2i182\", \"date\": 1776510181040, \"creationdate\": 1776510157000, \"modificationdate\": 1776510157000, \"uploaded\": 1776510180724, \"size\": 4196865, \"name\": \"HASEEN - TALWIINDER, NDS, RIPPY (Official Visualizer).mp3\", \"metadata\": {\"duration\": \"174799\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"192000\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"dDWRyirlwaV0ykLqjMjqtg==\", \"favorite\": false}]}, \"responsetime\": 1776510181137, \"type\": \"audio\"}"
+  },
+  "9c95a8f5409e731212f1f2dd88ae401c6b66655bcbd58175769be605e14f85c8": {
+    "name": "Je Hogi Pareshani Meri Jaan Naam Chale To Apradh PS PolistNew Haryanvi Songs Haryanavi 2023.mp3",
+    "path": "movies\\mp3 songs\\Je Hogi Pareshani Meri Jaan Naam Chale To Apradh PS PolistNew Haryanvi Songs Haryanavi 2023.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T11:02:31Z",
+    "stream_link": "",
+    "remote_id": "241924459",
+    "remote_folder_id": "0",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241924459\", \"status\": \"U\", \"etag\": \"gdmICKfXhIUNfvn19vM+9g==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241924459\", \"url\": \"/sapi/download/audio?action=get&k=LCLFXatDrGoAI7nx3I831j635RyFQwDggxdHfVXX-K5-P9yZAV7mnZyy6alRCdMDBtZBgJ-xen4-OA4R8RlaDeQjgYIe23fBq8Eu99SWoRQ-l4ZHURmVMGJLxslUycdfswVvMOGDwEG-4fzJm_SQW9y5inUmHD5TahMKF7VRgJ9-3aI_8M0&node=2i182\", \"date\": 1776510202033, \"creationdate\": 1776510186000, \"modificationdate\": 1776510186000, \"uploaded\": 1776510201734, \"size\": 5634206, \"name\": \"Je Hogi Pareshani Meri Jaan Naam Chale To Apradh PS PolistNew Haryanvi Songs Haryanavi 2023.mp3\", \"metadata\": {\"duration\": \"339800\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"132634\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"gdmICKfXhIUNfvn19vM+9g==\", \"favorite\": false}]}, \"responsetime\": 1776510202119, \"type\": \"audio\"}"
   }
 }
