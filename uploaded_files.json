@@ -286,5 +286,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925281\", \"status\": \"U\", \"etag\": \"DWN0+w52n26rnmSLr5rocw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925281\", \"url\": \"/sapi/download/audio?action=get&k=gjLyQdJAOk5zuOdpZNqXVvOHCAjg2l0d2j4wraQutWPonzeXPfMj-4bF9uxw7Ei8P_CZU19bJ1mfVp8rA6L7rSgj7dQm4AbA_U4Dn6OQWnoMKwmzywnvfNLHlilNnYXReaR2hGZ4LzVcny1qZ4R2T3oW35f39W4jHIGsUI0PrwQlBRgtRbU&node=1i220\", \"date\": 1776520904496, \"creationdate\": 1776520904000, \"modificationdate\": 1776520904000, \"uploaded\": 1776520904415, \"size\": 96137, \"name\": \"chano ki (voic).mp3\", \"metadata\": {\"duration\": \"11849\", \"artist\": \"ALI...03134575541\", \"genre\": \"Other\", \"codecname\": \"mp3\", \"track_number\": \"255/-1\", \"formatname\": \"mp3\", \"bitrate\": \"64000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"DWN0+w52n26rnmSLr5rocw==\", \"favorite\": false}]}, \"responsetime\": 1776520904533, \"type\": \"audio\"}"
+  },
+  "e98673385ce9b507c04f35d474eef7ad0d6237d5d2fb07b156e0ad9f2a50f292": {
+    "name": "VID-20181215-WA0190_mpeg4.mp4",
+    "path": "movies\\VID-20181215-WA0190_mpeg4.mp4",
+    "mediatype": "video",
+    "size_bytes": 241422,
+    "uploaded_at": "2026-04-18T14:00:58Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/sapi/download/video?action=get&k=VpYzJLvYoL0i4ByD7Get3qICzfKEAs-luF47UsUyImnV4RNy-JT3nNgVTreS49qiTUF4ewnEX2M3DTtOmKAbnfloY6GAqra08_5rFmU96-3TxgDmzMp4iHnEXuZhTbN3f5goobqL8HSNnfT4gp8_erYjwlK6g8fHAyOOa_DzPygOE17h7yhbLQGF3xBZd9xCNXg&node=1i220",
+    "remote_id": "241925282",
+    "remote_folder_id": "1719700",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925282\", \"status\": \"U\", \"etag\": \"mNrzvpUKBVn7jLCIVhqwjA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241925282\", \"url\": \"/sapi/download/video?action=get&k=3w3355REzmJsMfW6QhfsmqSEmbY8XHM-d3fqx9YiKSs0ktluGIag4c6MprhPC0ZNEPgHk-IjAICth0mFrcDVJpJfpIuiT9-Usfysst7ogJghwJSY7KvwXdPG66XBvDwNB3WVF7tjPnkqWV4Bojc3iKaFbjeBLKsi7eGBBSlAjo_Pa89159Q&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=VpYzJLvYoL0i4ByD7Get3qICzfKEAs-luF47UsUyImnV4RNy-JT3nNgVTreS49qiTUF4ewnEX2M3DTtOmKAbnfloY6GAqra08_5rFmU96-3TxgDmzMp4iHnEXuZhTbN3f5goobqL8HSNnfT4gp8_erYjwlK6g8fHAyOOa_DzPygOE17h7yhbLQGF3xBZd9xCNXg&node=1i220\", \"date\": 1776520908511, \"creationdate\": 1776520907000, \"modificationdate\": 1776520907000, \"uploaded\": 1776520908333, \"size\": 241422, \"name\": \"VID-20181215-WA0190_mpeg4.mp4\", \"metadata\": {\"duration\": 9333, \"bitrate\": 206933, \"codec\": \"mpeg4\", \"height\": 144, \"width\": 176, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 176, \"h\": 144, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=nxR8ebpTFPv1fGkTMiUIQ_fK9YoEwOGPn6SDN_ysEv2OR2WqphIZGduufRrDs6j6c_xINUS4LtPV_b_3KT9qkUpRC_ln5_1MkZGKLjn8yuUGLV-xjfOsueOGC2qzN_PpVhe069p6PA3P275lrgB2V8sooOlV9olLk3gEOxx3Q-k-LTRKo4gFlST7UNbEfS9mjjQ&node=1i220\", \"etag\": \"0mNrzvpUKBVn7jLCIVhqwjA==\"}, {\"w\": 176, \"h\": 144, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=VpYzJLvYoL0i4ByD7Get3qICzfKEAs-luF47UsUyImnV4RNy-JT3nNgVTreS49qiTUF4ewnEX2M3DTtOmKAbnfloY6GAqra08_5rFmU96-3TxgDmzMp4iHnEXuZhTbN3f5goobqL8HSNnfT4gp8_erYjwlK6g8fHAyOOa_DzPygOE17h7yhbLQGF3xBZd9xCNXg&node=1i220\", \"etag\": \"0mNrzvpUKBVn7jLCIVhqwjA==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"mNrzvpUKBVn7jLCIVhqwjA==\", \"favorite\": false}]}, \"responsetime\": 1776520908565, \"type\": \"video\"}"
   }
 }
