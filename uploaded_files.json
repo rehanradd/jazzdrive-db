@@ -158,5 +158,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925181\", \"status\": \"U\", \"etag\": \"63ucg92kHmVtt163oG+Knw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241925181\", \"url\": \"/sapi/download/video?action=get&k=t6JlKIxqTtGp-fsH1It3i-C7Mu4jKholgXiwnJvvU3qsHwXBST1_76OtUnEZngQOcJS8wWbf59gVygfoPzVSbp1nvSRAiYFGxuIqH2Nmoewh7dC2Dped3_xpH6tgRqMNst12L45oFlQE7AW_P6KVs9frH-OqUr39BFc94m8v8NXsamQwU60&node=2i226\", \"viewurl\": \"/sapi/download/video?action=get&k=t_4y6Rijvr02dqwv04anAdLDpz4ye3NU0Ajx7SPhRSzRWGUNcRJT1kZl_mhvXJU0NkrgW6A7PCgdb6fFQClUogCrBgz0jw52T-lEk4gZIcWENgQRUqdYYcbY8PYcyQxqDGx8Nyo3pdG2z_mUJU3A6CSx_i3UlbfBqr7tQPWIudDwzaeYVXHXFfgXAuNp5-vRBBc&node=2i226\", \"date\": 1776525701458, \"creationdate\": 1776525701000, \"modificationdate\": 1776525701000, \"uploaded\": 1776525701246, \"size\": 320979, \"name\": \"Jgmjj  (1).mp4\", \"metadata\": {\"duration\": 13200, \"bitrate\": 194532, \"codec\": \"mpeg4\", \"height\": 144, \"width\": 176, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 176, \"h\": 144, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=J7IOwIqU7FyLPNdq8QSzvTDGL8bgJbAozAH51LuaPKQY39jzRbrdBLykalITkJAv0Zv8lcXIM4QVgFY-qCd6MoS3F__lZCcfGH9DeQy9Yfc7DFIbqdTLt5bsCUZY_Jirofdean7UVwrmnAfRi30LQZrW5nwCZLvhLGbSqu3_RZuECyMJ4cAFWD4_BNKDxMspTaI&node=2i226\", \"etag\": \"063ucg92kHmVtt163oG+Knw==\"}, {\"w\": 176, \"h\": 144, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=t_4y6Rijvr02dqwv04anAdLDpz4ye3NU0Ajx7SPhRSzRWGUNcRJT1kZl_mhvXJU0NkrgW6A7PCgdb6fFQClUogCrBgz0jw52T-lEk4gZIcWENgQRUqdYYcbY8PYcyQxqDGx8Nyo3pdG2z_mUJU3A6CSx_i3UlbfBqr7tQPWIudDwzaeYVXHXFfgXAuNp5-vRBBc&node=2i226\", \"etag\": \"063ucg92kHmVtt163oG+Knw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"63ucg92kHmVtt163oG+Knw==\", \"favorite\": false}]}, \"responsetime\": 1776525701560, \"type\": \"video\"}"
+  },
+  "250c951b92bb2e16347d0c50b25c0ad37fe72927fe3122e678eff93d9aa678a4": {
+    "name": "AajaVeMahiI.mp3",
+    "path": "movies\\TUNES\\AajaVeMahiI.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T15:20:57Z",
+    "stream_link": "",
+    "remote_id": "241925182",
+    "remote_folder_id": "1751424",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925182\", \"status\": \"U\", \"etag\": \"r6a3ZEQb6ptoC41CDgSwcA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925182\", \"url\": \"/sapi/download/audio?action=get&k=jn8Lkqgw6qZPEBKDO4Wgb43Igigjz0bAp4LgCThHFWwr30xtWRkwsAQTA_lhpJiuXTThYSdNAbdhsc3aKZIhxVdMgQnOy1JO7bDt27mOVm6bg_fI-mxRMngJlyY8yPEsbRf9LgJMIK3edNmJHApMuuifbU02VuNkWh59DwibXaXHvVQMRSc&node=2i226\", \"date\": 1776525708281, \"creationdate\": 1776525708000, \"modificationdate\": 1776525708000, \"uploaded\": 1776525708141, \"size\": 110402, \"name\": \"AajaVeMahiI (1).mp3\", \"metadata\": {\"duration\": \"27284\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"32000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"r6a3ZEQb6ptoC41CDgSwcA==\", \"favorite\": false}]}, \"responsetime\": 1776525708361, \"type\": \"audio\"}"
   }
 }
