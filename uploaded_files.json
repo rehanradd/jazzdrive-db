@@ -158,5 +158,37 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241926207\", \"status\": \"U\", \"etag\": \"S90I8S+QRfuG9knXH6hB8g==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241926207\", \"url\": \"/sapi/download/audio?action=get&k=kh9jVW538Rs37aiITlPCNaEQ3vzp8UJuwq9Li4urGbEJcGKOyxREdCju6262Ml6vW_vhGnIpf54kTbg7AAEGCVaFBFDMoD6Lh0hBWccDJ0Yp1ZY6vUj0wYPsT6d63D0vaC0y0tc8tHNRujtwX_wpML0z1q6TkeQgqx1zOEU3adILP9wPsU4&node=1i204\", \"date\": 1776531577774, \"creationdate\": 1776531577000, \"modificationdate\": 1776531577000, \"uploaded\": 1776531577683, \"size\": 377138, \"name\": \"10 THODA SA PYAR HUA (1).mp3\", \"metadata\": {\"duration\": \"23465\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"128000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"S90I8S+QRfuG9knXH6hB8g==\", \"favorite\": false}]}, \"responsetime\": 1776531577819, \"type\": \"audio\"}"
+  },
+  "250c951b92bb2e16347d0c50b25c0ad37fe72927fe3122e678eff93d9aa678a4": {
+    "name": "AajaVeMahiI.mp3",
+    "path": "movies\\mp3 songs\\AajaVeMahiI.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T16:58:48Z",
+    "stream_link": "",
+    "remote_id": "241926208",
+    "remote_folder_id": "1751062",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241926208\", \"status\": \"U\", \"etag\": \"Rsh81foF3s2YRvB1lGmVsg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241926208\", \"url\": \"/sapi/download/audio?action=get&k=Se5v2omlVT1dQOk1GPCLY5VzubYRCsL3bk7gQ0RjNVoSpR4z5_Ca4QQq6qeWuObzw8kez9ax2qdnrhx246FfdInT3TGgLOwjflQ267AzscQHEqL4vWHrveQ_afHdLWuCiiybnNfY4s-RUiTiYVQjUsXSGig3xlM2ldqZvHwFKsiweADbY0g&node=1i204\", \"date\": 1776531579647, \"creationdate\": 1776531579000, \"modificationdate\": 1776531579000, \"uploaded\": 1776531579571, \"size\": 110402, \"name\": \"AajaVeMahiI (1).mp3\", \"metadata\": {\"duration\": \"27284\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"32000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"Rsh81foF3s2YRvB1lGmVsg==\", \"favorite\": false}]}, \"responsetime\": 1776531579688, \"type\": \"audio\"}"
+  },
+  "477d14e88935e5c649a9e62915051dc73849a29c03804a8b12da7a1cbf18a0af": {
+    "name": "AaoNaa.mp3",
+    "path": "movies\\mp3 songs\\AaoNaa.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T16:58:51Z",
+    "stream_link": "",
+    "remote_id": "241926209",
+    "remote_folder_id": "1751062",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241926209\", \"status\": \"U\", \"etag\": \"5XaZDadiB4SFlToSjjV7Eg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241926209\", \"url\": \"/sapi/download/audio?action=get&k=DLh9Ss5RbNEaOUhJngs2wrVx_ovNvTnxKvHVbjCmwoUMGae1DNklnJP_qavxKUs_i5ttAXHixb5X8UxjGYj8WMLhjxfR3BhsjyPVb3nFBmgWtLN2AxOcHMAJpFYUPn4eRVslHUguZ3SYQa-EeRa4COc2pecakDAkqdGqVq5XWbCXL3CsJjw&node=1i204\", \"date\": 1776531582330, \"creationdate\": 1776531582000, \"modificationdate\": 1776531582000, \"uploaded\": 1776531582258, \"size\": 89090, \"name\": \"AaoNaa (1).mp3\", \"metadata\": {\"duration\": \"21956\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"32000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"5XaZDadiB4SFlToSjjV7Eg==\", \"favorite\": false}]}, \"responsetime\": 1776531582369, \"type\": \"audio\"}"
   }
 }
