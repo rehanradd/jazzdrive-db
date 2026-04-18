@@ -206,5 +206,37 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241926210\", \"status\": \"U\", \"etag\": \"m3h9ueLlo5kOpdiETj0FMg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"pictures\": [{\"id\": \"241926210\", \"url\": \"/sapi/download/picture?action=get&k=GGT223Cej6Crr20avL3xYS5ZvT5u1_BuLMEVH7hi7g7MnTcPjstvKPjAKieWbOroRxgrKT9kakOWUceRAqJEdEvgM1JOe7BkA_ZER2BwNQAB5mdStGqy8W6a2XGRIIDRQosOdHj62K1KjDNVY1fRX8CqukKL3h1_lbRbjIAWeSGJaFpS5Ag&node=1i204\", \"viewurl\": \"/sapi/download/picture?action=get&k=BqYkxlW7zP_KZqGEqJXZiEnNZt2VP0hr7npD_usemwd4-itWjP6RT0QUKPpBJx-VNSJWw8oBKZWcNo_PZRSs4J_NTOHoCD1Yc_klr4iMNcLIuk3Uk2xN3NXMewpNsXAohzJPzftB1hXaX7zDw1NIEkiXFnrMxSo4_GgLa1OsXOsF7rDJOaoU5pJEwwvgTMC0N48&node=1i204\", \"date\": 1776531586233, \"creationdate\": 1776531586000, \"modificationdate\": 1776531586000, \"uploaded\": 1776531585954, \"size\": 75034, \"name\": \"Mr=6593603@ (397) - Copy.gif\", \"thumbnails\": [{\"w\": 275, \"h\": 240, \"size\": \"176\", \"url\": \"/sapi/download/picture?action=get&k=uIVb95GeTEegoGl5wUjimj4c9bFcd2W7a6q3IQTcZMhTaOlE5GR6_y7GyKeN-e8URLi_7n_yKXkUmARnXnrSAyYE74Nfle1aXo1mzHeplT179r3q9BZGHXVOOk-veznzDIBUsegB03xZ59TQaMPrrI1-N6iutYsEuXtSlOfnF2YLIv4c5n0s8AzXTr00gYULIGk&node=1i204\", \"etag\": \"0m3h9ueLlo5kOpdiETj0FMg==\"}, {\"w\": 438, \"h\": 382, \"size\": \"504\", \"url\": \"/sapi/download/picture?action=get&k=BqYkxlW7zP_KZqGEqJXZiEnNZt2VP0hr7npD_usemwd4-itWjP6RT0QUKPpBJx-VNSJWw8oBKZWcNo_PZRSs4J_NTOHoCD1Yc_klr4iMNcLIuk3Uk2xN3NXMewpNsXAohzJPzftB1hXaX7zDw1NIEkiXFnrMxSo4_GgLa1OsXOsF7rDJOaoU5pJEwwvgTMC0N48&node=1i204\", \"etag\": \"0m3h9ueLlo5kOpdiETj0FMg==\"}], \"favorite\": false, \"mediatype\": \"picture\", \"status\": \"U\", \"etag\": \"m3h9ueLlo5kOpdiETj0FMg==\"}]}, \"responsetime\": 1776531586278, \"type\": \"picture\"}"
+  },
+  "6a97ae9d6604f2c7102ee08895187b86c340b4eab237b9b6db7ba673b2821f84": {
+    "name": "Mr=6593603@ (397) - Copy.rar",
+    "path": "movies\\images\\New folder\\New folder\\Mr=6593603@ (397) - Copy.rar",
+    "mediatype": "file",
+    "size_bytes": 75161,
+    "uploaded_at": "2026-04-18T16:58:56Z",
+    "stream_link": "",
+    "remote_id": "241926211",
+    "remote_folder_id": "1751064",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241926211\", \"status\": \"U\", \"etag\": \"wwsWb+NOgXSrgVfKe/dr2A==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241926211\", \"url\": \"/sapi/download/file?action=get&k=T6dE5kwkgCPEPXNimg6pP4Y4ee8QvH98dQ533camZUfNmErOJc4lPTPaOo6AhMhSfGrD3GgTpFHWdhxBFctI8v-qzxUdRikn6j9dHuINGQWRISC6P9f8ujuSwhV2o7A2ywcOPvGgcLrwuuGSE7vedYN_dQYc_MoZ5WrJQxC-DQmevPUEGSY&node=1i204\", \"date\": 1776531587949, \"creationdate\": 1776531588000, \"modificationdate\": 1776531588000, \"uploaded\": 1776531587885, \"size\": 75161, \"name\": \"Mr=6593603@ (397) - Copy.rar\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"wwsWb+NOgXSrgVfKe/dr2A==\", \"favorite\": false}]}, \"responsetime\": 1776531587985, \"type\": \"file\"}"
+  },
+  "3e55ccb9a84f13ae0a7b537e96026764e728b39a7cfe46dca11bb9b9efb74f1c": {
+    "name": "Mr=6593603@ (397) - Copy.zip",
+    "path": "movies\\images\\New folder\\New folder\\New Folder With Items\\Mr=6593603@ (397) - Copy.zip",
+    "mediatype": "file",
+    "size_bytes": 74989,
+    "uploaded_at": "2026-04-18T16:59:00Z",
+    "stream_link": "",
+    "remote_id": "241926212",
+    "remote_folder_id": "1751065",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241926212\", \"status\": \"U\", \"etag\": \"dsfltTp21rJVdlXKcBpP2A==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241926212\", \"url\": \"/sapi/download/file?action=get&k=KVhhMoVbMWqt1PAxJzyaJJXxUHTO7x7MBu6MFApTER3Ap2Hvx9bCT-2VI6nzBVCy0SK6vRIxTgVsFgKAU6kQADTYc_0nVVkmCD41ZmEcNP47Cnm7fQs50UlscXd6UC1RNyla0gDnvygutZP7RwQiWsWY-i96QP_fSHMYM9zS36YoOnR9Lqo&node=1i204\", \"date\": 1776531591342, \"creationdate\": 1776531591000, \"modificationdate\": 1776531591000, \"uploaded\": 1776531591279, \"size\": 74989, \"name\": \"Mr=6593603@ (397) - Copy.zip\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"dsfltTp21rJVdlXKcBpP2A==\", \"favorite\": false}]}, \"responsetime\": 1776531591373, \"type\": \"file\"}"
   }
 }
