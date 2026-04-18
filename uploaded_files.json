@@ -30,5 +30,37 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925143\", \"status\": \"U\", \"etag\": \"eE7zht+CUJAXFaztWrF5BQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241925143\", \"url\": \"/sapi/download/video?action=get&k=jJ9wlM5RM6fs1uTGtK2fuwjOjNYsqCdA6sVu1JezzyjERUE8_x4UDnlX47mkJhzs5kgTsZzx7nOYB0EExlmOFvovZQWEq7h0esi3eDZ3HShqHO9_GIYGT-r4TBZIFk7bo_jK_H_oPOSRA6AuUg9vdpPxPYi8GsEQ-kXMoI6Cb_sIldgZlPQ&node=2i226\", \"viewurl\": \"/sapi/download/video?action=get&k=H9-P_ZBaiXRVlO6y3VT3-joKX996SSKiMsRdvpk42bWp2O1C0_h_W0m7HeVERKLwJQT0H9HK2gqp_4vayxwnj-woQxdNlb-KtlZqreI3DngidIS-mZgZFbyoNbtkkE9PuoC68O4-qK2aBc5xCAbdZvBjPyjWtb2SaL30W7-fojJBm-P5eLoB_W-dQwFpUGcPdhI&node=2i226\", \"date\": 1776518008388, \"creationdate\": 1776518007000, \"modificationdate\": 1776518007000, \"uploaded\": 1776518008161, \"size\": 371202, \"name\": \"12 - 123 - 1234 - Jgmkt.mp4\", \"metadata\": {\"duration\": 14200, \"bitrate\": 209127, \"codec\": \"mpeg4\", \"height\": 144, \"width\": 176, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 176, \"h\": 144, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=3U7pC9xqUpETHu-L4W51BnCzY4aC-P72PUWyd2TtTFM-dQhH0Ilxwc8mQ1SP3q99gHXHS9gDRsZ_wYnS8sgpeSrBHYfdIHUV04f1VIHBoVt1HL4c4akyq1H2dTtXVH3t7snrhL5_mSWpRQEPYguVQCVcdDg7HagKtE5jajyHT62XisdyxrnNpH072XefVHgv9vA&node=2i226\", \"etag\": \"0eE7zht+CUJAXFaztWrF5BQ==\"}, {\"w\": 176, \"h\": 144, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=H9-P_ZBaiXRVlO6y3VT3-joKX996SSKiMsRdvpk42bWp2O1C0_h_W0m7HeVERKLwJQT0H9HK2gqp_4vayxwnj-woQxdNlb-KtlZqreI3DngidIS-mZgZFbyoNbtkkE9PuoC68O4-qK2aBc5xCAbdZvBjPyjWtb2SaL30W7-fojJBm-P5eLoB_W-dQwFpUGcPdhI&node=2i226\", \"etag\": \"0eE7zht+CUJAXFaztWrF5BQ==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"eE7zht+CUJAXFaztWrF5BQ==\", \"favorite\": false}]}, \"responsetime\": 1776518008501, \"type\": \"video\"}"
+  },
+  "9fb60cdc02d56713f301aff795d7cfe746eac6b30be2051a552b09c8d52f0443": {
+    "name": "gajdmjg.jd.mp4",
+    "path": "movies\\12\\123\\1234\\gajdmjg.jd.mp4",
+    "mediatype": "video",
+    "size_bytes": 391988,
+    "uploaded_at": "2026-04-18T13:12:39Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/sapi/download/video?action=get&k=ulBnMXjXXf5Ay5B1KVGEBD8MOmiPKDElovghaYgaTuspZ_P0ywxd7Q8BIriueGYCTC4c2qzNs5wsSv8EfuezsdZORvFqqu_fEC9DpOuSAdcrZPvwI4UwEgIG4u27lda70tQkuzlJwSbPLzBeYywJsupzFqzLAHtPMzNKwXSo_TLi-qEiX2p-IFYUZVg6_cbM_vw&node=2i226",
+    "remote_id": "241925144",
+    "remote_folder_id": "0",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925144\", \"status\": \"U\", \"etag\": \"+xO0l/MspublvBG/uAjecg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241925144\", \"url\": \"/sapi/download/video?action=get&k=7dMtFVeM2hDrQAJ8XHFtdPIMYLy9n34lpokDmHSgwX5oUBMxrb20__ekVboWjVP4f2LPZIkx95gwSz5AiJcnYHHnYKw9sWyPdO2oqS-848cGXt7-T57rkPBusn8pn788FsAR4ecERbO5Xzr0ECaxEW_wYQLG5znSy5Y4cyZ-59ttwK6wZg0&node=2i226\", \"viewurl\": \"/sapi/download/video?action=get&k=ulBnMXjXXf5Ay5B1KVGEBD8MOmiPKDElovghaYgaTuspZ_P0ywxd7Q8BIriueGYCTC4c2qzNs5wsSv8EfuezsdZORvFqqu_fEC9DpOuSAdcrZPvwI4UwEgIG4u27lda70tQkuzlJwSbPLzBeYywJsupzFqzLAHtPMzNKwXSo_TLi-qEiX2p-IFYUZVg6_cbM_vw&node=2i226\", \"date\": 1776518008433, \"creationdate\": 1776518007000, \"modificationdate\": 1776518007000, \"uploaded\": 1776518008178, \"size\": 391988, \"name\": \"12 - 123 - 1234 - gajdmjg.jd.mp4\", \"metadata\": {\"duration\": 14667, \"bitrate\": 213811, \"codec\": \"mpeg4\", \"height\": 144, \"width\": 176, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 176, \"h\": 144, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=yPqaCtDpaVt9eXsfyc1m6FVChz7SeeOQ4T_NWmk3iaU4fUTGIY32-_4zGMuUsnW7qVMdpC9QLvGZ9rLf7MP54uUq52yl-DWR9spjtvIxCMl2LyAF4_xkJt-GjgKc9fMw7f3T7IEFJFp4Tg9wBQwnMyhlPauPPRnQ4s4Y6iTqbf-BH3TrxxbRrsCjWydBpvTO3Ys&node=2i226\", \"etag\": \"0+xO0l/MspublvBG/uAjecg==\"}, {\"w\": 176, \"h\": 144, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=ulBnMXjXXf5Ay5B1KVGEBD8MOmiPKDElovghaYgaTuspZ_P0ywxd7Q8BIriueGYCTC4c2qzNs5wsSv8EfuezsdZORvFqqu_fEC9DpOuSAdcrZPvwI4UwEgIG4u27lda70tQkuzlJwSbPLzBeYywJsupzFqzLAHtPMzNKwXSo_TLi-qEiX2p-IFYUZVg6_cbM_vw&node=2i226\", \"etag\": \"0+xO0l/MspublvBG/uAjecg==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"+xO0l/MspublvBG/uAjecg==\", \"favorite\": false}]}, \"responsetime\": 1776518008543, \"type\": \"video\"}"
+  },
+  "05d6a72c3265299333a9c1ab650a8ca54c86b35d61b157ae8d36508568034d21": {
+    "name": "Jgmjtjj.mp4",
+    "path": "movies\\12\\123\\1234\\Jgmjtjj.mp4",
+    "mediatype": "video",
+    "size_bytes": 378016,
+    "uploaded_at": "2026-04-18T13:12:39Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/sapi/download/video?action=get&k=cB-0LvsQyyY7ouO8ws9-2v8FZBOwHnWOA5NBiwHPMs8M53ARnVrt0M9hYqTrYi6NbPSaU4rVybecXUNSIZ9Ju1jvmjdI0FPFvxrlpX-fHNv4XXbT6bfV7LlKs2ylqulVow516nHnI9laXOeb4NPuW_TLoPYXA66rCl48L9VLReo1G-gyRQ7PU1yr5pByf8wGwCA&node=2i226",
+    "remote_id": "241925145",
+    "remote_folder_id": "0",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925145\", \"status\": \"U\", \"etag\": \"/r5ZC3YeEdL5tUaiJVuDXw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241925145\", \"url\": \"/sapi/download/video?action=get&k=Z-LSPRKpHqdfPpitzh2xzoUQTwkFqY29buwdiPafWQ02euns1Ed8uLmaYe8iYR8i3Do1OgTvu2GJoXUlO6_VJDjQvby9eQvvSUsjAIOHGwD9IHZE--t8-uv50dXr7mdIfz1E92I-YioFrAeSr_U8DJgjh78DG8Tii9ob1ulADJV6QCVb91Y&node=2i226\", \"viewurl\": \"/sapi/download/video?action=get&k=cB-0LvsQyyY7ouO8ws9-2v8FZBOwHnWOA5NBiwHPMs8M53ARnVrt0M9hYqTrYi6NbPSaU4rVybecXUNSIZ9Ju1jvmjdI0FPFvxrlpX-fHNv4XXbT6bfV7LlKs2ylqulVow516nHnI9laXOeb4NPuW_TLoPYXA66rCl48L9VLReo1G-gyRQ7PU1yr5pByf8wGwCA&node=2i226\", \"date\": 1776518009350, \"creationdate\": 1776518007000, \"modificationdate\": 1776518007000, \"uploaded\": 1776518009134, \"size\": 378016, \"name\": \"12 - 123 - 1234 - Jgmjtjj.mp4\", \"metadata\": {\"duration\": 15333, \"bitrate\": 197225, \"codec\": \"mpeg4\", \"height\": 144, \"width\": 176, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 176, \"h\": 144, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=XfQ7TaKoDeRb9mHTDK-IGSSHyI0VDlgXRmUxJwOnjIfna65VanasFOzaMAlA9_Q6mXM_gMR-yw7eRFzQCkj2yMNTJMoGVEu_QIfuRPoxQuqm6RAH2YH0cu2-f2QVpWdHAHePFcCkNwGURrHdykDahVeCV_OP_PSH8gJ89Tro8RKMU5NQChdNrbz-Chy1RsL89Hw&node=2i226\", \"etag\": \"0/r5ZC3YeEdL5tUaiJVuDXw==\"}, {\"w\": 176, \"h\": 144, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=cB-0LvsQyyY7ouO8ws9-2v8FZBOwHnWOA5NBiwHPMs8M53ARnVrt0M9hYqTrYi6NbPSaU4rVybecXUNSIZ9Ju1jvmjdI0FPFvxrlpX-fHNv4XXbT6bfV7LlKs2ylqulVow516nHnI9laXOeb4NPuW_TLoPYXA66rCl48L9VLReo1G-gyRQ7PU1yr5pByf8wGwCA&node=2i226\", \"etag\": \"0/r5ZC3YeEdL5tUaiJVuDXw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"/r5ZC3YeEdL5tUaiJVuDXw==\", \"favorite\": false}]}, \"responsetime\": 1776518009452, \"type\": \"video\"}"
   }
 }
