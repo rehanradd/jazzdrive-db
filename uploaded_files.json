@@ -1,1 +1,18 @@
-
+{
+  "dca1f6999b26c7a550e28b959fe6575beb510774b8ed69c278bec6a7b42dbcce": {
+    "name": "10 THODA SA PYAR HUA.mp3",
+    "path": "movies\\10 THODA SA PYAR HUA.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T15:19:46Z",
+    "stream_link": "",
+    "remote_id": "241925172",
+    "remote_folder_id": "1719700",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925172\", \"status\": \"U\", \"etag\": \"1kEsEiQUBesE77kFaTQtVw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925172\", \"url\": \"/sapi/download/audio?action=get&k=HDo8mNhf-j-jouk0ERaU0Qii-Ck2Whn76seL7EKo4X6YhmtK7NR8LTQoGrqXOfI6sFQdaVCKugDT33_9Piw73ciuI1u4dvmQ9Pg0vxVr6Q_8bzzIqwtv6prDMB1TD5ckX3XfK109HbaAd9hcVxxFBIjElbUkJ90qzszvmo-5gua_iBrWQnw&node=2i226\", \"date\": 1776525636943, \"creationdate\": 1776525636000, \"modificationdate\": 1776525636000, \"uploaded\": 1776525636780, \"size\": 377138, \"name\": \"10 THODA SA PYAR HUA (1).mp3\", \"metadata\": {\"duration\": \"23465\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"128000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"1kEsEiQUBesE77kFaTQtVw==\", \"favorite\": false}]}, \"responsetime\": 1776525637036, \"type\": \"audio\"}"
+  }
+}
