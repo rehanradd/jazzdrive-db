@@ -94,5 +94,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925236\", \"status\": \"U\", \"etag\": \"YHkS8fBlcURZRYH/Imevqw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241925236\", \"url\": \"/sapi/download/file?action=get&k=W67NKTm7Mu5SBf_kqeorx-UYixe54cE1jSV-t1_CnNtUWvmFK6ypPrQljnZTi13MB3IdWVLRKYtT0EMtffCqwcZhLR9_Ol3ijOTJ9b8fTb9NtQg-8PrUe7iQ07NFD22A9xjpA_0Fwbo7vu_0t8NLA7NceIKBpGIxf-3fn3BQj3TgB1ZF-tU&node=1i220\", \"date\": 1776517487472, \"creationdate\": 1776517487000, \"modificationdate\": 1776517487000, \"uploaded\": 1776517487418, \"size\": 36, \"name\": \"Dramas - Ertugrul - Season1 - S01E02_Test (1).txt\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"YHkS8fBlcURZRYH/Imevqw==\", \"favorite\": false}]}, \"responsetime\": 1776517487507, \"type\": \"file\"}"
+  },
+  "c3b639e36446a82ae7eec53763c5f4b1d6f42fefd2f5770e4c07fcd2f4ae9307": {
+    "name": "S02E01_Test.txt",
+    "path": "movies\\Dramas\\Ertugrul\\Season2\\S02E01_Test.txt",
+    "mediatype": "file",
+    "size_bytes": 36,
+    "uploaded_at": "2026-04-18T13:04:01Z",
+    "stream_link": "",
+    "remote_id": "241925237",
+    "remote_folder_id": "0",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925237\", \"status\": \"U\", \"etag\": \"NXrWpz3Ww8qY5Gb6pxKrgQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241925237\", \"url\": \"/sapi/download/file?action=get&k=igx7whP51Ud13E9R3c4FAX1BytNV9sDLkfGQQNe1WNKTmemOm7fQJMm52D2AYynVUfqw-JcrcQbvcw0O8_vwmuYc7W-GGI87aZphxtmCATknhNZB8Pu7N-XeKU1BvSv0dSIrQXm4NGS6YBfdw6v-jW5fPUuiVS3ubwVYuPlmFZx-1m7dvI8&node=1i220\", \"date\": 1776517491918, \"creationdate\": 1776517492000, \"modificationdate\": 1776517492000, \"uploaded\": 1776517491860, \"size\": 36, \"name\": \"Dramas - Ertugrul - Season2 - S02E01_Test (1).txt\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"NXrWpz3Ww8qY5Gb6pxKrgQ==\", \"favorite\": false}]}, \"responsetime\": 1776517491949, \"type\": \"file\"}"
   }
 }
