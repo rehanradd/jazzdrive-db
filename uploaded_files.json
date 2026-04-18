@@ -254,5 +254,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925279\", \"status\": \"U\", \"etag\": \"Qno3K5RDQFlgbS7ftDTQYg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925279\", \"url\": \"/sapi/download/audio?action=get&k=V2B9huP_h59HsZdDDlQlKfoJzYPbe3JQADce01H5xQzrcUr0eKyT46Q1k1Ncgq0WvX2AWQlMdVQ35aR9XOSf6xqmjsBOnes5GLj3O11TvakWAMdgsX3XOq-8kFjffox0XEva0wAcI7IgL4xdxqIE1XYfinkloVMJgtW1sMRdLb2_5i8nE5E&node=1i220\", \"date\": 1776520899091, \"creationdate\": 1776520899000, \"modificationdate\": 1776520899000, \"uploaded\": 1776520899011, \"size\": 208940, \"name\": \"AE MERAY HUMSAFAR.mp3\", \"metadata\": {\"duration\": \"17068\", \"artist\": \"ALI...03134575541\", \"genre\": \"Other\", \"codecname\": \"mp3\", \"track_number\": \"255/-1\", \"formatname\": \"mp3\", \"bitrate\": \"96000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"Qno3K5RDQFlgbS7ftDTQYg==\", \"favorite\": false}]}, \"responsetime\": 1776520899134, \"type\": \"audio\"}"
+  },
+  "d8f7b3d3ec63953769fddc0c4c92593a949a48ca2110a3d3021e5efca23e0006": {
+    "name": "Chadthi Jawani.mp3",
+    "path": "movies\\TUNES\\Chadthi Jawani.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T14:00:50Z",
+    "stream_link": "",
+    "remote_id": "241925280",
+    "remote_folder_id": "1751424",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925280\", \"status\": \"U\", \"etag\": \"Y6Xje0J2wyq60i6TVHFvMw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925280\", \"url\": \"/sapi/download/audio?action=get&k=rIwrBOMaKVTMEL60fQgbNV9mf8YF_qooYvEIVsH_ESGfOrhLwmFJ5CCUrTChwM1ZHdJd7C3HseAQvf6Eq5rnxNg2IiUiWv5K1ZyllscJB6Q0u4DiTfQVDC4oAk3R13Fk8anOyuD7SzsJt5fC_m9JvG3nVIIHBsUHDoPc1DAqFW-hD0orFtY&node=1i220\", \"date\": 1776520901705, \"creationdate\": 1776520901000, \"modificationdate\": 1776520901000, \"uploaded\": 1776520901629, \"size\": 90098, \"name\": \"Chadthi Jawani.mp3\", \"metadata\": {\"duration\": \"22208\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"32000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"Y6Xje0J2wyq60i6TVHFvMw==\", \"favorite\": false}]}, \"responsetime\": 1776520901750, \"type\": \"audio\"}"
   }
 }
