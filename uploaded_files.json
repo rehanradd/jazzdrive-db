@@ -62,5 +62,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925234\", \"status\": \"U\", \"etag\": \"lQ1oYd/nA4d1+aX40innIQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241925234\", \"url\": \"/sapi/download/file?action=get&k=hejZx7C7yeMhgkbGBESd7DZ245oy5ochO6f9vIGhoS8rDZhYGm4Y1YmGfDAFSt8DDyoTCQj0bfInx3IGbAfVPOSsMzQlmlH5V4sUBXGTbNgLNopmX24B8OnZJBBUy6u4sOZf4XmtRM52LkaFUB6NCzKoLQ8hpYv0urII89fSprfrA5YyOdo&node=1i220\", \"date\": 1776517479063, \"creationdate\": 1776517479000, \"modificationdate\": 1776517479000, \"uploaded\": 1776517478920, \"size\": 18, \"name\": \"Movies - Comedy - ComedyMovie_Test (1).txt\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"lQ1oYd/nA4d1+aX40innIQ==\", \"favorite\": false}]}, \"responsetime\": 1776517479096, \"type\": \"file\"}"
+  },
+  "08b05a507873e897cfb985211c371a85140a1428ad46f5236e3c10309e31a401": {
+    "name": "S01E01_Test.txt",
+    "path": "movies\\Dramas\\Ertugrul\\Season1\\S01E01_Test.txt",
+    "mediatype": "file",
+    "size_bytes": 36,
+    "uploaded_at": "2026-04-18T13:03:52Z",
+    "stream_link": "",
+    "remote_id": "241925235",
+    "remote_folder_id": "0",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925235\", \"status\": \"U\", \"etag\": \"a4DJYZuSdCxG+voaOKBQUQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241925235\", \"url\": \"/sapi/download/file?action=get&k=bAqsO60BouWeA1XzWsxEK6PXAuacxLiFSh21bwpWCdvNZE-tPVvDY0yChIr-E9p7nmEN8lfPvSyPEGb4KAGvzMjxLcBU6NU_2LX1fX12JO3t3id8mNEs4qt2RjnGLea0ApFyyXLSMaU5x3cua5MU0VvhtooVSklB4tXY_kSpCqAgW6o1wMk&node=1i220\", \"date\": 1776517483317, \"creationdate\": 1776517483000, \"modificationdate\": 1776517483000, \"uploaded\": 1776517483262, \"size\": 36, \"name\": \"Dramas - Ertugrul - Season1 - S01E01_Test (1).txt\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"a4DJYZuSdCxG+voaOKBQUQ==\", \"favorite\": false}]}, \"responsetime\": 1776517483349, \"type\": \"file\"}"
   }
 }
