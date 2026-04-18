@@ -222,5 +222,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925185\", \"status\": \"U\", \"etag\": \"HKsXLD+W51OgR3gsq/bJHQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925185\", \"url\": \"/sapi/download/audio?action=get&k=V6bW8pIrCmuxYqT10334wBWSFtG65q8W2WEJhMtVliQVuwnGyIGkWXFAExVKeMgr30hXjiCg2qzHO2vqILeYSe4YqAGCspvdJWsEZ_-LWF-LwyaVpx9WDhM3iG4vxUnsQf8gbSDFRc_3GN9wPMB6P46vTImFKrnlGRTSrbvl8y8vjcFu9sY&node=2i226\", \"date\": 1776525727986, \"creationdate\": 1776525728000, \"modificationdate\": 1776525728000, \"uploaded\": 1776525727850, \"size\": 90098, \"name\": \"Chadthi Jawani (1).mp3\", \"metadata\": {\"duration\": \"22208\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"32000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"HKsXLD+W51OgR3gsq/bJHQ==\", \"favorite\": false}]}, \"responsetime\": 1776525728077, \"type\": \"audio\"}"
+  },
+  "f617876d480aaaea13e80fdedee77c80122d1159d73793d8cb3ebec179524f9e": {
+    "name": "chano ki (voic).mp3",
+    "path": "movies\\TUNES\\chano ki (voic).mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T15:21:24Z",
+    "stream_link": "",
+    "remote_id": "241925186",
+    "remote_folder_id": "1751424",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925186\", \"status\": \"U\", \"etag\": \"Pv6U+Nqd+JEs+afrPWiNrw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925186\", \"url\": \"/sapi/download/audio?action=get&k=43JGLFa1GnEiEdhTuBEpWR_4iEBxzd7dQcoK94VN4JGuhgQG003gVzZKY3AbvwLubIbpx3PGsV3K4_wx0mGNx2re-IvwfKr4lBWGYGBinDej0_XHgh4GHnFWR7sO6_pG_1sJUuui7SpSQvpZHJvegBy6lPC14Zc6O462EHJtxyw09fpzLsk&node=2i226\", \"date\": 1776525735514, \"creationdate\": 1776525735000, \"modificationdate\": 1776525735000, \"uploaded\": 1776525735363, \"size\": 96137, \"name\": \"chano ki (voic) (1).mp3\", \"metadata\": {\"duration\": \"11849\", \"artist\": \"ALI...03134575541\", \"genre\": \"Other\", \"codecname\": \"mp3\", \"track_number\": \"255/-1\", \"formatname\": \"mp3\", \"bitrate\": \"64000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"Pv6U+Nqd+JEs+afrPWiNrw==\", \"favorite\": false}]}, \"responsetime\": 1776525735593, \"type\": \"audio\"}"
   }
 }
