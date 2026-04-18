@@ -30,5 +30,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925232\", \"status\": \"U\", \"etag\": \"uMNYIn+i6mw/gECm63EIXQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241925232\", \"url\": \"/sapi/download/file?action=get&k=obCfD4X9XWl9ParxZNJoLr9i8YtMMccJuTPl_Bx0BfuEElNlsnaaf2Vsl4H2DtDWnPvxlYnrmNDL3UKdpnhvAZz9Ti8CniLG5utB297hNOMTmPO2oVhmmn1tvalTbYUpTcLGjmTodsGuNREakduGOZ4ZSOsXeK9MCVuthnJrxHaXkTHY6WU&node=1i220\", \"date\": 1776517467791, \"creationdate\": 1776517468000, \"modificationdate\": 1776517468000, \"uploaded\": 1776517467691, \"size\": 20, \"name\": \"Music - Pakistani - Song_Test (1).txt\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"uMNYIn+i6mw/gECm63EIXQ==\", \"favorite\": false}]}, \"responsetime\": 1776517467821, \"type\": \"file\"}"
+  },
+  "f35d4b21a12a9ffa8cb76181b2480bfa1b5f10e0ebbce273893da1c1ad0b067c": {
+    "name": "ActionMovie_Test.txt",
+    "path": "movies\\Movies\\Action\\ActionMovie_Test.txt",
+    "mediatype": "file",
+    "size_bytes": 18,
+    "uploaded_at": "2026-04-18T13:03:42Z",
+    "stream_link": "",
+    "remote_id": "241925233",
+    "remote_folder_id": "0",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925233\", \"status\": \"U\", \"etag\": \"uoFnUuLGyLklMsgc8x0n1g==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241925233\", \"url\": \"/sapi/download/file?action=get&k=SdtW3NJmOs46rpxoLdF5WaO_qbf7kBnTtEJgt2SDAhRleDiGOJV4y0ZZF7iotkOSKb6tlD42MvR6CzNLg616f-xgVp_htLjqRsDBRFsunFg45cWmV-bxzJ6t87dNClkzr9rihCvMhkPF2vJ7B8CkpMPlfC-H1xbUX4HxKs0rhT5ibqMekFY&node=1i220\", \"date\": 1776517473443, \"creationdate\": 1776517473000, \"modificationdate\": 1776517473000, \"uploaded\": 1776517473386, \"size\": 18, \"name\": \"Movies - Action - ActionMovie_Test (1).txt\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"uoFnUuLGyLklMsgc8x0n1g==\", \"favorite\": false}]}, \"responsetime\": 1776517473474, \"type\": \"file\"}"
   }
 }
