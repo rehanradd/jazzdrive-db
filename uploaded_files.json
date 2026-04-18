@@ -14,5 +14,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925231\", \"status\": \"U\", \"etag\": \"J9nSVsD0zLIEUMR0FQms7w==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241925231\", \"url\": \"/sapi/download/file?action=get&k=Rcj9Jrn9RXUgeNar8dv6Ny_ubPuxa5FM1tCm9H7UZ8OsFT1lmHGIGWKyhCNzIUn1tItA1aAQT5NhShncgzH7h0_OV5GDtDqqVVPOT4RjvEcnzslXJOQ8QulRwLEO0gqOaaR8shoeYuGTP_GXLX6nqxa7Mo-rMpbbI868ty4ul6Jj48WAbVU&node=1i220\", \"date\": 1776517460954, \"creationdate\": 1776517461000, \"modificationdate\": 1776517461000, \"uploaded\": 1776517460862, \"size\": 16, \"name\": \"RootFile_Test (3).txt\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"J9nSVsD0zLIEUMR0FQms7w==\", \"favorite\": false}]}, \"responsetime\": 1776517460985, \"type\": \"file\"}"
+  },
+  "bbee6ab5f040ccebd6bd8d6c848bfbc80fd8d8376ccb44d5d3f5141158ddb081": {
+    "name": "Song_Test.txt",
+    "path": "movies\\Music\\Pakistani\\Song_Test.txt",
+    "mediatype": "file",
+    "size_bytes": 20,
+    "uploaded_at": "2026-04-18T13:03:36Z",
+    "stream_link": "",
+    "remote_id": "241925232",
+    "remote_folder_id": "0",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925232\", \"status\": \"U\", \"etag\": \"uMNYIn+i6mw/gECm63EIXQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241925232\", \"url\": \"/sapi/download/file?action=get&k=obCfD4X9XWl9ParxZNJoLr9i8YtMMccJuTPl_Bx0BfuEElNlsnaaf2Vsl4H2DtDWnPvxlYnrmNDL3UKdpnhvAZz9Ti8CniLG5utB297hNOMTmPO2oVhmmn1tvalTbYUpTcLGjmTodsGuNREakduGOZ4ZSOsXeK9MCVuthnJrxHaXkTHY6WU&node=1i220\", \"date\": 1776517467791, \"creationdate\": 1776517468000, \"modificationdate\": 1776517468000, \"uploaded\": 1776517467691, \"size\": 20, \"name\": \"Music - Pakistani - Song_Test (1).txt\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"uMNYIn+i6mw/gECm63EIXQ==\", \"favorite\": false}]}, \"responsetime\": 1776517467821, \"type\": \"file\"}"
   }
 }
