@@ -222,5 +222,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925277\", \"status\": \"U\", \"etag\": \"Y5p5gv8fM3hPTbF6Eo4Vsw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925277\", \"url\": \"/sapi/download/audio?action=get&k=vH-nz0WVIiPkY1ircyjCrVnuWdMIc4unl4iao31nfubjLQlG6umhAKubgHn1LTymotLF5eBhdcSEy5LIugx8D-Wf-KHAhPTuqrUGD12wnyGTm3h-ESez2YARjQBS0dnTi7GbV88TmKE6wJjF7GEgzeXZkYXDIfxXaWSTDurF84WjAe-lw7Y&node=1i220\", \"date\": 1776520889350, \"creationdate\": 1776520889000, \"modificationdate\": 1776520889000, \"uploaded\": 1776520889277, \"size\": 110402, \"name\": \"AajaVeMahiI.mp3\", \"metadata\": {\"duration\": \"27284\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"32000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"Y5p5gv8fM3hPTbF6Eo4Vsw==\", \"favorite\": false}]}, \"responsetime\": 1776520889388, \"type\": \"audio\"}"
+  },
+  "477d14e88935e5c649a9e62915051dc73849a29c03804a8b12da7a1cbf18a0af": {
+    "name": "AaoNaa.mp3",
+    "path": "movies\\TUNES\\AaoNaa.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T14:00:45Z",
+    "stream_link": "",
+    "remote_id": "241925278",
+    "remote_folder_id": "1751424",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925278\", \"status\": \"U\", \"etag\": \"OW0yv9OngK53RiZl4F97rw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925278\", \"url\": \"/sapi/download/audio?action=get&k=3pppB-zYLvLDTpHs7Ur6Pkta2OAcTPHbTlBTDPICQjvWUWbb7xiEF1BGByWahajFotcYygISWrIgR97kUlryi3ctLTkGzDhFp9fHs5FRF2mZBRgXOzoQLQShrxiOdKqIm2jc8d50jsas6vNbpiVttyZ5qPtkWC8RMcd9XkMPWzevqIorA0Q&node=1i220\", \"date\": 1776520896679, \"creationdate\": 1776520896000, \"modificationdate\": 1776520896000, \"uploaded\": 1776520896552, \"size\": 89090, \"name\": \"AaoNaa.mp3\", \"metadata\": {\"duration\": \"21956\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"32000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"OW0yv9OngK53RiZl4F97rw==\", \"favorite\": false}]}, \"responsetime\": 1776520896718, \"type\": \"audio\"}"
   }
 }
