@@ -14,5 +14,53 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925098\", \"status\": \"U\", \"etag\": \"B1UUVNKZVuijGjP3FJMHdA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"pictures\": [{\"id\": \"241925098\", \"url\": \"/sapi/download/picture?action=get&k=WXyX6-iVwzhJL8fSamN22uLb4H-LWL2M3l4IpBbFIUFUNDYNPJWFWRg06RqNBte2Mi2oDnxT7PTgjya9oUj6m-uGGjVq15D9hyKg_29xo-qK6TYS3aX8V-XSAIZ0uMAOTRg8ZBHR5udtceoEhmVuuWfqWYtaC0Os8ItJiaATUimixwqVWqc&node=1i204\", \"viewurl\": \"/sapi/download/picture?action=get&k=kRpjt2pVyiAMLj4M9F48rXtvkYymZMeIBYqO_9yET1H0HwT5i8fo1oQZw0Tgg0blOFXKNqLQ4ETr1e-ynRkd_6p7pWliNds2WeY9TkJKIEoPmHle_oXZ5Xt8S_WLM5L0jJbJRd9P6V985BZXwOEsaWGQX-K0XhdRKqUwcH1HKJ0nBSUH15MKn5PNwhaG1kO60gA&node=1i204\", \"date\": 1776531551508, \"creationdate\": 1776531551000, \"modificationdate\": 1776531551000, \"uploaded\": 1776531551209, \"size\": 34879, \"name\": \"Mr=6593603@ (211).gif\", \"thumbnails\": [{\"w\": 286, \"h\": 199, \"size\": \"176\", \"url\": \"/sapi/download/picture?action=get&k=CyHq4cm3-DNiZMr5P_obpyWAZCGKVczzCLy373sDXbDy8PnFTaEbzXy1Zxe5s2gse-rNLpztDLxVWOjZ2Qe0ehlZZvmjooIddctfw9eqUJOieKrXD_nYti4AMtza3_Pl2EyJA-pW1D_iShj3QNk_3U0IWFGzRT-JEKzt9GID2D8cxM7DHF1fsnpcN9rf6_MKTdQ&node=1i204\", \"etag\": \"0B1UUVNKZVuijGjP3FJMHdA==\"}, {\"w\": 286, \"h\": 199, \"size\": \"504\", \"url\": \"/sapi/download/picture?action=get&k=kRpjt2pVyiAMLj4M9F48rXtvkYymZMeIBYqO_9yET1H0HwT5i8fo1oQZw0Tgg0blOFXKNqLQ4ETr1e-ynRkd_6p7pWliNds2WeY9TkJKIEoPmHle_oXZ5Xt8S_WLM5L0jJbJRd9P6V985BZXwOEsaWGQX-K0XhdRKqUwcH1HKJ0nBSUH15MKn5PNwhaG1kO60gA&node=1i204\", \"etag\": \"0B1UUVNKZVuijGjP3FJMHdA==\"}], \"favorite\": false, \"mediatype\": \"picture\", \"status\": \"U\", \"etag\": \"B1UUVNKZVuijGjP3FJMHdA==\"}]}, \"responsetime\": 1776531551554, \"type\": \"picture\"}"
+  },
+  "a7eb40a06ba6cf2c61ce01fc0b25282b20aa318088373d605b2d341f5c763d1e": {
+    "name": "Natur@Mehak Mobiles.jpg",
+    "path": "movies\\Natur@Mehak Mobiles.jpg",
+    "mediatype": "picture",
+    "size_bytes": 40638,
+    "uploaded_at": "2026-04-18T16:58:20Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/sapi/download/picture?action=get&k=Zds8b7LZba_GLX82EnqnZLyJI_JrmW8iVTThpQuXZ2jhjKI1etziXCRGVeiY8l8LpaNZ_dqPKqGL0DbadMZutPAe-iTosuk30NNw8Vlwuo6d_5TyoKtvps2-Vz2RwKKCaKZ8n8-spuxaNznW3vnfzUxCmBPJ31fqqT_fS9oDXWW24RoDNQEk1-MA2PE9O9obx6k&node=1i204",
+    "remote_id": "241926200",
+    "remote_folder_id": "1719700",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241926200\", \"status\": \"U\", \"etag\": \"hZZojydzhGN7jJmaFvQkKA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"pictures\": [{\"id\": \"241926200\", \"url\": \"/sapi/download/picture?action=get&k=EKEfsqnYrjcxBhH_ooJva_Sq1neTH9Bmosp31_ubLnOSWMtxA-sXf1ufF3KZx8kN5orMzoi6a0ZWC-KcHJBgEwQ1FODnl9IaqsoFX5lRtC7Q7KE-tKWz9YdHfjq63H7Rf0JEsYIZiwr906nfgj_QHE8G3y_NY9xkho0fBeF99Q9RDwZbESE&node=1i204\", \"viewurl\": \"/sapi/download/picture?action=get&k=Zds8b7LZba_GLX82EnqnZLyJI_JrmW8iVTThpQuXZ2jhjKI1etziXCRGVeiY8l8LpaNZ_dqPKqGL0DbadMZutPAe-iTosuk30NNw8Vlwuo6d_5TyoKtvps2-Vz2RwKKCaKZ8n8-spuxaNznW3vnfzUxCmBPJ31fqqT_fS9oDXWW24RoDNQEk1-MA2PE9O9obx6k&node=1i204\", \"date\": 1776531552031, \"creationdate\": 1776531552000, \"modificationdate\": 1776531552000, \"uploaded\": 1776531551857, \"size\": 40638, \"name\": \"Natur@Mehak Mobiles.jpg\", \"thumbnails\": [{\"w\": 224, \"h\": 240, \"size\": \"176\", \"url\": \"/sapi/download/picture?action=get&k=4IsYVFSpTpelt13Q_szQUutsX-p1NJL3wsJQ2uQ38t-WQN7jcLTR09tAL27ejbkmDJkf2IknFeet5LdKWYJzphg4qWzYUPAtsAoPNegAbjMgCQ2E19BOx_lufkNZK7bwAIglRXbS-4tfIqpG1XDSDrat1JEv49-5sndhprOTxEHMK6Evzas7pFSn4HJ7jnYzVuw&node=1i204\", \"etag\": \"0hZZojydzhGN7jJmaFvQkKA==\"}, {\"w\": 420, \"h\": 449, \"size\": \"504\", \"url\": \"/sapi/download/picture?action=get&k=Zds8b7LZba_GLX82EnqnZLyJI_JrmW8iVTThpQuXZ2jhjKI1etziXCRGVeiY8l8LpaNZ_dqPKqGL0DbadMZutPAe-iTosuk30NNw8Vlwuo6d_5TyoKtvps2-Vz2RwKKCaKZ8n8-spuxaNznW3vnfzUxCmBPJ31fqqT_fS9oDXWW24RoDNQEk1-MA2PE9O9obx6k&node=1i204\", \"etag\": \"0hZZojydzhGN7jJmaFvQkKA==\"}], \"favorite\": false, \"mediatype\": \"picture\", \"status\": \"U\", \"etag\": \"hZZojydzhGN7jJmaFvQkKA==\"}]}, \"responsetime\": 1776531552086, \"type\": \"picture\"}"
+  },
+  "04c2b6ae64cc05734e69ccc64feb416bd9c1c6722db24e644cb0b9cd529d7c18": {
+    "name": "haulihaulitenupyarhojaugaringtone1-11943.mp3",
+    "path": "movies\\haulihaulitenupyarhojaugaringtone1-11943.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T16:58:20Z",
+    "stream_link": "",
+    "remote_id": "241925099",
+    "remote_folder_id": "1719700",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241925099\", \"status\": \"U\", \"etag\": \"PVB2SQAkaTRGeXJcQVDvzg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241925099\", \"url\": \"/sapi/download/audio?action=get&k=WZCx2qLslbTsmUbV9vh-0MCYYxKRxlMcl15ldu_dqoC94XLCTRvRE_00rEe9SlqgX0nQNDjSqGutFs9cBJ7Zg3UmAcRSjjIA47yhCZ-04mBl6eLIFJQap7WHH7e7b4dOww2C5cLgUPFaZgHrpK_sajDFEtfeW-6Rjin5wTvSMxSRZlWL4Zg&node=1i204\", \"date\": 1776531552137, \"creationdate\": 1776531552000, \"modificationdate\": 1776531552000, \"uploaded\": 1776531552058, \"size\": 173997, \"name\": \"haulihaulitenupyarhojaugaringtone1-11943.mp3\", \"metadata\": {\"duration\": \"21708\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"64000\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"PVB2SQAkaTRGeXJcQVDvzg==\", \"favorite\": false}]}, \"responsetime\": 1776531552175, \"type\": \"audio\"}"
+  },
+  "81a5687e03fc93a8c500e65b95df92fc5eedb807ac338790c8be6c5a9efd35dd": {
+    "name": "Ustaad.Bhagat.Singh.2026.480p.NF.WEB-DL.DUAL.AAC2.0.H.264-Vegamovies.is.mp4",
+    "path": "movies\\Ustaad.Bhagat.Singh.2026.480p.NF.WEB-DL.DUAL.AAC2.0.H.264-Vegamovies.is.mp4",
+    "mediatype": "video",
+    "size_bytes": 183866,
+    "uploaded_at": "2026-04-18T16:58:28Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241926201",
+    "remote_id": "241926201",
+    "remote_folder_id": "1719700",
+    "tmdb_title": "Ustaad Bhagat Singh",
+    "tmdb_year": "2026",
+    "tmdb_rating": 6.2,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+    "tmdb_overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241926201\", \"status\": \"U\", \"etag\": \"XqRU7U7d/n8vBy0lvIyE8Q==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241926201\", \"url\": \"/sapi/download/video?action=get&k=ncJmEzGmynGpF6-BLi_6m2bTEuSXecVqYV17T43aFIU0Ge_ly0WjKfDbfjUjMLaNtamg7hbwFASMRg5jfKr2vlUS4THh4hDNLWxjSs3HQlT3p-K6pwMNZ3U0KfhNAVw83OFMrruLMBsaBebht0Kcxabf1CbQa8-I8eLflUHLPItZR9QtGVU&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=VAXn9dn_sq2rGCfIRXQ6hxHKGyv3hw2EYUs47s3419zsVI93pkOPJ7tNZwhs9PxJZixx96AdyPQdae1gyY39crsvKxCAVbnQ06fBXv4FVB4vrYEIIGxsra7uulhPzFLGOpWwFxglv0T8dvBnoK84R5oaX47ezudb9IpVHnMg0jFDmTWs3K5Mm3zGsSysyidBDQI&node=1i204\", \"date\": 1776531558533, \"creationdate\": 1776531558000, \"modificationdate\": 1776531558000, \"uploaded\": 1776531558308, \"size\": 183866, \"name\": \"Ustaad.Bhagat.Singh.2026.480p.NF.WEB-DL.DUAL.AAC2.0.H.264-Vegamovies.is.mp4\", \"metadata\": {\"duration\": 6933, \"bitrate\": 212153, \"codec\": \"mpeg4\", \"height\": 144, \"width\": 176, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 176, \"h\": 144, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=23-Zc1vhL-Bpvy5w9-x0T73wm60Z9NHMtlIjPVvnyMfoHDs0dq11Iqe1rFbIdwGaM_zwxgXz9YRm2f9IZ8GGIogGqy7pP5XKhStDiEww3ANhpGL7amEKLB299jdXWYFLXtUk3uPA6ub8SWyqsmPysf5Ix81qGqP3498587reja-40b4Rmy81I9BcjkFEDlLEyhE&node=1i204\", \"etag\": \"0XqRU7U7d/n8vBy0lvIyE8Q==\"}, {\"w\": 176, \"h\": 144, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=VAXn9dn_sq2rGCfIRXQ6hxHKGyv3hw2EYUs47s3419zsVI93pkOPJ7tNZwhs9PxJZixx96AdyPQdae1gyY39crsvKxCAVbnQ06fBXv4FVB4vrYEIIGxsra7uulhPzFLGOpWwFxglv0T8dvBnoK84R5oaX47ezudb9IpVHnMg0jFDmTWs3K5Mm3zGsSysyidBDQI&node=1i204\", \"etag\": \"0XqRU7U7d/n8vBy0lvIyE8Q==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"XqRU7U7d/n8vBy0lvIyE8Q==\", \"favorite\": false}]}, \"responsetime\": 1776531558590, \"type\": \"video\"}"
   }
 }
