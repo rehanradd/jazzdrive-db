@@ -174,5 +174,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241924456\", \"status\": \"U\", \"etag\": \"0CkBDlSlLgOY6TJPi+3d4Q==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"pictures\": [{\"id\": \"241924456\", \"url\": \"/sapi/download/picture?action=get&k=Z49t0YVU3D1L0XPpmFr-WUCyLvxS9-Z-M01XUGtOzkTBRL3kWxJ5TheCR3QW3VwgQ4I4WSC4-ftpnNGIPmeeOolTRb0XjPSYGYizSUBg9dQrVfGJmKf1yr7trKeoPtZBVEn53pU1R6AJ5nacDbWJw4WegVQsN3gTaA3tvhJ0JhL7ICKnTk_8&node=2i182\", \"viewurl\": \"/sapi/download/picture?action=get&k=1cldd3cXHuiqdypIjawbk4IFonvPj2FX28lRgvuLcGxG_4tcjKVWYhKtKUIauUNi01w5qbIB7rswG_OPalzUuh-SulO36hFmP187zwaDlwokPtwwx4Mqq4f0YdGYZJfMAbJy0MWofkXenCIzjhpk1aKe7k8Ubo7lFkUXpM_DTNiXTbHwptWiumeUnXeorusuHdXU&node=2i182\", \"date\": 1776510150727, \"creationdate\": 1776510150000, \"modificationdate\": 1776510150000, \"uploaded\": 1776510150533, \"size\": 4693, \"name\": \"images.jpeg\", \"thumbnails\": [{\"w\": 179, \"h\": 240, \"size\": \"176\", \"url\": \"/sapi/download/picture?action=get&k=4Cid0i-4lTU7dxS0aNsyZUeqz0QhGWWDdh1m-qieXVTZg0MJQuBOiiVlgpKCO70Liapy7cO3eHtLt2hC_-T-Ra9pFcSW2gAfUVa-cFefL4PUN3u9_b47UNkMfl5HnLebfnR-zqIx738cisIdpOh-gQPqdN7Vm_FdjTmg7N_vGrw-aiMLwB7BhQekEpYJ9NmSa50v&node=2i182\", \"etag\": \"00CkBDlSlLgOY6TJPi+3d4Q==\"}, {\"w\": 194, \"h\": 259, \"size\": \"504\", \"url\": \"/sapi/download/picture?action=get&k=1cldd3cXHuiqdypIjawbk4IFonvPj2FX28lRgvuLcGxG_4tcjKVWYhKtKUIauUNi01w5qbIB7rswG_OPalzUuh-SulO36hFmP187zwaDlwokPtwwx4Mqq4f0YdGYZJfMAbJy0MWofkXenCIzjhpk1aKe7k8Ubo7lFkUXpM_DTNiXTbHwptWiumeUnXeorusuHdXU&node=2i182\", \"etag\": \"00CkBDlSlLgOY6TJPi+3d4Q==\"}], \"favorite\": false, \"mediatype\": \"picture\", \"status\": \"U\", \"etag\": \"0CkBDlSlLgOY6TJPi+3d4Q==\"}]}, \"responsetime\": 1776510150819, \"type\": \"picture\"}"
+  },
+  "4f211bb6dd37190d1c6189e19eb4d1b3a987f9350e0b7d607a2e9b9ff7e78c7c": {
+    "name": "HASEEN - TALWIINDER, NDS, RIPPY (Official Visualizer).mp3",
+    "path": "movies\\mp3 songs\\HASEEN - TALWIINDER, NDS, RIPPY (Official Visualizer).mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-18T11:02:10Z",
+    "stream_link": "",
+    "remote_id": "241924458",
+    "remote_folder_id": "0",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241924458\", \"status\": \"U\", \"etag\": \"dDWRyirlwaV0ykLqjMjqtg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241924458\", \"url\": \"/sapi/download/audio?action=get&k=R0Xj7zKPl9qGcCxU5VamqGXfK7lYhGK1E0-U--AvsiTBtF-4-xOE2F_IywgMBxRkgIB98bCcQc3nksNzSJ-lBPZHPA4OfKn7wOrb2_jIQlfS3RPKmPtrDru95YQTZJYxJoreoiTfpyVhNEDOPieGZzi0nq06pv87yWTkjzftb6U3Ic7zqqM&node=2i182\", \"date\": 1776510181040, \"creationdate\": 1776510157000, \"modificationdate\": 1776510157000, \"uploaded\": 1776510180724, \"size\": 4196865, \"name\": \"HASEEN - TALWIINDER, NDS, RIPPY (Official Visualizer).mp3\", \"metadata\": {\"duration\": \"174799\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"192000\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"dDWRyirlwaV0ykLqjMjqtg==\", \"favorite\": false}]}, \"responsetime\": 1776510181137, \"type\": \"audio\"}"
   }
 }
