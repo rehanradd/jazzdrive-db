@@ -30,5 +30,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241933626\", \"status\": \"U\", \"etag\": \"4ldy1/xV3FaATpYtjtriCw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241933626\", \"url\": \"/sapi/download/audio?action=get&k=8ktkvlfKariA9IYlXp2DhdKhsJjI3ZnfMMNCg9he-W4D2kICgY92gJGnsOAliQqziaGt8tIz5Lqtk2xIIp46ybIKZMuMeNs12fonz0K-dgyxS8Vg8rO4uzwZfwfVDFszFlvZ_g3INB8uzEiy1JcVXCwtp69qUS6iUib0TxBdO7LyrONuA2U&node=1i204\", \"date\": 1776614018322, \"creationdate\": 1776614017000, \"modificationdate\": 1776614017000, \"uploaded\": 1776614018198, \"size\": 1778989, \"name\": \"muni badnam.mp3\", \"metadata\": {\"duration\": \"111151\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"128000\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"4ldy1/xV3FaATpYtjtriCw==\", \"favorite\": false}]}, \"responsetime\": 1776614018362, \"type\": \"audio\"}"
+  },
+  "f76edc7b53f4184cfedc1ccb0deec2cdbeaedc690ea9040fbb872e32ef49927f": {
+    "name": "vlc-record-2014-09-19-16h27m08s-VTS_01_1.VOB-.mp3",
+    "path": "movies\\vlc-record-2014-09-19-16h27m08s-VTS_01_1.VOB-.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-19T15:53:47Z",
+    "stream_link": "",
+    "remote_id": "241933627",
+    "remote_folder_id": "1719700",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241933627\", \"status\": \"U\", \"etag\": \"jBvOCHYZIxnumNSLYXznoA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241933627\", \"url\": \"/sapi/download/audio?action=get&k=keMjVgYl7DSWRxFxbaeM4g2D_qnkyP5jZmY9qcWVaNDTFM8SoFir4eUGOkKEUydUUtgJXTL83w-XCXjUWP8eGd_vE9gpmA1ivom-c3eD4ylzo7OZEo8gE76h_kx9EFL0pCe3MQ9yPToWJ7lO5Zx0InDF6_PSWSJx0-xHCabE2tiq1ycHrDY&node=1i204\", \"date\": 1776614027407, \"creationdate\": 1776614026000, \"modificationdate\": 1776614026000, \"uploaded\": 1776614027143, \"size\": 2377384, \"name\": \"vlc-record-2014-09-19-16h27m08s-VTS_01_1.VOB-.mp3\", \"metadata\": {\"duration\": \"148558\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"128000\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"jBvOCHYZIxnumNSLYXznoA==\", \"favorite\": false}]}, \"responsetime\": 1776614027446, \"type\": \"audio\"}"
   }
 }
