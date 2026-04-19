@@ -1,0 +1,63 @@
+{
+  "name": "VID-20190124-WA0107_mpeg4.mp4",
+  "path": "movies\\New Folder With Items\\VID-20190124-WA0107_mpeg4.mp4",
+  "uploaded_at": "2026-04-19T15:53:57Z",
+  "remote_folder_id": 1751081,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241933630",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241933630",
+    "status": "U",
+    "etag": "XnBskh2q9p8mm/vifBf9DA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241933630",
+          "url": "/sapi/download/video?action=get&k=xEo1uKJNjb4lUYntBpXjaOV4Xogix41vsPT1UzGU3lElo88fSTXsiU9KuKCDD2-P9Axt-mfJH8TX9alx75_OhiEBIPfjiTcChyyKJAVrOjIn91kCTfYlOBm8kvYQNOVHIGF9i9FLFeBlTXHDNM8_jChzIWFDT9u6B0HGaE7DYclSaP0pRsc&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=EGcI4ZVQG_H4FOu2IGnM3MP5WwWIkBryYXpwJ0o0uo09LoNXXF6hcJXCnMVnNcJPE3RSGL0y5cegu-Mbw9-LIlmxJV0FMYIvZ8yZKd0tUzsMzMko_ytVTtJZ2tGzZvfSTPF5U9BenbwicNRy6eUU7Ov-CPkqdTeTIeOy0OIZkV5mPe8vylh5jKu2sEv1gqOe5sc&node=1i204",
+          "date": 1776614037466,
+          "creationdate": 1776614037000,
+          "modificationdate": 1776614037000,
+          "uploaded": 1776614037267,
+          "size": 525279,
+          "name": "VID-20190124-WA0107_mpeg4.mp4",
+          "metadata": {
+            "duration": 28733,
+            "bitrate": 146249,
+            "codec": "mpeg4",
+            "height": 144,
+            "width": 176,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 176,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=w_wRyf1MadzpZlNU2XLKMnF2GqLRCzo6Twl38TAMzKC2yPKHljPYVP3tsBZtPfPJ2RzO-IugNGJPKg44_b6Mx0mUR1edkASBpHZfge14uSr-hPVkjERfKybW6iIKmzXAFqucQq1WIsssgOnFCeUli_Bk8uGaLOHatkHbbrwcNUvs78oznBNk1iKYDOVVg2Uu4AU&node=1i204",
+              "etag": "0XnBskh2q9p8mm/vifBf9DA=="
+            },
+            {
+              "w": 176,
+              "h": 144,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=EGcI4ZVQG_H4FOu2IGnM3MP5WwWIkBryYXpwJ0o0uo09LoNXXF6hcJXCnMVnNcJPE3RSGL0y5cegu-Mbw9-LIlmxJV0FMYIvZ8yZKd0tUzsMzMko_ytVTtJZ2tGzZvfSTPF5U9BenbwicNRy6eUU7Ov-CPkqdTeTIeOy0OIZkV5mPe8vylh5jKu2sEv1gqOe5sc&node=1i204",
+              "etag": "0XnBskh2q9p8mm/vifBf9DA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "XnBskh2q9p8mm/vifBf9DA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776614037524,
+    "type": "video"
+  }
+}
