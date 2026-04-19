@@ -302,5 +302,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932266\", \"status\": \"U\", \"etag\": \"ow8Mx2idEd61QVqUmnjKzQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241932266\", \"url\": \"/sapi/download/audio?action=get&k=m7SyLgk3F72vVT6VxqrYNj6I4yjmOd1eF3z8ZciaJ8oz-bQAjHKwWrsnkgXhFoUOD8SKmevMsRXuXM_LFeimZkzKWF2BaXjnnIxvHkzzU0UgMOIOBRVtnH6efMmj9C6yI9WC03cAy8XYRjS-xRg5Itr2Rj5ybAtndLtTsSAyXCuGa45Bt7U&node=1i204\", \"date\": 1776596232176, \"creationdate\": 1776596232000, \"modificationdate\": 1776596232000, \"uploaded\": 1776596232092, \"size\": 89090, \"name\": \"AaoNaa (1).mp3\", \"metadata\": {\"duration\": \"21956\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"32000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"ow8Mx2idEd61QVqUmnjKzQ==\", \"favorite\": false}]}, \"responsetime\": 1776596232216, \"type\": \"audio\"}"
+  },
+  "d83e31611b83197db0abea9730cccef12969ff71c97253e27f594d5623959cc7": {
+    "name": "Mr=6593603@ (397) - Copy.gif",
+    "path": "movies\\images\\New folder\\New folder\\Mr=6593603@ (397) - Copy.gif",
+    "mediatype": "picture",
+    "size_bytes": 75034,
+    "uploaded_at": "2026-04-19T10:56:32Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/sapi/download/picture?action=get&k=G5L7WvTyJSF2Hl32Sfng5miDBILJW5JFu7oW25ZfuBH7ywERq0Bi-WLrmq7dBxC2IHdswWn5svAfOALeoUWVk8j4mRAvqdk97n96lqXvGC3F8KbLK-MVFgWLdsHsQoFBrWnVu86L8dSERc3WInlQHbToTAhrYkgGbksGbgNHFrIc3E45VkD197Lzu-15qGW5kvk&node=1i204",
+    "remote_id": "241932267",
+    "remote_folder_id": "1751073",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932267\", \"status\": \"U\", \"etag\": \"hJ8UHxwDJXA3JrB/unuRmQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"pictures\": [{\"id\": \"241932267\", \"url\": \"/sapi/download/picture?action=get&k=JuAga58x0FjFIvr-NeafqWFf-EJOALrqjmzncf1aSz4LWhP57-p1HPPaKCZWqE4SF2PtIoOnOk9bkeZvbBpZGQYFRD1g_k97nQk8LRuN1QAxlMdGXqy5D7wXCtmYBr_lRRXohtmbDnDYHNO94LVnCLwtQHHtRFDwA6ewiNUHEJlyjMKIXvA&node=1i204\", \"viewurl\": \"/sapi/download/picture?action=get&k=G5L7WvTyJSF2Hl32Sfng5miDBILJW5JFu7oW25ZfuBH7ywERq0Bi-WLrmq7dBxC2IHdswWn5svAfOALeoUWVk8j4mRAvqdk97n96lqXvGC3F8KbLK-MVFgWLdsHsQoFBrWnVu86L8dSERc3WInlQHbToTAhrYkgGbksGbgNHFrIc3E45VkD197Lzu-15qGW5kvk&node=1i204\", \"date\": 1776596244862, \"creationdate\": 1776596244000, \"modificationdate\": 1776596244000, \"uploaded\": 1776596244541, \"size\": 75034, \"name\": \"Mr=6593603@ (397) - Copy.gif\", \"thumbnails\": [{\"w\": 275, \"h\": 240, \"size\": \"176\", \"url\": \"/sapi/download/picture?action=get&k=GCiI00FbFfsZ9dvmzTQAeu2WHWK-EX7MRoZL_4wI-cQlbgfI-ddZbDldA17aJJSYigDRwk6I6d41Y1l4FcT8B7RWHcSvJx4wTsvNhuZ50YVxIw4nnIc0s4CjFaukb64n1PGzYERwf_eYlWP15WYqJC7TP0_kBpHXHJ-Tn3y7BzhYkUdDIXYJMUcrFxRoiHF1mNc&node=1i204\", \"etag\": \"0hJ8UHxwDJXA3JrB/unuRmQ==\"}, {\"w\": 438, \"h\": 382, \"size\": \"504\", \"url\": \"/sapi/download/picture?action=get&k=G5L7WvTyJSF2Hl32Sfng5miDBILJW5JFu7oW25ZfuBH7ywERq0Bi-WLrmq7dBxC2IHdswWn5svAfOALeoUWVk8j4mRAvqdk97n96lqXvGC3F8KbLK-MVFgWLdsHsQoFBrWnVu86L8dSERc3WInlQHbToTAhrYkgGbksGbgNHFrIc3E45VkD197Lzu-15qGW5kvk&node=1i204\", \"etag\": \"0hJ8UHxwDJXA3JrB/unuRmQ==\"}], \"favorite\": false, \"mediatype\": \"picture\", \"status\": \"U\", \"etag\": \"hJ8UHxwDJXA3JrB/unuRmQ==\"}]}, \"responsetime\": 1776596244910, \"type\": \"picture\"}"
   }
 }
