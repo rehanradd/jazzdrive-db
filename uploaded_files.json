@@ -318,5 +318,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932267\", \"status\": \"U\", \"etag\": \"hJ8UHxwDJXA3JrB/unuRmQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"pictures\": [{\"id\": \"241932267\", \"url\": \"/sapi/download/picture?action=get&k=JuAga58x0FjFIvr-NeafqWFf-EJOALrqjmzncf1aSz4LWhP57-p1HPPaKCZWqE4SF2PtIoOnOk9bkeZvbBpZGQYFRD1g_k97nQk8LRuN1QAxlMdGXqy5D7wXCtmYBr_lRRXohtmbDnDYHNO94LVnCLwtQHHtRFDwA6ewiNUHEJlyjMKIXvA&node=1i204\", \"viewurl\": \"/sapi/download/picture?action=get&k=G5L7WvTyJSF2Hl32Sfng5miDBILJW5JFu7oW25ZfuBH7ywERq0Bi-WLrmq7dBxC2IHdswWn5svAfOALeoUWVk8j4mRAvqdk97n96lqXvGC3F8KbLK-MVFgWLdsHsQoFBrWnVu86L8dSERc3WInlQHbToTAhrYkgGbksGbgNHFrIc3E45VkD197Lzu-15qGW5kvk&node=1i204\", \"date\": 1776596244862, \"creationdate\": 1776596244000, \"modificationdate\": 1776596244000, \"uploaded\": 1776596244541, \"size\": 75034, \"name\": \"Mr=6593603@ (397) - Copy.gif\", \"thumbnails\": [{\"w\": 275, \"h\": 240, \"size\": \"176\", \"url\": \"/sapi/download/picture?action=get&k=GCiI00FbFfsZ9dvmzTQAeu2WHWK-EX7MRoZL_4wI-cQlbgfI-ddZbDldA17aJJSYigDRwk6I6d41Y1l4FcT8B7RWHcSvJx4wTsvNhuZ50YVxIw4nnIc0s4CjFaukb64n1PGzYERwf_eYlWP15WYqJC7TP0_kBpHXHJ-Tn3y7BzhYkUdDIXYJMUcrFxRoiHF1mNc&node=1i204\", \"etag\": \"0hJ8UHxwDJXA3JrB/unuRmQ==\"}, {\"w\": 438, \"h\": 382, \"size\": \"504\", \"url\": \"/sapi/download/picture?action=get&k=G5L7WvTyJSF2Hl32Sfng5miDBILJW5JFu7oW25ZfuBH7ywERq0Bi-WLrmq7dBxC2IHdswWn5svAfOALeoUWVk8j4mRAvqdk97n96lqXvGC3F8KbLK-MVFgWLdsHsQoFBrWnVu86L8dSERc3WInlQHbToTAhrYkgGbksGbgNHFrIc3E45VkD197Lzu-15qGW5kvk&node=1i204\", \"etag\": \"0hJ8UHxwDJXA3JrB/unuRmQ==\"}], \"favorite\": false, \"mediatype\": \"picture\", \"status\": \"U\", \"etag\": \"hJ8UHxwDJXA3JrB/unuRmQ==\"}]}, \"responsetime\": 1776596244910, \"type\": \"picture\"}"
+  },
+  "6a97ae9d6604f2c7102ee08895187b86c340b4eab237b9b6db7ba673b2821f84": {
+    "name": "Mr=6593603@ (397) - Copy.rar",
+    "path": "movies\\images\\New folder\\New folder\\Mr=6593603@ (397) - Copy.rar",
+    "mediatype": "file",
+    "size_bytes": 75161,
+    "uploaded_at": "2026-04-19T10:56:57Z",
+    "stream_link": "",
+    "remote_id": "241932269",
+    "remote_folder_id": "1751073",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932269\", \"status\": \"U\", \"etag\": \"mioexBECaLvhtcLoPUyi+g==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241932269\", \"url\": \"/sapi/download/file?action=get&k=XW5yOafjo99wVqblmmTcLxnNoe9xVXl-koE5vEvt5-jRyvSUgM66PBkq-ITbebiXepsN4qjW61LDxazskAV63492NBA5Ddfl69VjYk3z3KS_q-OQOEYR68FeIk86xy5D0pprtA1IQkFZobVgWRrgjEalE-4c_AksgCjnNYwadcr9VRuyQgg&node=1i204\", \"date\": 1776596270156, \"creationdate\": 1776596270000, \"modificationdate\": 1776596270000, \"uploaded\": 1776596270056, \"size\": 75161, \"name\": \"Mr=6593603@ (397) - Copy.rar\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"mioexBECaLvhtcLoPUyi+g==\", \"favorite\": false}]}, \"responsetime\": 1776596270190, \"type\": \"file\"}"
   }
 }
