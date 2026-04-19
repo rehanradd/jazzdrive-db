@@ -1,1 +1,18 @@
-
+{
+  "c25512ac65f7ca32558e2c93341453651c58a4938c6308578bbdfb32d62183e3": {
+    "name": "VID-20190124-WA0097_mpeg4.mp4",
+    "path": "movies\\VID-20190124-WA0097_mpeg4.mp4",
+    "mediatype": "video",
+    "size_bytes": 476129,
+    "uploaded_at": "2026-04-19T15:53:37Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241933625",
+    "remote_id": "241933625",
+    "remote_folder_id": "1719700",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241933625\", \"status\": \"U\", \"etag\": \"eaSDJ93ZhkCVXitWl8lNxw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241933625\", \"url\": \"/sapi/download/video?action=get&k=9emyKvNq4M8o7sW48RlZkb9zWdwb_phxU-oQqIyQ_bjPHl1O536ZvzlHnpfv9CBF0TzFhuc4rEARbipb-yeeyNpE0LE8qZCaTFzFhbb-Roc92PyeT7VzE4h3NL2fC76pnb2iQpzjH9UMvVP9plOafbcQ33lRtmwLpjdp1akReQ2HxLG07vw&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=YxWAwOP0p8ZkgSwsgOhZid70jTUAQTLv519ySHTnC4FbHfFschcsIiRQn_EJ93o9k_3-lpA0pVxH2tS6dRmqW8a-PiOKGEkbsNiUHFR5izw22LVOtSDxQq-alXSEw6JirtslaaumW9x8FWUe5CnZgpRmNhOnLKlowC7WzBpZkzxK2X-OGPyMFON3I6P1Bw26a0c&node=1i204\", \"date\": 1776614017743, \"creationdate\": 1776614017000, \"modificationdate\": 1776614017000, \"uploaded\": 1776614017477, \"size\": 476129, \"name\": \"VID-20190124-WA0097_mpeg4.mp4\", \"metadata\": {\"duration\": 30267, \"bitrate\": 125849, \"codec\": \"mpeg4\", \"height\": 144, \"width\": 176, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 176, \"h\": 144, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=vMDXzj23Siglc_-WTzwtJSxqqECr2dBq3axV1GIxsFJf2OQx6W8J1sOK0wrJIsWmKha_UBfRqHm5eX3Wpd03b2JMnu05eZh7qrwBFzqXHGX6g1bbKbwENR9ur5WCKovOFI9ZKMc1_fWv8dvQWrH1VdOfElO9VTQSXx8QBBZYEknSz_pyCP9fEvMnsrKqfJa493c&node=1i204\", \"etag\": \"0eaSDJ93ZhkCVXitWl8lNxw==\"}, {\"w\": 176, \"h\": 144, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=YxWAwOP0p8ZkgSwsgOhZid70jTUAQTLv519ySHTnC4FbHfFschcsIiRQn_EJ93o9k_3-lpA0pVxH2tS6dRmqW8a-PiOKGEkbsNiUHFR5izw22LVOtSDxQq-alXSEw6JirtslaaumW9x8FWUe5CnZgpRmNhOnLKlowC7WzBpZkzxK2X-OGPyMFON3I6P1Bw26a0c&node=1i204\", \"etag\": \"0eaSDJ93ZhkCVXitWl8lNxw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"eaSDJ93ZhkCVXitWl8lNxw==\", \"favorite\": false}]}, \"responsetime\": 1776614017797, \"type\": \"video\"}"
+  }
+}
