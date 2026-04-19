@@ -1,0 +1,42 @@
+{
+  "name": "muni badnam.mp3",
+  "path": "movies\\muni badnam.mp3",
+  "uploaded_at": "2026-04-19T15:53:38Z",
+  "remote_folder_id": 1719700,
+  "mediatype": "audio",
+  "stream_link": "",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241933626",
+    "status": "U",
+    "etag": "4ldy1/xV3FaATpYtjtriCw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "audios": [
+        {
+          "id": "241933626",
+          "url": "/sapi/download/audio?action=get&k=8ktkvlfKariA9IYlXp2DhdKhsJjI3ZnfMMNCg9he-W4D2kICgY92gJGnsOAliQqziaGt8tIz5Lqtk2xIIp46ybIKZMuMeNs12fonz0K-dgyxS8Vg8rO4uzwZfwfVDFszFlvZ_g3INB8uzEiy1JcVXCwtp69qUS6iUib0TxBdO7LyrONuA2U&node=1i204",
+          "date": 1776614018322,
+          "creationdate": 1776614017000,
+          "modificationdate": 1776614017000,
+          "uploaded": 1776614018198,
+          "size": 1778989,
+          "name": "muni badnam.mp3",
+          "metadata": {
+            "duration": "111151",
+            "codecname": "mp3",
+            "formatname": "mp3",
+            "bitrate": "128000"
+          },
+          "mediatype": "audio",
+          "status": "U",
+          "etag": "4ldy1/xV3FaATpYtjtriCw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776614018362,
+    "type": "audio"
+  }
+}
