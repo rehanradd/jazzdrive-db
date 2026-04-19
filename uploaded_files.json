@@ -254,5 +254,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932263\", \"status\": \"U\", \"etag\": \"FOWM778otP3QFQ5EfCrlTg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"pictures\": [{\"id\": \"241932263\", \"url\": \"/sapi/download/picture?action=get&k=67ms9Ad9M0IAA4rvLVqqOKId1NodD0TCKOCwFpOfYHhIzk_bLiE-8cevgsKfv6QCStObM2n3-CC45wBi7DIpc4_xO6nvm1nUibmuw3UEWAMsdLwijFK2fpBEVDFHMjGbCb9TBlJvhXbdmYytopOeIMIqE0gmS1cNMzVnunQ-55GzNncUeN8&node=1i204\", \"viewurl\": \"/sapi/download/picture?action=get&k=WGwgXFbXCs9325tUNVIFlGpWlcksG8rfltdm5RRiboZf1XxYmPqeWXbnLmg3SedEoCdPEu3MR_OqeRIFEYuKLQNBG8hlMsjBBo1iFPE4vROzr8E-P9uRx3iMxJK-XBzeECYXwA7X7AUJX7l_zSrDDeM0VCx2iRLB9QSJ1q0WTeALIcG7Za1cMW6M8gjsjT2tvbc&node=1i204\", \"date\": 1776596224291, \"creationdate\": 1776596224000, \"modificationdate\": 1776596224000, \"uploaded\": 1776596224116, \"size\": 29044, \"name\": \"Raja G.jpg\", \"thumbnails\": [{\"w\": 320, \"h\": 240, \"size\": \"176\", \"url\": \"/sapi/download/picture?action=get&k=fHOxk9qnFgdQX9n503qD6l5hZCF0NSwaBx1fG0qgvpiCFQ648Z9Oo-3klVQmHRyRclC-X6KhmU7tNRFMY2qTOrNEf0fjrGzXeUFVizaIFCrc5_1TOrnTLMeFKoJxpU6IinxccJcRZ8cCLVNdRr1yo-3NS1BaT8H_7-0nqkt0ZNo3jvF-e8zkP65uz5lZfRp6B-o&node=1i204\", \"etag\": \"0FOWM778otP3QFQ5EfCrlTg==\"}, {\"w\": 320, \"h\": 240, \"size\": \"504\", \"url\": \"/sapi/download/picture?action=get&k=WGwgXFbXCs9325tUNVIFlGpWlcksG8rfltdm5RRiboZf1XxYmPqeWXbnLmg3SedEoCdPEu3MR_OqeRIFEYuKLQNBG8hlMsjBBo1iFPE4vROzr8E-P9uRx3iMxJK-XBzeECYXwA7X7AUJX7l_zSrDDeM0VCx2iRLB9QSJ1q0WTeALIcG7Za1cMW6M8gjsjT2tvbc&node=1i204\", \"etag\": \"0FOWM778otP3QFQ5EfCrlTg==\"}], \"favorite\": false, \"mediatype\": \"picture\", \"status\": \"U\", \"etag\": \"FOWM778otP3QFQ5EfCrlTg==\"}]}, \"responsetime\": 1776596224340, \"type\": \"picture\"}"
+  },
+  "dca1f6999b26c7a550e28b959fe6575beb510774b8ed69c278bec6a7b42dbcce": {
+    "name": "10 THODA SA PYAR HUA.mp3",
+    "path": "movies\\mp3 songs\\10 THODA SA PYAR HUA.mp3",
+    "mediatype": "audio",
+    "size_bytes": 0,
+    "uploaded_at": "2026-04-19T10:56:14Z",
+    "stream_link": "",
+    "remote_id": "241932264",
+    "remote_folder_id": "1751070",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932264\", \"status\": \"U\", \"etag\": \"QLwYHEPDq0+nG8178yeiFA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"audios\": [{\"id\": \"241932264\", \"url\": \"/sapi/download/audio?action=get&k=2g8t9y1Pm7VnhdCPVdhL-VIVgwykJASo7S8kYEBWHcvEWffJSZ2UiNz4OqFuDLwBUbRIFe7v4W_W5I_D0tFCvNV9OyhLxFvc2HhkIDdaVYWdJ2U60R5_uBH7ZBx3_5vqqK22V-S4b6Nug9m4IFBL3L3XgzhXbGKIzpRqkKKTF7EEuWLQSQA&node=1i204\", \"date\": 1776596227118, \"creationdate\": 1776596227000, \"modificationdate\": 1776596227000, \"uploaded\": 1776596227029, \"size\": 377138, \"name\": \"10 THODA SA PYAR HUA (1).mp3\", \"metadata\": {\"duration\": \"23465\", \"artist\": \"ALI...03134575541\", \"genre\": \"(255)\", \"codecname\": \"mp3\", \"formatname\": \"mp3\", \"bitrate\": \"128000\", \"title\": \"Abdullah communication Kasur\"}, \"mediatype\": \"audio\", \"status\": \"U\", \"etag\": \"QLwYHEPDq0+nG8178yeiFA==\", \"favorite\": false}]}, \"responsetime\": 1776596227159, \"type\": \"audio\"}"
   }
 }
