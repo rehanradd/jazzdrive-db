@@ -334,5 +334,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932269\", \"status\": \"U\", \"etag\": \"mioexBECaLvhtcLoPUyi+g==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241932269\", \"url\": \"/sapi/download/file?action=get&k=XW5yOafjo99wVqblmmTcLxnNoe9xVXl-koE5vEvt5-jRyvSUgM66PBkq-ITbebiXepsN4qjW61LDxazskAV63492NBA5Ddfl69VjYk3z3KS_q-OQOEYR68FeIk86xy5D0pprtA1IQkFZobVgWRrgjEalE-4c_AksgCjnNYwadcr9VRuyQgg&node=1i204\", \"date\": 1776596270156, \"creationdate\": 1776596270000, \"modificationdate\": 1776596270000, \"uploaded\": 1776596270056, \"size\": 75161, \"name\": \"Mr=6593603@ (397) - Copy.rar\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"mioexBECaLvhtcLoPUyi+g==\", \"favorite\": false}]}, \"responsetime\": 1776596270190, \"type\": \"file\"}"
+  },
+  "3e55ccb9a84f13ae0a7b537e96026764e728b39a7cfe46dca11bb9b9efb74f1c": {
+    "name": "Mr=6593603@ (397) - Copy.zip",
+    "path": "movies\\images\\New folder\\New folder\\New Folder With Items\\Mr=6593603@ (397) - Copy.zip",
+    "mediatype": "file",
+    "size_bytes": 74989,
+    "uploaded_at": "2026-04-19T10:57:06Z",
+    "stream_link": "",
+    "remote_id": "241932270",
+    "remote_folder_id": "1751074",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932270\", \"status\": \"U\", \"etag\": \"sjHQxfsTCUhzrEy9dIV7hQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241932270\", \"url\": \"/sapi/download/file?action=get&k=D5gofl955nmz667ReH98ZkqG_4h-ebQnJyeD_S-92kRbCwI9m05FE8mdSkI8SSHp4Bk-1Nqm_Gl8kag4CnwyHmkg-9_R1OkBNw-Rbf9XR63HRjcnRN6Mp3WlynUfM-xsUpc0ADby5WaVMwZy4N2ifBNtSEPFBu4Sapd_w-ydEpLJtJTf-s4&node=1i204\", \"date\": 1776596278710, \"creationdate\": 1776596278000, \"modificationdate\": 1776596278000, \"uploaded\": 1776596278597, \"size\": 74989, \"name\": \"Mr=6593603@ (397) - Copy.zip\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"sjHQxfsTCUhzrEy9dIV7hQ==\", \"favorite\": false}]}, \"responsetime\": 1776596278741, \"type\": \"file\"}"
   }
 }
