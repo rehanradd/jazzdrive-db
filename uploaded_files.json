@@ -78,5 +78,21 @@
     "tmdb_poster": "",
     "tmdb_overview": "",
     "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932251\", \"status\": \"U\", \"etag\": \"+/i7jUxK72kvy65f+eN/dg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"pictures\": [{\"id\": \"241932251\", \"url\": \"/sapi/download/picture?action=get&k=ybR0qLAbD5HERrD9tNaxxp7uPPM4MeIQ2DDV_LtF8NDBNxKMFRMQFW1ur3D3E_WzcbJMJrfRicCGR2qSuPiUzRIn3khQURVVQi3PUdscwwX4tqErhRQURKeXdTmoCBPNxkvSDi2IhKITTzZnTjUUoL7NfVhWLoQ_UPMACN-VCQiD2befM0Y&node=1i204\", \"viewurl\": \"/sapi/download/picture?action=get&k=ZHU7RJlqMPZI9H4M0Kw1rEkDcfTQymAOPcSlEWpvnIvoUCo1lrbA7Q-Vo7sxcrvnNMxaX0vyJaMCdP3BHjkEMNChiJZSiiy754Z3PmimOb7SD9xx1BrbWExMefghUrXE_CGI_1gb3lDcAHHFnIoDH6W9Tm89iJ0VKRA6hPhQ-YXMEQg0dYO3F4fVixMGXd4z_Xg&node=1i204\", \"date\": 1776596188736, \"creationdate\": 1776596188000, \"modificationdate\": 1776596188000, \"uploaded\": 1776596188498, \"size\": 34879, \"name\": \"Mr=6593603@ (211).gif\", \"thumbnails\": [{\"w\": 286, \"h\": 199, \"size\": \"176\", \"url\": \"/sapi/download/picture?action=get&k=TETGcfgMWz_GJwPSkXJoehF1JmWrAkEf7poVQUqFaDqVK86wMc-107ae2x4ZzPkJKQwotPXs6DPtypDEZlhfUsLZqnM08IDY53pBw4wpg7z-qwzWyqh8jcH4OZjmbfZXy6G56vnGvNQGamRVlbcXU9gbQUJWzzBjMzJfzRuXMbpV_Nsruax9syHD4lOoYghLvu0&node=1i204\", \"etag\": \"0+/i7jUxK72kvy65f+eN/dg==\"}, {\"w\": 286, \"h\": 199, \"size\": \"504\", \"url\": \"/sapi/download/picture?action=get&k=ZHU7RJlqMPZI9H4M0Kw1rEkDcfTQymAOPcSlEWpvnIvoUCo1lrbA7Q-Vo7sxcrvnNMxaX0vyJaMCdP3BHjkEMNChiJZSiiy754Z3PmimOb7SD9xx1BrbWExMefghUrXE_CGI_1gb3lDcAHHFnIoDH6W9Tm89iJ0VKRA6hPhQ-YXMEQg0dYO3F4fVixMGXd4z_Xg&node=1i204\", \"etag\": \"0+/i7jUxK72kvy65f+eN/dg==\"}], \"favorite\": false, \"mediatype\": \"picture\", \"status\": \"U\", \"etag\": \"+/i7jUxK72kvy65f+eN/dg==\"}]}, \"responsetime\": 1776596188782, \"type\": \"picture\"}"
+  },
+  "78f58a4890c66d604579f01ea034db1924f8bb142c86005aac42054e8bb1187b": {
+    "name": "Mwmmw.mp4",
+    "path": "movies\\Mwmmw.mp4",
+    "mediatype": "video",
+    "size_bytes": 286601,
+    "uploaded_at": "2026-04-19T10:55:39Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241932252",
+    "remote_id": "241932252",
+    "remote_folder_id": "1719700",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241932252\", \"status\": \"U\", \"etag\": \"K8DNWXaHOCYhnGvkcvlyWA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241932252\", \"url\": \"/sapi/download/video?action=get&k=h4EinlveQwTHvrpdIUChvY_eUcWU4Ez_B9x0dw9NSQFW4borIxcE_VmDXoe8uYf4TTXwW9Q366rIEvIUXC1v3zkPWI4pR5HCWpWAQGH8DaxafadPQh1w8frjE5rpt9N7wvw7OieJaMuyvMECiQbN0mi1nZ1_4lWoOh9m6gGMGoiB2gW4jsk&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=aQEE9Ea8_b7NMU1APo3QNHor8gwvOnTUFuVeKvzFJdewW8d7u5_FGQ0Yh9VxqXxINyuf5hNNet00n1_2R5CS7lys-RxdRn9oGYc27x9G7ZQx9xtrjj9LJhX3Kheeewd9zzUVPh8SJBScA0ft8guKNh8szy1cc_lp4SSsjlS3k1qQvU6kAlWKxtp1qqre370htko&node=1i204\", \"date\": 1776596191390, \"creationdate\": 1776596191000, \"modificationdate\": 1776596191000, \"uploaded\": 1776596191198, \"size\": 286601, \"name\": \"Mwmmw.mp4\", \"metadata\": {\"duration\": 10200, \"bitrate\": 224785, \"codec\": \"mpeg4\", \"height\": 144, \"width\": 176, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 176, \"h\": 144, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=qhfEJMFbHf8rx0wqWK3Mq8EXCAKer3YuyH6PslWtTgn6FqjG6JmuuSFOOTVnh2qpF1xHe1GtAKb3arvy_bkVt9kF1oFFPsUrBu10vRStvYhQXd-W9vPpTsBlbJBxspd3wnfW7qfDWIQSF9k4bQCSu6ANuerXET32ecUORSXwTmUVTUcdoW_eKRZYBHuWEKrRbZ8&node=1i204\", \"etag\": \"0K8DNWXaHOCYhnGvkcvlyWA==\"}, {\"w\": 176, \"h\": 144, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=aQEE9Ea8_b7NMU1APo3QNHor8gwvOnTUFuVeKvzFJdewW8d7u5_FGQ0Yh9VxqXxINyuf5hNNet00n1_2R5CS7lys-RxdRn9oGYc27x9G7ZQx9xtrjj9LJhX3Kheeewd9zzUVPh8SJBScA0ft8guKNh8szy1cc_lp4SSsjlS3k1qQvU6kAlWKxtp1qqre370htko&node=1i204\", \"etag\": \"0K8DNWXaHOCYhnGvkcvlyWA==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"K8DNWXaHOCYhnGvkcvlyWA==\", \"favorite\": false}]}, \"responsetime\": 1776596191447, \"type\": \"video\"}"
   }
 }
