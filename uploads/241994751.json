@@ -1,0 +1,83 @@
+{
+  "name": "Aan Paavam Pollathathu (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Aan Paavam Pollathathu (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T22:02:48Z",
+  "remote_folder_id": 1751828,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241994751",
+  "tmdb": {
+    "tmdb_id": 1435139,
+    "title": "Aan Paavam Pollathathu",
+    "original_title": "\u0b86\u0ba3\u0bcd \u0baa\u0bbe\u0bb5\u0bae\u0bcd \u0baa\u0bca\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0ba4\u0bc1",
+    "release_date": "2025-10-31",
+    "year": "2025",
+    "rating": 5.4,
+    "overview": "A year into their marriage, unable to distinguish between toxicity and mere misunderstandings, Sakthi decides to part ways with Siva. The couple navigate their separation, and whether they ultimately proceed with divorce forms the emotional climax.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5eZzBvETRK8uDz3mUK0Feio2T5C.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/d3HvCcvR1JbLrloXYGb0QhRiOma.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994751",
+    "status": "U",
+    "etag": "DtCP8yFCqZsY1aPYOoVxWQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241994751",
+          "url": "/sapi/download/video?action=get&k=uEJv4n3wutsy2MPXQSzJFrZ2rX4Kjv7ZjZT7iyCQoSACawtKfYRxYaIYk9s8x0W3fxS33NuyfrVx1AU58Enua16xIK-GdrN_Ru_Bm0NS5pZ52WqyqXkjXyBuq1-L-PHW7EO2peaapjVrK5pElXloB7-_dqARgSmz3QHtWd-O0IzaYIep9pE&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=U8g-8fD0-IP3nWhDKjyDe72ItYbNZ_rEwj7QkknK3GhJNGvAECOyaPn7nJEDZEG4QxtwX9xgymSR_WOJD1GSIxw4rFXO09oE6Mq9tBI5z9LdF1XHL6lzb7lPotZM3kS5Zmmxuo-EKwR5O_hTA3zoFoGuw8o6D0vFv8SeO3jdsH9eMjHjwDict3GiZg1BkWKxSpI&node=2i182",
+          "date": 1776981767561,
+          "creationdate": 1776981598000,
+          "modificationdate": 1776981598000,
+          "uploaded": 1776981714635,
+          "size": 1210958840,
+          "name": "Aan Paavam Pollathathu (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7184128,
+            "bitrate": 1348482,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=f2lBxUNeNFLRTF-9TTcWtynG-lqdaU_yzQ8ZH2_Uk5IlIY1mYrbZ3s6IYHpiFE_LBnHJBHniMJWITG9Gzfk56SMVK-s1E03ngUWBuJF74s2AaTg2Gclbft58hD_jcHD_bSHynAa_KMw5UlQq7AFymPjzQq6Z4x7Ter-ghcPYdmrqB8NuYPxSGT7l5Zm5i37iYp4&node=2i182",
+              "etag": "0DtCP8yFCqZsY1aPYOoVxWQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=U8g-8fD0-IP3nWhDKjyDe72ItYbNZ_rEwj7QkknK3GhJNGvAECOyaPn7nJEDZEG4QxtwX9xgymSR_WOJD1GSIxw4rFXO09oE6Mq9tBI5z9LdF1XHL6lzb7lPotZM3kS5Zmmxuo-EKwR5O_hTA3zoFoGuw8o6D0vFv8SeO3jdsH9eMjHjwDict3GiZg1BkWKxSpI&node=2i182",
+              "etag": "0DtCP8yFCqZsY1aPYOoVxWQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "DtCP8yFCqZsY1aPYOoVxWQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776981767675,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MFC7hdeURQ-QFrbMOhADPjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aan Paavam Pollathathu (2025)",
+  "media_kind": "movie"
+}
