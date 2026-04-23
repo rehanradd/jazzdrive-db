@@ -1538,5 +1538,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "2f99b44c797bba49d6a9f3281e1887f7deb74ac6c0184a73135728864ca50f20": {
+    "name": "Arjun Chakravarthy (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+    "path": "D:\\Arjun Chakravarthy (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+    "mediatype": "video",
+    "size_bytes": 1289336860,
+    "uploaded_at": "2026-04-23T22:52:19Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995766",
+    "remote_id": "241995766",
+    "remote_folder_id": "1751869",
+    "tmdb_title": "Arjun Chakravarthy: Journey of an Unsung Champion",
+    "tmdb_year": "2025",
+    "tmdb_rating": 6.3,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/tCZZFxQdneZ2z9ajfrKKp92Pvei.jpg",
+    "tmdb_overview": "Arjun Chakravarthy: Journey of an Unsung Champion is an inspiring sports drama that chronicles the extraordinary life of Arjun Chakravarthy, a determined kabaddi player who represented India in the 1980s.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241995766\", \"status\": \"U\", \"etag\": \"61CHisakp0QGqzw1kqEFxg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241995766\", \"url\": \"/sapi/download/video?action=get&k=Ig_rha-87xChzhAOyn7yWFV8OM1HlzFfa3y3WlCdc8lz1RJpvJDCJW8ojn_ZwxSUDbtQq9WZEP7EEtZ3kABYjKjZCixPGh1JNJUEAiY4X51_06Zl7E3vovT980HTVbBaR_d7p6btuup_A9XG5Xaosla4WgF8YuPOg-mw6xOs-laaMAOBJL4&node=2i182\", \"viewurl\": \"/sapi/download/video?action=get&k=8nKIuUbA31rpylbUXN5n5lRZV2nq6l1k3R9Mj_o-Hd6r-hHmIFOmKxZnluhkJyafN4-ZS6doZcGEUYrKe1850L4C-RaNqgoe1x4Lmw3vXT5X2cKdc0x1Ok9YDBskyrRIWoROqOwNfKJjkyFSJs67so70_Zq3DnjUWKzhFcHAyelVL7KsDga2itPha45OzAcvGd8&node=2i182\", \"date\": 1776984738153, \"creationdate\": 1776984459000, \"modificationdate\": 1776984459000, \"uploaded\": 1776984686069, \"size\": 1289336860, \"name\": \"Arjun Chakravarthy (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4\", \"metadata\": {\"duration\": 7583689, \"bitrate\": 1360115, \"codec\": \"h264\", \"height\": 542, \"width\": 1280, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=-ssyE5uUlPRhawWBvgVK_d8-NzXalXYBkg-_PUpO0pKpeqcJWlWjshB0ERDb0kp3Hkacag0REgX7aG79IQjEodnuPOPp0EfcJl4ZZttM1xSxO6Z_mNL-AmkOYor62gAZvY_ZKQg6el9br2O82QenkEvN-WOOODcSPhxUAayUu34FUhbfEZFoY8kmltrBl3t9O0E&node=2i182\", \"etag\": \"061CHisakp0QGqzw1kqEFxg==\"}, {\"w\": 1024, \"h\": 433, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=8nKIuUbA31rpylbUXN5n5lRZV2nq6l1k3R9Mj_o-Hd6r-hHmIFOmKxZnluhkJyafN4-ZS6doZcGEUYrKe1850L4C-RaNqgoe1x4Lmw3vXT5X2cKdc0x1Ok9YDBskyrRIWoROqOwNfKJjkyFSJs67so70_Zq3DnjUWKzhFcHAyelVL7KsDga2itPha45OzAcvGd8&node=2i182\", \"etag\": \"061CHisakp0QGqzw1kqEFxg==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"61CHisakp0QGqzw1kqEFxg==\", \"favorite\": false}]}, \"responsetime\": 1776984738270, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/GeXsupuLTLqIv5RYZmPBaDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+    "share_key": "",
+    "share_link_id": "66658",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Arjun Chakravarthy (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
