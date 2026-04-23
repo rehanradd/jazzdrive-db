@@ -1,0 +1,83 @@
+{
+  "name": "Aaryan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Aaryan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T22:06:11Z",
+  "remote_folder_id": 1751831,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241994755",
+  "tmdb": {
+    "tmdb_id": 1318308,
+    "title": "Aaryan",
+    "original_title": "\u0b86\u0bb0\u0bcd\u0baf\u0ba9\u0bcd",
+    "release_date": "2025-10-31",
+    "year": "2025",
+    "rating": 5.0,
+    "overview": "A struggling writer announces he'll commit the perfect crime, sparking a tense pursuit as police try to prevent his methodically planned killing spree.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rRjh3zumdW89fNMe4tdjmALB1xG.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mRyCfbc3vZblB8slswmwovrEhTR.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994755",
+    "status": "U",
+    "etag": "5ryYS4+bmWsFElM9L2GfbA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241994755",
+          "url": "/sapi/download/video?action=get&k=cSEoYuDPLRx0THQnsn9QTnKjUC6nWX1ECjAAF7RKo1yFxy-S8KVSTicoZWWP52kHeMf3eys0smer5q2bE9G8LvOJpctA7qabQHoLYx650JQEHLwWadbjQK9qTtOy6aGH5hRsH14-s13hPfKWx4VAzUHMBK4zROY639a9zWsYOhm6usq14Ys&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=P6XninSvRCOPEfBsvJjrMU4kHOhpITx73XnLd_tNUx4NacIe-1xK5v52ZsXbX-zG523GkA_dOfYN9peYkaFjVZH3rrQZEBNchmUYnKak7pgTRFN-cZ68ooxNIq_YzaaVplAl3aveNE3dwxszmDcejxS4uVUQu7n7oih4lX_Bs3HIyLW1YWq8EYz9MXwdUH7_ZA0&node=2i182",
+          "date": 1776981970791,
+          "creationdate": 1776981786000,
+          "modificationdate": 1776981786000,
+          "uploaded": 1776981915901,
+          "size": 1333287933,
+          "name": "Aaryan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7909980,
+            "bitrate": 1348461,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=SbvZiq3tLeRagYoaF_UWeampi1QgTFz2VfqusIXFL0cHthUepPuv-YG8wVZW8-mDmNUj4O8LG0xiDJpzL7Mgov2VbLR4CQaNL2PNB2KAT3VZpVtCiN09tNd_01kKB0CN37-ErXdrkN73gxt4I659SlVwiQ-XSJ0RTDOBOeQ1WsDRC5F3B0ghKNi5cefoX3_whZ0&node=2i182",
+              "etag": "05ryYS4+bmWsFElM9L2GfbA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=P6XninSvRCOPEfBsvJjrMU4kHOhpITx73XnLd_tNUx4NacIe-1xK5v52ZsXbX-zG523GkA_dOfYN9peYkaFjVZH3rrQZEBNchmUYnKak7pgTRFN-cZ68ooxNIq_YzaaVplAl3aveNE3dwxszmDcejxS4uVUQu7n7oih4lX_Bs3HIyLW1YWq8EYz9MXwdUH7_ZA0&node=2i182",
+              "etag": "05ryYS4+bmWsFElM9L2GfbA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "5ryYS4+bmWsFElM9L2GfbA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776981970904,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Iyxhw8SbQ5iyJMz-Cqv7SjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aaryan (2025)",
+  "media_kind": "movie"
+}
