@@ -1,0 +1,83 @@
+{
+  "name": "Bhairavam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Bhairavam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T23:10:12Z",
+  "remote_folder_id": 1751882,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995780",
+  "tmdb": {
+    "tmdb_id": 1388451,
+    "title": "Bhairavam",
+    "original_title": "Bhairavam",
+    "release_date": "2025-05-30",
+    "year": "2025",
+    "rating": 3.0,
+    "overview": "The relationship between three childhood friends begins to crumble as their loyalty is tested.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/dT4zhRKIgRLcoSOWbxsA6vMWLxx.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/dpQu2WocTv0NMDdPLNwQiZJaOBX.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995780",
+    "status": "U",
+    "etag": "3sp/IaEDdNbyDo1YoOFXfA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995780",
+          "url": "/sapi/download/video?action=get&k=KJtKvLoA9qOtp8IR6HSmNjlrnut-cPuoQAXbub2T1EQySAl_hPwVPmI5Xli2NeqLSdQWorMYqLSdInZlkVsIy0fdv2qUTGowetmq_KWDpuWvy_CHI0x_brsjePcnK9Cdlj_sfxOAjsRtz_vz9i0VEOGZyxH6TVstEpQ45mV6C56CqkmbIW4&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=jS6bDaTnoGWuH_LtYH-6u3lltZ_u_pEa9TjmP4-BrHCeqhzTQeEnnS_8b1H5i6PpkCtx2PC2Y0XdifqRyJcdYLdTrj8uLz2to2NEsRyvSTacRKyC_fmj5-fW_FFBCa6YbNWr1zNXmcnUUuhGxXY2zFdySauBUbF6IlFIjsZctLIZars8RTpS9kO3nRoGUzquf9E&node=2i182",
+          "date": 1776985812076,
+          "creationdate": 1776985661000,
+          "modificationdate": 1776985661000,
+          "uploaded": 1776985765760,
+          "size": 1463547091,
+          "name": "Bhairavam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8854465,
+            "bitrate": 1322313,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6Zznnlx8OAnhc8rLmc-d9KyKtj-FwMaBk9kJhdTJSdIpD5d4RwFPSGq9MVUsFuEdHMSRO1oBRtuybvZUOVrMc9sPRfJSgad6vLUxtWAE5Dr93xFIqLLuazkkybpUqZ3_drC3FfSnYB4HIh6ZUqGK5jgeFE6iDn37Anc-or99ynURzEcDo44Vimr2gFgtz0W0KHg&node=2i182",
+              "etag": "03sp/IaEDdNbyDo1YoOFXfA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=jS6bDaTnoGWuH_LtYH-6u3lltZ_u_pEa9TjmP4-BrHCeqhzTQeEnnS_8b1H5i6PpkCtx2PC2Y0XdifqRyJcdYLdTrj8uLz2to2NEsRyvSTacRKyC_fmj5-fW_FFBCa6YbNWr1zNXmcnUUuhGxXY2zFdySauBUbF6IlFIjsZctLIZars8RTpS9kO3nRoGUzquf9E&node=2i182",
+              "etag": "03sp/IaEDdNbyDo1YoOFXfA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "3sp/IaEDdNbyDo1YoOFXfA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776985812198,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/wvC5cC3RR5SgchfGHj3fhDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bhairavam (2025)",
+  "media_kind": "movie"
+}
