@@ -1,0 +1,83 @@
+{
+  "name": "28 Degree Celsius (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\28 Degree Celsius (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T21:50:52Z",
+  "remote_folder_id": 1751821,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241994742",
+  "tmdb": {
+    "tmdb_id": 586369,
+    "title": "28 Degree Celsius",
+    "original_title": "28\u00b0C",
+    "release_date": "2025-04-04",
+    "year": "2025",
+    "rating": 4.0,
+    "overview": "28 degrees celsius is a romantic suspense thriller centred around Anjali, who suffers from a brain injury that makes her vulnerable to extreme temperatures and she must remain at a constant 28C to survive. As Karthik fights to protect her, unexpected twists unfold, blending love and suspense in a gripping narrative that keeps audiences on the edge.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9uh1vtpaSAc8geSdnJ8SciiH0LS.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6TBV2xzcN8mAvjmt4ttKfVogHqY.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994742",
+    "status": "U",
+    "etag": "AvhJ1mmPZSgd/bWKMiEQRg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241994742",
+          "url": "/sapi/download/video?action=get&k=2rgbyuXmG2DdTSj26I7t7idGR5pYlsxj3a6d6J02dnWLh_3gsavVa_XtXfwXMG-tNNkPdylvNv_fs1gB9eXxiGqqx4xj1hipFQHtEGnUU6OGg1lIiNBPhVtSY3vIxMEwEoGuj0Z4z7yhuPhakkabyCOisqtyN8ddfFmYzT9KNulqbfFBjQo&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=ZLfuRrip6HnJnBoH6eg4L_6lEvalSfTj9samcibpzRXgCydqHHvjVTM-zQcH2Uv0vEBMBmqFAmbegRYwjNgD_a8pcE_k6LckKyA9CnziXS8idGrBSTJKxqj7Mq8EFCXXj30JRMbw2bTf-zqRe6609FwIk7gs-zh-qnZSd7cu1ZoyJzAPDvvJzFkbdh-aMmKvfv4&node=2i182",
+          "date": 1776981051657,
+          "creationdate": 1776980938000,
+          "modificationdate": 1776980938000,
+          "uploaded": 1776981017531,
+          "size": 1061696221,
+          "name": "28 Degree Celsius (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6375897,
+            "bitrate": 1332137,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=OznctJRh1bSUcpvtLXpTZgtMKjDykmbktWg5Mn1HKhXeDX4PAyRN78kOPAtAQ9lu0qMuV9ZonQht4YgA87RR_ySIcvy6JmdKtXq-NnCp_Ykcy7N5uCFqYc2Rr-nZ29FfvjJ6A8M2r1DNVJR6H0wk1IKEsOeluSQVZ__f09jyfWj6ug7-9dGKQvmLqoGKkDXdNQ4&node=2i182",
+              "etag": "0AvhJ1mmPZSgd/bWKMiEQRg=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ZLfuRrip6HnJnBoH6eg4L_6lEvalSfTj9samcibpzRXgCydqHHvjVTM-zQcH2Uv0vEBMBmqFAmbegRYwjNgD_a8pcE_k6LckKyA9CnziXS8idGrBSTJKxqj7Mq8EFCXXj30JRMbw2bTf-zqRe6609FwIk7gs-zh-qnZSd7cu1ZoyJzAPDvvJzFkbdh-aMmKvfv4&node=2i182",
+              "etag": "0AvhJ1mmPZSgd/bWKMiEQRg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "AvhJ1mmPZSgd/bWKMiEQRg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776981051782,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/rStDoSQvTUuAngK2qCHrrjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "28 Degree Celsius (2025)",
+  "media_kind": "movie"
+}
