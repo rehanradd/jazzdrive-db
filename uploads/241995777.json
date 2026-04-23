@@ -1,0 +1,82 @@
+{
+  "name": "Bhairathi Ranagal (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Bhairathi Ranagal (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T23:05:26Z",
+  "remote_folder_id": 1751880,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995777",
+  "tmdb": {
+    "tmdb_id": 1088410,
+    "title": "Bhairathi Ranagal",
+    "original_title": "\u0cad\u0cc8\u0cb0\u0ca4\u0cbf \u0cb0\u0ca3\u0c97\u0cb2\u0ccd\u200c",
+    "release_date": "2024-11-14",
+    "year": "2024",
+    "rating": 8.3,
+    "overview": "The story revolves around the life of Bhairathi Ranagal's journey from being a law-abiding responsible lawyer to the benevolent crime boss of Karnataka.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ghA56IEkZ1FwJVDWWEihtVnRYvZ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/13yVuhVKCiN2vUa4PdKSsBFF4nh.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995777",
+    "status": "U",
+    "etag": "lF4vJt608/rKQ/P/68eRcg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995777",
+          "url": "/sapi/download/video?action=get&k=872apOZJmA3LpNNL-GoWs8tSJpIS-Qad2hAQainwedh94nI3gQ0mVMZaD9hoeNm3vD3ZyUBe58-hWe2lvebzOEjO5Yev_RHdlRU6PFCOmNCizx4BmVYJQmIcOm5oSCF_9BZDhbovp7PMGDuXj5N76klLnvQItUfcVkeznwgpJLeFkNIlXD4&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=qxCsFZ73SwI7Q-O7Jc0DhcUfA_noRtq33PlYWZYIdjojdawOBbaFeEpr2vFf06bqKR_RSyaUlACMyofuj7nOqXRdJCM_bamiuTDIsgfPkkNQn1T_ANRNZYpsD5_n0OCbL8NzdRT2c-g3o3DM15kypK0pp-WtG95R7y7wpMzlfEOE21J54nvoeE7IuUuSvPpWmnY&node=2i182",
+          "date": 1776985525144,
+          "creationdate": 1776985404000,
+          "modificationdate": 1776985404000,
+          "uploaded": 1776985486810,
+          "size": 1348812081,
+          "name": "Bhairathi Ranagal (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7949728,
+            "bitrate": 1357341,
+            "codec": "h264",
+            "height": 472,
+            "width": 1280,
+            "audiocodec": "eac3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 94,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=p9mayQZelzDWt5Y4GyuI8f7w9WM2nHOHhr6E8hlCAJ07eTjsMe70BdnzlzrTatn1Ul8YkYJVLwdfn_erVOn47PPeeSk7mm15Ns1_KtrY6zoa8jzo9tCyuAHnGkLz-v0-dL8MyhRpjJAZdyvWPBuHLKAGtHtuIcEY9r9PtkSXIwuelNufOuUQ_TBwRqzBwNB8hXQ&node=2i182",
+              "etag": "0lF4vJt608/rKQ/P/68eRcg=="
+            },
+            {
+              "w": 1024,
+              "h": 377,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qxCsFZ73SwI7Q-O7Jc0DhcUfA_noRtq33PlYWZYIdjojdawOBbaFeEpr2vFf06bqKR_RSyaUlACMyofuj7nOqXRdJCM_bamiuTDIsgfPkkNQn1T_ANRNZYpsD5_n0OCbL8NzdRT2c-g3o3DM15kypK0pp-WtG95R7y7wpMzlfEOE21J54nvoeE7IuUuSvPpWmnY&node=2i182",
+              "etag": "0lF4vJt608/rKQ/P/68eRcg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "lF4vJt608/rKQ/P/68eRcg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776985525259,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/TZBXQo2nQECgnxkbwPGQrDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bhairathi Ranagal (2024)",
+  "media_kind": "movie"
+}
