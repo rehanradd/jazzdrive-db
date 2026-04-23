@@ -1,0 +1,81 @@
+{
+  "name": "A R M (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\A R M (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T21:58:39Z",
+  "remote_folder_id": 1751825,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241994746",
+  "tmdb": {
+    "tmdb_id": 1390777,
+    "title": "V A P O R   D R E A M S",
+    "original_title": "V A P O R   D R E A M S",
+    "release_date": "2024-11-19",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jvGkzWLwNpRDJMBdsevPt4aVETy.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      99
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994746",
+    "status": "U",
+    "etag": "SgjmU1hHi8uVEeqa3Gd8fQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241994746",
+          "url": "/sapi/download/video?action=get&k=61oEe7doCIYe5BoDa16M3ZTexWRZ5Xa28FEW4mfz_z3NtXzbaa08ZYLGKWcW2edbMHq2FBhCb4tqZh4YQwjsVET4bOKkvoH0a4Pwr_lXv7RtUBw2iqxCDVk_D_7TYp57c_U7LpnAuSx0v0tikQXL2sODfwelcgcRQRqvu6RIqcjE0Q9FeR8&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=nHBKEpioR6Ik9VBScJ6DKO85eqEpQ943XhsFkIXr7mKzo8HDc8jYOD0UB8n85bLFmeVYWesMza2IoAt1QRSnUyMgkfZX8K8n-rpn2CGyDzlFHqRjgWEyqCm4HcFko_hvZeyChqo_G0bBOVjsKyH0XutXNelczwetBlk3vVrTzH5TKvHTmem2I3NwtACssnuqK9c&node=2i182",
+          "date": 1776981518742,
+          "creationdate": 1776981339000,
+          "modificationdate": 1776981339000,
+          "uploaded": 1776981476027,
+          "size": 1412580962,
+          "name": "A R M (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8822016,
+            "bitrate": 1280959,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=gycKdEjTF1VIAhFDTTDt45o0oGFanDU0I-6503ROG2Z8MMMnlmygn-zwIxlEj16m5npxSA0ZWTNE2PoPLwh12iHDzM8OYVb8CQj0O3j5icCxRKT2RqcQtU4nmKX89AzHSvr_uzXxkC5oyxFzoCe87ssDJXeXYaF4YTrr-YMhYv3zQO6n-pkDCCwvurFrAZJwk3g&node=2i182",
+              "etag": "0SgjmU1hHi8uVEeqa3Gd8fQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=nHBKEpioR6Ik9VBScJ6DKO85eqEpQ943XhsFkIXr7mKzo8HDc8jYOD0UB8n85bLFmeVYWesMza2IoAt1QRSnUyMgkfZX8K8n-rpn2CGyDzlFHqRjgWEyqCm4HcFko_hvZeyChqo_G0bBOVjsKyH0XutXNelczwetBlk3vVrTzH5TKvHTmem2I3NwtACssnuqK9c&node=2i182",
+              "etag": "0SgjmU1hHi8uVEeqa3Gd8fQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "SgjmU1hHi8uVEeqa3Gd8fQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776981518866,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/wbey0J04SQSmIvfgCJrxUTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "A R M (2024)",
+  "media_kind": "movie"
+}
