@@ -1,0 +1,82 @@
+{
+  "name": "Aaragan (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Aaragan (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T22:02:51Z",
+  "remote_folder_id": 1751829,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241994753",
+  "tmdb": {
+    "tmdb_id": 1356638,
+    "title": "Aaragan",
+    "original_title": "\u0b86\u0bb0\u0b95\u0ba9\u0bcd",
+    "release_date": "2024-10-04",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Saravanan and Magizhnila, deeply in love, are looking to secure their future together but need more financial stability. When Magizhnila lands a higher-paying job in a new town, it seems like a promising opportunity. However, she soon faces a series of harrowing challenges. How she navigate this turbulent phase forms the heart of the story.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/e35XoiTtuLSpL6We5kx9GmvX4o4.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/gOdVQAT7qniIUObi75oHUpSJ4Lk.jpg",
+    "genre_ids": [
+      14,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994753",
+    "status": "U",
+    "etag": "ZTPwn4odOQPU/KBsWbunqA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241994753",
+          "url": "/sapi/download/video?action=get&k=8H5cYuWbtPB95JJHO8q6HUfRcjuN0z5fTK0f3GLt4hloQyV3ulp3O53F9wLWnf3to3VSMF5eKuPtXcubge17bIzzHLiGE5eIusvcGHya0c_6Cx7IRM4bgphITz_D9D3sJkgaLEqyDvQlzFtZAHxexVr-uuG9PYJdYU8VwOWkCGb_-nT4J2s&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=g0McX3S4mQhZAMIQ5ndBbfERLHEgR7XmBCE_nkMYbRkswu1wFuhSa3t1igYVhPO8t7UvVdaI5-dXtoOZYSyGVYOaEmCv2A92fs5qPIxfdy7hRdSBJO9pA-h7PBJ12fd_IpkKMC1AiN-3dVjl9J1ArNqsuf-dBPNJ_Xf-xAzjuV9mbrd3VeqVrz1qR4AQxi6n7RM&node=2i182",
+          "date": 1776981770217,
+          "creationdate": 1776981684000,
+          "modificationdate": 1776981684000,
+          "uploaded": 1776981729849,
+          "size": 951081837,
+          "name": "Aaragan (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6140053,
+            "bitrate": 1239183,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=N3wT-VFTKJT4UyJlewhglBgPOGXyPK6K0JocQPbjNaJ4Ar5SfnNOQ1MIUsmmPE65ZaGBI7qqRaOOnOvK2fAuWBOUeGKzIkt2NQQIuvHd290Z-jsqtOUb29NXfkqPVqx23u928zO_HaB23tLeLqosAkeyDyjNPjt2QmTqWkrQ7kJwa03jRHqOnEoHJo1ZAuD2n-g&node=2i182",
+              "etag": "0ZTPwn4odOQPU/KBsWbunqA=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=g0McX3S4mQhZAMIQ5ndBbfERLHEgR7XmBCE_nkMYbRkswu1wFuhSa3t1igYVhPO8t7UvVdaI5-dXtoOZYSyGVYOaEmCv2A92fs5qPIxfdy7hRdSBJO9pA-h7PBJ12fd_IpkKMC1AiN-3dVjl9J1ArNqsuf-dBPNJ_Xf-xAzjuV9mbrd3VeqVrz1qR4AQxi6n7RM&node=2i182",
+              "etag": "0ZTPwn4odOQPU/KBsWbunqA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ZTPwn4odOQPU/KBsWbunqA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776981770332,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/hzR6ElhNSF6UdHnU82B8szMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aaragan (2024)",
+  "media_kind": "movie"
+}
