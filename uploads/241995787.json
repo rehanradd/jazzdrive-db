@@ -1,0 +1,69 @@
+{
+  "name": "Blink (2024) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Blink (2024) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T23:18:44Z",
+  "remote_folder_id": 1751889,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995787",
+  "tmdb": {
+    "tmdb_id": 1340168,
+    "title": "Blink",
+    "original_title": "Blink",
+    "release_date": "2024-10-04",
+    "year": "2024",
+    "rating": 7.865,
+    "overview": "The Pelletier family sets out on an epic journey to see the beauty of the world when three of their four children are diagnosed with an incurable eye condition.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/w8w7QbN4gyX4tL2nvenS7Xh44su.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jwvsA0pgp2lD0IggnUWjOy1mf5s.jpg",
+    "genre_ids": [
+      99
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995787",
+    "status": "U",
+    "etag": "S0BBoA+V10RcdGF330ikWA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995787",
+          "url": "/sapi/download/video?action=get&k=ph2lN0IXU0nY-a5ldB82YwAGx4m8txnEAGA754NfLbZseSuAO83ZsP1U80ChMgDsbc_wspko2d9oGNdXosaJctifAMNAYLPuKxoz9OT7zK9-cEfB0gTMLZYDbK4RX0W4it8oSf-LrOUKnXQw7A5Fl3bORxAvHI6c5ia_dUJcdmmXem5Ar-w&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=RILv-9xIotWahS4lwwxkxwajN9o-stJDgypCdhaqCKUC_FCE_xaMWkPBbdEJFF5HsLjtbevm2mfEfxl0CNIj3TurjYciyVaKvKMopqhqYJCECglH5N10yI7SisrWoXvBooRmBgpY7kOozc_qObNvO5yYS_zYnSOmNOlsQ57jHia3E4oI_-s8jhm1ClyFL1e4Ods&node=2i182",
+          "date": 1776986324062,
+          "creationdate": 1776986186000,
+          "modificationdate": 1776986186000,
+          "uploaded": 1776986259835,
+          "size": 1499146685,
+          "name": "Blink (2024) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=4WfE1Pp-XuuedFAwdGlWX5na7jcU5F6wkDvY4Ww3kfpd3c6c3sC0IIxnR_Rz90blWzrdrIO7ZHiRhG-YRwaKvfwDFH2SdTLZexYOEVEpD_OnxhPZJbmZLNUTOz7UXDt0JIR-GsE2j7xg3qbLxE7yM_bdORHFCHU8J54k52tKt_9ljZCFrpVDtByrks-OV-39j74&node=2i182",
+              "etag": "0S0BBoA+V10RcdGF330ikWA=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=RILv-9xIotWahS4lwwxkxwajN9o-stJDgypCdhaqCKUC_FCE_xaMWkPBbdEJFF5HsLjtbevm2mfEfxl0CNIj3TurjYciyVaKvKMopqhqYJCECglH5N10yI7SisrWoXvBooRmBgpY7kOozc_qObNvO5yYS_zYnSOmNOlsQ57jHia3E4oI_-s8jhm1ClyFL1e4Ods&node=2i182",
+              "etag": "0S0BBoA+V10RcdGF330ikWA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "S0BBoA+V10RcdGF330ikWA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776986324178,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MEy0ADxzRUSpi70cvS6kwjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Blink (2024)",
+  "media_kind": "movie"
+}
