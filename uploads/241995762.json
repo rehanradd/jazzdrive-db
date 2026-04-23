@@ -1,0 +1,83 @@
+{
+  "name": "Appudo Ippudo Eppudo (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Appudo Ippudo Eppudo (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T22:42:53Z",
+  "remote_folder_id": 1751865,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995762",
+  "tmdb": {
+    "tmdb_id": 1380109,
+    "title": "Appudo Ippudo Eppudo",
+    "original_title": "\u0c05\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c4b \u0c07\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c4b \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c4b",
+    "release_date": "2024-11-08",
+    "year": "2024",
+    "rating": 3.0,
+    "overview": "Rishi falls in love with a girl named Tara, a budding racer, due to a mistake made by his friend Yaji... Rishi and Tara who were meant to be close get separated. Rishi works as an intern in the racing circuit in London due to the suggestion given by Yaji.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tzpZlcdCfyLFzSXotkzrpYWuvNM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/5SIrW3PHqOyeKLLDFQ49ku2IDeQ.jpg",
+    "genre_ids": [
+      28,
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995762",
+    "status": "U",
+    "etag": "H1+tC63+aa/A32vQDktpAg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995762",
+          "url": "/sapi/download/video?action=get&k=HMWdnrCE5Pe7mQWlBjvJDAQNaZYK1tDtKSqbghDyD8-ybyH1KCiUDndCAvtDnNkO_whcPTeZTJYcf2tlK7rJhnKurZhPX707boqLfpaIZbAfBog0W5i4NE0tTu1lQmaRy2xSTnwJmEGEzJqykdd82xoIShuqcEUuc57SjndkpVistHNYvKg&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=Lv9bZ3wW8HWLJeYUZ-sv3WShhKg_Fmc_pcIt9p_Sph2y5jhQeC5WQI57M4HvpDx4tqHyey3n2MU2J4UfZMBPrvA6lNYG1nbDTGgGFHcVknD1oSaORJHXZhpNZbQ-gD9QhCnr_dbprwXoKoqYiBT9LUonQPWz7jfi0yIW1Vk53E9mnMrSzD9DPKOvvlbmA3tckz4&node=2i182",
+          "date": 1776984172044,
+          "creationdate": 1776984052000,
+          "modificationdate": 1776984052000,
+          "uploaded": 1776984132991,
+          "size": 1308923747,
+          "name": "Appudo Ippudo Eppudo (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7187200,
+            "bitrate": 1456949,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "eac3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ZIhqxQlfZvYqfRiPvNs9VeHvFoa4S3_WXHIk4iWoMMKYo-cxDvAVEJjThPovoCdn6x7jXSRqmsf81dIBaQNb2oTUzGVtDg8B9QBR3RHj7xGo_FUeUKaPF-xIYiUDgMKtS4uGRZZu-xDrObFnX0qkB24IJ8f8UtN2yT66YY1wrR4sdR4eUT6HicBn6fFJFBodMYk&node=2i182",
+              "etag": "0H1+tC63+aa/A32vQDktpAg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Lv9bZ3wW8HWLJeYUZ-sv3WShhKg_Fmc_pcIt9p_Sph2y5jhQeC5WQI57M4HvpDx4tqHyey3n2MU2J4UfZMBPrvA6lNYG1nbDTGgGFHcVknD1oSaORJHXZhpNZbQ-gD9QhCnr_dbprwXoKoqYiBT9LUonQPWz7jfi0yIW1Vk53E9mnMrSzD9DPKOvvlbmA3tckz4&node=2i182",
+              "etag": "0H1+tC63+aa/A32vQDktpAg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "H1+tC63+aa/A32vQDktpAg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776984172160,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/1EezQCxIR4-VEQwDM-d5sTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Appudo Ippudo Eppudo (2024)",
+  "media_kind": "movie"
+}
