@@ -1,0 +1,82 @@
+{
+  "name": "Bougainvillea (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Bougainvillea (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T23:20:33Z",
+  "remote_folder_id": 1751890,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995788",
+  "tmdb": {
+    "tmdb_id": 1177224,
+    "title": "Bougainvillea",
+    "original_title": "\u0d2c\u0d4b\u0d17\u0d2f\u0d4d\u0d7b\u0d35\u0d3f\u0d32\u0d4d\u0d32",
+    "release_date": "2024-10-17",
+    "year": "2024",
+    "rating": 6.525,
+    "overview": "A family entangled in a police investigation surrounding the mysterious disappearance of tourists in Kerala.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lH5bWsODh1QU6aia1ZpaC79kq2j.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/c6jcJXaRek3yEgpHoELLptnl4RQ.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995788",
+    "status": "U",
+    "etag": "sGm1qLzItHwdLJSHkoZXqg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995788",
+          "url": "/sapi/download/video?action=get&k=oY0FAtz77IJ0pw3w5mvtr053PHUl_BNUJOHBa8oC3HRjo0Kgkx_5rJAq8YcIXEynHrLpRxgPzPdnxWNJdU7w3TZgz1H6-M0Li8HxHr_MDrtw0BsTLH2nVA-Oy6s52Fj-6ycmADK6VlH-74n4YPVZ2lgJ7xjao-a6-jWH6wczee2zNPcTk1I&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=b-0FtT81XfD7sBMmXPtuOXEdFuEqD4bhbmp-_flpP-vQwyyb1z8QhjUOHvkalZegsPbmuTmfBLLj7oMyXyxzoi18rbg2kKjUGpNNqp5kwOdAPixsfNMkyIum-ZjKVRp6vUUAAjrlOenV2u63-OyVd6R4DefgQWxkJYRZpM7OCH-nO0gqBViKrYvqsesjI-rORdk&node=2i182",
+          "date": 1776986432939,
+          "creationdate": 1776986332000,
+          "modificationdate": 1776986332000,
+          "uploaded": 1776986397676,
+          "size": 1237792711,
+          "name": "Bougainvillea (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8185877,
+            "bitrate": 1209686,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=OgY8X2RCCSJCnPQzOJ5YkbANAESwDWpdHiwDy39F9APXhqgHlmjU7WYBYlYmBYIpnuMRqAWD2nUlJnj_2G2qb5QM7wipXI0BvmzATVZTzTb6mG1_R4XoB2HyuoLDPQhNXU7C7_9BfQqWCZp-ZwlYyJ7o6LkEuarK-Uu6yZPypZh41yaB6SC_fWQ0KeSQMdXkzWA&node=2i182",
+              "etag": "0sGm1qLzItHwdLJSHkoZXqg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=b-0FtT81XfD7sBMmXPtuOXEdFuEqD4bhbmp-_flpP-vQwyyb1z8QhjUOHvkalZegsPbmuTmfBLLj7oMyXyxzoi18rbg2kKjUGpNNqp5kwOdAPixsfNMkyIum-ZjKVRp6vUUAAjrlOenV2u63-OyVd6R4DefgQWxkJYRZpM7OCH-nO0gqBViKrYvqsesjI-rORdk&node=2i182",
+              "etag": "0sGm1qLzItHwdLJSHkoZXqg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "sGm1qLzItHwdLJSHkoZXqg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776986433053,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/mYnvR_ziSBqniUKYXBLmEzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bougainvillea (2024)",
+  "media_kind": "movie"
+}
