@@ -1,0 +1,82 @@
+{
+  "name": "Case of Kondana (2024) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Case of Kondana (2024) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T23:35:13Z",
+  "remote_folder_id": 1752003,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241996003",
+  "tmdb": {
+    "tmdb_id": 1230162,
+    "title": "Case of Kondana",
+    "original_title": "Case of \u0c95\u0cca\u0c82\u0ca1\u0cbe\u0ca3",
+    "release_date": "2024-01-26",
+    "year": "2024",
+    "rating": 6.0,
+    "overview": "In the outskirts of Bangalore lies Kondana, a fiery ASI in a fictional Bangalore outpost, clashing with a local gangster. Meanwhile, his love life with Sahana faces hurdles. ACP Lakshmi hunts a notorious criminal, while Raju struggles to save his ailing son. As these lives intertwine, a singular case in Kondana becomes the focal point, linking them all in a tale of mystery and connection.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zasfTaHaDzdqpUQxy0Y5tl6Mz8H.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/eMxl39mnY9nqrcjjdpcobdj7RTF.jpg",
+    "genre_ids": [
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241996003",
+    "status": "U",
+    "etag": "D48M3oGXbsrsxHU72wGeiQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241996003",
+          "url": "/sapi/download/video?action=get&k=jeZkSgbOJmBmH7_EfKrqKO3N6pEkpqaFcz8MaN-ntSmX_Til59snRxfISOZlJko72cd25MN3RQkVEL9NYLvNssjmsvhol04rbD9IGfk1D5kqPB4sWh633KbFQroXJsrOZD1luvEdvNTA4T11Vx446BLte3cufyruTy1lFQ7-iALZKnaRcx4&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=gu9ayRdVaNM8IxLUxkxnyehyAA2wsN9OkQNaX_P9CusyJr5bIaK3wTtMBqVv8cL4EZhxgfaB_2yD11fU8b2I_WHQXrGCDNxILwMtxdskE0I9zRbzdeFRVBDEkWOPIvPk3157zes4FqiWh7uk7Al1bL5N-7VjT9C6F9Jn3uKhysfJDxnfcTaULMVgDYgBgnhbwKQ&node=2i182",
+          "date": 1776987312333,
+          "creationdate": 1776987193000,
+          "modificationdate": 1776987193000,
+          "uploaded": 1776987267829,
+          "size": 1573353941,
+          "name": "Case of Kondana (2024) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8468937,
+            "bitrate": 1486235,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=bAJSAAqkHJ6XOpB3jbp8Kukg9GXIN9Bpa8jPVxFySjNagEKnrxbX5p3QtXTNOK5i8UvqDjELqIqIgA_e_UmaU4rNPPNkpdwFhAqfSPMwsAW4tCXjPdXhs5SOYKr4x2l0vOM0_qC6tD8Mp7kPU253Zf7g5yPJWxM7wCX9tuM98aJ1ZNExbQv2SErLGsWCZJxIx6g&node=2i182",
+              "etag": "0D48M3oGXbsrsxHU72wGeiQ=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=gu9ayRdVaNM8IxLUxkxnyehyAA2wsN9OkQNaX_P9CusyJr5bIaK3wTtMBqVv8cL4EZhxgfaB_2yD11fU8b2I_WHQXrGCDNxILwMtxdskE0I9zRbzdeFRVBDEkWOPIvPk3157zes4FqiWh7uk7Al1bL5N-7VjT9C6F9Jn3uKhysfJDxnfcTaULMVgDYgBgnhbwKQ&node=2i182",
+              "etag": "0D48M3oGXbsrsxHU72wGeiQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "D48M3oGXbsrsxHU72wGeiQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776987312453,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/S4KS5SE_T3K0eXuJH75XeTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Case Of Kondana (2024)",
+  "media_kind": "movie"
+}
