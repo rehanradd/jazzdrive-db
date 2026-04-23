@@ -1,0 +1,83 @@
+{
+  "name": "Avatar - Fire and Ash (2025).mp4",
+  "path": "movies\\Avatar - Fire and Ash (2025).mp4",
+  "uploaded_at": "2026-04-23T13:29:08Z",
+  "remote_folder_id": 1751901,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241992159",
+  "tmdb": {
+    "tmdb_id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "original_title": "Avatar: Fire and Ash",
+    "release_date": "2025-12-17",
+    "year": "2025",
+    "rating": 7.374,
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+    "genre_ids": [
+      878,
+      12,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241992159",
+    "status": "U",
+    "etag": "Rsm1ImxOZO0SVecXAR4CYQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241992159",
+          "url": "/sapi/download/video?action=get&k=RzGyKk1TrSeyU9kt5LxZ1ZPw8ICVhpCqKezV6aAuTQ6WUczip4KDazNo11bKwb5Zu-Qc8de-fRW5jua6qO8-UH_lMMd-tlXUDdf8AFllbq_IcHtWQka3LO0LwsM5r17e4ytliHDf0PRjmnNStBCQj4fvl9Ad8pq9-ZOyniZ9kBP1yGB-BPQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=Z9EALeLWHNN9d2AdV2Z4TXq_vH9H3KpWZMnKeYEKLKYdQb_-inMYiRnzUsQT3UgiCAukGNdaX3CvdUWJzO8jn_CKdgYN0jg8QWQTXoJbh1x24MQ5s_KRX6HSoLDmhuT4NmEskStzwghI7wNuFakRpKKr4ZYo8ycS5ZNPUvnxup6-RT96XHnsGZ5sVwTpF3G-76k&node=1i220",
+          "date": 1776950958539,
+          "creationdate": 1776950957000,
+          "modificationdate": 1776950957000,
+          "uploaded": 1776950958077,
+          "size": 2442017,
+          "name": "Avatar - Fire and Ash (2025).mp4",
+          "metadata": {
+            "duration": 8850,
+            "bitrate": 2207472,
+            "codec": "h264",
+            "height": 960,
+            "width": 540,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 144,
+              "h": 256,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=49W-_Ym4LXNJsiQ2TWh9JfW_zQ6p_4n8oD02HC_3IO1SwITPRbDn1fXOonC_0_C1hStwb5zNIwuPZInlau2S2FlI69Iy5aFCjlpOy-_lNmVMByBj5-S6KMUmE9uZtAUieXsvEiplAUZvQjxv3Yd5q1r-yWTAOlVEmN9rAf4_LYqISoBQQ-xi7jy59-GZ7NbehkU&node=1i220",
+              "etag": "0Rsm1ImxOZO0SVecXAR4CYQ=="
+            },
+            {
+              "w": 540,
+              "h": 960,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Z9EALeLWHNN9d2AdV2Z4TXq_vH9H3KpWZMnKeYEKLKYdQb_-inMYiRnzUsQT3UgiCAukGNdaX3CvdUWJzO8jn_CKdgYN0jg8QWQTXoJbh1x24MQ5s_KRX6HSoLDmhuT4NmEskStzwghI7wNuFakRpKKr4ZYo8ycS5ZNPUvnxup6-RT96XHnsGZ5sVwTpF3G-76k&node=1i220",
+              "etag": "0Rsm1ImxOZO0SVecXAR4CYQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Rsm1ImxOZO0SVecXAR4CYQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776950958591,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/llky5j48QqyChevThOFvDTA0NzE3MTIzNzE2NzFfMjYwMzgwMA",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Avatar Fire And Ash (2025)",
+  "media_kind": "movie"
+}
