@@ -1,0 +1,71 @@
+{
+  "name": "Dust Bunny (2025).3gp",
+  "path": "..\\radd-stream-v3.1\\downloads\\Dust Bunny (2025).3gp",
+  "uploaded_at": "2026-04-23T15:56:33Z",
+  "remote_folder_id": 1751905,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241993767",
+  "tmdb": {
+    "tmdb_id": 1043197,
+    "title": "Dust Bunny",
+    "original_title": "Dust Bunny",
+    "release_date": "2025-12-11",
+    "year": "2025",
+    "rating": 6.628,
+    "overview": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+    "genre_ids": [
+      14,
+      28,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241993767",
+    "status": "U",
+    "etag": "hDemYaVIlfvt+Aa7sZ6gWA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241993767",
+          "url": "/sapi/download/video?action=get&k=Eeij0mhv6h6juLtOhUTMkNW4pF3IDg_HEEVpKej1fslZO6mRcfXCEh2mY_KvP6eGWhf5VQ4YY2-iUupUGbp1B2GHSRj7ceN4WM22sBpXf1Ys6ZZOTABPeIfRiqwbvdlFQ51eDboXoi4lVljHMW4XoK9JNcjDll0pCZMlDAVmQlXk9iqCe9k&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=o1oFSIZtN41OwVJ-fuewDSJukHCTRO1Q8sVL8ImSvRN9CsfsEsYINkuh9h4DRXXSGUBrmfA45RXl9Klz12eea3YQg6hPifgkVEVIOMfcu-Mvrt8eX2TVz9qbp_StNnZyR2xYmIVPnBY4XJ5ra9W6gJa9Baplj1l-YHJLHxVX4lG5jJuxe1HhHp2PWuyGEgffo5Y&node=1i220",
+          "date": 1776959803956,
+          "creationdate": 1776959798000,
+          "modificationdate": 1776959798000,
+          "uploaded": 1776959803814,
+          "size": 524332,
+          "name": "Dust Bunny (2025).3gp",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=DXpiBoOe5xKU5pNdMjN4N0rySWa_MwWao7tQLleMqUabgum2YTuLoSBHu-vFFZLwNgJviDjJuCChxVBX0sb-tLNEvifr0yCTwvUGkPo005GLGjDG_tnQCkK9PGimQ_jako1XBmgRsyAOGOMxW_cbkKsn6tk4ndPK6Y_4ROhCBmjPVo9jZMT0WaK4EriGaZ_YUP4&node=1i220",
+              "etag": "0hDemYaVIlfvt+Aa7sZ6gWA=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=o1oFSIZtN41OwVJ-fuewDSJukHCTRO1Q8sVL8ImSvRN9CsfsEsYINkuh9h4DRXXSGUBrmfA45RXl9Klz12eea3YQg6hPifgkVEVIOMfcu-Mvrt8eX2TVz9qbp_StNnZyR2xYmIVPnBY4XJ5ra9W6gJa9Baplj1l-YHJLHxVX4lG5jJuxe1HhHp2PWuyGEgffo5Y&node=1i220",
+              "etag": "0hDemYaVIlfvt+Aa7sZ6gWA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "hDemYaVIlfvt+Aa7sZ6gWA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776959803993,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pmAC1mw-Rv-ru-pA-SrfGTA0NzE3MTIzNzE2NzFfMjYwMzgwMA",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dust Bunny (2025)",
+  "media_kind": "movie"
+}
