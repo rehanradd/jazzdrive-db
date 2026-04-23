@@ -1,0 +1,41 @@
+{
+  "name": "desktop.ini",
+  "path": "D:\\$RECYCLE.BIN\\S-1-5-21-1799624528-18323360-4291928178-1003\\desktop.ini",
+  "uploaded_at": "2026-04-23T22:20:32Z",
+  "remote_folder_id": 1751842,
+  "mediatype": "file",
+  "stream_link": "",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994767",
+    "status": "U",
+    "etag": "Z1/Z5ENUTxmGNWgtKD5YsQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "files": [
+        {
+          "id": "241994767",
+          "url": "/sapi/download/file?action=get&k=wVz2Scaa_T6oUe3EyXyBVZ_wVPsX56jvynk_v6Oqfe3_SMFyq-S96u2pfsq-EUCrLntSET2szPCkd60Szejkk5-VIJ-K6tk1L1NovazhFMe_SdkKj7uecIOIAipCoInsCP2-Qy4hEmJ9ZzZEQkOSB-YLAlSNU2qp26tKvnr_xtZNTntpLsk&node=2i182",
+          "date": 1776982832392,
+          "creationdate": 1776982832000,
+          "modificationdate": 1776982832000,
+          "uploaded": 1776982832313,
+          "size": 129,
+          "name": "desktop.ini",
+          "mediatype": "file",
+          "status": "U",
+          "etag": "Z1/Z5ENUTxmGNWgtKD5YsQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776982832474,
+    "type": "file"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MHDSTEAiSvm4w4a1bCrEEDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Desktop",
+  "media_kind": "file"
+}
