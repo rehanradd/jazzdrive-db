@@ -1,0 +1,41 @@
+{
+  "name": "VMAgentLogs.zip.json",
+  "path": "D:\\CollectGuestLogsTemp\\VMAgentLogs.zip.json",
+  "uploaded_at": "2026-04-23T22:20:27Z",
+  "remote_folder_id": 1751841,
+  "mediatype": "file",
+  "stream_link": "",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994766",
+    "status": "U",
+    "etag": "3aSPZ0TMBLP9FX/W9e2mew==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "files": [
+        {
+          "id": "241994766",
+          "url": "/sapi/download/file?action=get&k=4x-ikDJtehjda9r3_uwuqXHnaTXzMRwOfCqQUJm6WIbA2diFhJmItjjlM6Pz-DkH18WjcH3D-7zJzI0fdc88DUPPBm5gBE279g3nAJcfGlpAsqwq7EoOwXdYCaQi9xn2T8emwojmlOL45UwlljZOpYCraXVF2h_mdsz_xRiFWvB1xtcSTspc&node=2i182",
+          "date": 1776982827414,
+          "creationdate": 1776982827000,
+          "modificationdate": 1776982827000,
+          "uploaded": 1776982827335,
+          "size": 9425,
+          "name": "VMAgentLogs.zip.json",
+          "mediatype": "file",
+          "status": "U",
+          "etag": "3aSPZ0TMBLP9FX/W9e2mew==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776982827498,
+    "type": "file"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/hXlSeZI9QjajCg0qSJbI6TMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Vmagentlogs Zip",
+  "media_kind": "file"
+}
