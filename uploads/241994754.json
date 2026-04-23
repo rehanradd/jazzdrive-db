@@ -1,0 +1,83 @@
+{
+  "name": "Aaromaley (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Aaromaley (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T22:06:06Z",
+  "remote_folder_id": 1751830,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241994754",
+  "tmdb": {
+    "tmdb_id": 1489510,
+    "title": "Aaromaley",
+    "original_title": "\u0b86\u0bb0\u0bcb\u0bae\u0bb2\u0bc7",
+    "release_date": "2025-11-07",
+    "year": "2025",
+    "rating": 6.7,
+    "overview": "Ajith, a romantic dreamer faces reality when forced to work at a matchmaking agency under Anjali,a pragmatic, grounded woman, devoid of dreamy illusions. Their conflicting ideologies become the foundation of a relationship that\u2019s as charming as it is unfiltered.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/80YOW8UVr1ublMX2Q638MCdS2Q4.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sBkt74K37VWbsAyuNe6Rk8PBvLm.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994754",
+    "status": "U",
+    "etag": "Fdq00MUhXUpLcvcueD9P7w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241994754",
+          "url": "/sapi/download/video?action=get&k=7fhQVvlzdP8Ya6O_tIORIWgW5FyaAZ-q0Ni060KaeYLnzrir6SmYkmV-3CqrmL_xZB3SKB2BNcMUvEraI4S2tTzSPqE_w5HsI35Q5PK7FHWoqPOeASqu4eqRcEjxbFtoKoDlHU6gCzlqcc17svJ3WDHxYlqjP7LEnQx_tScoHEDMDG4oObk&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=N-eINgtbwGTGBmLmvcrN_Bn_7c7hbW1c9XraQKcB30KUH6i5iNRVOU1_fxP7f3VXQcgwZaulAwGDW8D4Wmiwbq_PBpREca6CywACpNG-Gr5NvlEn-LMCLQyijsoXdf1Olx9v9I7jLS9gPxk5cKlD1iRe_FruqAPkj9KhfYmjdK8xihbL_yaApD1gLch9aPe0xSo&node=2i182",
+          "date": 1776981965448,
+          "creationdate": 1776981784000,
+          "modificationdate": 1776981784000,
+          "uploaded": 1776981907623,
+          "size": 1277513765,
+          "name": "Aaromaley (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7661759,
+            "bitrate": 1333911,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=cU2h1q1MkoAgAWDgq7L__TtW9hQwtMy0pyxCrou_JBRbijk819JIHnUNpsvdDwW-0UQT-e8JqQj0KthU9TKSqQlSPxyT_h84JYawIVH2QMY1MsZ3Q3mLUPTyGu1XBa44ecPjHANX5vtzAL005F_nAtbukvLl2ThN9nJ67VWEnVceNvj3l821ssYFbdw_obwB2zQ&node=2i182",
+              "etag": "0Fdq00MUhXUpLcvcueD9P7w=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=N-eINgtbwGTGBmLmvcrN_Bn_7c7hbW1c9XraQKcB30KUH6i5iNRVOU1_fxP7f3VXQcgwZaulAwGDW8D4Wmiwbq_PBpREca6CywACpNG-Gr5NvlEn-LMCLQyijsoXdf1Olx9v9I7jLS9gPxk5cKlD1iRe_FruqAPkj9KhfYmjdK8xihbL_yaApD1gLch9aPe0xSo&node=2i182",
+              "etag": "0Fdq00MUhXUpLcvcueD9P7w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Fdq00MUhXUpLcvcueD9P7w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776981965561,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fWcJJbq3QzKGXKfD9Dk9mzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aaromaley (2025)",
+  "media_kind": "movie"
+}
