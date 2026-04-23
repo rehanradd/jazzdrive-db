@@ -1,0 +1,82 @@
+{
+  "name": "Andhagan (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Andhagan (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T22:47:30Z",
+  "remote_folder_id": 1751868,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995765",
+  "tmdb": {
+    "tmdb_id": 904704,
+    "title": "Andhagan",
+    "original_title": "\u0b85\u0ba8\u0bcd\u0ba4\u0b95\u0ba9\u0bcd",
+    "release_date": "2024-08-09",
+    "year": "2024",
+    "rating": 7.0,
+    "overview": "A piano player pretending to be visually-impaired, unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ztEH7dqo35aVt4UTTdRaTRKatcK.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2u6y99WKMtxYrrVYq62Rcd5LQ4o.jpg",
+    "genre_ids": [
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995765",
+    "status": "U",
+    "etag": "qq25VqZ1eU42lF7o3LzHdg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995765",
+          "url": "/sapi/download/video?action=get&k=nDnyTPBvXTeP8IZYucPA3mj0clYOuyXF6xTklT_dV7bdbW7F3nxh8ht_28LiBGg3GEUOAskRRWS-NDlu7V8a5PZ2WEKQdawD8zL-N9HqYcByuK4976xRfgk8byetVIwkssKM0QddAW357-QdPbTO6zUvirl61DDQZLDRej7IWXAZ1qzFnqE&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=hFUETbJIxbBREn2z_d2n6C9Ngz5U3KGIK3w-QS8WwGpvPWBKlKlm5SptX0OB3JpHRk9UZ3iA1MOeFwVBHuS6zr7JXaQFEGL_DvTY-YkcYywGeDItcHeexkDcQvlIPUeNLoAm4eX4fHcCSCoVH7gG2EleHjgW_xesyKnuCeOMAvIzt4Fj9M-MmJlkbdv-YTy2uD8&node=2i182",
+          "date": 1776984449682,
+          "creationdate": 1776984288000,
+          "modificationdate": 1776984288000,
+          "uploaded": 1776984381125,
+          "size": 1579091395,
+          "name": "Andhagan (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7617440,
+            "bitrate": 1658395,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=M223vfUF6ccgDHP3KGiwoE0OVd5nMt3yyBmLUy5xVlOpko4_a6OOUYjDWK6lz-xbupUbj32l_OWbLGwYwVLgoyenBnynX83_a44HDm3TzPRAmJD2WXplpLsshrRo55Npk2AsZxss_4QjkD5H81DMkWbqIlJp6O9URVh1Y1DW-5R-VMO0QJJ-6oYjgtmxt6GGkPs&node=2i182",
+              "etag": "0qq25VqZ1eU42lF7o3LzHdg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=hFUETbJIxbBREn2z_d2n6C9Ngz5U3KGIK3w-QS8WwGpvPWBKlKlm5SptX0OB3JpHRk9UZ3iA1MOeFwVBHuS6zr7JXaQFEGL_DvTY-YkcYywGeDItcHeexkDcQvlIPUeNLoAm4eX4fHcCSCoVH7gG2EleHjgW_xesyKnuCeOMAvIzt4Fj9M-MmJlkbdv-YTy2uD8&node=2i182",
+              "etag": "0qq25VqZ1eU42lF7o3LzHdg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "qq25VqZ1eU42lF7o3LzHdg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776984449810,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/3fM93OQaTS2AaAhCydxfXjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Andhagan (2024)",
+  "media_kind": "movie"
+}
