@@ -1,0 +1,82 @@
+{
+  "name": "Bromance (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Bromance (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T23:29:21Z",
+  "remote_folder_id": 1751894,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995792",
+  "tmdb": {
+    "tmdb_id": 1274225,
+    "title": "Bromance",
+    "original_title": "\u0d2c\u0d4d\u0d30\u0d4b\u0d2e\u0d3e\u0d7b\u0d38\u0d4d",
+    "release_date": "2025-02-14",
+    "year": "2025",
+    "rating": 5.2,
+    "overview": "Binto teams up with his brother's friends for a thrilling adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2xzgtY0d7xbqeTWdF3tDgd5WeVM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kTx0OshQyYMMJ8EtWwV9DDKNf0R.jpg",
+    "genre_ids": [
+      35,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995792",
+    "status": "U",
+    "etag": "vSnVoufqVtqpcKPKl2NjsQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995792",
+          "url": "/sapi/download/video?action=get&k=wqUXqONEeIQZKuaJVPgdOwKQ8jpV_Ou28pe-ByAZhmnUZq9Qp6ZcDV20GQHs946qmitLBhaRA1R1Ma_KISRzXStAad4y7k71_9CfgPPHU1FFi8Pj63h9FaAAHQPqc-QasPtziItFCj_xLR3P5hnFxed3QZD6SR240DBbA5M8zyVDe1-hjaY&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=bA_qPQGlnIa6sB7-ek2uEAWgqkaei5eqyy54nTorKjQMSsPLW_0ajcSMgIeu8YcOo6VKJ3IL7InOBpg8F6RrKVmwAcqcynomllZqzKu_LF8GqGxc74vgT0f1MHCeK_sFdW09JcZZe0rbEcDQ_TPexiMPqlfSDdLZU16clzRZHAxoeX3G_-GxouLzLown0fJ-9U4&node=2i182",
+          "date": 1776986960943,
+          "creationdate": 1776986650000,
+          "modificationdate": 1776986650000,
+          "uploaded": 1776986914007,
+          "size": 1518928949,
+          "name": "Bromance (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8180020,
+            "bitrate": 1485501,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=YKDlmITXH_JviJB9Khhmbtya9b51q4Kj5Dx3rYQ2zw01J6DCubTvuHzJVhtA9JL-qGbm-IxQv2-WZUq3b2xNHe-B_wU7pDPZ54tNPaE1EldgrM0kIaJoJlgMwzt9YYRZmf-9mFme2D8mRIvBjPFDOQGcs4iRUFYaM0_S07b_G3ULhg-q_3nf0r1XYNqlpPrz_To&node=2i182",
+              "etag": "0vSnVoufqVtqpcKPKl2NjsQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=bA_qPQGlnIa6sB7-ek2uEAWgqkaei5eqyy54nTorKjQMSsPLW_0ajcSMgIeu8YcOo6VKJ3IL7InOBpg8F6RrKVmwAcqcynomllZqzKu_LF8GqGxc74vgT0f1MHCeK_sFdW09JcZZe0rbEcDQ_TPexiMPqlfSDdLZU16clzRZHAxoeX3G_-GxouLzLown0fJ-9U4&node=2i182",
+              "etag": "0vSnVoufqVtqpcKPKl2NjsQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vSnVoufqVtqpcKPKl2NjsQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776986961070,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/8Dja0g9VR1KWM5BtqeSlAzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bromance (2025)",
+  "media_kind": "movie"
+}
