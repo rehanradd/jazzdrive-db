@@ -1,0 +1,72 @@
+{
+  "name": "Amaran (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Amaran (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T22:38:58Z",
+  "remote_folder_id": 1751862,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995759",
+  "tmdb": {
+    "tmdb_id": 927342,
+    "title": "Amaran",
+    "original_title": "\u0b85\u0bae\u0bb0\u0ba9\u0bcd",
+    "release_date": "2024-10-31",
+    "year": "2024",
+    "rating": 7.345,
+    "overview": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir\u2019s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eCB06m1KUGilEOlIzb40nkQhVY0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
+    "genre_ids": [
+      28,
+      18,
+      12,
+      10752
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995759",
+    "status": "U",
+    "etag": "kXsFEbCLLJgk/RM96KD/5Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995759",
+          "url": "/sapi/download/video?action=get&k=P1Q2stzCPo59CaXsgQCQJQqvGvgjfzdZ5LvwcAx7AZnsnTcLeaH1u5Gfve7sMQry7m_hJ-yGZmcbJJIucGj9xGSVT4zkkBSv5-NE28rZsbhCdIcCRJS9A6y15z-qvvVSDqycQNzjxRRvPlAABFVCdUV2t6K1kpXyVD3DkxOIdEPAn54-tV4&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=VbR792vsSpZtDTHv0yb7zak6q2FWCuJDreBcTVyuUk0kBomPPyjW50T4r5nZoFL8ZvG8RJOHmDoFWlGICgVtDhjrC6Hi_e6D5iEQH03CRkbvW4hlkrFOOOx1UByfh4exuIvIhma7b-6piM8KFeWA909fPBjK2_6xuhmLPAOTcOsnK7XETX1Nbx1gOJWAREOW5kQ&node=2i182",
+          "date": 1776983937800,
+          "creationdate": 1776983791000,
+          "modificationdate": 1776983791000,
+          "uploaded": 1776983881066,
+          "size": 1882309591,
+          "name": "Amaran (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=uHyksHx4AALULagdPxpjvXEEK4G0roX_5Bb1_XQZIrkFCTXc56I0FycX4FA8toBALqQyTeL7b-88W6ApqqWmVB5iEDU2flcdTpgLlcgK4rWZqnwY0v6a8myN-rjqMWXM5_XLtwww7Z6sIzAlCJVL_XYl5dvUyy-UDQSGMH8xpS_SQqlMLiKSR2hI4wV6CG_dNlM&node=2i182",
+              "etag": "0kXsFEbCLLJgk/RM96KD/5Q=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=VbR792vsSpZtDTHv0yb7zak6q2FWCuJDreBcTVyuUk0kBomPPyjW50T4r5nZoFL8ZvG8RJOHmDoFWlGICgVtDhjrC6Hi_e6D5iEQH03CRkbvW4hlkrFOOOx1UByfh4exuIvIhma7b-6piM8KFeWA909fPBjK2_6xuhmLPAOTcOsnK7XETX1Nbx1gOJWAREOW5kQ&node=2i182",
+              "etag": "0kXsFEbCLLJgk/RM96KD/5Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kXsFEbCLLJgk/RM96KD/5Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776983937886,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/gWAhRCmCTVqEhQQk62P5TDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Amaran (2024)",
+  "media_kind": "movie"
+}
