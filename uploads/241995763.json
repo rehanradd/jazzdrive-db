@@ -1,0 +1,84 @@
+{
+  "name": "Andhra King Thaluka (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Andhra King Thaluka (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T22:47:38Z",
+  "remote_folder_id": 1751866,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995763",
+  "tmdb": {
+    "tmdb_id": 1407437,
+    "title": "Andhra King Taluka",
+    "original_title": "\u0c06\u0c02\u0c27\u0c4d\u0c30 \u0c15\u0c3f\u0c02\u0c17\u0c4d \u0c24\u0c3e\u0c32\u0c42\u0c15\u0c3e",
+    "release_date": "2025-11-27",
+    "year": "2025",
+    "rating": 6.1,
+    "overview": "A heartfelt tribute to fan culture, the story follows Sagar, an ardent fan whose life, relationships, and identity revolve around his admiration for his cinematic idol, 'Andhra King' Surya Kumar.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/e1lNI9dZKar0JN9iNuDeUhCZcwL.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/f6vtDzjT5dnwytOmmzWjdFVzYSL.jpg",
+    "genre_ids": [
+      28,
+      18,
+      10749,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995763",
+    "status": "U",
+    "etag": "H8Nyrd/tvhAaTagoE+piSA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995763",
+          "url": "/sapi/download/video?action=get&k=SjjsWZ1vzP4rH3-Jd-1VGSeIxuuCMSxFvv3UTIEVmEy15xwGQKY8ourT6ASG6ltdNAWUMQoX_b6bERSTxHregdBpjOkVENmbpn_0SddljYBhfwdCMf_eAtcjvaBzcnK5T0LM7k65PUYIOJ_kriV_LjznLwCQRlj39Pj01jwzquLAdAIyb8Q&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=_PpEZXmyBtqJ73rIX-5nzOUZ_Z1obFwS15aWOGbdsuqDSNapKT1x7R5J1ZeBRdput3-AnLJe0o_vzJvcX_N6WAWtHozsyjGDU_8o0na62keJG2r4dtjxloMCxrMXwt3khpu6cvZpvf9qzk2SpUERc77qqXRFcBRVTX7jcTdB7Z5EXdmIir-OhqRmn7IFiieS-Q4&node=2i182",
+          "date": 1776984457523,
+          "creationdate": 1776984110000,
+          "modificationdate": 1776984110000,
+          "uploaded": 1776984392876,
+          "size": 1616240916,
+          "name": "Andhra King Thaluka (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9801982,
+            "bitrate": 1319113,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ohnl8qbzz4rnmrBZtj420vjSu-F9lcsRXvxmwfPKlY9e3PvGxvqZnqxeETw-D0-OfQ3tIJmyu11VDszVFIssmOOSSwRitdHTKYErzg2c65QRjnf8ggFTUWJaoYb98kLi8Ltxq4eHgWfjiq77n4QiVtJjupuNw9I98FTSC8YtL1mq1MjynXJPASfRrUyyQv-57JY&node=2i182",
+              "etag": "0H8Nyrd/tvhAaTagoE+piSA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_PpEZXmyBtqJ73rIX-5nzOUZ_Z1obFwS15aWOGbdsuqDSNapKT1x7R5J1ZeBRdput3-AnLJe0o_vzJvcX_N6WAWtHozsyjGDU_8o0na62keJG2r4dtjxloMCxrMXwt3khpu6cvZpvf9qzk2SpUERc77qqXRFcBRVTX7jcTdB7Z5EXdmIir-OhqRmn7IFiieS-Q4&node=2i182",
+              "etag": "0H8Nyrd/tvhAaTagoE+piSA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "H8Nyrd/tvhAaTagoE+piSA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776984457632,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/4rvuSFgQSZmKjWsUGpJExDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Andhra King Thaluka (2025)",
+  "media_kind": "movie"
+}
