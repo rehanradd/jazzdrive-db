@@ -1,0 +1,41 @@
+{
+  "name": "fc17ee91-02f9-4819-b923-bf5d8e57cde2.ps1",
+  "path": "D:\\a\\_temp\\fc17ee91-02f9-4819-b923-bf5d8e57cde2.ps1",
+  "uploaded_at": "2026-04-23T22:21:02Z",
+  "remote_folder_id": 1751848,
+  "mediatype": "file",
+  "stream_link": "",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994773",
+    "status": "U",
+    "etag": "3Pd061vAgGfneS95tic76Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "files": [
+        {
+          "id": "241994773",
+          "url": "/sapi/download/file?action=get&k=G6EJTnBFXwKn-15XZu_buRGhk6GpOcyjF4AKbIIuBWNiEhkahAF7gBHKB2HimAupmc5vtNqZoxBPgIruaBNNHs2VpT6stJmQSQtPsSMteo2roscgfOpUFV-C39JHMlrlpTnjmXLxESroMW_1hCgm6FQEduvvLWZ7YjRBnxuuoOv-7YTnWWA&node=2i182",
+          "date": 1776982861778,
+          "creationdate": 1776982862000,
+          "modificationdate": 1776982862000,
+          "uploaded": 1776982861701,
+          "size": 477,
+          "name": "fc17ee91-02f9-4819-b923-bf5d8e57cde2.ps1",
+          "mediatype": "file",
+          "status": "U",
+          "etag": "3Pd061vAgGfneS95tic76Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776982861867,
+    "type": "file"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/titW_n-6SwW3F_wkz9rY_jMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "fc17ee91 02f9 4819 b923 bf5d8e57cde2",
+  "media_kind": "file"
+}
