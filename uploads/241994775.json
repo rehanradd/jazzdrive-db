@@ -1,0 +1,41 @@
+{
+  "name": "event.json",
+  "path": "D:\\a\\_temp\\_github_workflow\\event.json",
+  "uploaded_at": "2026-04-23T22:21:10Z",
+  "remote_folder_id": 1751850,
+  "mediatype": "file",
+  "stream_link": "",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994775",
+    "status": "U",
+    "etag": "4NlrllZhvY+DWwRL9mz54w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "files": [
+        {
+          "id": "241994775",
+          "url": "/sapi/download/file?action=get&k=zDvtWXhrAS6m85FdjdTqUSHBDfV5gKcbda8lskz-q4wx3h6t8ntAPnkHdT1keW-ndB8Lv__E0juauIEZMTpZuLJ_MsZBmDl9WnTyvRHnzoquDQKTPT1WlXiE5hAMeGf8vTZpYKSfYTO_RPT2im1WgehSGKyYQJJM8rJRNOvyR61J2wYuFtpX&node=2i182",
+          "date": 1776982870256,
+          "creationdate": 1776982870000,
+          "modificationdate": 1776982870000,
+          "uploaded": 1776982870180,
+          "size": 7566,
+          "name": "event.json",
+          "mediatype": "file",
+          "status": "U",
+          "etag": "4NlrllZhvY+DWwRL9mz54w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776982870343,
+    "type": "file"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ZhCQBt9KSAmiRlTfI-Jn3TMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Event",
+  "media_kind": "file"
+}
