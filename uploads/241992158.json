@@ -1,0 +1,83 @@
+{
+  "name": "Bhartha Mahasayulaku Wignyapthi (2026).mp4",
+  "path": "movies\\Bhartha Mahasayulaku Wignyapthi (2026).mp4",
+  "uploaded_at": "2026-04-23T13:29:08Z",
+  "remote_folder_id": 1751902,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241992158",
+  "tmdb": {
+    "tmdb_id": 1442975,
+    "title": "Bhartha Mahasayulaku Wignyapthi",
+    "original_title": "\u0c2d\u0c30\u0c4d\u0c24 \u0c2e\u0c39\u0c3e\u0c36\u0c2f\u0c41\u0c32\u0c15\u0c41 \u0c35\u0c3f\u0c1c\u0c4d\u0c1e\u0c2a\u0c4d\u0c24\u0c3f",
+    "release_date": "2026-01-13",
+    "year": "2026",
+    "rating": 4.714,
+    "overview": "What begins as a casual fling between a married man, Ram a.k.a Satya and Manasa in the middle of an international business trip, balloons into an out-of-the-blue mess when the latter lands in Hyderabad, disrupting Ram\u2019s otherwise stable marriage with Balamani.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3QoTnvsbIAAWVXpfHzQKeEQhUi7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/oBv9eCzvutDV9Bt1IwRjMFfuS3L.jpg",
+    "genre_ids": [
+      10751,
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241992158",
+    "status": "U",
+    "etag": "sEOhJApeetFaPFX3lqeiDg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241992158",
+          "url": "/sapi/download/video?action=get&k=tJf6QwODqy6f0eWFi8doMBlrqf3iT59OKOAIjQTH15F0PXpQaul_MqPkFu-tdXBew2dxw3gUQJyyl1ZyHzilnRwQRMcrZq-X4E6PZQBYSxFnzldTr1Mm2HNIbb00xECwXocY_a1beJEhDW2KJurbXpolJi2-EQIIHcoAZY6YW01ol4IN-kQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ZTov9YXJTxhLfAGRiGIacIRhBxFhG1RSe6czk09uwJjnBhyTka9PDb_ibBa67xwtrNz2JGnmj-TVehX6EBipk5TVZlmthXIWrP3rrDn9EMMiSN_93JbRQOvr77tim_w0EfOof-bOnarAsBE7NoawbK-THmNDp4Dfkeq0UIPZw-aED8v-Xj9H9UtKNTaPEdLApA0&node=1i220",
+          "date": 1776950957908,
+          "creationdate": 1776950957000,
+          "modificationdate": 1776950957000,
+          "uploaded": 1776950957479,
+          "size": 344337,
+          "name": "Bhartha Mahasayulaku Wignyapthi (2026).mp4",
+          "metadata": {
+            "duration": 12908,
+            "bitrate": 213409,
+            "codec": "h264",
+            "height": 960,
+            "width": 540,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 144,
+              "h": 256,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=n_Ks3A0g1BQFWe4FyphPpFokm2aEWsN2GqFXH9pe9iq3UJWlIgv7tOedCkNQGmyUmD0jzU4Tnp39wMaRyuDX_OS98WboAsUfBYVK4v2T4hSWQOLAqT9veZneN-VN9AdPy507Lz2as5ojMyzLUKdxQT7_P0i5AEwlzdGa-fHGsOw1U-rAAa0OtlAoMb4M2rZhpoc&node=1i220",
+              "etag": "0sEOhJApeetFaPFX3lqeiDg=="
+            },
+            {
+              "w": 432,
+              "h": 768,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ZTov9YXJTxhLfAGRiGIacIRhBxFhG1RSe6czk09uwJjnBhyTka9PDb_ibBa67xwtrNz2JGnmj-TVehX6EBipk5TVZlmthXIWrP3rrDn9EMMiSN_93JbRQOvr77tim_w0EfOof-bOnarAsBE7NoawbK-THmNDp4Dfkeq0UIPZw-aED8v-Xj9H9UtKNTaPEdLApA0&node=1i220",
+              "etag": "0sEOhJApeetFaPFX3lqeiDg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "sEOhJApeetFaPFX3lqeiDg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776950957960,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/e6eKV4Z5Q0C_R_uX48X98zA0NzE3MTIzNzE2NzFfMjYwMzgwMA",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bhartha Mahasayulaku Wignyapthi (2026)",
+  "media_kind": "movie"
+}
