@@ -1,0 +1,82 @@
+{
+  "name": "Criminal or Devil (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Criminal or Devil (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T23:40:31Z",
+  "remote_folder_id": 1752008,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241996008",
+  "tmdb": {
+    "tmdb_id": 1377388,
+    "title": "Criminal or Devil",
+    "original_title": "Criminal or Devil",
+    "release_date": "2024-05-24",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "In 'Crime or Devil', Siddu is terrified of ghosts. He thinks a ghost haunts him, from which he had previously watched a horror movie. Later, a mentally disturbed woman enters and starts to kidnap girls. Watch to know how they both got connected! Don't miss.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5xRZbs7pSDZOHjrySBa8aXmmyiT.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/3dyfZtEiMJxoAWPkiBGcsVKviiM.jpg",
+    "genre_ids": [
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241996008",
+    "status": "U",
+    "etag": "mkfjyjjE54mKGAlKTitdqA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241996008",
+          "url": "/sapi/download/video?action=get&k=w_lxcI-rJECDdWXKf7TGOHxnAbfa4Gr5J3EMNi_N2LGDDAvocSEhZeyp1nMcG5oIpUPWbKrcWu1yhneFC02YrIeeGmg6HVep9kUXNUHNTgQGFj_ydoG7MyE6FWtkHnocZX4_Yrt0u9k07bwH1DpidCoWHMGxgshDDGu9kSTeZbaStjeasQ4&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=GAbiUUtoHi4XdJDLgg30bSKSdW8KeOSRUAAkieck_P3jOjTLeNZK5lowt_2RHcgE9BX0BvVljyG0yM_kQiuhdGhWTlJ-JF86ttLP7YspgGvpHwS4-Uy9q05QlIgI37a64I1kc22cawKot2yHg12ROrP6svy1CPq0oUyJ9KGdQQwLPa1FmJ_I6f9LEIvzvCtOGdc&node=2i182",
+          "date": 1776987630346,
+          "creationdate": 1776987545000,
+          "modificationdate": 1776987545000,
+          "uploaded": 1776987597868,
+          "size": 946221990,
+          "name": "Criminal or Devil (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6079936,
+            "bitrate": 1245042,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Pt_e3jMxsL2Sivjv8ETNzFmgrPby06XK-t5_HToFIYnNxNESdwvT_1R3-0_MIxukW4OAdeqi11Tr5-d2d8OAw2ogXl-i1l3FgY_10rcBVLoAdPxzLpN2-FyrZCinFIgukmVu26zyg0jgX_0Q2EI9ur7ZLZ_MClVrvFcadyKqrtWBdIHhQ561qd3B1XI_MOMqTYE&node=2i182",
+              "etag": "0mkfjyjjE54mKGAlKTitdqA=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GAbiUUtoHi4XdJDLgg30bSKSdW8KeOSRUAAkieck_P3jOjTLeNZK5lowt_2RHcgE9BX0BvVljyG0yM_kQiuhdGhWTlJ-JF86ttLP7YspgGvpHwS4-Uy9q05QlIgI37a64I1kc22cawKot2yHg12ROrP6svy1CPq0oUyJ9KGdQQwLPa1FmJ_I6f9LEIvzvCtOGdc&node=2i182",
+              "etag": "0mkfjyjjE54mKGAlKTitdqA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "mkfjyjjE54mKGAlKTitdqA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776987630496,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Ba_8xRb_SqyvCFgOspEO4DMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Criminal Or Devil (2024)",
+  "media_kind": "movie"
+}
