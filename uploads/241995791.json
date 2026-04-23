@@ -1,0 +1,83 @@
+{
+  "name": "Brother (2024)\u00a0Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\Brother (2024)\u00a0Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T23:24:26Z",
+  "remote_folder_id": 1751893,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241995791",
+  "tmdb": {
+    "tmdb_id": 1008633,
+    "title": "Brother",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bb0\u0bcd",
+    "release_date": "2024-10-30",
+    "year": "2024",
+    "rating": 6.5,
+    "overview": "Karthik, an unwavering idealist, goes on a journey to restore harmony in the fractured family and prove himself, when his pursuit of justice inadvertently clashes with family loyalty.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hTVmE8Hou72Es4XQnTR9CDkJgq4.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/azukzBMEcJGrSR0ZxOFTSdNM1Mq.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241995791",
+    "status": "U",
+    "etag": "fuyjeyRX52mMYwwwP7RDXQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241995791",
+          "url": "/sapi/download/video?action=get&k=65DUyzZcYFYTuFIFkZh_D2_mXFTk8jK0_9dEN5rvMec3IVKH7RgcYPOOlObh77PXYbMpadN_tM-kvhGmpPmXzUDs2nBZhc4WSt0XacvUdIkpyBTakuuzrTZvRdEZHD3YAasJcCIq5H4xugV5oOq02jnw90ugxYGhSNPC4OA8cAEGRYba1e8&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=4wwKdBbp3mFoRzk9fVzne9AaW7aSz2l6uHl6B8e4CGyh2C2c8aWT5V87wZvhYP-4i_-NcszvXsEmxb7Bekm2U1LCwnmLVOlhTbgAQQjhJmhGsSRMKrQ68wcQw0blZB45RXA2Mf5ty804BVqkG_62nDb3PsJkJ09x7T4BMQGjKf8etrYY4tYkRYnmVYZoyYLiTDg&node=2i182",
+          "date": 1776986665151,
+          "creationdate": 1776986565000,
+          "modificationdate": 1776986565000,
+          "uploaded": 1776986624198,
+          "size": 1233824080,
+          "name": "Brother (2024)\u00a0Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8054208,
+            "bitrate": 1225519,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=iIr8Cw-Pg8fGXl1o3Eeaz-n1vvXAesfanJbIgOdgwI6hioryFVjZ_9Vg1J8TL9k-aNQmMrDtxXgl3pjP-KJj0j1dDZu3v--peSBU9wsRXxtr-P6ihUV9KvFx5L5K03f7KfF8wrBSTjoMc6pb_qayb2J-UCPHy241i7gQ_Oa-1sMMPlni8Zott3rPI6vXgIVmnU8&node=2i182",
+              "etag": "0fuyjeyRX52mMYwwwP7RDXQ=="
+            },
+            {
+              "w": 1280,
+              "h": 720,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=4wwKdBbp3mFoRzk9fVzne9AaW7aSz2l6uHl6B8e4CGyh2C2c8aWT5V87wZvhYP-4i_-NcszvXsEmxb7Bekm2U1LCwnmLVOlhTbgAQQjhJmhGsSRMKrQ68wcQw0blZB45RXA2Mf5ty804BVqkG_62nDb3PsJkJ09x7T4BMQGjKf8etrYY4tYkRYnmVYZoyYLiTDg&node=2i182",
+              "etag": "0fuyjeyRX52mMYwwwP7RDXQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "fuyjeyRX52mMYwwwP7RDXQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776986665270,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ynHsNYBtQvervZ6tvfMnazMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Brother (2024)",
+  "media_kind": "movie"
+}
