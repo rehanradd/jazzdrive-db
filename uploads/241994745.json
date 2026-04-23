@@ -1,0 +1,81 @@
+{
+  "name": "90 Minutes (2025)\u00a0Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\90 Minutes (2025)\u00a0Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-23T21:56:19Z",
+  "remote_folder_id": 1751824,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241994745",
+  "tmdb": {
+    "tmdb_id": 1422215,
+    "title": "Next Show in 90 Minutes",
+    "original_title": "Next Show in 90 Minutes",
+    "release_date": "2024-12-08",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "A routine both natural and unnatural unfolds in the heart of one of America's most cherished landscapes.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9J7rzGOAz1vpsis4lIwPVvMzXYV.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241994745",
+    "status": "U",
+    "etag": "4Gjz+AnMGUOMqgIupPl1tQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241994745",
+          "url": "/sapi/download/video?action=get&k=7cjl1x1Gjg02ZKxH6DqUpbGyrJI7hwS6rABT1FmHxyHZaAdd2WA-pBGAjlkyrX-TLgPiiuRgpMCJGUCmCZCFlGg5A6pEokmgIGSVe9VMTeC7u6qXDtd3aWvka95MYbpgWMLIHWB_kkY5rwuQeTcogwfaqGaX4o0BPIQCS7O519Oa1LS3SC0&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=o_Ed8E_v1y6kCoLcRILEpwDaNYJ6J7nHR321m8-Wox3NhavL_LcvJWS1kHOqkw7_1bTkx_ehKlJXIxHGpJg0ETdKgtagFExES6TPLAXaCjqFYacuahxs-09ZWGVA14CmBhxi4vYDX4csciPONbG2ySqpKP1lfoBqm0ewMhjrecY2BJPWFSGCXVMe_-w_K75z528&node=2i182",
+          "date": 1776981378709,
+          "creationdate": 1776981262000,
+          "modificationdate": 1776981262000,
+          "uploaded": 1776981341756,
+          "size": 1191061182,
+          "name": "90 Minutes (2025)\u00a0Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5904896,
+            "bitrate": 1613659,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=-AcSIwgQBRuZaMw1XlOS_nRiHRkjUE_wb5SYSiv3HYFdHXuJNPp8w4_Gb66da1dOUKUA7yvy0F0d2VotBpPUkVL_ZWtV3p92OUnijK23C6kyJl57Pxb4bomfd9Yn4R2JtEUWmvC6VHYqQbENH4IoHefZbxCaTAoTN239qCFEUoCL4dSMCGauwxYBdKZBSRCeZRs&node=2i182",
+              "etag": "04Gjz+AnMGUOMqgIupPl1tQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=o_Ed8E_v1y6kCoLcRILEpwDaNYJ6J7nHR321m8-Wox3NhavL_LcvJWS1kHOqkw7_1bTkx_ehKlJXIxHGpJg0ETdKgtagFExES6TPLAXaCjqFYacuahxs-09ZWGVA14CmBhxi4vYDX4csciPONbG2ySqpKP1lfoBqm0ewMhjrecY2BJPWFSGCXVMe_-w_K75z528&node=2i182",
+              "etag": "04Gjz+AnMGUOMqgIupPl1tQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "4Gjz+AnMGUOMqgIupPl1tQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776981378826,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/wix05apqS0qWZwJRPC0X0TMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "90 Minutes (2025)",
+  "media_kind": "movie"
+}
