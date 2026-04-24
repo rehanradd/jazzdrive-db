@@ -1,0 +1,69 @@
+{
+  "name": "Eleven (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Eleven (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:41:38Z",
+  "remote_folder_id": 1751938,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999817",
+  "tmdb": {
+    "tmdb_id": 1309643,
+    "title": "Eleven",
+    "original_title": "\u0bb2\u0bc6\u0bb5\u0ba9\u0bcd",
+    "release_date": "2025-05-16",
+    "year": "2025",
+    "rating": 5.6,
+    "overview": "A series of murders targeting twins leads a detective down a dark path of revenge and childhood trauma.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zrLStjPERNYWIESwlrfBPE3jsDb.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/vdw6dF4wnWnbph8WpFKyDXDHORj.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999817",
+    "status": "U",
+    "etag": "PMVxBbh5JY8o0E5nKOh5tg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999817",
+          "url": "/sapi/download/video?action=get&k=CC4erWmTz1hglKlY3fuj3qHtDDTRnDgZo0rbRjdS4NHN_fUusChRtY_ZtITfSWI8HD093U8ihY-nakyyukiKXAPNul-A6DyNIrY7hsMDUKwWofnQP_JvvpsrrguNWfq2b7YPjnF5vpdyVh6r52_MJFF2daw-fRko-9r19fEZAFsYMNZpCjQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=HQ8UuPqXrfWW24cTo3WY4BLpkPlYQ1wij8CLfuBt3siW0IIpuZITHoXrOVIuESd5X273mbsXzn-4XGqP0FEq_i508LcLaYWeK-zEyaNPGaGjv7EO5AIp4yX8Z7UO3YgNCJep7F_kGUmEg3CpezB3vHaNvuCe1w01TOCcv5y5Bzdhn7zX3Bnt0UXsBax4eAlOtzc&node=1i220",
+          "date": 1777034498141,
+          "creationdate": 1777034172000,
+          "modificationdate": 1777034172000,
+          "uploaded": 1777034443464,
+          "size": 1501177680,
+          "name": "Eleven (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Sm-01T3rLcNxceWOYSNT7a-2zv8CE2f_PIrw-oFKkmWbVGgedcLIw9Xyv48-kZIWXHzUTmNSwj7dhxAnqmb2g7t-7mLBqNMmKW928HFm38FaRTpilTM8GPH2QuChskq-iPWyWz8GuWgDU6IiWKGFQnXLy0E-MnIlT5W4YFJXBP9O2B6qdvD-gQKsvspKY7FNtbo&node=1i220",
+              "etag": "0PMVxBbh5JY8o0E5nKOh5tg=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=HQ8UuPqXrfWW24cTo3WY4BLpkPlYQ1wij8CLfuBt3siW0IIpuZITHoXrOVIuESd5X273mbsXzn-4XGqP0FEq_i508LcLaYWeK-zEyaNPGaGjv7EO5AIp4yX8Z7UO3YgNCJep7F_kGUmEg3CpezB3vHaNvuCe1w01TOCcv5y5Bzdhn7zX3Bnt0UXsBax4eAlOtzc&node=1i220",
+              "etag": "0PMVxBbh5JY8o0E5nKOh5tg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "PMVxBbh5JY8o0E5nKOh5tg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777034498178,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/s8cIflLxR5G_VoTsCjZijjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Eleven (2025)",
+  "media_kind": "movie"
+}
