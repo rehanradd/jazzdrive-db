@@ -1,0 +1,84 @@
+{
+  "name": "Retro (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Retro (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:52:39Z",
+  "remote_folder_id": 1752256,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001990",
+  "tmdb": {
+    "tmdb_id": 1265827,
+    "title": "Retro",
+    "original_title": "\u0bb0\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb",
+    "release_date": "2025-04-30",
+    "year": "2025",
+    "rating": 6.389,
+    "overview": "A man with a violent past seeks a fresh start, but the life he left behind resurfaces, forcing him to face old conflicts and redefine his future.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pJPK57REXsaLydpOPgHwWAQMdqz.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/rGcZhLzwOLz3OWWpYrelgP4HUIQ.jpg",
+    "genre_ids": [
+      10749,
+      28,
+      18,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001990",
+    "status": "U",
+    "etag": "ILUjzVNKNylxRs4gCLiKEQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001990",
+          "url": "/sapi/download/video?action=get&k=CV8qQRGc2am3Jr7YcTQoXW9DNbjH1RMv6RkDGnzSAMXbWKTlJQA1Ssj17Mz5mz_2al7vMHu8Pdumq32jtWOUaZzgIvk9uRStn4pplFE71ToGoqIJhSMhBeOYaBknyLb5eLIgyAXpeqDA-SXJXCc3dpSorxHGJHIZ2PJYqidGg6D_wZ2DCSA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=F89JHAkPdDyNkgN547ryzJjD4Op0ljm0C3I8vLLLurpEfwhUfGpsRcBwFxRFGF1Plz-syk3vxaZkkbtyrvj1EXC1NBST9cX8sLSrprxX1OwNoGhxbHT1ibA2PRx-4fVkwsFDYudFv00HdWAN0zAskUSddcuO2GfcSue_iPturo04Vkfib-XE5oTO2vc7kavi0ks&node=1i220",
+          "date": 1777049558244,
+          "creationdate": 1777049169000,
+          "modificationdate": 1777049169000,
+          "uploaded": 1777049485889,
+          "size": 1616195485,
+          "name": "Retro (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9779243,
+            "bitrate": 1322143,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=1h-WDATbvMIwdkme_WoPE-ieRI1ubustxTMC_Op8VEnYJBR85go5Gvj_beBfp7QqYacQhir57-pIl1_KSHu_utmTsiLiHrDPyyVeoPRl3pGuowI2fwlh1n3OReDmiTBY6-4gjO2TOuowA_iYGAM8EfQijcCmClVZn_siMfuBnNYR3KLJi7ceQqQtLSNy6RBuEvI&node=1i220",
+              "etag": "0ILUjzVNKNylxRs4gCLiKEQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=F89JHAkPdDyNkgN547ryzJjD4Op0ljm0C3I8vLLLurpEfwhUfGpsRcBwFxRFGF1Plz-syk3vxaZkkbtyrvj1EXC1NBST9cX8sLSrprxX1OwNoGhxbHT1ibA2PRx-4fVkwsFDYudFv00HdWAN0zAskUSddcuO2GfcSue_iPturo04Vkfib-XE5oTO2vc7kavi0ks&node=1i220",
+              "etag": "0ILUjzVNKNylxRs4gCLiKEQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ILUjzVNKNylxRs4gCLiKEQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049558309,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/G1IHMrkYSuS-mKlz7elLqTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Retro (2025)",
+  "media_kind": "movie"
+}
