@@ -1,0 +1,83 @@
+{
+  "name": "Sarkeet (2025) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Sarkeet (2025) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:10:34Z",
+  "remote_folder_id": 1752274,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002026",
+  "tmdb": {
+    "tmdb_id": 1392483,
+    "title": "Sarkeet",
+    "original_title": "\u0d38\u0d7c\u0d15\u0d4d\u0d15\u0d40\u0d1f\u0d4d\u0d1f\u0d4d",
+    "release_date": "2025-05-08",
+    "year": "2025",
+    "rating": 5.0,
+    "overview": "In a distant land, Balu and Stephy struggle to balance work, parenting their spirited son with ADHD, and holding their relationship together. When a worn-out stranger enters their lives, a fleeting connection sparks unexpected change in just one day.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yruMwNKwObVwS8vbE3N6hriAdYB.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uwc0OA7T34ooE62Q23tOUaQUmwT.jpg",
+    "genre_ids": [
+      10751,
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002026",
+    "status": "U",
+    "etag": "J9ci7m6ifzc36Vs5oinbVA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002026",
+          "url": "/sapi/download/video?action=get&k=WNyLNEQOAPTderL279U9msCHvmpGob500EX0PdLgmzXncrA1G4ha7LdmjV54fApz1hT0Kjcyipb26Ed263Unl3TnOXBjDOOkqxGl54pc1tnlsFfV-gIQSPegOOklS7dHkQ3TDnR_Nx-IwgJZTXnN0pxp68bF8_dm8pjADHFKQhquNI6c0ho&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=xFGw0KV1gzXYrXGts_LsIHbMHuWa6Jiv7G2hUPj7ek1HYq2Tuq9b7pQvKUQ1p6eNelQLe2wBWy--H4e0BSyCpBWQ1znZk0ocJXF0fz2RPIzy9L-_UIzzVDirAdT_Vt6ZkaIR7qFuDkKRvjzwyS26EswcLpICy1cjgNTd0wSuHjfQFMctBWKws-ZFaxsPTdjsR-8&node=1i220",
+          "date": 1777050633570,
+          "creationdate": 1777050448000,
+          "modificationdate": 1777050448000,
+          "uploaded": 1777050562032,
+          "size": 1538731351,
+          "name": "Sarkeet (2025) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7429290,
+            "bitrate": 1656935,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=lH3KxweNsTdCkCdgW2actJqytD9m93DsdZf8yRbH_QHz7JAqpMVTF9uQvklQu1yEBuaBXWSdOKgkk4Vlzw4i-xNPWh7Y9YZTJKQ4SLLD89YG2mCrB5wGg11wmK9O97Ha36QVC8RDtTcFr-eliTsfcdxqSUZ6ttbaJI6pwClgLmTFohynPhvzmA1R0IYDRFX-Idg&node=1i220",
+              "etag": "0J9ci7m6ifzc36Vs5oinbVA=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xFGw0KV1gzXYrXGts_LsIHbMHuWa6Jiv7G2hUPj7ek1HYq2Tuq9b7pQvKUQ1p6eNelQLe2wBWy--H4e0BSyCpBWQ1znZk0ocJXF0fz2RPIzy9L-_UIzzVDirAdT_Vt6ZkaIR7qFuDkKRvjzwyS26EswcLpICy1cjgNTd0wSuHjfQFMctBWKws-ZFaxsPTdjsR-8&node=1i220",
+              "etag": "0J9ci7m6ifzc36Vs5oinbVA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "J9ci7m6ifzc36Vs5oinbVA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777050633626,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/i--aD_0OT6e1QXFi3ssJVzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sarkeet (2025)",
+  "media_kind": "movie"
+}
