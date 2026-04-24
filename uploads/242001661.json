@@ -1,0 +1,81 @@
+{
+  "name": "Praavu (2025) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Praavu (2025) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:38:38Z",
+  "remote_folder_id": 1752241,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001661",
+  "tmdb": {
+    "tmdb_id": 1066822,
+    "title": "Praavu",
+    "original_title": "\u0d2a\u0d4d\u0d30\u0d3e\u0d35\u0d4d",
+    "release_date": "2023-09-15",
+    "year": "2023",
+    "rating": 3.0,
+    "overview": "The paths of two young lovers and four middle-aged men intertwine, leaving long-lasting implications on each person involved.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/koF8DVTqJoHjKM63dGQ0cXD8Pdg.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001661",
+    "status": "U",
+    "etag": "jkafp8F+pUHdZo5ifnLhvA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001661",
+          "url": "/sapi/download/video?action=get&k=zt1lGonTzRoGewOph5vna0Lqb__4SVmmuBmhkv-i69h9QJFq3BGuApTXqI0cdp54pWSn6dWjG44msbKt8hj-O7lZMeprNev-VcaHsR6MQEmhyGYx6iC_WaFrlLA_TzLob6FM7FsyCsX8dq_kQ6j3bYDnP3gAifWpTwuh2MQSd_iO_nbytpQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=RHjTKqHJdIHVyJO_eRQILP_tEDVW3iCe-kM08yiWHc1wYQa-EY1YYpJiwQxO2tT3FeOD9TmCvVItPnRi3ewIcz2JmRJtSdOXp8IDFM7bELNnu5eC2cRftofCwRxN2SrA9X04_-8g-KJlFXBhb71jdlyuKO7Ew6-Xh2_AcuKn-oZu-NYEcfbLIIaJBpNus1Lr-78&node=1i220",
+          "date": 1777048716894,
+          "creationdate": 1777048206000,
+          "modificationdate": 1777048206000,
+          "uploaded": 1777048619465,
+          "size": 1606000065,
+          "name": "Praavu (2025) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7854208,
+            "bitrate": 1635811,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=D-gV_V8orDS02QJf3A8Yl9hrI7vY6fvr-daYVqXDa9hCFqPwB_WVmOsmZ9yCzb8jw_7eqeboMv9MQtzbL-uZrLVNWpB-i7jZmCrrhRAVY3ulRrMD9AUJlxu33O3CYEgRi54qHvxqrQDuEmtjAvrkDY8vIasoMMksch5xkhZ6wVO6m9Z1eYEyKAc15HuUNi7vpaE&node=1i220",
+              "etag": "0jkafp8F+pUHdZo5ifnLhvA=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=RHjTKqHJdIHVyJO_eRQILP_tEDVW3iCe-kM08yiWHc1wYQa-EY1YYpJiwQxO2tT3FeOD9TmCvVItPnRi3ewIcz2JmRJtSdOXp8IDFM7bELNnu5eC2cRftofCwRxN2SrA9X04_-8g-KJlFXBhb71jdlyuKO7Ew6-Xh2_AcuKn-oZu-NYEcfbLIIaJBpNus1Lr-78&node=1i220",
+              "etag": "0jkafp8F+pUHdZo5ifnLhvA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "jkafp8F+pUHdZo5ifnLhvA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777048716951,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/zHI_uN0pQsibXMb-VvDCYjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Praavu (2025)",
+  "media_kind": "movie"
+}
