@@ -1,0 +1,84 @@
+{
+  "name": "Hridayapoorvam (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Hridayapoorvam (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:34:56Z",
+  "remote_folder_id": 1751980,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999876",
+  "tmdb": {
+    "tmdb_id": 1314784,
+    "title": "Hridayapoorvam",
+    "original_title": "\u0d39\u0d43\u0d26\u0d2f\u0d2a\u0d42\u0d30\u0d4d\u200d\u0d35\u0d4d\u0d35\u0d02",
+    "release_date": "2025-08-28",
+    "year": "2025",
+    "rating": 7.333,
+    "overview": "Sandeep, a middle-aged bachelor who recently got a heart transplant, travels to Pune to attend the engagement of his heart-donor\u2019s daughter, Haritha. Her engagement gets broken and Sandeep injures his back on the same day, forcing him to stay back in Pune for a few weeks, in his heart-donor\u2019s house \u2013 who was an adventurous Colonel.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/j6M2odS1RqGEUPKirIvB1VZ9i6Y.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7HATFCB88pCbTyFytbUM48aZtpy.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999876",
+    "status": "U",
+    "etag": "PlBMMFA8NnhzrPD0+UsM9Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999876",
+          "url": "/sapi/download/video?action=get&k=oRiKGw5qIYiPWEEHImWisZ2zVNx6yBjCSnirRxYOdRfb0soCccXoxulcl3HJWDiCeh4T-kATGF7BAQMWG3bASNTWGJPlsoVpsb3m1MKV22PuA2ZFZxDFuT9gB5N-wtFdgeeCVy4X_0CALaF4KZQnr5sCCIBBbKbPQ-OVvAS6e7slR1fQDQs&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=UaA3xF-pHB4M6Oa0Fcj2S5ZM3YMSTaWSrCdt9Wf-KsfA_XAF-1Fble6_ahoevxjD9nm8D63ZyYf2DR7gEr47zEJtjWEz-2bIrmIE1jplPDRF2cXSHmrfBsHxXtIXUj1z4Ap-L2GWVsJXy6-3IOHI97C5GDMjJRMFabk0RqTcBzubqDJ4YgXpU2-uoL9e_BT-DeY&node=1i220",
+          "date": 1777037695737,
+          "creationdate": 1777037325000,
+          "modificationdate": 1777037325000,
+          "uploaded": 1777037639425,
+          "size": 1538162377,
+          "name": "Hridayapoorvam (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9058647,
+            "bitrate": 1358403,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=syWdyyWTUNBZcipFvbEjHZOJ9xhiUREY6JlwQdUAdJBbuFTiXynN8PY4G4ejAIk03W1sP6b_37i_jIlGIi7ZduHbtUP7mP6Q4wneuW8RW-RKM_gbdN_YFcuzmfzqzwDuzBrTUROeXrLtn59LfxtNyePgF5cbvbV5K6ujFupyXNIt1_kxegHjXfAIRiuoNVs5eig&node=1i220",
+              "etag": "0PlBMMFA8NnhzrPD0+UsM9Q=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=UaA3xF-pHB4M6Oa0Fcj2S5ZM3YMSTaWSrCdt9Wf-KsfA_XAF-1Fble6_ahoevxjD9nm8D63ZyYf2DR7gEr47zEJtjWEz-2bIrmIE1jplPDRF2cXSHmrfBsHxXtIXUj1z4Ap-L2GWVsJXy6-3IOHI97C5GDMjJRMFabk0RqTcBzubqDJ4YgXpU2-uoL9e_BT-DeY&node=1i220",
+              "etag": "0PlBMMFA8NnhzrPD0+UsM9Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "PlBMMFA8NnhzrPD0+UsM9Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777037695798,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/q12Y3eQnTFS06ITHX1NZNzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Hridayapoorvam (2025)",
+  "media_kind": "movie"
+}
