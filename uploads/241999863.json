@@ -1,0 +1,82 @@
+{
+  "name": "Hello Mummy (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Hello Mummy (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:21:15Z",
+  "remote_folder_id": 1751969,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999863",
+  "tmdb": {
+    "tmdb_id": 1239991,
+    "title": "Hello Mummy",
+    "original_title": "\u0d39\u0d32\u0d4b \u0d2e\u0d2e\u0d4d\u0d2e\u0d3f",
+    "release_date": "2024-11-21",
+    "year": "2024",
+    "rating": 4.4,
+    "overview": "Boney, a carefree man finds his life turned upside down after marriage when hes forced to deal with the restless spirit of his obsessive-compulsive mother-in-law.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/u6VU1xfyIce7yZtO4pNNauMPnOx.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/26t6QQWPgoAfcShoePjvG3M2ok1.jpg",
+    "genre_ids": [
+      14,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999863",
+    "status": "U",
+    "etag": "fstQS9SbPrXjV+cfXTIT3Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999863",
+          "url": "/sapi/download/video?action=get&k=kmC4z5h1VWKHat5Ls_HVfWFhEpjZCSkvToobV1n0Xr7JKHSxTz8UrrRvrVxBluCEphZyKPQ3nbnkRPe-LBUjS6lsLniY25t3JA-Wmh4AvBAEU28icLDMBRVuwwZxO3lbfmWSdOJHriLGTk3EcrKujsczGd4U8c2-4u_uC_1MvLLXnsPg5CY&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=cG5XsRi0ykup8dPzBi7IuPnDV8jzPA80X0gFjhQZrrslhCk1dz6xzCKK4-7_kb2Hvw-lUZlxhTNGXsppPqPqDJ4fNdAJR5nYwxc81N4OPnlq8Vb2MEt6v48-4nE0BT9XU2rAyi86QtWFE3IeJo9xcMw4H86v6W5TLxHmPqPdxvGUtI6oBVK_05Csw5NpuT0-cyU&node=1i220",
+          "date": 1777036875040,
+          "creationdate": 1777036488000,
+          "modificationdate": 1777036488000,
+          "uploaded": 1777036797683,
+          "size": 1511274206,
+          "name": "Hello Mummy (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8138889,
+            "bitrate": 1485484,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=HqJbtnLErnC8BFrni7DfWv1GqhYMfiwx7Llv9oxiQ-nOrqd0wsN_4iiV_CmHXRXYCKzBJ0nLrn-uqFK2ObdsIt6t8M215kbB8_2ZNGYIASFhfNdoirYcaAsRh7AS6pQjc5zgxaWftpdGjEKe2rJkOWkg4w4XlkhBf8MAwVUa8NiRbj5xHiiaDvEIZ-ewNg9xdD4&node=1i220",
+              "etag": "0fstQS9SbPrXjV+cfXTIT3Q=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=cG5XsRi0ykup8dPzBi7IuPnDV8jzPA80X0gFjhQZrrslhCk1dz6xzCKK4-7_kb2Hvw-lUZlxhTNGXsppPqPqDJ4fNdAJR5nYwxc81N4OPnlq8Vb2MEt6v48-4nE0BT9XU2rAyi86QtWFE3IeJo9xcMw4H86v6W5TLxHmPqPdxvGUtI6oBVK_05Csw5NpuT0-cyU&node=1i220",
+              "etag": "0fstQS9SbPrXjV+cfXTIT3Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "fstQS9SbPrXjV+cfXTIT3Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777036875129,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/KqNEYILST3ioluM7YdKiOzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Hello Mummy (2024)",
+  "media_kind": "movie"
+}
