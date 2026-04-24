@@ -2882,5 +2882,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "569b28d5035783e35f4468a982eb06504847f3377140971b8efac5459d2ea370": {
+    "name": "GuestAgentRegKey.xml",
+    "path": "D:\\CollectGuestLogsTemp\\GuestAgentRegKey.xml",
+    "mediatype": "file",
+    "size_bytes": 746,
+    "uploaded_at": "2026-04-24T00:45:09Z",
+    "stream_link": "",
+    "remote_id": "241996159",
+    "remote_folder_id": "1752017",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241996159\", \"status\": \"U\", \"etag\": \"4mNdb4/fxcZHSV9aWpfHSQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241996159\", \"url\": \"/sapi/download/file?action=get&k=XODCjoHfVxNHwMa6ruwRWYF7Cm1SeCtljjDcfcE7_v-J3YuL4DNeeW2_82983In4dpQq2ktnQIiYUDgmIlof698qodQaPJvs06qJkPNhBcFg52u6cKKlMWS834FNojyfpa9hc6V5zpUb9FzWxM0r1fNpd1cnWCQ_ZxMUALGwpfb9rhGO9E0&node=2i182\", \"date\": 1776991509006, \"creationdate\": 1776991509000, \"modificationdate\": 1776991509000, \"uploaded\": 1776991508916, \"size\": 746, \"name\": \"GuestAgentRegKey.xml\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"4mNdb4/fxcZHSV9aWpfHSQ==\", \"favorite\": false}]}, \"responsetime\": 1776991509091, \"type\": \"file\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/tYC55LowSgeGr7QWiN2GIzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+    "share_key": "",
+    "share_link_id": "66904",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Guestagentregkey",
+    "media_kind": "file",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
