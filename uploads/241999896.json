@@ -1,0 +1,82 @@
+{
+  "name": "Jarann (2025) Marathi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Jarann (2025) Marathi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:50:41Z",
+  "remote_folder_id": 1751994,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999896",
+  "tmdb": {
+    "tmdb_id": 1471468,
+    "title": "Jarann",
+    "original_title": "\u091c\u093e\u0930\u0923",
+    "release_date": "2025-06-06",
+    "year": "2025",
+    "rating": 6.0,
+    "overview": "A family faces supernatural chaos when witchcraft and ancient beliefs invade their remote village. A woman must uncover the truth about dark rituals and herself as fear and madness grow.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lZkWXHgW8Qk0lMGH1dQbBRzFJAc.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nh6P7dWp8JzJs0JdQAQLCE9n3RC.jpg",
+    "genre_ids": [
+      18,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999896",
+    "status": "U",
+    "etag": "Dirz4t/R7VCMNE/hlZoz+g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999896",
+          "url": "/sapi/download/video?action=get&k=AvGeeUoFTrQpExY5MJUi4uLptPG5lRAGrX4DH2YJmFYNSoQY8Awn07AqM3-fU0fQgWU1OgErD9Bdox-BDTgUPj_XqxGySJHI9Dt2YHFsOcunM7wdWyNJvPf79Sf5d_4DqSYdY2ul3Mx7rnCYRjce58AT9Q6eZdomDXNqOXtGCOiT52NMpg0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=cHQYQkInMGsygvvJacs81fsHcuGd4jP5zMGxPFsAX_731vxpW2QzSe-bzWg9zlWX2S-ccYklLGxfibm8gV04SBlXVD-Fq258geseiScEPWs1H0A0Xg1ODdIVBSb597uj2Hx1_HAfi2BFUI8JPpAXWIMILG-cgy5HW_ETdk3qPDNl1ATk0uQXyzQtP0d6D6ZrW90&node=1i220",
+          "date": 1777038640980,
+          "creationdate": 1777038286000,
+          "modificationdate": 1777038286000,
+          "uploaded": 1777038605517,
+          "size": 1061663814,
+          "name": "Jarann (2025) Marathi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7117318,
+            "bitrate": 1193330,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0t-aI4aEqxi_0wSaKebEOrMQTg-75OLJ7nIxglfqpk4MEGduoCsdgWg0sOW9D3nJv1q1XVwsYHnMNoW5i__XltsecVMJUY7B3akY5acMVmAr2h67TPuoOWEPWToG6glvgREpMbANBaZ_mSGChZv5VOfL8gm-okFKpRyju7mDVOGVXT8R7crgBLB2KAt2zEEWWbk&node=1i220",
+              "etag": "0Dirz4t/R7VCMNE/hlZoz+g=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=cHQYQkInMGsygvvJacs81fsHcuGd4jP5zMGxPFsAX_731vxpW2QzSe-bzWg9zlWX2S-ccYklLGxfibm8gV04SBlXVD-Fq258geseiScEPWs1H0A0Xg1ODdIVBSb597uj2Hx1_HAfi2BFUI8JPpAXWIMILG-cgy5HW_ETdk3qPDNl1ATk0uQXyzQtP0d6D6ZrW90&node=1i220",
+              "etag": "0Dirz4t/R7VCMNE/hlZoz+g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Dirz4t/R7VCMNE/hlZoz+g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777038641067,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/q5dWepHfRUy7kMItBX4uTjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jarann (2025)",
+  "media_kind": "movie"
+}
