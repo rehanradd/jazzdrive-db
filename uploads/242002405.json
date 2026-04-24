@@ -1,0 +1,70 @@
+{
+  "name": "Thaai Kizhavi (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Thaai Kizhavi (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:52:10Z",
+  "remote_folder_id": 1752316,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002405",
+  "tmdb": {
+    "tmdb_id": 1602783,
+    "title": "Thaai Kizhavi",
+    "original_title": "\u0ba4\u0bbe\u0baf\u0bcd \u0b95\u0bbf\u0bb4\u0bb5\u0bbf",
+    "release_date": "2026-02-27",
+    "year": "2026",
+    "rating": 6.857,
+    "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002405",
+    "status": "U",
+    "etag": "MQ91bUmlJ2YKAx7SyD9Wvg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002405",
+          "url": "/sapi/download/video?action=get&k=PhnV6stJB3RFWtB2Jufx6G_cgzqv0sapjt4QpXgGlJzQvGjLffWn0VvSbrm12KeEBWJpznUtiobNdzN8da8mfknhjPj6IUSl9zysQVgLo9axDDhOgktNv6AyPZaDGRwR3eg72GP2t_6cJXgZ_O72Hk6wsOw4q4i_7dJzMDtLMp3Fi4tbk0k&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=rCWyQ9Gm1KwjZH8WmjB4oEBvd6poAOssTLDNEnN5GL4IUGmJPF2EjQtVaUX3GteyMV84ZeMywDGsOd-xHhVb6oCZo-78UXGIesakG8fOW2XmsKsiL2gFdO7KukNZ1xoiHSVlnn9KWMnHulfS4tHhQmBDu5FlmZhcbWX5_7PBO7VQYck_qok4A5bHZ5-U-URatNw&node=1i220",
+          "date": 1777053129029,
+          "creationdate": 1777052881000,
+          "modificationdate": 1777052881000,
+          "uploaded": 1777053074295,
+          "size": 1414464686,
+          "name": "Thaai Kizhavi (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=73AGW4YM2lPIUkVROJ3_N-Xl5PW1T4EPqQdmJq7p2R6mDuUKypfotB3QrpimMS4TQXxd_2V33fKGRhuIsN0KQXq8M4fmAsiSmWttjb8il7XK1FaMf4voArO6OaGl24REht5uNQilshjFd1ZaiG0Om5rT-igOw2_01v93g7cI8aehwxo_pOg55mvLg9CbrIAZWRw&node=1i220",
+              "etag": "0MQ91bUmlJ2YKAx7SyD9Wvg=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=rCWyQ9Gm1KwjZH8WmjB4oEBvd6poAOssTLDNEnN5GL4IUGmJPF2EjQtVaUX3GteyMV84ZeMywDGsOd-xHhVb6oCZo-78UXGIesakG8fOW2XmsKsiL2gFdO7KukNZ1xoiHSVlnn9KWMnHulfS4tHhQmBDu5FlmZhcbWX5_7PBO7VQYck_qok4A5bHZ5-U-URatNw&node=1i220",
+              "etag": "0MQ91bUmlJ2YKAx7SyD9Wvg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "MQ91bUmlJ2YKAx7SyD9Wvg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777053129074,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/zESh04FhQLmNpwEjGjYk9TMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Thaai Kizhavi (2025)",
+  "media_kind": "movie"
+}
