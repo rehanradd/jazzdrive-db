@@ -1,0 +1,68 @@
+{
+  "name": "Kathe Naayaka (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Kathe Naayaka (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:39:40Z",
+  "remote_folder_id": 1752127,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000517",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000517",
+    "status": "U",
+    "etag": "RMAGE3mCUKj7wKnbkSdswA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000517",
+          "url": "/sapi/download/video?action=get&k=5wzgN8vLRNctrTq_DF_jipHZwPKSC5z9x-BhFoGiEQa_dBoOcalWxM6jwoA0wTfSmN8a_Oot_vchY_80SoUEnQOeX14v_iHWEeDKcdXPefxV5zudOveHmNCH9dLYs7qi9jJLk8i6AG31_2JN0kWEISfzgcKG8vXp50K80cr2r6k-f_q2SZk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=IFrAGQhPlBz4w98Hkf_qFevxYxxUL0MEKo_A-TvMaL3x8B5o2Lz9kbZSFicq7yp09qdT8F-NNaIvTxYUjM_NZbzGB-OqwNwuT3V385i6IH-u_f3AmlJh-p_ulN0ssTECLhBOG8UpB3LVP6wUWwKSOWcScqBoMUU4F2EnplOJF5ycQ_5CXLshIkyANdW-Uwp6R4Q&node=1i220",
+          "date": 1777041578805,
+          "creationdate": 1777041063000,
+          "modificationdate": 1777041063000,
+          "uploaded": 1777041455825,
+          "size": 1854207045,
+          "name": "Kathe Naayaka (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5720490,
+            "bitrate": 2593074,
+            "codec": "h264",
+            "height": 800,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=BNMEbjSMd0YhFWGgmXEB96UWDLY_nrwdsw1CCeigoPRP9XSRWGAuBoFp8riQ0jbVnj_KIeJT912_dcIQriGUGauv7rZ6IX_C_nPbsXYLZN-rYSxhfh4sJyyCBY4VcytK817dYN0XAtZdKA87CBO0SSxXmahyU17-D7hcLVr8gk4py5akXYFnhYGdI9LS4N3mV88&node=1i220",
+              "etag": "0RMAGE3mCUKj7wKnbkSdswA=="
+            },
+            {
+              "w": 1024,
+              "h": 426,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IFrAGQhPlBz4w98Hkf_qFevxYxxUL0MEKo_A-TvMaL3x8B5o2Lz9kbZSFicq7yp09qdT8F-NNaIvTxYUjM_NZbzGB-OqwNwuT3V385i6IH-u_f3AmlJh-p_ulN0ssTECLhBOG8UpB3LVP6wUWwKSOWcScqBoMUU4F2EnplOJF5ycQ_5CXLshIkyANdW-Uwp6R4Q&node=1i220",
+              "etag": "0RMAGE3mCUKj7wKnbkSdswA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RMAGE3mCUKj7wKnbkSdswA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777041578874,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/9CJJIzCdTdewIVdCO3P1bzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kathe Naayaka (2024)",
+  "media_kind": "movie"
+}
