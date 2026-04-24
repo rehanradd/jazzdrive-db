@@ -1,0 +1,83 @@
+{
+  "name": "Firefly (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Firefly (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:54:00Z",
+  "remote_folder_id": 1751948,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999837",
+  "tmdb": {
+    "tmdb_id": 1140685,
+    "title": "Firefly",
+    "original_title": "\u0cab\u0cc8\u0cb0\u0ccd \u0cab\u0ccd\u0cb2\u0cc8",
+    "release_date": "2025-04-24",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "Firefly is a melancholic, surreal journey of Vicky as he deals with lifes challenges and seeks the purpose of his life through bizarre adventures.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/92keBsYz7gRoEiT4KTbAA60siEd.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xAvCOItm3qse0aCk1lmCjEltbTw.jpg",
+    "genre_ids": [
+      12,
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999837",
+    "status": "U",
+    "etag": "QD2CnYOyam04Yi7daXx0Wg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999837",
+          "url": "/sapi/download/video?action=get&k=hAtf4Ar29O2lB6zYoy4YeJwCNEuvozregtgh5PfYZM376a2hYI6DDjPq-avFEeWBXcBevdOIzDyUZNMlVRUF6_UuMiE-x6NKuEHFUluxyvBs0edfP8HwGtLp4jrU28BoLXklvepjhna30pU2CpMYb1x005zWwGksMgyXjZjyuSZk13y8rEs&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=dDlj-J9GqKdEXTEJaWcC7uNgNqWTzief7EFFKOnxL53CTBgWyxcsrhGTE5382g7LfGcS1e9mQsGSKFcCcsgKaAu_aofoHS8ROgk6UQWMjAK61rXQosZ-COZ_tU2MRwAs_lSpLpIYjzyTzzldxAKam-MFYpRL03_iKLVDm_DOvR37gepraCcVeFWbyr2CQO_fkFY&node=1i220",
+          "date": 1777035239606,
+          "creationdate": 1777034875000,
+          "modificationdate": 1777034875000,
+          "uploaded": 1777035191380,
+          "size": 1339233783,
+          "name": "Firefly (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7935772,
+            "bitrate": 1350072,
+            "codec": "h264",
+            "height": 906,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 181,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=RP-OL6GCIS6oIzOu0E0gplfd36_vzTwT8tLR5P8KPUQnb4f5c5oqRtjiSrTSdHqJTkhnEBl3FniHTk7erjb-ku2LKQ3UKZi16nZxrMe45e7j5EF4PoUOFBuz3SbfggZ67mVE8pZKTedyEoAgtFBJuLe4VHq7jxgCUAuX_MknBRFP03cYoq1lW7ugeSR4hDQYVU8&node=1i220",
+              "etag": "0QD2CnYOyam04Yi7daXx0Wg=="
+            },
+            {
+              "w": 1024,
+              "h": 724,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dDlj-J9GqKdEXTEJaWcC7uNgNqWTzief7EFFKOnxL53CTBgWyxcsrhGTE5382g7LfGcS1e9mQsGSKFcCcsgKaAu_aofoHS8ROgk6UQWMjAK61rXQosZ-COZ_tU2MRwAs_lSpLpIYjzyTzzldxAKam-MFYpRL03_iKLVDm_DOvR37gepraCcVeFWbyr2CQO_fkFY&node=1i220",
+              "etag": "0QD2CnYOyam04Yi7daXx0Wg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "QD2CnYOyam04Yi7daXx0Wg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777035239667,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/weW9Z0Q1Q1qKjQ56D4ZWBDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Firefly (2025)",
+  "media_kind": "movie"
+}
