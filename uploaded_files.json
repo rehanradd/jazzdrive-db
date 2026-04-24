@@ -866,5 +866,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "26aa60f8633601eee65ae14e5e3938a68fff0542f5c7b3c8992b396ae86e8136": {
+    "name": "Elumale (2025) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+    "path": "D:\\New folder\\Elumale (2025) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+    "mediatype": "video",
+    "size_bytes": 1407260002,
+    "uploaded_at": "2026-04-24T12:44:15Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999824",
+    "remote_id": "241999824",
+    "remote_folder_id": "1751941",
+    "tmdb_title": "Elumale",
+    "tmdb_year": "2025",
+    "tmdb_rating": 7.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/svTVD1wWuB2B8CDNvRlTv81Sq0S.jpg",
+    "tmdb_overview": "Set in 2004, a girl and a driver near the Tamil Nadu-Karnataka border become unwitting participants in a night filled with crime and conspiracy while trying to find each other.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241999824\", \"status\": \"U\", \"etag\": \"dL7VrDyRjPR+4Bg/hUsFIQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"241999824\", \"url\": \"/sapi/download/video?action=get&k=NrOzRepG4hq2W2zuo29vUOwfZhl9vDYMzvwLI5rKX95Oy_sAbzS1KCm0j3g3lBbwm7yi11HEhf7BKQYNZyZnNKyrxsM8cgOmbCioWif_zt68adAW_Lc2Lj1hC7JdVFNhanqV_SV-yUfkUMMWsZbEcoTifeSPC1fGi9iKO_jSu-SaBisdENg&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=KR2r1PHM2xqX448tCP2eS9LuPyfefQfie-rgW7GX9wK8RQhU1r3gSdRGvnuR_1QTTdsriUAqxUYyCrO6OpC_z1Q6w39eJo-q36ciwmuFCRZdiHTIJtj1q4jgyk_kDMwkveitWUTV2hcluAlJIxDLClG_A2i0xMjeiCYZMLlInjHnhl9Dv8GEwju2Fkslm_nCSvo&node=1i220\", \"date\": 1777034654424, \"creationdate\": 1777034282000, \"modificationdate\": 1777034282000, \"uploaded\": 1777034584638, \"size\": 1407260002, \"name\": \"Elumale (2025) Kannada 720p WEBRip x264 ESub [DDN].mp4\", \"metadata\": {\"duration\": 7603221, \"bitrate\": 1480698, \"codec\": \"h264\", \"height\": 536, \"width\": 1280, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 107, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=Kx28uePld8aPJ08ny8RngIffBy8whlAlxshLAqqcm8gC7UxuwYSycThr5w1AAgXeWovnHOmbRbuOgsYks_5qAK8k4e-Um0s0jz0XyTYM90H-JOTWKZG7la1LpOTiOYi87Jlf26n2X8kGbvc9NXUeJyTI2eN0aC8_THVdvhvbgBSi25rjJXAczePCjONL7Ie8vZc&node=1i220\", \"etag\": \"0dL7VrDyRjPR+4Bg/hUsFIQ==\"}, {\"w\": 1024, \"h\": 428, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=KR2r1PHM2xqX448tCP2eS9LuPyfefQfie-rgW7GX9wK8RQhU1r3gSdRGvnuR_1QTTdsriUAqxUYyCrO6OpC_z1Q6w39eJo-q36ciwmuFCRZdiHTIJtj1q4jgyk_kDMwkveitWUTV2hcluAlJIxDLClG_A2i0xMjeiCYZMLlInjHnhl9Dv8GEwju2Fkslm_nCSvo&node=1i220\", \"etag\": \"0dL7VrDyRjPR+4Bg/hUsFIQ==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"dL7VrDyRjPR+4Bg/hUsFIQ==\", \"favorite\": false}]}, \"responsetime\": 1777034654485, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/3QDU27LXTcCmsyb8f2ypSjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+    "share_key": "",
+    "share_link_id": "66833",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Elumale (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
