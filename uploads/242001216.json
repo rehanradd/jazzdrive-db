@@ -1,0 +1,82 @@
+{
+  "name": "Mokshapatam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mokshapatam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:41:03Z",
+  "remote_folder_id": 1752186,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001216",
+  "tmdb": {
+    "tmdb_id": 1417846,
+    "title": "Mokshapatam",
+    "original_title": "Mokshapatam",
+    "release_date": "2025-01-14",
+    "year": "2025",
+    "rating": 7.0,
+    "overview": "Mokshapatam Gayatri is a middle-class woman working as a floor manager at a hotel. She has dreams of giving a better life to her kid and making a decent living with her savings until her family loses money to her husband's friend, who dies in an accident. On a fateful day, she discovers a bag forgotten by a customer in the hotel room. Will this bag change her fate or throw her into more problems? Watch now!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lzeUUOythIpam7UAAnNtPM4mRGR.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uH6SXQ2gUAfrMFUnsOc5JuIye6M.jpg",
+    "genre_ids": [
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001216",
+    "status": "U",
+    "etag": "nlJbD1lD2Rhpw6QJwbpdjQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001216",
+          "url": "/sapi/download/video?action=get&k=rk7EnvELT7q2dcU7-PSIx1ypW58NxwoB0pIKTe3IM8zWeStCzDawDu0TKI7D5LSFzNvJuzrjp1WDfed2MKLMxblq926qidrii1pHwQs4ZiK-Cdwb_iJ0dimO-xQyQ9ffGRhYTZEy2fG3_6NzfKA-BNseF3CPCPU5DdjrwaQSfA-jHARMY0Q&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=lcmeXwINAoDtrZm2LXkQnRmn0OYx8DbLX-tJNMsgKdmPQ1XBpZBxV_ZFPHRpB68Ja-ZjmoPnY0b4O7o4W22mVIMwRNTA6SvN7yMVrLotFZmNsFVX500XL8eQL6WVd8fUTGDMgiq7eSG_xTDzrUpE39yzdJvC1j02VizCn7_S3oR779WegX30dGnIf2pa-Tv7hBk&node=1i220",
+          "date": 1777045262495,
+          "creationdate": 1777044979000,
+          "modificationdate": 1777044979000,
+          "uploaded": 1777045159530,
+          "size": 1503499440,
+          "name": "Mokshapatam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8096265,
+            "bitrate": 1485622,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=XqKd5P-ysbw56IiDeKq6G1Vzz3K8PykrR1a_DydD8HHj3wcVx-LFqwBOfjSQiyR2Drh4z3nbHL7SBTFri84U8gzy3tqq8HAcjUb0vKqcGbj76WlIfPq21GWvvJLSlQBPvDqGtsM3oZ6MbYpfBfJ-HYOI81Immf_9l58tG1MvN0NY--pZWhLRpjKXdTYLtpqSn64&node=1i220",
+              "etag": "0nlJbD1lD2Rhpw6QJwbpdjQ=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=lcmeXwINAoDtrZm2LXkQnRmn0OYx8DbLX-tJNMsgKdmPQ1XBpZBxV_ZFPHRpB68Ja-ZjmoPnY0b4O7o4W22mVIMwRNTA6SvN7yMVrLotFZmNsFVX500XL8eQL6WVd8fUTGDMgiq7eSG_xTDzrUpE39yzdJvC1j02VizCn7_S3oR779WegX30dGnIf2pa-Tv7hBk&node=1i220",
+              "etag": "0nlJbD1lD2Rhpw6QJwbpdjQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "nlJbD1lD2Rhpw6QJwbpdjQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777045262561,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sT1cNZ5mR0eteDEtmFA6djMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mokshapatam (2025)",
+  "media_kind": "movie"
+}
