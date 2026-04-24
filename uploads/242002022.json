@@ -1,0 +1,83 @@
+{
+  "name": "Samajavaragamana (2023) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Samajavaragamana (2023) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:07:31Z",
+  "remote_folder_id": 1752272,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002022",
+  "tmdb": {
+    "tmdb_id": 1031218,
+    "title": "Samajavaragamana",
+    "original_title": "\u0c38\u0c3e\u0c2e\u0c1c\u0c35\u0c30\u0c17\u0c2e\u0c28",
+    "release_date": "2023-06-28",
+    "year": "2023",
+    "rating": 7.167,
+    "overview": "Balu, a determined middle-class man who finds himself at a crossroads when Sarayu enters his life, rekindling his long-lost desire for romantic relationships. Balu must try his best to stop his cousin\u2019s marriage in order to save his own love life.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/fuyNHfcDJVwLfhgjHYmXlQZyK93.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2pLyPFbZoAYBTiD3T7485oURfj2.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002022",
+    "status": "U",
+    "etag": "/MKugNiRI1I6DsYZLUB8Fg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002022",
+          "url": "/sapi/download/video?action=get&k=ybALl0f7sxCG6xTZCWMowjwj8mf2SilNgAwGyqIDeENExz3cSYnEUYDWPeny3QF4hmusCF0wqQgut1F582fCg-M33gPGNKs9TPX2UoihUCF53rNa8c3x5AvX61DVhlfmRu-jT6y9fuf5bm2_Jcs2U6k_xt4WiGejCl3t-RdT2D_lhBJPrpU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ZJK_HR4poLVUH5sk4xfVkuWX1_WColNzxdbIQwbhWt79RSROddWQ_DMljkUguCioBcZ7DTXVYmmUm9hhXfDrX3hK64YJDe-l_29te8QSJPELzDHNsjfQup6CWuvKEI0OnK7fL3TAJHnrepX5fDm80_kGjNEN1wLDCO-Q_izsmYHFQBha8ZZPnTxe2SB6BOD-R-s&node=1i220",
+          "date": 1777050450357,
+          "creationdate": 1777050068000,
+          "modificationdate": 1777050068000,
+          "uploaded": 1777050352498,
+          "size": 1155099375,
+          "name": "Samajavaragamana (2023) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7143091,
+            "bitrate": 1293668,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=xva2hNoEhS1izxqvafT9NxSF5_OZMxV6PS7omV3jyiVFYZVCl3BI4UPgF0uS6YUV3nA5K8uvGcQAPFVCY2cs4ByHIWqTK7lAGAyGO4asFol8LzY86TEvAaEqv0GA6dUFynfC0oEriHIbh7DJjKlSp4ofydVxDGp5qQ6R_HzmUSzKkvnfrv07UmugPMdE5dPelvA&node=1i220",
+              "etag": "0/MKugNiRI1I6DsYZLUB8Fg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ZJK_HR4poLVUH5sk4xfVkuWX1_WColNzxdbIQwbhWt79RSROddWQ_DMljkUguCioBcZ7DTXVYmmUm9hhXfDrX3hK64YJDe-l_29te8QSJPELzDHNsjfQup6CWuvKEI0OnK7fL3TAJHnrepX5fDm80_kGjNEN1wLDCO-Q_izsmYHFQBha8ZZPnTxe2SB6BOD-R-s&node=1i220",
+              "etag": "0/MKugNiRI1I6DsYZLUB8Fg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "/MKugNiRI1I6DsYZLUB8Fg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777050450438,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/5iEIgzMRSwGWPJW9V4laazMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Samajavaragamana (2023)",
+  "media_kind": "movie"
+}
