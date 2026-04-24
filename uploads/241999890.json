@@ -1,0 +1,82 @@
+{
+  "name": "Jameelante Poovan Kozhi (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Jameelante Poovan Kozhi (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:44:37Z",
+  "remote_folder_id": 1751990,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999890",
+  "tmdb": {
+    "tmdb_id": 1421134,
+    "title": "Jameelante Poovan Kozhi",
+    "original_title": "\u0d1c\u0d2e\u0d40\u0d32\u0d7b\u0d4d\u0d31\u0d46 \u0d2a\u0d42\u0d35\u0d7b \u0d15\u0d4b\u0d34\u0d3f",
+    "release_date": "2024-11-08",
+    "year": "2024",
+    "rating": 3.0,
+    "overview": "Shanawas, a flirtatious taxi driver in Fort Kochi, faces a life-changing moment when his mother, Jamila, arrives unexpectedly.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/i72VEcbygZC2c33DFOvePspH6q.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/cjxZm3TH1gMSNAtGbzILxRUm0rp.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999890",
+    "status": "U",
+    "etag": "Ga7h7xNNCo2DKyzhLsmupw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999890",
+          "url": "/sapi/download/video?action=get&k=fva3oB9kvCGczu32a7pO8JHxp-h4pu1O7EUzrz_Sy67w67jOB3c90aRakA65LJqxh7GsC1d_1v-BoM8FHTpEWSSgXwx3BQ7Bo0ISwNFsFTnTEfPl5gvvdrtvXTWfBxOXgFGOJBLZaqEewjAPk0nR8IpSZlAIir5RA4CaNTxD_Tr-GpLYNEk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=Bz6byUovmfUHlZtNy9iqolLNY5FX1lfyRJPEG1h0JOmk1WraNtBllmZ8puOt-cpeMQsDvsm6UCCj3651yLyRwMstzB83LI3F8VKgsPK4csLz0GAulW-7ecfHcLQAvE9SEFOWK5gh7JuoxGm6ISh8AA44yO9P8yMO8SAvXtJ8V2xZCMlxys5zpzajfH1nRXfJdwc&node=1i220",
+          "date": 1777038276251,
+          "creationdate": 1777038014000,
+          "modificationdate": 1777038014000,
+          "uploaded": 1777038218488,
+          "size": 938653328,
+          "name": "Jameelante Poovan Kozhi (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7228714,
+            "bitrate": 1038805,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ULSBERgwnAxOyV7R6u06IjpE2caROX2Q-rUEdI2lySSMPrJvjTBkftReFuBYpjIin1kJ5snbhR7N-fAQA2h7yg6hnHAmyi-1HQGYlEI_F7WhNNM087wdzC39wKQBeqkkB82AydZ990X-ydjeInXMn4joOCIIfWAVaqb5vazPitHzVjRVDNQ6HWe7BigOPMincN8&node=1i220",
+              "etag": "0Ga7h7xNNCo2DKyzhLsmupw=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Bz6byUovmfUHlZtNy9iqolLNY5FX1lfyRJPEG1h0JOmk1WraNtBllmZ8puOt-cpeMQsDvsm6UCCj3651yLyRwMstzB83LI3F8VKgsPK4csLz0GAulW-7ecfHcLQAvE9SEFOWK5gh7JuoxGm6ISh8AA44yO9P8yMO8SAvXtJ8V2xZCMlxys5zpzajfH1nRXfJdwc&node=1i220",
+              "etag": "0Ga7h7xNNCo2DKyzhLsmupw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Ga7h7xNNCo2DKyzhLsmupw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777038276308,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/KpPdU3efSfG9Aootv9uqhDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jameelante Poovan Kozhi (2024)",
+  "media_kind": "movie"
+}
