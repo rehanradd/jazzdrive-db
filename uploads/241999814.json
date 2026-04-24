@@ -1,0 +1,82 @@
+{
+  "name": "Eagle (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Eagle (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:37:54Z",
+  "remote_folder_id": 1751935,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999814",
+  "tmdb": {
+    "tmdb_id": 1150478,
+    "title": "Eagle",
+    "original_title": "\u0c08\u0c17\u0c32\u0c4d",
+    "release_date": "2024-02-08",
+    "year": "2024",
+    "rating": 5.333,
+    "overview": "A journalist pieces together the story of Eagle, a former professional sniper who falls in love with Rachana, and on a mission to redeem himself by working towards eradicating illegal arms from this world.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/mjQN27x0Dfkmsi3SRRkAIatOr2p.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/njSqJRgV4U9J7u73saYjSbiQ60V.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999814",
+    "status": "U",
+    "etag": "1Dy0O7EQsL83yFPaDR0tUg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999814",
+          "url": "/sapi/download/video?action=get&k=fM2mRZEG8ulTQSbuzYPZXsdtX3cUbcb-1lCrShiBp0uxvvo6ChMevTfFsnM6GvO75hnzHXw1D0GWssgVySRz_4WsOAUzpwBNtAX6OFBHtOtQjxgYeFIBtuf67Zi5Isa0H46Ttyu9OwuCmL7GUUutKG9xUgetp5wvYAlmTK2UVWFvDNwQBFI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=LhqAGAusc7NQJ-I9acBuXEHOn6iyBnZuFhMFPlkrgvg3kNbAbp9a2vgJYwxU8X5Ba0ihhBsgUSEBjU1rbtAVtwtMm3lCDJiErx4jgriHAJtMwXta0AO7oChhLQL--5m8zTr0bxvKw8K8zPSL-d_0hQA4HU9ujjIEn9n2XMgx1XWQ_OA2GmGwsh9RZMJHnoKfkB8&node=1i220",
+          "date": 1777034273352,
+          "creationdate": 1777033816000,
+          "modificationdate": 1777033816000,
+          "uploaded": 1777034190354,
+          "size": 1742449537,
+          "name": "Eagle (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9383689,
+            "bitrate": 1485513,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=xNwpHcBnSv2rXhrs9ylrqxpypw2MvZAqitImwjUOrqwv74rLBDf0boF4tGDbTkfQSY5iPmE7TxwEND9g0pDnm0dWYMHOMFR4tyWiakQLOpgyskKKPHGEx6Qu7bOcWiHUTQ5hipUWH5l6-QJWVyp3xyfcDy5cHPMJ4YWNxKGjb7y47KJ8mdrutsahyzWI-Yan7JE&node=1i220",
+              "etag": "01Dy0O7EQsL83yFPaDR0tUg=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=LhqAGAusc7NQJ-I9acBuXEHOn6iyBnZuFhMFPlkrgvg3kNbAbp9a2vgJYwxU8X5Ba0ihhBsgUSEBjU1rbtAVtwtMm3lCDJiErx4jgriHAJtMwXta0AO7oChhLQL--5m8zTr0bxvKw8K8zPSL-d_0hQA4HU9ujjIEn9n2XMgx1XWQ_OA2GmGwsh9RZMJHnoKfkB8&node=1i220",
+              "etag": "01Dy0O7EQsL83yFPaDR0tUg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "1Dy0O7EQsL83yFPaDR0tUg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777034273418,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CObOJlWLS9SL_qU-j3dy4jMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Eagle (2024)",
+  "media_kind": "movie"
+}
