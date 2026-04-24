@@ -1,0 +1,82 @@
+{
+  "name": "Nishabdham (2020) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Nishabdham (2020) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:59:50Z",
+  "remote_folder_id": 1752202,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001294",
+  "tmdb": {
+    "tmdb_id": 648705,
+    "title": "Nishabdham",
+    "original_title": "\u0c28\u0c3f\u0c36\u0c4d\u0c36\u0c2c\u0c4d\u0c26\u0c02",
+    "release_date": "2020-10-02",
+    "year": "2020",
+    "rating": 5.2,
+    "overview": "Seattle PD is investigating the murder of a man and Sakshi, a deaf and mute artist, and her husband Antony, a renowned cello player, are related to it.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/uadBKw7qfUTxZXsOedOZQJPOdMH.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wFb6t9ly8EwAKJwUCYexeWYna5r.jpg",
+    "genre_ids": [
+      53,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001294",
+    "status": "U",
+    "etag": "VyWNLromI7VoaxPgkXB0IQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001294",
+          "url": "/sapi/download/video?action=get&k=qihwr5Jhg9p9M21R8FjRz41iWYypBmyq3ztT1ntSGq7_exkcmVIjnYWbuy5GuLP1Th6J-mvMWR5y7godDXo1u0pGb36QNN-Y-oqJU_Wpdd2GGQV7v48YOswyBsh2DSHDtb4ucS1P1Tm55bCS8CsTyaXasyrb_6vBCKTamvJ-JEyXBk8lQds&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=aE8vT_PUI5AdbTpUFZlQIKXBqI0Zv58GlEtmwEYwrnUw8b7htWcVsHmmiuzXeb7jBZFH4Mk6fAxnwpMYTJTn_tka5cshWYwcTNe-q3JE0qSq9g8cHHE6RilTxrErlrsf4pc2bd3gd1Aj1syeWBIGEWZ6wHo-20Ut-Ww1Atray4GZ6hpnLaI4GIIGg-VVPEEUijs&node=1i220",
+          "date": 1777046389819,
+          "creationdate": 1777046040000,
+          "modificationdate": 1777046040000,
+          "uploaded": 1777046319919,
+          "size": 1243676584,
+          "name": "Nishabdham (2020) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7557632,
+            "bitrate": 1316472,
+            "codec": "h264",
+            "height": 480,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 96,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=lavll1r2id_v4FaUk6KgTxU47vQSlMOKawfYLHsunVl3iVE_nlpuL-VmyfLuceubxJRpmRHjuYHpXDPuEiWGjMGliPgI6r2rLEBB2nUA8toB8j_nJMp3wGgmYHbtzFZTJDiHZIFEzknVmAnJO5fgspEd5B5G8MJuuGyf_ozx0v73nfqQj7nP4dZIpFxKpje2K4s&node=1i220",
+              "etag": "0VyWNLromI7VoaxPgkXB0IQ=="
+            },
+            {
+              "w": 1024,
+              "h": 384,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=aE8vT_PUI5AdbTpUFZlQIKXBqI0Zv58GlEtmwEYwrnUw8b7htWcVsHmmiuzXeb7jBZFH4Mk6fAxnwpMYTJTn_tka5cshWYwcTNe-q3JE0qSq9g8cHHE6RilTxrErlrsf4pc2bd3gd1Aj1syeWBIGEWZ6wHo-20Ut-Ww1Atray4GZ6hpnLaI4GIIGg-VVPEEUijs&node=1i220",
+              "etag": "0VyWNLromI7VoaxPgkXB0IQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "VyWNLromI7VoaxPgkXB0IQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777046389881,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Bt3y89pvSIuy_UTdyoglsjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Nishabdham (2020)",
+  "media_kind": "movie"
+}
