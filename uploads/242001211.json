@@ -1,0 +1,70 @@
+{
+  "name": "Mithra Mandali (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mithra Mandali (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:40:41Z",
+  "remote_folder_id": 1752182,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001211",
+  "tmdb": {
+    "tmdb_id": 1428816,
+    "title": "Mithra Mandali",
+    "original_title": "\u0c2e\u0c3f\u0c24\u0c4d\u0c30 \u0c2e\u0c02\u0c21\u0c32\u0c3f",
+    "release_date": "2025-10-15",
+    "year": "2025",
+    "rating": 4.0,
+    "overview": "The lives of a group of misfit friends become chaotic after one of them falls for a politician's daughter.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/A1nFTGWgoP1FAiDsE0NJXTVjORk.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/o8eYClSIbfnesuewPE0yYEagFU9.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001211",
+    "status": "U",
+    "etag": "xAE9ZPPK7ke0Kg3j4ib+4A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001211",
+          "url": "/sapi/download/video?action=get&k=UNHUlAp15jUBOVhpz-cs0BdO88TbPQJShIKg3dUa4noILiV_DScCBtP2D3SeIlXX62wO79WUnTece_PRjN0aVs5F2nR48RThR10Qaa5vjJ8tvK9maXJ5ew4dd3mWIoP8lxL7I7SObekSjov9WJCLtWvoVPF6YFzj1S_kVp71ecd_0yVForw&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=IJgGvDFVGcbKvHd7g30Fu_7b4wIyfDHNcXI3vmKl7kJB0qKzXzHI1fH9OV6vrQdEnzIOan_aWt4lCMWc19J60ZxzhZ6gHjlIcyzZ4_bHxJ65WPopDxy-kbyPNm_SL_QXXgd-2oXk0efQqKirOwhebByrJO2rCrHUn8ciDoNwy2ea3njaviJkCDg6i2aQWBxMfyM&node=1i220",
+          "date": 1777045240817,
+          "creationdate": 1777044776000,
+          "modificationdate": 1777044776000,
+          "uploaded": 1777045139909,
+          "size": 1510222106,
+          "name": "Mithra Mandali (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=WlfFT3irflQeZ0-kBy8JLu-ljrFSsGz1tSwa7iDJDpOOFw8TQdNZawsVtCj2_HbpZYB1Yv1QvbEZJOPfVuVTvNRUNZ4LfGR-SFX0rl0PXKL9MDRzDrbakDOXUIIqIcOEqritAGB7sib5OX1Il9k_LVBebudLnpw6cuKj9ezRsqF-qyn6nzZL9kHa3qUN2gaZMRo&node=1i220",
+              "etag": "0xAE9ZPPK7ke0Kg3j4ib+4A=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IJgGvDFVGcbKvHd7g30Fu_7b4wIyfDHNcXI3vmKl7kJB0qKzXzHI1fH9OV6vrQdEnzIOan_aWt4lCMWc19J60ZxzhZ6gHjlIcyzZ4_bHxJ65WPopDxy-kbyPNm_SL_QXXgd-2oXk0efQqKirOwhebByrJO2rCrHUn8ciDoNwy2ea3njaviJkCDg6i2aQWBxMfyM&node=1i220",
+              "etag": "0xAE9ZPPK7ke0Kg3j4ib+4A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "xAE9ZPPK7ke0Kg3j4ib+4A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777045240893,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/YZdamdhnTv2pyimftdcqtTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mithra Mandali (2025)",
+  "media_kind": "movie"
+}
