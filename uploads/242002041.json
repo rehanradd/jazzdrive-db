@@ -1,0 +1,82 @@
+{
+  "name": "Six Each (2025) Hindi Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Six Each (2025) Hindi Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:25:09Z",
+  "remote_folder_id": 1752288,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002041",
+  "tmdb": {
+    "tmdb_id": 1444425,
+    "title": "Six Each",
+    "original_title": "Six Each",
+    "release_date": "2025-03-14",
+    "year": "2025",
+    "rating": 9.3,
+    "overview": "A student in Canada faces charges in her husband's death after allegedly deceiving him for visa purposes, highlighting immigrant families' desperate pursuit of opportunities.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/mSUD3y15nNurCWZv2DyJwalWo2Z.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/k9Iw1EIVkPrhEbEn6Pxbj59izOG.jpg",
+    "genre_ids": [
+      80,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002041",
+    "status": "U",
+    "etag": "sbnbpU2Q31ktHWunKchrpw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002041",
+          "url": "/sapi/download/video?action=get&k=YqUUJYaeuSj6x1PguNLTcza8YeHLDzEIxe_1XyOiaLXhHvdrcbGKzSHZNmHsidlQ9KA_bZfjDghFmIa6hEjiQmbFokIH1CQRp7erIVuUkSchCCy44ByYqhc7kK9bPyrug48dU3iKa8BWotEL-CUG2l7ShcunK2SxVJGGaxvvCFszcU7zetc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=nUiiEsHwP0NAs9uhanBSOmqtjLAG-Mp0u_-yYiQPYe3z2h1UyUlr8kaFJ9rQ1K91KL5Yib1h-Y_7zTEhjO5VGag3fC3CWQpm7EJAP-BhH30ZU954k9WAwSt7-Hcuoa8l6ySmUVeXONDVHc3GjrapkbSg6n540YUUj9Ej27DyltmQFXUia2fu_J55NxdqFVYJMaY&node=1i220",
+          "date": 1777051508965,
+          "creationdate": 1777051162000,
+          "modificationdate": 1777051162000,
+          "uploaded": 1777051400999,
+          "size": 1267332137,
+          "name": "Six Each (2025) Hindi Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6825161,
+            "bitrate": 1485482,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=iGtKjLBcK703OWXZpsFW5OPWL5eGdIOXdf8r9HAKlqhnlaZE-wNR6XCZu0aNrW-sKP2KdDgsiZGmIBk9fwlioxifKJVRsyasQyI9tdq7XnpTtS3xppslKW44lamYfgWjyq9pFrg4FV3B47eqMQP1cOgS1WSqEZrXq-Fhn9-7V_b5pfs7U4YnfYv99D8J4OdbR6Q&node=1i220",
+              "etag": "0sbnbpU2Q31ktHWunKchrpw=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=nUiiEsHwP0NAs9uhanBSOmqtjLAG-Mp0u_-yYiQPYe3z2h1UyUlr8kaFJ9rQ1K91KL5Yib1h-Y_7zTEhjO5VGag3fC3CWQpm7EJAP-BhH30ZU954k9WAwSt7-Hcuoa8l6ySmUVeXONDVHc3GjrapkbSg6n540YUUj9Ej27DyltmQFXUia2fu_J55NxdqFVYJMaY&node=1i220",
+              "etag": "0sbnbpU2Q31ktHWunKchrpw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "sbnbpU2Q31ktHWunKchrpw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777051509027,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/c9HssY1UR8iyMa_VgkM0czMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Six Each (2025)",
+  "media_kind": "movie"
+}
