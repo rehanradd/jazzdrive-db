@@ -1,0 +1,83 @@
+{
+  "name": "Dies Irae (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Dies Irae (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:23:01Z",
+  "remote_folder_id": 1751926,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999805",
+  "tmdb": {
+    "tmdb_id": 1475204,
+    "title": "Dies Irae",
+    "original_title": "Dies Irae",
+    "release_date": "2025-04-30",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "Semi based on real events...",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jcE6a6ZxtkbJ9Uz0qWB8VvkAkJC.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/3GdeE55b8GG7yoKFX9yeHJns6a5.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999805",
+    "status": "U",
+    "etag": "4fHMAHKtLQw3m3n2nJXq1A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999805",
+          "url": "/sapi/download/video?action=get&k=7tMYDhh99TyaB0EK_QPO4AeCRemmhrAD7XES6asBJAS70VoG30Dkd0rRnIKl8e6u3fD-9TnQ0GjjftLdkwnYJD5-On5mbhKXplsOhaTSZ5t8SMovUu-TiR-f0CNNQlY2P1njSc5d_QDaoPf_FtcXzYd5SsM8hTEHBU0NPG2tvpX-YKdUFfc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=DxmYCsuvg9zt7QefCzaZPKfM6BX54ZaRqZb2RZKAeXfC9OzHjRHOd86pWSbwi1sBtbRw-rnTRX2ECY1sGrRVRcbZdXyLsh9UkSyvEy_6WaYb7Jr8u4j-upYso-l870dQndnQ3UF1C8d4s15bhw7vpAkfuzJb42mx-tyOwVJJVcJfL7rjp37PPpD7kaB0Aaw65N8&node=1i220",
+          "date": 1777033380330,
+          "creationdate": 1777033111000,
+          "modificationdate": 1777033111000,
+          "uploaded": 1777033344251,
+          "size": 1107359518,
+          "name": "Dies Irae (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6773914,
+            "bitrate": 1307792,
+            "codec": "h264",
+            "height": 640,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 128,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=MByu3BfDEnMK9rApw4J3df0Co5UeD3CYOv4gH6erf4YJ18str3eS8eJfdYiEmghyAHFGygGdOd3FZ6InCenBhMueQcQ3Xmc6FZV9l4dhXjpIE8PhawvZd6CPcy9XNxgc2i-bd_TeBoKZi1vUory9rTlPSCpJnaPi_REBCeSbNY0gyz7rGZu5LgZAj1oHJ6GrACQ&node=1i220",
+              "etag": "04fHMAHKtLQw3m3n2nJXq1A=="
+            },
+            {
+              "w": 1024,
+              "h": 512,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=DxmYCsuvg9zt7QefCzaZPKfM6BX54ZaRqZb2RZKAeXfC9OzHjRHOd86pWSbwi1sBtbRw-rnTRX2ECY1sGrRVRcbZdXyLsh9UkSyvEy_6WaYb7Jr8u4j-upYso-l870dQndnQ3UF1C8d4s15bhw7vpAkfuzJb42mx-tyOwVJJVcJfL7rjp37PPpD7kaB0Aaw65N8&node=1i220",
+              "etag": "04fHMAHKtLQw3m3n2nJXq1A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "4fHMAHKtLQw3m3n2nJXq1A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777033380388,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/XkiKoTwrSsa6QE5CFyNi4jMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dies Irae (2025)",
+  "media_kind": "movie"
+}
