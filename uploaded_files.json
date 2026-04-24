@@ -2938,5 +2938,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "834a4121d2fef8b66ab05733c1b3c47c180bddfdcd24f5427f3d4dd50b425523": {
+    "name": "Kanakarajyam (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+    "path": "D:\\New folder\\Kanakarajyam (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+    "mediatype": "video",
+    "size_bytes": 1354633915,
+    "uploaded_at": "2026-04-24T14:16:20Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000282",
+    "remote_id": "242000282",
+    "remote_folder_id": "1752112",
+    "tmdb_title": "Kanakarajyam",
+    "tmdb_year": "2024",
+    "tmdb_rating": 5.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/ydcI3wSSjvjYt9X99tLUVDos9qi.jpg",
+    "tmdb_overview": "The relationship between two people, their complexes and pride.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242000282\", \"status\": \"U\", \"etag\": \"KNkji08wRyUPu0H4OGb/TA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242000282\", \"url\": \"/sapi/download/video?action=get&k=m3YinSHYAEm6nC8RMq5cBUk4lJGTi9PLKBBT8w_AEt0xi7w_u1s9d4PLiCa8lFkCsinK-X4__NLCvzk4EfmQjsD3uVEcK4iN8TCHyfUTOWzkifE76RtG0_YuCQ__vXe6B4erZzO90yZbhVp9LlLxC9eNnhBgHKC9HZWqhMyt6GTREEb8M20&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=Titiea-FQVWiHQBtm41u5TftMaJn7Ad93Z4nHMdKmtZdcsIxtnDBXJUU_3Qg43LNT6BSBINRLwxuEZWLomWkiuvyl4WNGG9Y-xUBFGsZmc1Uhz7R19lT79bApnE2-XvlBM6LOoH8I6mdXOSA3zLQoJJyNOjRWPyP_o45FgNt2zCzx7DxeFKnEptbns-ykmRvhgU&node=1i220\", \"date\": 1777040179640, \"creationdate\": 1777039789000, \"modificationdate\": 1777039789000, \"uploaded\": 1777040106443, \"size\": 1354633915, \"name\": \"Kanakarajyam (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4\", \"metadata\": {\"duration\": 7444949, \"bitrate\": 1455627, \"codec\": \"h264\", \"height\": 536, \"width\": 1280, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 107, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=RUMsfQYrCGaaxhIuHvDWcmarHP6iFTDnI6P6wEvE9aPCNl0EGxIOjNGlOkesq1QQey49jxHsQ8U2JGrcnCV7L0jRYCjXAKlo1CYj7NcEUJbhL_IQdFRINylD6OVJQqPr-jnDOhigLpw2agY59ZP6QhrTITIQYZ4Wuv6YhNr3nxSPFQfxR-f79QdwWNGFn4odnZE&node=1i220\", \"etag\": \"0KNkji08wRyUPu0H4OGb/TA==\"}, {\"w\": 1024, \"h\": 428, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=Titiea-FQVWiHQBtm41u5TftMaJn7Ad93Z4nHMdKmtZdcsIxtnDBXJUU_3Qg43LNT6BSBINRLwxuEZWLomWkiuvyl4WNGG9Y-xUBFGsZmc1Uhz7R19lT79bApnE2-XvlBM6LOoH8I6mdXOSA3zLQoJJyNOjRWPyP_o45FgNt2zCzx7DxeFKnEptbns-ykmRvhgU&node=1i220\", \"etag\": \"0KNkji08wRyUPu0H4OGb/TA==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"KNkji08wRyUPu0H4OGb/TA==\", \"favorite\": false}]}, \"responsetime\": 1777040179706, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/Keyv8-cMTNC3SSv9koD3njMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+    "share_key": "",
+    "share_link_id": "67004",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Kanakarajyam (2024)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
