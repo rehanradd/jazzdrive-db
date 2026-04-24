@@ -1,0 +1,84 @@
+{
+  "name": "Maine Pyar Kiya (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Maine Pyar Kiya (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:17:55Z",
+  "remote_folder_id": 1752165,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001072",
+  "tmdb": {
+    "tmdb_id": 1310779,
+    "title": "Maine Pyar Kiya",
+    "original_title": "\u0d2e\u0d48\u0d28\u0d47 \u0d2a\u0d4d\u0d2f\u0d3e\u0d7c \u0d15\u0d3f\u0d2f",
+    "release_date": "2025-08-29",
+    "year": "2025",
+    "rating": 5.5,
+    "overview": "Searching for Nidhi in Madurai's streets, Aryan faces mounting danger and tension at every turn. Time runs short as he navigates growing chaos to stay alive.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2eU8iygSmd7gY6K3TGVx2w3SPFh.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bZb27et2aHq6drC4OJBywEOzz2U.jpg",
+    "genre_ids": [
+      10749,
+      28,
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001072",
+    "status": "U",
+    "etag": "mCz95k19VigI/NnGWAU8xw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001072",
+          "url": "/sapi/download/video?action=get&k=HInl7wsjtZzJS6lYvT1oPUPEfQv6V0lgXx0G-oNDL6TOp6nV8rWPLST4v1vnkC-S5fo8Y-7jl2F1MnOf2saURHCtwWYp17Gp6CHF4zts-Z9ShHvHxjYfNlyjeOA6Fvjr3To3T3I_bqET-GMjOHmqPcaqxnbTBSoIzCE29kyyQEE4ULrhDs8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=r_oG_t4nhcei2_OX2nKuHtWhESvtAsBRrZUi1L6arNsfCa6NJ9tPn1Gqf2Luml90117FBd4j5iiso6O5F0LV-DQcdgioQqYXMHwmek1YDApPbcL1eR0OhYo6DZLMdH_ZhQQCXWRUNeJomNpjtZK1P0MJp6iRnFnZzwSDujE6sogI_8cgB7dmJuV-l_yv7ZdqAa4&node=1i220",
+          "date": 1777043874893,
+          "creationdate": 1777043673000,
+          "modificationdate": 1777043673000,
+          "uploaded": 1777043782658,
+          "size": 1461982122,
+          "name": "Maine Pyar Kiya (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8779136,
+            "bitrate": 1332233,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=95fG1wNfjsaoWkLc78OPcp3qfd5jaylWwwKJTKE4pKls20FoduMv3JtwQuz4MZ8tIfqLJeZEQORptRZf0u3FEAFslHcaEXUcPxgn5wN15zhRYssIC9BdRtLcMesLHqUPnc1yAvfbetxZpCTS8B7VnECX91CfiJI_va85-WwxcJRRm5S8bADm8fb-xJKZS7lUqPQ&node=1i220",
+              "etag": "0mCz95k19VigI/NnGWAU8xw=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=r_oG_t4nhcei2_OX2nKuHtWhESvtAsBRrZUi1L6arNsfCa6NJ9tPn1Gqf2Luml90117FBd4j5iiso6O5F0LV-DQcdgioQqYXMHwmek1YDApPbcL1eR0OhYo6DZLMdH_ZhQQCXWRUNeJomNpjtZK1P0MJp6iRnFnZzwSDujE6sogI_8cgB7dmJuV-l_yv7ZdqAa4&node=1i220",
+              "etag": "0mCz95k19VigI/NnGWAU8xw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "mCz95k19VigI/NnGWAU8xw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777043874969,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CjPaelRJT96XbEu3_azlJzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Maine Pyar Kiya (2025)",
+  "media_kind": "movie"
+}
