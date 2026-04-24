@@ -1,0 +1,82 @@
+{
+  "name": "Thammudu (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Thammudu (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:56:11Z",
+  "remote_folder_id": 1752317,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002406",
+  "tmdb": {
+    "tmdb_id": 1263029,
+    "title": "Thammudu",
+    "original_title": "\u0c24\u0c2e\u0c4d\u0c2e\u0c41\u0c21\u0c41",
+    "release_date": "2025-07-04",
+    "year": "2025",
+    "rating": 5.4,
+    "overview": "A troubled man reunites with his sister to protect her and a group of villagers from the brutal plans of a violent criminal businessman.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5rhjx4KLaLrZNxzsBY8j8U6Pntu.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2m8zoc7iL1MiWP2FuPiyQvTSBtE.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002406",
+    "status": "U",
+    "etag": "9TTUyyoNY9oSkfbcpn69tA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002406",
+          "url": "/sapi/download/video?action=get&k=BTEPlHOTkS0T2EPFiYejILUVQ4Xsl7WHfIFZ7m_2JV6FsK20RKO1QBUvKmBELYLQ9miD44pmbvsiM7PBVkiKZfQPrDNv0SRZKUjZbewMm-WfWjQoIZP-hJbZXzFpp-jDKjXs1BpFcHR2YcZd6n3X-IMf14Fvnz963QohWxIPKswMB30QU0I&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=bGtSoyNF9nI2VqfxIvthvfevPOKpZAw_-sFUpSIF0-HBIAoqHyPbYMSK-th-VHJjnFQElR-dVzRV6RDpM8WHmD5ria2vyN9Sm50uiqXVYWojpJPbsuwtYuyZC3Dx8dozmgI_xmS_GBNbw6IVfBGAAMWVWVtiTAME5WHKcD9eDAg_0td1L1fPRjtQgyfBt8x-lkc&node=1i220",
+          "date": 1777053370441,
+          "creationdate": 1777052912000,
+          "modificationdate": 1777052912000,
+          "uploaded": 1777053272381,
+          "size": 1499004243,
+          "name": "Thammudu (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9078955,
+            "bitrate": 1320860,
+            "codec": "h264",
+            "height": 546,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 109,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=uThNsp7S8FsTbShsn4iGJOOfZJQRqjtOkcQKoaxx-ImOl1AEHFs7l9rIjT-10o9VYz5i7FD3qkF60sqnmh6_8PJUw5YPHDSQ9Jd0oVDq8FlEtrWBYyF2k7N68WPk_o7xWDMOFD1VhssedeDzUATg-JpJcK4N7Egv18e5sKWk-cRpAW14OhfCyGTN7gIoh9_f7Wk&node=1i220",
+              "etag": "09TTUyyoNY9oSkfbcpn69tA=="
+            },
+            {
+              "w": 1024,
+              "h": 436,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=bGtSoyNF9nI2VqfxIvthvfevPOKpZAw_-sFUpSIF0-HBIAoqHyPbYMSK-th-VHJjnFQElR-dVzRV6RDpM8WHmD5ria2vyN9Sm50uiqXVYWojpJPbsuwtYuyZC3Dx8dozmgI_xmS_GBNbw6IVfBGAAMWVWVtiTAME5WHKcD9eDAg_0td1L1fPRjtQgyfBt8x-lkc&node=1i220",
+              "etag": "09TTUyyoNY9oSkfbcpn69tA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "9TTUyyoNY9oSkfbcpn69tA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777053370509,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HkJOvoD_SJOtdjl8bkcnqDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Thammudu (2025)",
+  "media_kind": "movie"
+}
