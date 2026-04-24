@@ -2966,5 +2966,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "6b9d11491b76854c9f20f78989483ed74f936701c4bb91b2619b784340d4aa35": {
+    "name": "VMAgentLogs.zip",
+    "path": "D:\\CollectGuestLogsTemp\\VMAgentLogs.zip",
+    "mediatype": "file",
+    "size_bytes": 2226951,
+    "uploaded_at": "2026-04-24T00:45:24Z",
+    "stream_link": "",
+    "remote_id": "241996162",
+    "remote_folder_id": "1751840",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"241996162\", \"status\": \"U\", \"etag\": \"da6qYy8IQ5EDJYoU0KYVOg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"files\": [{\"id\": \"241996162\", \"url\": \"/sapi/download/file?action=get&k=vfLuTte3F7KzEm_djSmQg4tuKcm33vCPJIxdn51BwJykbA3FcKfGJXVo2MJeqb_ckBgsdIwzCL87N1JmAP-HDE2lmF_uf6dZ5KKTYmaRVzeXYlJRHrqiIl4cPeFVb3-ScjYcvjfJvNIFEwmX4-Bg5Nqz7wcNgbafkGcieyPnB-NunUKz7zI&node=2i182\", \"date\": 1776991524030, \"creationdate\": 1776991522000, \"modificationdate\": 1776991522000, \"uploaded\": 1776991523888, \"size\": 2226951, \"name\": \"VMAgentLogs (2).zip\", \"mediatype\": \"file\", \"status\": \"U\", \"etag\": \"da6qYy8IQ5EDJYoU0KYVOg==\", \"favorite\": false}]}, \"responsetime\": 1776991524112, \"type\": \"file\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/j5-TjD6sT0mMvK5WrOL-DjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+    "share_key": "",
+    "share_link_id": "66627",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "1751840",
+    "share_folder_path": "Vmagentlogs",
+    "media_kind": "file",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
