@@ -1,0 +1,84 @@
+{
+  "name": "Gajaana (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Gajaana (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:59:09Z",
+  "remote_folder_id": 1751952,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999842",
+  "tmdb": {
+    "tmdb_id": 985667,
+    "title": "Gajaana",
+    "original_title": "\u0b95\u0b9c\u0bbe\u0ba9\u0bbe",
+    "release_date": "2025-05-09",
+    "year": "2025",
+    "rating": 4.5,
+    "overview": "A group of greedy people were entering enchanted Forest in search of treasure and unexpectedly they over come hurdles in a mysterious way. did they find the solution and did escape from the hurdles in the forest",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4T15krfH63uSTk9wI4yIN7YcqkZ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7AVjjrzoW2J6aAe8sDH5LD0YZtG.jpg",
+    "genre_ids": [
+      35,
+      12,
+      14,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999842",
+    "status": "U",
+    "etag": "PiptuVOeNKDl1UEX49LAEg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999842",
+          "url": "/sapi/download/video?action=get&k=RuuxErGqvvBYdSRbH0HjUbDgV1ND02ydkigHm3qOkwDMTX6IwJzJjoYmGbTrX-9QBDy0IjgkomuFfRlPl3HfUm84kew8tKqL3nn6Oy7Vj93zSG7LHFRcGrH24sO0juHCBxCsazbzuc5VeOjgqBNwtG26AoaVtPF3phsiru_x0yaMo0ZM3Bw&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=K7EGe6IB9NFpzPWDIOyW4_DSrooOn_61KH9AK6Wt0olHufnyhiwmEJAYCYpvLTxzOGRpRdwol9q7Bi8A9aTcjFwr0E2fugHtSh9JMRoH8WADf6_GkZSk6h_P_A_ORG_4XpQ8eD0grYvvXW0eNkk9rGYb4XrpC1ls7YZtPVt_J-SZIwIWaaMgE0LkrLryMQ2o9XM&node=1i220",
+          "date": 1777035548390,
+          "creationdate": 1777035252000,
+          "modificationdate": 1777035252000,
+          "uploaded": 1777035499040,
+          "size": 1002035974,
+          "name": "Gajaana (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6203635,
+            "bitrate": 1292192,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=59gy-Aj2INH6JhUyso8QQfNyHLr0LPtIYAEhshByfqq-ZwqifhG4YZBXDfGIwvo3oax0IqrdIt4hFYJ_pnjoD1Tc2h-Thz3-hCVkiNwZoTqSX71lJvMfK_xTSutZ1sjlmuIQwl8bDmrxUVJOFX3BUTNrC4olfAq782jSfiPq18NUCU8M-Gs1-AoeKN7RPaPxMak&node=1i220",
+              "etag": "0PiptuVOeNKDl1UEX49LAEg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=K7EGe6IB9NFpzPWDIOyW4_DSrooOn_61KH9AK6Wt0olHufnyhiwmEJAYCYpvLTxzOGRpRdwol9q7Bi8A9aTcjFwr0E2fugHtSh9JMRoH8WADf6_GkZSk6h_P_A_ORG_4XpQ8eD0grYvvXW0eNkk9rGYb4XrpC1ls7YZtPVt_J-SZIwIWaaMgE0LkrLryMQ2o9XM&node=1i220",
+              "etag": "0PiptuVOeNKDl1UEX49LAEg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "PiptuVOeNKDl1UEX49LAEg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777035548452,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/mpB2RzHVQvufvstIO4rMmjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Gajaana (2025)",
+  "media_kind": "movie"
+}
