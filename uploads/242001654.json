@@ -1,0 +1,81 @@
+{
+  "name": "Pechi (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Pechi (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:28:45Z",
+  "remote_folder_id": 1752234,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001654",
+  "tmdb": {
+    "tmdb_id": 1321821,
+    "title": "Pechi",
+    "original_title": "\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bbf",
+    "release_date": "2024-08-02",
+    "year": "2024",
+    "rating": 8.333,
+    "overview": "Five young trekkers and their tour guide embark on a weekend adventure in the Kollimalai hills. Despite warnings, they venture into a restricted area, unknowingly entering the domain of a malevolent spirit, which is hell bent on wreaking havoc in their lives. Did they survive the relentless onslaught and harrowing encounter with the supernatural force in the haunted woods?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/6Pla6xHgD0kep7S9z6KfXzi6B4l.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/cAwBPZDaDjllk1Geicgj21cDZTS.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001654",
+    "status": "U",
+    "etag": "h4cHEcRxDfWd6UxI7DtG9g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001654",
+          "url": "/sapi/download/video?action=get&k=Ptgaya8sfHma-jfzSiFdnmXJszQKBRm10paHjZ5UhpLMmH1m0sUATzObrLB_9IolJ_jN--3CkmQvI6PLmEvgJCzgzMIKjxUr3a_uLdhQMzh4p-0qVK_ojuDKeqSvEDH04tDbeomDbzUibkts9WPT282_7nuyuG_eInprVSc8bmrNShMQxXM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=CkJZvoG4wZ7gVsJ8tgkq3--Ww93jsSZMXfM210SZexw4Bp8vFzndFuo8KztXl9ph3JWDoux0AphggcPwwD3vlMjyYOz2iF1Y0hlD-hUIwfnVkX2tBZIfentNSlpIheh-pmlHfHatjgH6Vvep0BkPy75Cf1cvhUNGkZRz-oersHv6XB0iZVuo8tvw6vTPT6AL8JI&node=1i220",
+          "date": 1777048124344,
+          "creationdate": 1777047929000,
+          "modificationdate": 1777047929000,
+          "uploaded": 1777048032995,
+          "size": 1323164009,
+          "name": "Pechi (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6532224,
+            "bitrate": 1620475,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=pHeO8CoPbuUnOFtOIJsAGYSxpgdzTpuUnS3ywJJNwYE98M51DyVQyfkOgtTX1swjaOUwie456Bu6_eB82NtTMoA1ds1bZXOlyqnYxqr5LVM1nsQ9bV9RlDIwwMn2dO7xzl1bW-vHMyxPcO9fvitvd1tZnHNRkBxEiwpk6Q80a5MGceAILsdMbIqz-08DE1tm5Rc&node=1i220",
+              "etag": "0h4cHEcRxDfWd6UxI7DtG9g=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=CkJZvoG4wZ7gVsJ8tgkq3--Ww93jsSZMXfM210SZexw4Bp8vFzndFuo8KztXl9ph3JWDoux0AphggcPwwD3vlMjyYOz2iF1Y0hlD-hUIwfnVkX2tBZIfentNSlpIheh-pmlHfHatjgH6Vvep0BkPy75Cf1cvhUNGkZRz-oersHv6XB0iZVuo8tvw6vTPT6AL8JI&node=1i220",
+              "etag": "0h4cHEcRxDfWd6UxI7DtG9g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "h4cHEcRxDfWd6UxI7DtG9g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777048124404,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/28IDTtmMQli27MPrKFvIETMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Pechi (2024)",
+  "media_kind": "movie"
+}
