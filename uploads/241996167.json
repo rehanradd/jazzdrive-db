@@ -1,0 +1,41 @@
+{
+  "name": "KvpRegKey.xml",
+  "path": "D:\\CollectGuestLogsTemp\\KvpRegKey.xml",
+  "uploaded_at": "2026-04-24T01:45:25Z",
+  "remote_folder_id": 1752016,
+  "mediatype": "file",
+  "stream_link": "",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241996167",
+    "status": "U",
+    "etag": "yfQq+U2Wb004LL8DzgzOuw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "files": [
+        {
+          "id": "241996167",
+          "url": "/sapi/download/file?action=get&k=BM1ggwi1SRBd4IQtqU1P_1GpEmXSBJB1NHHG1x1XFnlCw_hKcja2-62Z2MnuyziALsReHdazSYt6uc9B9ZSgQL43aC-GIKqJLWxYDBU4w3bRfGmHPNwWI4shaCGaowvNP-Yr7t4veDhJrYVk2YZIuI5SIqzbYQGkVT0A3-YakOlxZuWr_Sc&node=2i182",
+          "date": 1776995125501,
+          "creationdate": 1776995125000,
+          "modificationdate": 1776995125000,
+          "uploaded": 1776995125369,
+          "size": 12794,
+          "name": "KvpRegKey (1).xml",
+          "mediatype": "file",
+          "status": "U",
+          "etag": "yfQq+U2Wb004LL8DzgzOuw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776995125589,
+    "type": "file"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sC3w-PptSgi0gfnLDif7OTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kvpregkey",
+  "media_kind": "file"
+}
