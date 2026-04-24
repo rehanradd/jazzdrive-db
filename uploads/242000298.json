@@ -1,0 +1,68 @@
+{
+  "name": "Kingdom AKA Saamrajya (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Kingdom AKA Saamrajya (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:30:17Z",
+  "remote_folder_id": 1752122,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000298",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000298",
+    "status": "U",
+    "etag": "+y14lbPo8Y0vnItDLjAW+g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000298",
+          "url": "/sapi/download/video?action=get&k=w_sEnU5wVSJ893VB0TWe3XIiRt73ytM9bbTXNQQA1ud3im0uNSM_HKrERHbbUj9zyYCj-lTJi0Y2W9fYm1bh_EEl0NeadxKCU7_YmL8NZhHyYWxuAuzC97RRSL51JzskAcKuGjTZTiYINl5KEXYPqKDp-al6mQQDp5cgNQ-rhLw1OqTMuDc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=_sx-h6ZdWutA9ra29fqduee8gLKvoccfx0rmfn7wJx9AJv_SFt0YVDNIQaN7xpQ8qeSqFixpBffaBAh1efVaTa2tXC9S9J84Ui3FUC1cmtfq9AIato4Wu_exeUT9ON_sR-pFocasQTre81NDICZdvKLbkFY9_pDM7AvnP3fhNlnP2CZYRivBOCnTMy6WEVolnMU&node=1i220",
+          "date": 1777041015838,
+          "creationdate": 1777040535000,
+          "modificationdate": 1777040535000,
+          "uploaded": 1777040934727,
+          "size": 1512148106,
+          "name": "Kingdom AKA Saamrajya (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9148355,
+            "bitrate": 1322334,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=lJxVw_acAIzMs_FqP5XBeifQZMHk969wHiSGurQxz59S4ezlgnSEE-bg94Yhcr0X0YdyoK5HD5jUuFV58cfMghsdn8iEn0x5wrUHjpDqNLOTtgC08q1oCaDQksEmk0AM2l4rpvqWp19O29sgVGodIthVofLXcqBp5gZ8Pf6k0j96I9PV4d-A72cQEjELZNu_N1w&node=1i220",
+              "etag": "0+y14lbPo8Y0vnItDLjAW+g=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_sx-h6ZdWutA9ra29fqduee8gLKvoccfx0rmfn7wJx9AJv_SFt0YVDNIQaN7xpQ8qeSqFixpBffaBAh1efVaTa2tXC9S9J84Ui3FUC1cmtfq9AIato4Wu_exeUT9ON_sR-pFocasQTre81NDICZdvKLbkFY9_pDM7AvnP3fhNlnP2CZYRivBOCnTMy6WEVolnMU&node=1i220",
+              "etag": "0+y14lbPo8Y0vnItDLjAW+g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "+y14lbPo8Y0vnItDLjAW+g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777041015909,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/bXC3WWjXQUutUJN77S3m8zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kingdom Aka Saamrajya (2025)",
+  "media_kind": "movie"
+}
