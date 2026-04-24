@@ -1,0 +1,82 @@
+{
+  "name": "Gentlewoman (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Gentlewoman (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:06:44Z",
+  "remote_folder_id": 1751958,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999850",
+  "tmdb": {
+    "tmdb_id": 1431043,
+    "title": "Gentlewoman",
+    "original_title": "\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd\u0bb5\u0bc1\u0bae\u0ba9\u0bcd",
+    "release_date": "2025-03-07",
+    "year": "2025",
+    "rating": 8.0,
+    "overview": "A major turnaround of events takes place in the lives of Aravind and Poorni, a newly married intimate couple, when her sister visits for a job interview. Aravind mysteriously disappears, leading to revelations of his affair with a client. As authorities investigate, tensions rise between the women amid growing suspicions.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xbF4NfyaQra7GkGR5OZAWglVhUE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/yd7QS0Ru4GQqRMnKvxgfxfOOdyF.jpg",
+    "genre_ids": [
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999850",
+    "status": "U",
+    "etag": "Pn+3Uw/HQHc8q/qeu0KLPw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999850",
+          "url": "/sapi/download/video?action=get&k=V36kYOA3p7LSP7k62gSV9b71icqogxJ2gUfqJ7BQ5w_kMvf5SniYfCBBvDUGmK6maJDCFOkizlEC7d1Z_LGg4UdNtGLc0LELy0ELqjYZiRhf7VpLUL-AAshafh5m4_0ufaLfXBu8CW9j52xaHmD9lGMF77L327bVTnZEbta_GHi6W6tM2V8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=zl40_2a--3mC2NoxPNlW_kUA5nyDmkfWYsE1siUeto7oqZi-3luGLro9hv1-qOOFKQtF2yhOeQWGggyr0GTyLmGdAi3l0RKOeu6Of3bNdE33-NJbA0n9eSu2Dh_JiVmWZqUXSqvmkcaEYj9wzBE8HRmRV_aCJ8O78JgJgcM_n1wEIc_wdx2GXFwXxxO_Gl3-Mvw&node=1i220",
+          "date": 1777036003860,
+          "creationdate": 1777035673000,
+          "modificationdate": 1777035673000,
+          "uploaded": 1777035948481,
+          "size": 1265205741,
+          "name": "Gentlewoman (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6812105,
+            "bitrate": 1485832,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=iIp5Lehr_PSY1Z-YzzGUiXinEfnHy1qVQMovf6wA1B7FmhHjJT6vDOqDkS4Rqw6UK_sPTV7ibK8ngaLDTzOFsC5NdsJPdO5AqlmnDBkVwjeTkI9YsFv2JYtQ5WQwUw8DlbcWfUevna8EfxE5VgOc0ltj6PaE8cfq2DL2B6tSpw9VZUankqdKHpc83Ytc1hNaXNw&node=1i220",
+              "etag": "0Pn+3Uw/HQHc8q/qeu0KLPw=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=zl40_2a--3mC2NoxPNlW_kUA5nyDmkfWYsE1siUeto7oqZi-3luGLro9hv1-qOOFKQtF2yhOeQWGggyr0GTyLmGdAi3l0RKOeu6Of3bNdE33-NJbA0n9eSu2Dh_JiVmWZqUXSqvmkcaEYj9wzBE8HRmRV_aCJ8O78JgJgcM_n1wEIc_wdx2GXFwXxxO_Gl3-Mvw&node=1i220",
+              "etag": "0Pn+3Uw/HQHc8q/qeu0KLPw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Pn+3Uw/HQHc8q/qeu0KLPw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777036003921,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/9OcB0uB3S4OU10jXmV5zazMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Gentlewoman (2025)",
+  "media_kind": "movie"
+}
