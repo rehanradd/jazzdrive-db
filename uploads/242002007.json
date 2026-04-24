@@ -1,0 +1,79 @@
+{
+  "name": "Revu (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Revu (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:57:20Z",
+  "remote_folder_id": 1752260,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002007",
+  "tmdb": {
+    "tmdb_id": 1387731,
+    "title": "Revu",
+    "original_title": "Revu",
+    "release_date": "2024-08-23",
+    "year": "2024",
+    "rating": 1.0,
+    "overview": "Revu is an action drama where some fishermen miss out on their existence by competing with big-engine boats. A boy named Bhushan makes a machine so that even a small boat can catch the fish in equal numbers compared to big engine boats. However, an unexpected turn of events leads to his tragic death. Will they save their village and existence from their clutches?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iNMRYff9l50UqrYqBUzbSwcWQrk.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4Jn1baKBNCIPBmNpMSPIJVJLxHQ.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002007",
+    "status": "U",
+    "etag": "vMYBQfOlO523wV3x11ySUw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002007",
+          "url": "/sapi/download/video?action=get&k=oQ2DOfJOABkKxKb_r-iWkMGfBnLAHq9GddRkjfpF-cdBkLGMCIjFkpYpbiZq68gOaO6V9NqsMCWOAqib2Ls-5tRQ_K_W0aTsIZFcqpSvcrsYX4eMEXYCyFyLN0LSWM3egWcVrWNzrx460vuayZTMACc9FRt89jd9W0VU2F8plB9ja296lC4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=Bg_vvykVmA1TuzW8rBfrnzohDfonkfQhKrHGF77QYrfyvuAVihJWzRMt2Fi5r9RYbb_1xleiWqD2lXkJvIMcJKzlqj4Et9nZYJkL2I4nJhHxreTkyE_XSwrl-ThcDBQguC-v1Dy7OickWlCDM23daMEaW6kT6IoeTKwsjov1fcwm4adOjvh2JoSrhuKfO4FMdss&node=1i220",
+          "date": 1777049839438,
+          "creationdate": 1777049434000,
+          "modificationdate": 1777049434000,
+          "uploaded": 1777049754362,
+          "size": 1481725027,
+          "name": "Revu (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7479210,
+            "bitrate": 1584900,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=seCr_YqRiuOe5n2lv3Z7I264-zMWNT0DRbJD6VHzHiZve8BK5ipJihpT9Z4CsMR9NkUCKTB6bEsvfIk9xFnjvlL2iaKTODmYZ6idhal4uDeL5wb58lc_kVmd_0zRgMIOEeQpd-6lOCmAPNVns_k4ht19qo-xl3II8N1vmWfHK5_yOEgtQeQamg0OG-HGiuZ3yJQ&node=1i220",
+              "etag": "0vMYBQfOlO523wV3x11ySUw=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Bg_vvykVmA1TuzW8rBfrnzohDfonkfQhKrHGF77QYrfyvuAVihJWzRMt2Fi5r9RYbb_1xleiWqD2lXkJvIMcJKzlqj4Et9nZYJkL2I4nJhHxreTkyE_XSwrl-ThcDBQguC-v1Dy7OickWlCDM23daMEaW6kT6IoeTKwsjov1fcwm4adOjvh2JoSrhuKfO4FMdss&node=1i220",
+              "etag": "0vMYBQfOlO523wV3x11ySUw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vMYBQfOlO523wV3x11ySUw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049839496,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/5ndng-uhRw25-z6ls8vsejMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Revu (2024)",
+  "media_kind": "movie"
+}
