@@ -1,0 +1,83 @@
+{
+  "name": "Madharasi (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Madharasi (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:17:55Z",
+  "remote_folder_id": 1752163,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001070",
+  "tmdb": {
+    "tmdb_id": 1297181,
+    "title": "Madharaasi",
+    "original_title": "\u0bae\u0ba4\u0bb0\u0bbe\u0bb8\u0bbf",
+    "release_date": "2025-09-04",
+    "year": "2025",
+    "rating": 6.8,
+    "overview": "A man with a psychological disorder overcomes trauma and confronts his nemesis in a fast-paced action film with romance and unique elements, exploring themes of resilience and redemption.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/dw3Dllz1gV7186m7clqNDnI9R28.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nmPzYjRPAd3iVOgrLXlvh6HuvRN.jpg",
+    "genre_ids": [
+      28,
+      10749,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001070",
+    "status": "U",
+    "etag": "y8IpzWPluMwrq4+9MQ/Cjw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001070",
+          "url": "/sapi/download/video?action=get&k=b2rpXtUde3PIchHgTbjjIbUnVlPmz3ZUpH_koYlzVw4jb2GgdpRTnM0R6BvFIAofySAtp9mUoB6vR0eFrZDLjB0Cvo5Ft2MVPBurauvJEFJICbjlDyzpalaK2x_9Th9SQLKCQel5YV_zTCQsSVrg0TYPIwOfZDk_c45qn5HEuq7qNNygciY&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=-r8U3Nqa7142euMqObNOHRHyI_nufhszQg8gYNubNuvkv7NC8psHDxJY8XhqXGOg5pM3mHwb2xtzWDLzKP4LAY8R_dsS3Ft173reSfrqzl5HEGkrItVjqGhb9_JoI6BG4AhS_Hou3nfwHyHqxzk1g2ZyZH9YNzoZp_V1SM3MI8jeG9aEg6vEypen_RjwTV8_LM8&node=1i220",
+          "date": 1777043874526,
+          "creationdate": 1777043652000,
+          "modificationdate": 1777043652000,
+          "uploaded": 1777043772855,
+          "size": 1647715562,
+          "name": "Madharasi (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9968314,
+            "bitrate": 1322362,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0BA3Csuo_AMDQ5i9-WvTKD4i9nzjsudxwauLZJbfwmisPQw8IXtKT1j2p7HYklX51eBVhRYwAQ-RRT0CYj3gsAFMSQO46z3VTcaj4a536h3RD8RHEwiSsGE9LW95WYo0phe98Vi0s2vwmnaOevYJ1h8HoE3BTgS3bmMZuEOcwpENvWr6XiReuhyhQrQJw35Fbps&node=1i220",
+              "etag": "0y8IpzWPluMwrq4+9MQ/Cjw=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=-r8U3Nqa7142euMqObNOHRHyI_nufhszQg8gYNubNuvkv7NC8psHDxJY8XhqXGOg5pM3mHwb2xtzWDLzKP4LAY8R_dsS3Ft173reSfrqzl5HEGkrItVjqGhb9_JoI6BG4AhS_Hou3nfwHyHqxzk1g2ZyZH9YNzoZp_V1SM3MI8jeG9aEg6vEypen_RjwTV8_LM8&node=1i220",
+              "etag": "0y8IpzWPluMwrq4+9MQ/Cjw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "y8IpzWPluMwrq4+9MQ/Cjw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777043874583,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/mio7o8tvT6masyCpZNQIpTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Madharasi (2025)",
+  "media_kind": "movie"
+}
