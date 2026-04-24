@@ -1,0 +1,68 @@
+{
+  "name": "Daari Deepa (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Daari Deepa (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:08:36Z",
+  "remote_folder_id": 1752010,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241998993",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241998993",
+    "status": "U",
+    "etag": "XFPiQbKUGTVli4wpmc5OVA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241998993",
+          "url": "/sapi/download/video?action=get&k=0tgT-0OmFK7VwoEMOuCx3Q4U2vxKK5dEeG30Dz-McHfmLeYtwBIqQ2kh1fLqXA0FE4gIly-1zs5ayfxZlK6pRXSkzNlx8h0KCC3ZPv-79My1Yy9jHyKpxSQ8wkhPrCJ6riGXyqdQNPI0GlLIBsh_GrCwijAcyvgpwnb6JeJ4okRmf8Fur-k&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=IAmjzZqOgeCyqP9YVo5DiKhx3By46bU-uwaU1_BGHovhs9JQLJPx-CtBrNRNGXV7ErHJx0sE8vQskHdi4xDFDKkjhbfparrThH2GKif7URSGkSvwMa5sdeA83eWAsKT0jkG6IKjHa8K0J8JemqptMW-e-qp_4Sej90MZiUvcRXpib-XtsarSGyAbeQ4r9Qg3-xg&node=1i220",
+          "date": 1777032515263,
+          "creationdate": 1777032412000,
+          "modificationdate": 1777032412000,
+          "uploaded": 1777032502639,
+          "size": 405139948,
+          "name": "Daari Deepa (2024) Kannada 720p WEBRip x264 ESub [DDN] (1).mp4",
+          "metadata": {
+            "duration": 2357887,
+            "bitrate": 1374586,
+            "codec": "h264",
+            "height": 532,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=NA6oRVSUenxYahI1lLELI3hXPbmwiP94EjD6r8Wd-Q8ivelDqIylbJOQrfSydjoNhoOXMsV-c-Aez-SZsp_9I_7wxRTiEtf6RKF6R3hYr3JUIMipJPUcgj4oc8m0JgseigZJdmU0xVwpxYxdBSmoTluTfKHwuKUnIaVWVD2ljIblLlUKr_xinn7NO7Hh1X--hjE&node=1i220",
+              "etag": "0XFPiQbKUGTVli4wpmc5OVA=="
+            },
+            {
+              "w": 1024,
+              "h": 425,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IAmjzZqOgeCyqP9YVo5DiKhx3By46bU-uwaU1_BGHovhs9JQLJPx-CtBrNRNGXV7ErHJx0sE8vQskHdi4xDFDKkjhbfparrThH2GKif7URSGkSvwMa5sdeA83eWAsKT0jkG6IKjHa8K0J8JemqptMW-e-qp_4Sej90MZiUvcRXpib-XtsarSGyAbeQ4r9Qg3-xg&node=1i220",
+              "etag": "0XFPiQbKUGTVli4wpmc5OVA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "XFPiQbKUGTVli4wpmc5OVA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777032515329,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/nOLwEJUmR6CclJ4vWQs4qTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Daari Deepa (2024)",
+  "media_kind": "movie"
+}
