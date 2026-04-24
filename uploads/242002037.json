@@ -1,0 +1,82 @@
+{
+  "name": "Show Time (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Show Time (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:20:44Z",
+  "remote_folder_id": 1752285,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002037",
+  "tmdb": {
+    "tmdb_id": 1508889,
+    "title": "Show Time",
+    "original_title": "\u0c37\u0c4b \u0c1f\u0c48\u0c2e\u0c4d",
+    "release_date": "2025-07-04",
+    "year": "2025",
+    "rating": 4.0,
+    "overview": "\"Show Time\" is a gripping thriller that explores how an accidental murder shatters the lives of a middle-class family. The story follows a seemingly ordinary family whose world turns upside down when a momentary lapse in judgment leads to an unintended crime. As they struggle to cover up the incident, they are pulled into a web of lies, guilt, and paranoia, testing their bonds and morals.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lFGOj6LDZachNPmXaGPQbeAu7jy.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/dLbK0UGq4YGJZWujBqNaetXrGdp.jpg",
+    "genre_ids": [
+      35,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002037",
+    "status": "U",
+    "etag": "RfETKN6h4Tw9pBGzFGLZVA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002037",
+          "url": "/sapi/download/video?action=get&k=uMtcFWVXcLwoeeD9SWLrEjDwhVdS-QgAomjejn1z6lGBKXlTGNpCeTzOu8cl7ZUkEaccO5n4JfIBjPCo_uaPPLfMvLy0VeYk-3Nf0L6jeF11hI3ZSiEJ6Awbkjk4bT6yJLN16Goh5FTMVB2LTjqk-t8YJAUOQ2G85oIHg_S54cQcZQEQwoE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=MZ89Y9BZ7hkJVpa9nbMlEuuUgh0YDf_X9tSYlkVyY7zi7yMBUkFWh8FJNHUf6biTnFwjPGt6-ZUv71QMebX_5sfCFOTMlOM2QxRl1vnEisAKr2cUaT8q_mjOgWPl267vb6-Grl3POWsZlTPXXrBpVawAL7munIMCsiwLpa8rbJdi_kAlwN_Q2LVmkpZwn_LQ834&node=1i220",
+          "date": 1777051243232,
+          "creationdate": 1777050959000,
+          "modificationdate": 1777050959000,
+          "uploaded": 1777051202611,
+          "size": 1074040087,
+          "name": "Show Time (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6400897,
+            "bitrate": 1342361,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=jrOXd4CMMwueqKENAxZAwSyU62sRF7F3Y9saqAAy8OxYWfDPLpnhNnIh02LXIVdB_Qx0IU3Ccx3szhzNttAW3n3Cb5RuLcr9yPwSvJ5tyh-KLBbBGsNnH1oWK76PogesflPB8--iXqbXX3YJQrlmXy5c2eGD5szcCFpN1uPlNasEH632HHKGMyGqAJTCkRHY9yY&node=1i220",
+              "etag": "0RfETKN6h4Tw9pBGzFGLZVA=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=MZ89Y9BZ7hkJVpa9nbMlEuuUgh0YDf_X9tSYlkVyY7zi7yMBUkFWh8FJNHUf6biTnFwjPGt6-ZUv71QMebX_5sfCFOTMlOM2QxRl1vnEisAKr2cUaT8q_mjOgWPl267vb6-Grl3POWsZlTPXXrBpVawAL7munIMCsiwLpa8rbJdi_kAlwN_Q2LVmkpZwn_LQ834&node=1i220",
+              "etag": "0RfETKN6h4Tw9pBGzFGLZVA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RfETKN6h4Tw9pBGzFGLZVA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777051243289,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/t8pm0fV-T-GRhSbXFTOdGDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Show Time (2025)",
+  "media_kind": "movie"
+}
