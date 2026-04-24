@@ -1,0 +1,84 @@
+{
+  "name": "House Mates (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\House Mates (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:31:40Z",
+  "remote_folder_id": 1751977,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999873",
+  "tmdb": {
+    "tmdb_id": 1433545,
+    "title": "House Mates",
+    "original_title": "\u0bb9\u0bb5\u0bc1\u0bb8\u0bcd \u0bae\u0bc7\u0b9f\u0bcd\u0bb8\u0bcd",
+    "release_date": "2025-08-01",
+    "year": "2025",
+    "rating": 6.667,
+    "overview": "Karthick and Anu fall in love, get married and buy an old flat for their own. Many strange incidents happening in that house. They found out the reason and hand over the flat to the first owner Ramesh.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1HeWmcvzXKyBrUxCFdbvEni4spb.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/en6q9MmuuG6SBTEtlYmoGQPcYWh.jpg",
+    "genre_ids": [
+      35,
+      18,
+      14,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999873",
+    "status": "U",
+    "etag": "wFJxlKFW+UF7hpSj58fAWw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999873",
+          "url": "/sapi/download/video?action=get&k=6VsKtd2QGSnu4y3invSO66Nq1DXYneGoVbSNV6n1yki1vUlXKsf_b_vyik9QitM4qwZmMChgbP09mkZV9PXgTX6gXgrXBz63owTY8FeC3dAsh9Ebok00rEFpA9jwt8n8kl4fCtH7KKr2vGKg4Dk0f1XfQqS45w91SEFNFzyEa5fSEysPG8Y&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=B7azyf3aua22odbnvn0qERgT-szTnJU2efveIof5Jykgpi0p3jcOL-LirfL5_Wv2t2IZUYmONpge3LB4KBehaOtGtqQKkOmspUcs6PpUOl93k_a93sIhtVCO9xgbv84CsuOrSyimfNUvhqKaxTzcYsiJAs42-o8OS_pFSvTR48cp0UgVAZr7_-PttJk-VL93qq0&node=1i220",
+          "date": 1777037499290,
+          "creationdate": 1777037173000,
+          "modificationdate": 1777037173000,
+          "uploaded": 1777037431735,
+          "size": 1288684930,
+          "name": "House Mates (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7742339,
+            "bitrate": 1331571,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ljbORSRaSZoWX-v-YTWDiFmGx0fl_iSLAOdZM9iGD_jdclpG7ifoiCB1W1hIskIBd8zacuGRhPTW7XIlCYaTuMaa20d4Glms4yQtAO5LMHOnJDDkWaHPK1wZtP78OJRGFzside9ygL8Ie2yhotOnejpEEdW-jj9LCewK83n8YkAg7ph0RHIKk_Xh3SW2HGTDzIQ&node=1i220",
+              "etag": "0wFJxlKFW+UF7hpSj58fAWw=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=B7azyf3aua22odbnvn0qERgT-szTnJU2efveIof5Jykgpi0p3jcOL-LirfL5_Wv2t2IZUYmONpge3LB4KBehaOtGtqQKkOmspUcs6PpUOl93k_a93sIhtVCO9xgbv84CsuOrSyimfNUvhqKaxTzcYsiJAs42-o8OS_pFSvTR48cp0UgVAZr7_-PttJk-VL93qq0&node=1i220",
+              "etag": "0wFJxlKFW+UF7hpSj58fAWw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "wFJxlKFW+UF7hpSj58fAWw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777037499347,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/N3CZZ8xYSYmO3X0xdTZS-jMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "House Mates (2025)",
+  "media_kind": "movie"
+}
