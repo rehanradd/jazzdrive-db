@@ -1,0 +1,84 @@
+{
+  "name": "Kishkindhapuri (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Kishkindhapuri (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:31:36Z",
+  "remote_folder_id": 1752124,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000500",
+  "tmdb": {
+    "tmdb_id": 1439747,
+    "title": "Kishkindhapuri",
+    "original_title": "\u0c15\u0c3f\u0c37\u0c4d\u0c15\u0c3f\u0c02\u0c26\u0c2a\u0c41\u0c30\u0c3f",
+    "release_date": "2025-09-12",
+    "year": "2025",
+    "rating": 5.5,
+    "overview": "A ghost walking tour group visits an abandoned radio station, inadvertently awakening a vengeful spirit.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/uRQ31dXsGHbiubJdObhGVzDiH3n.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/5gcP7ybasVUqDy4ZR8xSqOqUIue.jpg",
+    "genre_ids": [
+      27,
+      53,
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000500",
+    "status": "U",
+    "etag": "YTCT17mu0ORX4INWrl0Iyw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000500",
+          "url": "/sapi/download/video?action=get&k=4sRGPzpHNdj5yZsYpqzA-8N1Ra0rFiW1-qtB9Oz_-q74q09N1WWshgGgFtU2CIawqpxQzRWDs70NT5Q-ft_9fKWPLJ67OTfYQ46Mws4IAHSMQCiIYgIadjUQNRL8llVQIELP_W2ZEiysQ26JzA-8sDYN_cA5qXG8VgCTh-vyA3W_Idzuwng&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=z-Kx9-3LfTjKEBzB4Ho3y_r8qZbg8mTS1ACQND_Wpp6iIf2ZcEMxo68NDrInbK1saO4oOBPYPZsBUevZ7RlskWUqNPfbgEbQrnsE9rK18en4_kKT_0LidK15P_MYJq7SZpbVpr9SBb3-wjryasQA9hYHFOnOMErQmxA5udvWfu20pRd_4E4kERv7M9gTn23PTiI&node=1i220",
+          "date": 1777041096024,
+          "creationdate": 1777040666000,
+          "modificationdate": 1777040666000,
+          "uploaded": 1777041031829,
+          "size": 1270045693,
+          "name": "Kishkindhapuri (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7214592,
+            "bitrate": 1408307,
+            "codec": "h264",
+            "height": 490,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 98,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=aOdZKq11mZy6iceFUveSVLpUDjivpK-LShW6i_tohvH1oiNy_W6QkccqPto5yp_3C3i-u79j6SDhoLYaWdqqIuSZbv0JcdsrdE6eNVhxXJv3LXi6OR6SReXB5XTpSL_jDbPktXLSOt3U5cLKrZfyZoYkNKR9yPthCbluHlNVweBZZKKyHOqu0rR4bcWHXYJWgzk&node=1i220",
+              "etag": "0YTCT17mu0ORX4INWrl0Iyw=="
+            },
+            {
+              "w": 1024,
+              "h": 392,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=z-Kx9-3LfTjKEBzB4Ho3y_r8qZbg8mTS1ACQND_Wpp6iIf2ZcEMxo68NDrInbK1saO4oOBPYPZsBUevZ7RlskWUqNPfbgEbQrnsE9rK18en4_kKT_0LidK15P_MYJq7SZpbVpr9SBb3-wjryasQA9hYHFOnOMErQmxA5udvWfu20pRd_4E4kERv7M9gTn23PTiI&node=1i220",
+              "etag": "0YTCT17mu0ORX4INWrl0Iyw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "YTCT17mu0ORX4INWrl0Iyw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777041096088,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/PgjT1GHkRVyGiLKRftaicTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kishkindhapuri (2025)",
+  "media_kind": "movie"
+}
