@@ -1,0 +1,82 @@
+{
+  "name": "Manada Kadalu (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Manada Kadalu (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:24:45Z",
+  "remote_folder_id": 1752167,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001075",
+  "tmdb": {
+    "tmdb_id": 1456539,
+    "title": "Manada Kadalu",
+    "original_title": "\u0cae\u0ca8\u0ca6 \u0c95\u0ca1\u0cb2\u0cc1",
+    "release_date": "2025-03-28",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "\"Manada Kadalu\" is a coming-of-age love story. Sumukha, an MBBS dropout, pursues love interest Rashika. However, friend Anjali's influence leads him to self-discovery and reevaluating life's value.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wgRQJ7iPWRNbElfyIFraJJKgWnR.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/z9mRFwQ7fPqAMy45knBIPMDzcbO.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001075",
+    "status": "U",
+    "etag": "qWHqibkIxEUYC5f00VE4fA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001075",
+          "url": "/sapi/download/video?action=get&k=CPQl8mH2qLemAZ5nOe0rysdVn9jK8fT2rzRmcUmUjQe3oNmZ1f6ZwAGK9p8v4c7Wu0jsmSmB9qxBVx6Gd7ZHvftukW_bmETyw20dBSdpIZgArHOD90c02FiIgF7vA2h4Ly2-D_gSLnwLGAhqaiFMvLsFQI7fQBSfYpRlR9LQmGqd6vdyJk4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=krdEI9x2Op6AP8SiGiV7Ob1tw0DeYww0MHivcIXHIH2OpbvE-IkTCxcsS4tOiYydHwQjM35biCIrdogz-oNT3bFl3z8lGAm3LGUIbMDjP4T0NdsNAA-6osP5GOnCZycdc0_gHe2EX8p8IK-F21EBuxhNAF1Vv5_H3ymgzNxcf_LRZ0GDb1v-P5ZDioh-5-_mUOk&node=1i220",
+          "date": 1777044284627,
+          "creationdate": 1777043865000,
+          "modificationdate": 1777043865000,
+          "uploaded": 1777044215562,
+          "size": 1707069220,
+          "name": "Manada Kadalu (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9192009,
+            "bitrate": 1485698,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=8zzcoQ-ougYtPAnJK2XCO1rwLyJ207Byp-ycu1HezB2J1QBapXu_y9LbjNoqsTq3Hp0jm4h0ZFDVMVDj8ZE-TAM2TykJ8ohWmzJmp71paatp_L2aRvmoOgbc-aOGnmlH2-VnMd46l70J0-77N1TADES53CSznI-GFxADZ7FQW75BY61ohIiuh3w3VmCjNpDwmNU&node=1i220",
+              "etag": "0qWHqibkIxEUYC5f00VE4fA=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=krdEI9x2Op6AP8SiGiV7Ob1tw0DeYww0MHivcIXHIH2OpbvE-IkTCxcsS4tOiYydHwQjM35biCIrdogz-oNT3bFl3z8lGAm3LGUIbMDjP4T0NdsNAA-6osP5GOnCZycdc0_gHe2EX8p8IK-F21EBuxhNAF1Vv5_H3ymgzNxcf_LRZ0GDb1v-P5ZDioh-5-_mUOk&node=1i220",
+              "etag": "0qWHqibkIxEUYC5f00VE4fA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "qWHqibkIxEUYC5f00VE4fA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044284688,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Ebj_3k-BSP2646EjhgXHnDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Manada Kadalu (2025)",
+  "media_kind": "movie"
+}
