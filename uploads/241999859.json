@@ -1,0 +1,83 @@
+{
+  "name": "HER\u00a0(2024) Malayalam\u00a0720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\HER\u00a0(2024) Malayalam\u00a0720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:16:49Z",
+  "remote_folder_id": 1751966,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999859",
+  "tmdb": {
+    "tmdb_id": 970231,
+    "title": "Her",
+    "original_title": "\u0d39\u0d47\u0d7c",
+    "release_date": "2024-11-29",
+    "year": "2024",
+    "rating": 4.3,
+    "overview": "\u2018Her\u2019 features five strong, unrestrained female characters, in a hyperlink narrative that celebrates womanhood in all its myriad forms. The story represents today\u2019s women from varied backgrounds coming out of their comfort zones to live life to the fullest.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/bNfOeLtH1f9hPaROt59gkArzhts.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/scDO6OG97F3Xpevlql2rGfem4MC.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999859",
+    "status": "U",
+    "etag": "PSVRwE+RDI0S8xeUqzCzSQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999859",
+          "url": "/sapi/download/video?action=get&k=rpSRRPZWzBkqb5fOJv1DzbqL7762FcV55QkaZl0UTDfmjGggDl7Sd9tLAoDTGAceqKs99a9S-QcZpL7PD-JaAGXgkvyenGWICiDeHnZjUvomq46dzmeHsnI0EMvBlGlQzIXXFjUh6QT4qL1ec1KonSovAbtxDofAxLDx3Bg_KIurTxOfGiE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=fQOs789MX9cp5QKbxLW1TtauRiMF4Blvbsyv0UiGnOdg4qHKVqyyV5lfyqT4SPzS_rv5T7Ol_MqUiWG7n2JsLw5pQ6xIrlrYx1eYzY0Up9xFY_ClWbdoWgrehFkf6GSWqIX_vzUBWmQEimQX5dywa4ynkgGkTkhb4-axcyOVfqkfq1r09vDY6gcex7uNSjIhm0k&node=1i220",
+          "date": 1777036608976,
+          "creationdate": 1777036288000,
+          "modificationdate": 1777036288000,
+          "uploaded": 1777036569115,
+          "size": 1174631856,
+          "name": "HER\u00a0(2024) Malayalam\u00a0720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5821934,
+            "bitrate": 1614077,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=tLxD2h7Vh55WI9R70qk1g09lpKKRnuWFX-34lCHJ6U9SLE5uzHv6Axzu5p3Tpt_5wxDIZb5ohxH6AdrnDVgroCoAmQrpoLW8b6ILD70EsfFbVaj14ESYgYOcasmH_UCigNSHqY_dDRj6sFDTYEMeGVIuTMvA00jIuU2u9_VshkHlS-T6LLizq8Hi8wioaEBMmrs&node=1i220",
+              "etag": "0PSVRwE+RDI0S8xeUqzCzSQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=fQOs789MX9cp5QKbxLW1TtauRiMF4Blvbsyv0UiGnOdg4qHKVqyyV5lfyqT4SPzS_rv5T7Ol_MqUiWG7n2JsLw5pQ6xIrlrYx1eYzY0Up9xFY_ClWbdoWgrehFkf6GSWqIX_vzUBWmQEimQX5dywa4ynkgGkTkhb4-axcyOVfqkfq1r09vDY6gcex7uNSjIhm0k&node=1i220",
+              "etag": "0PSVRwE+RDI0S8xeUqzCzSQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "PSVRwE+RDI0S8xeUqzCzSQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777036609048,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/OHVFCaNmSCqwKWXqImsXBDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Her (2024)",
+  "media_kind": "movie"
+}
