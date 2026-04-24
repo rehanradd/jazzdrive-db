@@ -1,0 +1,83 @@
+{
+  "name": "Double Ismart (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Double Ismart (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:30:08Z",
+  "remote_folder_id": 1751930,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999809",
+  "tmdb": {
+    "tmdb_id": 1127824,
+    "title": "Double iSmart",
+    "original_title": "\u0c21\u0c2c\u0c41\u0c32\u0c4d \u0c07\u0c38\u0c4d\u0c2e\u0c3e\u0c30\u0c4d\u0c1f\u0c4d",
+    "release_date": "2024-08-15",
+    "year": "2024",
+    "rating": 3.8,
+    "overview": "Big Bull, a notorious assassin, wants to achieve immortality by transferring his memories to \"iSmart\" Shankar, who already has another's person's memories, leading to the intense confrontation between Shankar and Big Bull.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kwaitETl1wiQ9kgOMxIuNOawcJP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/v7aNfbADrq8ENgY9FiIjkEi937j.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999809",
+    "status": "U",
+    "etag": "vROZSpESObj0kvEb7QY/Rg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999809",
+          "url": "/sapi/download/video?action=get&k=ywlD9qE7_S-gMVU1gzkWcZWLls5JDmr7c_XcTOXDeQzWOCAfgYrlG2sf9x-dDH99Pb33_t5dP-06QpXOdwdux-xqR_LLQOAkHLTdKbX_vpN4Jf2t6Yevi65EILxuZg_Zsh6otNbUDlnSIW50pU31-Nph1olq0q1HfpZc7y1QbS7BTaThuxA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=U-Rv9yDTcFJTw2Wv19DDEg6f1jUCOvsckCwkbPwDw_mMcX_YPaQ0egbejsdCuzy6CXlr6qxLvYkbw8ybTUyTD00ot9RdA2XX6CDu8w9oR0oCfwlKMm1BOTkqY3uR3cnbCbdxWJ7lOZxgIKN8sDAzwgD0IdzDmcbu4ujIkjUzsKghzLL-xMhZu18y0JU-niy0JOU&node=1i220",
+          "date": 1777033807275,
+          "creationdate": 1777033519000,
+          "modificationdate": 1777033519000,
+          "uploaded": 1777033732484,
+          "size": 1091574845,
+          "name": "Double Ismart (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8432960,
+            "bitrate": 1035531,
+            "codec": "h264",
+            "height": 548,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 109,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=9V_H7-2DY7CxW-399NCQMO7z1rSh2LzvL4ClXgTwXl8JEnW-oWgrm3adHkB8f_5tnp9QisTNT9Ny1tEq3-QMwwLp4rE_ImBZsOLbSHloY1ohfzcDmk_Nd1Ilwo0mV6D3N57Eu0Azb5WFbmojEaulFPAv_5LwpJC6Yg7sxurh6c96KxlTC9HIG1o6Y6slQXMlra4&node=1i220",
+              "etag": "0vROZSpESObj0kvEb7QY/Rg=="
+            },
+            {
+              "w": 1024,
+              "h": 438,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=U-Rv9yDTcFJTw2Wv19DDEg6f1jUCOvsckCwkbPwDw_mMcX_YPaQ0egbejsdCuzy6CXlr6qxLvYkbw8ybTUyTD00ot9RdA2XX6CDu8w9oR0oCfwlKMm1BOTkqY3uR3cnbCbdxWJ7lOZxgIKN8sDAzwgD0IdzDmcbu4ujIkjUzsKghzLL-xMhZu18y0JU-niy0JOU&node=1i220",
+              "etag": "0vROZSpESObj0kvEb7QY/Rg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vROZSpESObj0kvEb7QY/Rg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777033807341,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/oWzR1D9wQLavxujCP_CevzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Double Ismart (2024)",
+  "media_kind": "movie"
+}
