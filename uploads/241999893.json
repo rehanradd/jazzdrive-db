@@ -1,0 +1,71 @@
+{
+  "name": "Jack (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Jack (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:47:28Z",
+  "remote_folder_id": 1751991,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999893",
+  "tmdb": {
+    "tmdb_id": 1241725,
+    "title": "Jack",
+    "original_title": "\u0c1c\u0c3e\u0c15\u0c4d",
+    "release_date": "2025-04-10",
+    "year": "2025",
+    "rating": 6.0,
+    "overview": "Jack, an aspiring but overeager intelligence agent, goes against protocol and the real spies, to foil a potential attack on home turf.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xkat9sykUnlwoeRW59X5mdVKfAi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/v9W20U4Z6WEu2D4c0flgZfWGDRp.jpg",
+    "genre_ids": [
+      35,
+      80,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999893",
+    "status": "U",
+    "etag": "oQnsJcubbmpNSBuoXEGhhw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999893",
+          "url": "/sapi/download/video?action=get&k=CVruCWYYZqMmatdHOG3_w3LxdwgxVYYf2Iel3HWrrulD-_nPJGoF3r-XJefBXXvM5vabydHDMfZVlRW_cu3UPTOhnRMxpImO1PN6i0glUYCKHRJL1TIwq3p2CyLsleoWToiw5bJSF_0vbGZ1gFJ9XdO_kKLEm3ZK-65hKwL5X5QphSk3WB4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=NLyuJWZwP_jbCNaBDcdN0PlUayClJj3g4P1R1jIPOLV3Fis6zubNl6vTIRjHmQCxsJTYjbenJJF3dW00OgMvfmFEE2bAm0EVgqNPkcPcZdOi179XK2msv4NqHTBLXUKhBtuKgEZRFI7UmNZreWbTySdWgvo0T7hKKJd2RHbkiNhoX3eD8v3ao57rwfOoJSe3eA0&node=1i220",
+          "date": 1777038447385,
+          "creationdate": 1777038111000,
+          "modificationdate": 1777038111000,
+          "uploaded": 1777038391090,
+          "size": 1478368201,
+          "name": "Jack (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=KXTSUpV_frbjdtpouKGCbtrbLdokSwXhJ0KVTiSQ_2jnEVbfUqAsSX7ODkYGfq6ju3vaXZbsyMNfLqNYm5W-fI_MkTLAoWWc3SZja1u0WcF-w8ikN4_CmQHNFxuD7JfZdA5-MGwu51qnkoqKZlOG4SI-CR4KgcJnlAe-Y1BSvKy8z5V8BTfs1FXWFzmAqV0Iwew&node=1i220",
+              "etag": "0oQnsJcubbmpNSBuoXEGhhw=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=NLyuJWZwP_jbCNaBDcdN0PlUayClJj3g4P1R1jIPOLV3Fis6zubNl6vTIRjHmQCxsJTYjbenJJF3dW00OgMvfmFEE2bAm0EVgqNPkcPcZdOi179XK2msv4NqHTBLXUKhBtuKgEZRFI7UmNZreWbTySdWgvo0T7hKKJd2RHbkiNhoX3eD8v3ao57rwfOoJSe3eA0&node=1i220",
+              "etag": "0oQnsJcubbmpNSBuoXEGhhw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "oQnsJcubbmpNSBuoXEGhhw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777038447436,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/LJR6-XklRiSsQ9Fsy7xlezMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jack (2025)",
+  "media_kind": "movie"
+}
