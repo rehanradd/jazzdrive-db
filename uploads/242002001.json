@@ -1,0 +1,83 @@
+{
+  "name": "Rekhachithram (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Rekhachithram (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:50:51Z",
+  "remote_folder_id": 1752258,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002001",
+  "tmdb": {
+    "tmdb_id": 1290954,
+    "title": "Rekhachithram",
+    "original_title": "\u0d30\u0d47\u0d16\u0d3e\u0d1a\u0d3f\u0d24\u0d4d\u0d30\u0d02",
+    "release_date": "2025-01-09",
+    "year": "2025",
+    "rating": 6.8,
+    "overview": "Having recently served a suspension for gambling online while on duty, Circle Inspector Vivek Gopinath rejoins the police force and is looking to reclaim his lost honour. Awaiting him is a 40-year-old, unresolved murder mystery with a faceless victim.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ulIAyiSVQZL1Ov6K2Tjf6wPlzFi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/97U7d3GwOnDKAKVVbLEq65XyKP3.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002001",
+    "status": "U",
+    "etag": "yKc/V5peK1R+Wy0xG/Jg0A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002001",
+          "url": "/sapi/download/video?action=get&k=iEa-7EireKM3cUV3ZYLXFZrDzvAE1QdHW6_Ke1f0twIJEXzVwPFKnhe89UpLOrtY-l-B9TXtOlWQ4aijizaChuEG3KFnJ5t_C8TUwk-Rfi9amqgp3X09IBfWZOaxr9jwfQl4LhujDLNo_pqtm9CyMDaIXXFPKxn0o5wb6UG8JhQyj0TUNcU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=YV5R1Ma8_385RSIbtSsLkncfUmq7Hsgps3wTFJEHHCum5Xw1Srp0qTiM55JwLugGwH6MwmsQyXW3IYXDaAOjJODZ0fRAlMPZBaujy0_KsDunbvuXEn5cZxOPEWxNA_hPE1RYP7v-170KpiR1YXcaKjThiyrSXuN6UPbAjrBJNFqoNNm1mUkn5sKllyeg7aU5lN0&node=1i220",
+          "date": 1777049450847,
+          "creationdate": 1777049221000,
+          "modificationdate": 1777049221000,
+          "uploaded": 1777049374049,
+          "size": 1525528541,
+          "name": "Rekhachithram (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8216009,
+            "bitrate": 1485420,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=O5e5IdlCdMmEfXPeHyKGq9yl7Ey86pZp6OcwuUPAfncX42huqbvdxAtuxbNHVnniCLnjK74ktp26edzJpqmxSgdHHYdYH1gQv02NvhbKmZblp_52nFwvj0fCqy7-t_lVGppsQheGoFHyctwErSaUPHkJPtss8x9_SoyWX_1RT9xSfD7SmCyOfl0v2VFvuYxVwGE&node=1i220",
+              "etag": "0yKc/V5peK1R+Wy0xG/Jg0A=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=YV5R1Ma8_385RSIbtSsLkncfUmq7Hsgps3wTFJEHHCum5Xw1Srp0qTiM55JwLugGwH6MwmsQyXW3IYXDaAOjJODZ0fRAlMPZBaujy0_KsDunbvuXEn5cZxOPEWxNA_hPE1RYP7v-170KpiR1YXcaKjThiyrSXuN6UPbAjrBJNFqoNNm1mUkn5sKllyeg7aU5lN0&node=1i220",
+              "etag": "0yKc/V5peK1R+Wy0xG/Jg0A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "yKc/V5peK1R+Wy0xG/Jg0A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049450911,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/nao-76wCSQC-a2NUmzhhazMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Rekhachithram (2025)",
+  "media_kind": "movie"
+}
