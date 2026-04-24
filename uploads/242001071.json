@@ -1,0 +1,72 @@
+{
+  "name": "Mahavatar Narsimha (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mahavatar Narsimha (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:20:15Z",
+  "remote_folder_id": 1752164,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001071",
+  "tmdb": {
+    "tmdb_id": 1383072,
+    "title": "Mahavatar Narsimha",
+    "original_title": "\u092e\u0939\u093e\u0935\u0924\u093e\u0930 \u0928\u0930\u0938\u093f\u092e\u094d\u0939\u093e",
+    "release_date": "2025-07-25",
+    "year": "2025",
+    "rating": 7.525,
+    "overview": "Tyrannical demon Hiranyakashyap challenges Vishnu, proclaiming himself a god. However, his son Prahlad remains devoted to Vishnu, who appears as Narsimha to defeat the demon.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
+    "genre_ids": [
+      16,
+      28,
+      14,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001071",
+    "status": "U",
+    "etag": "A+eis3GG8oCkEcbL7DKXLg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001071",
+          "url": "/sapi/download/video?action=get&k=PNJYerEHY65CwvDH5tbNfM6hpzYof3YwRGdWKCEHVToIIIt5d6iRB_9rjiO6FUfQvhjgDtRYOGJnyLP_8HBxfdVzUHwf3yqZfJmceFraVAuC1kjztXedyoPkXk7en6VfOQ3pVN8Y01fOBosd2r-REsEPxezt--unmOCbVM48WsRXCPyNTRw&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=D7LubWYWMBaTorpAMZOAYn8-VtiWd6rku7RGDuuGmE-266KoyViroAekvWnXM-k1OWNNDp3H3TZ1EUh1MB8fdqBBb9SCvrAUUWUUXSoRF-H31CnEoiajP9qu3scJoLrWKNQljbZBeSpgpgRBl2RkNoJRqjrMknODYu4e4tC-QLyENvPNV78SCCcmfhGCrm_mmRE&node=1i220",
+          "date": 1777044015080,
+          "creationdate": 1777043667000,
+          "modificationdate": 1777043667000,
+          "uploaded": 1777043963258,
+          "size": 1231473127,
+          "name": "Mahavatar Narsimha (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=IULR6fuYeORH9d9u6q_CU3_Z_ij7O_gD9Q29pUSyCFIjfVM7eDkG18VADfEET1elZ8948nZnpjOb-elUCZugHulFxtkhoNDu0b4_puxG8OxUJT3t4QviGNQAZFVg5vP5sakKenSN9f1h8HsguNqsvgnpHAPdTWM8AeFrM6ZI3m8rBgbfgssUfGiUx-ZimPfsB8I&node=1i220",
+              "etag": "0A+eis3GG8oCkEcbL7DKXLg=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=D7LubWYWMBaTorpAMZOAYn8-VtiWd6rku7RGDuuGmE-266KoyViroAekvWnXM-k1OWNNDp3H3TZ1EUh1MB8fdqBBb9SCvrAUUWUUXSoRF-H31CnEoiajP9qu3scJoLrWKNQljbZBeSpgpgRBl2RkNoJRqjrMknODYu4e4tC-QLyENvPNV78SCCcmfhGCrm_mmRE&node=1i220",
+              "etag": "0A+eis3GG8oCkEcbL7DKXLg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "A+eis3GG8oCkEcbL7DKXLg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044015141,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/RUjUwX7vTcaGO59AT-XrDDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mahavatar Narsimha (2025)",
+  "media_kind": "movie"
+}
