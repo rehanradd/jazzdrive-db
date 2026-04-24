@@ -1,0 +1,79 @@
+{
+  "name": "Kanal (2025) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Kanal (2025) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:22:07Z",
+  "remote_folder_id": 1752117,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000293",
+  "tmdb": {
+    "tmdb_id": 1426156,
+    "title": "Kanal",
+    "original_title": "\u0b95\u0ba9\u0bb2\u0bcd",
+    "release_date": "2022-06-04",
+    "year": "2022",
+    "rating": 7.0,
+    "overview": "A widowed mother of two children fights against the oppressive norms of society, determined to carve a better future for her family. As she navigates poverty and relentless hardships, she refuses to bow to fate, breaking free from the chains that seek to hold her back.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/x9zOrXWxPmySyNZvLbvMdusm7Np.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1WBOynoQmZNp4AoAZFvhaGtnAu.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000293",
+    "status": "U",
+    "etag": "7baDlW9nGRLo3YHgLGBGFQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000293",
+          "url": "/sapi/download/video?action=get&k=tkJogYNBWUle4Dibtzz75ztt_0A0a4s9IpQLXGxdiyjYn8bCqo3H9JB87Fz6iYCBnd3aXTfBHPSC1YMqjdyNtKn4UJquTNBmUQFbqMxe0h--8yh87Rllo_87EUAtZ5c0V6cmupkFSgTngwSfz-r8XVCs6r4FSTmJWfsCWak3LPQctaIcIZA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=immkc0xHLTyBSuIZ9HqwcSrDUhPeGVdJoSPnu63ZGPAk4TbuvHsmGFI_EJbd4WUFaFr51UaGBqVUQMUQVpPR8tQtf5Hvo8yJp3xsSKrlSGmOoyEL74qWp6zZt-UCX1W4RuWhVcGzwdbcEudDlbxLYPt87VL_CRSvsfHyjSm3S9WkMybI5kUnh-nykzxv4gYn6do&node=1i220",
+          "date": 1777040527005,
+          "creationdate": 1777040191000,
+          "modificationdate": 1777040191000,
+          "uploaded": 1777040468022,
+          "size": 1259211823,
+          "name": "Kanal (2025) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 4222816,
+            "bitrate": 2385539,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=bcwNBoIHfaJKglqCabflckBtDJYlZapFPCHiMo5lXSoxBO6moUxg0osJvGATZOn0woQP4KzJAfDnZm5Y0ztsZGjJgd691NGXLuzhEbeRKBbeasDrFZlSoV72nf4CJqkMRR5IFBzsWq9lhI65CpFxCAx3fYrUBYsl82YHC3tjXf5wRu2HMeNbtmJwIBWKktQTjRo&node=1i220",
+              "etag": "07baDlW9nGRLo3YHgLGBGFQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=immkc0xHLTyBSuIZ9HqwcSrDUhPeGVdJoSPnu63ZGPAk4TbuvHsmGFI_EJbd4WUFaFr51UaGBqVUQMUQVpPR8tQtf5Hvo8yJp3xsSKrlSGmOoyEL74qWp6zZt-UCX1W4RuWhVcGzwdbcEudDlbxLYPt87VL_CRSvsfHyjSm3S9WkMybI5kUnh-nykzxv4gYn6do&node=1i220",
+              "etag": "07baDlW9nGRLo3YHgLGBGFQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "7baDlW9nGRLo3YHgLGBGFQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777040527071,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/yqBWok-fS6mIvH6rTJiXYTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kanal (2025)",
+  "media_kind": "movie"
+}
