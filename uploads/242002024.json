@@ -1,0 +1,70 @@
+{
+  "name": "Sampradayaini Suppini Suddapusaani (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Sampradayaini Suppini Suddapusaani (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:10:05Z",
+  "remote_folder_id": 1752273,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002024",
+  "tmdb": {
+    "tmdb_id": 1335092,
+    "title": "Sampradayaini Suppini Suddapusaani",
+    "original_title": "\u0c38\u0c3e\u0c02\u0c2a\u0c4d\u0c30\u0c26\u0c3e\u0c2f\u0c3f\u0c28\u0c3f \u0c38\u0c41\u0c2a\u0c4d\u0c2a\u0c3f\u0c28\u0c3f \u0c38\u0c41\u0c26\u0c4d\u0c26\u0c2a\u0c42\u0c38\u0c28\u0c3f",
+    "release_date": "2026-02-12",
+    "year": "2026",
+    "rating": 0.0,
+    "overview": "After the accidental murder of a police sergeant, a man and his family are forced to cover up their tracks to avoid suspicion.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5NaXPthSsxJHo5Br0IIiLYz0z3w.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wtK4SmODghx3eXILqChOyHqX3Yr.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002024",
+    "status": "U",
+    "etag": "O0V54WLuFklJbphjftCZNQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002024",
+          "url": "/sapi/download/video?action=get&k=rnVvgGtf8RagDTiLUlmH2i6CDVZro-Jb62_mBnsqyJDhaY9GIny4eGuxoDoi0swMUfvYLitzXzslcAL9CnlIn8rqEYs836jGKBjtkJ-iXdTw-JdFpILzdVq5YXd_t2dnnauzsQr_a9Gm4W8K5LcUEdeXAaVGJvpsrhTNhcO2t1LYLfidXtI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=xRPyCuUYZj-PYdlsCvVszsX3FmNb2LMRh8wT7jbwYj3yjetuND075yrfB7hnGjuHjpZlr7gRLeV3z-SR54JCFbQwBoCd4NH07w8pYitfDTxKEGCl9KAz9fFEr8T2RF5_vvJwQy24yF3CAef5bUYMVjpKKveUPfaVo7wu_iMb3ZIW4lQa2Cyf0DEf1yBCUGDzTqc&node=1i220",
+          "date": 1777050604907,
+          "creationdate": 1777050208000,
+          "modificationdate": 1777050208000,
+          "uploaded": 1777050532352,
+          "size": 1414799129,
+          "name": "Sampradayaini Suppini Suddapusaani (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=XEKgXznJodw4_VG80zXiVxaDmVyMNi2I3GsFFjWimChPHxEeXdm-SO4bhJLYHsHFRyhxClceZaRNRDX8qL9OEn0PqghPJb0AyzCWKcfzYilzTeTk2pNsI6MCM_liPEhb3Ma5BTXPSXDIl7CNEQ9NjeBpV-epf3duZO-M9bKuQv-pGJGJXsy2f7A0ayNB_pMcpQk&node=1i220",
+              "etag": "0O0V54WLuFklJbphjftCZNQ=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xRPyCuUYZj-PYdlsCvVszsX3FmNb2LMRh8wT7jbwYj3yjetuND075yrfB7hnGjuHjpZlr7gRLeV3z-SR54JCFbQwBoCd4NH07w8pYitfDTxKEGCl9KAz9fFEr8T2RF5_vvJwQy24yF3CAef5bUYMVjpKKveUPfaVo7wu_iMb3ZIW4lQa2Cyf0DEf1yBCUGDzTqc&node=1i220",
+              "etag": "0O0V54WLuFklJbphjftCZNQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "O0V54WLuFklJbphjftCZNQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777050604957,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/soJamLLdSvSaXZWmVN-7fDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sampradayaini Suppini Suddapusaani (2026)",
+  "media_kind": "movie"
+}
