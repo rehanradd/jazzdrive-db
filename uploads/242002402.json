@@ -1,0 +1,82 @@
+{
+  "name": "Thaanara (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Thaanara (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:49:11Z",
+  "remote_folder_id": 1752314,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002402",
+  "tmdb": {
+    "tmdb_id": 1121822,
+    "title": "Thaanara",
+    "original_title": "\u0d24\u0d3e\u0d28\u0d3e\u0d30\u0d3e",
+    "release_date": "2024-08-23",
+    "year": "2024",
+    "rating": 5.0,
+    "overview": "A thief, a politician and a singer find themselves in a precarious position in a city mansion.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jdhzrBTqDThVeOSyQwrBP9UiJkq.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jBh2wrL4a9r72GFy1jprqG6hrpn.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002402",
+    "status": "U",
+    "etag": "vOQsDRoVwcBhT+qNQQOanQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002402",
+          "url": "/sapi/download/video?action=get&k=4Yex64-Ofr69xcEkfDcJ0-jjwdQ6_U1tg-yqMnsM2GbkHaTbzIhxd7OPoXnolBRVUxfD2iamiQq98sAx837JUM493wrTxe6koLXjF2qqf-y_Ks0fXoJzSenVfyGY3_KsltEs4A3hJLCemoS6ZyERZcuidONoiIHGVHAugj91Px-KI2QYcvU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=QI_KLJHoBhos064WCqf2usQNGm9ARR_kOQ_gTxVJwzin-mfPWgYmWnX0V4PpSgh-hdQd7885ttFqNdfuxbbasPLyeNYzaRas5SkgfGKrxzx66DaZb0iEXk3OMvitOz6dmsoLd4kMZBlDWZ6ux2pZLlL1YEBuDn3s_utZskHOveYsPx3RK_XLqXNgXjwgzVzn_eM&node=1i220",
+          "date": 1777052950381,
+          "creationdate": 1777052696000,
+          "modificationdate": 1777052696000,
+          "uploaded": 1777052854842,
+          "size": 1458753435,
+          "name": "Thaanara (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6856839,
+            "bitrate": 1701954,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=S_mgvWQgin690vx3Tf3LvZegF-uwyueXhUcQmRffSIsvu6E2rcLphUL4FnWITd0PfDT7u3ToCWLALKYd75zVHMSX4zfzggSIk60c_pX2JodolCovp3TBVYE2YruEjtipFD46On7sMDjkXQWAWfU76zLE3_LjhJVYtYwnzi-TTN_uZTQQCqwYzOuWphyUb9RShhE&node=1i220",
+              "etag": "0vOQsDRoVwcBhT+qNQQOanQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=QI_KLJHoBhos064WCqf2usQNGm9ARR_kOQ_gTxVJwzin-mfPWgYmWnX0V4PpSgh-hdQd7885ttFqNdfuxbbasPLyeNYzaRas5SkgfGKrxzx66DaZb0iEXk3OMvitOz6dmsoLd4kMZBlDWZ6ux2pZLlL1YEBuDn3s_utZskHOveYsPx3RK_XLqXNgXjwgzVzn_eM&node=1i220",
+              "etag": "0vOQsDRoVwcBhT+qNQQOanQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vOQsDRoVwcBhT+qNQQOanQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052950447,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/jivnSeZ0S1S-DE-K1Dm4ZzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Thaanara (2024)",
+  "media_kind": "movie"
+}
