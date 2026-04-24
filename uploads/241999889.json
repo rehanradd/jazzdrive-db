@@ -1,0 +1,82 @@
+{
+  "name": "JSK - Janaki vs State of Kerala (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\JSK - Janaki vs State of Kerala (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:45:22Z",
+  "remote_folder_id": 1751989,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999889",
+  "tmdb": {
+    "tmdb_id": 1044944,
+    "title": "JSK - Janaki V vs State of Kerala",
+    "original_title": "\u0d1c\u0d46\u200c\u0d0e\u0d38\u0d4d\u200c\u0d15\u0d46",
+    "release_date": "2025-07-17",
+    "year": "2025",
+    "rating": 3.8,
+    "overview": "Janaki, an IT professional from Bangalore, returns to her hometown in Kerala for a quiet vacation. But her peace is shattered when she becomes the victim of a horrific incident. As she begins her fight for justice, the case takes an unexpected turn with the entry of Advocate David Abel Donovan.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/s5aKJoOSv3D8snq3Y2N3APeK5vz.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fKscSOfO1X95gBIDbE9of6yx9EW.jpg",
+    "genre_ids": [
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999889",
+    "status": "U",
+    "etag": "0eTvmGQaBu4sN3LoI/E35Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999889",
+          "url": "/sapi/download/video?action=get&k=uFVAvGZu63Hf3cIYACXoYbiP9RtuFzsuSYF9IVlnqbx717pMdtmAI70tozRkhzBXCxWoPE6aOsbMaZla98phEhAhpjbEMKqKncEQYUnKa-fy2Dc_6oo7jm2HQSvSxqMdTpfIOl5kXKbTI-6Np42wYnr9ZnxPRmU_MLBwJExRsJQ9sps2Ips&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=TT8BmRLbmlXosiP4RdpuzTWgZYU0I-kxuWmJPz56XMzfQApN-6oF7VpB6vjD22hKB9gll0dIxAB3gxL7E87IkNJIl8z1io7YPWL7KxAicqcbbbdsXo08STCFwXJUrK5Jc5gY0sZJZOH7sVWUcoLuz4H4fOXvE-JtKFJOieyQmiZVmbP2Ul5dLpkaXpTtdeWT78Q&node=1i220",
+          "date": 1777038321977,
+          "creationdate": 1777037950000,
+          "modificationdate": 1777037950000,
+          "uploaded": 1777038258551,
+          "size": 1462406685,
+          "name": "JSK - Janaki vs State of Kerala (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8955945,
+            "bitrate": 1306311,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=706Dx2Zgyad1uyW7uv4uP0I52S-KdAFFCBardcaV_nH5GrgvhCFeu1NyiH-VzfewBg3QUx-_Ld9ZvHcXSAlE1i_BbCpWLcljaz77-M9QvsCgj2-pWyQsqQt5tureUY7BUEUMc9wxvF-h0lg0ueTPoPmPURypT_yJQ0O2oKohG3M0B_XvptrwKrP22PXK21Rs3k8&node=1i220",
+              "etag": "00eTvmGQaBu4sN3LoI/E35Q=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=TT8BmRLbmlXosiP4RdpuzTWgZYU0I-kxuWmJPz56XMzfQApN-6oF7VpB6vjD22hKB9gll0dIxAB3gxL7E87IkNJIl8z1io7YPWL7KxAicqcbbbdsXo08STCFwXJUrK5Jc5gY0sZJZOH7sVWUcoLuz4H4fOXvE-JtKFJOieyQmiZVmbP2Ul5dLpkaXpTtdeWT78Q&node=1i220",
+              "etag": "00eTvmGQaBu4sN3LoI/E35Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "0eTvmGQaBu4sN3LoI/E35Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777038322043,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sHWW80hYTrGC9uWPHFJwdzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jsk Janaki Vs State Of Kerala (2025)",
+  "media_kind": "movie"
+}
