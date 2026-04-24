@@ -1,0 +1,81 @@
+{
+  "name": "Sriranga Neethulu (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Sriranga Neethulu (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:33:30Z",
+  "remote_folder_id": 1752298,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002059",
+  "tmdb": {
+    "tmdb_id": 1274480,
+    "title": "Sriranga Neethulu",
+    "original_title": "Sriranga Neethulu",
+    "release_date": "2024-04-11",
+    "year": "2024",
+    "rating": 7.0,
+    "overview": "Follows three characters from diverse backgrounds in their mid twenties. How consequences arise because of their flaws and what struggles they go through?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pt9rIRYd8jowOlTmJCa6sUkMTRf.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zoItRZ13m3ODM3OiMqZzCGyiTHf.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002059",
+    "status": "U",
+    "etag": "0JK6CQXENv+tUZE20F7BnA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002059",
+          "url": "/sapi/download/video?action=get&k=MnAAa8zrRWLumdYoD8W6cP6z4sTIh21mTkAcXTmSxksV14ouKlNEgxX_SbmcxS9vJDkuss_KGcN2ieIobJa_JTzjaxw_XTjqoD4xTVtzZRRFgOi0kLcEu80HGuCuyUY-4Z-K8Pp3UMODMJpPrRpe2wWMmYg21d76UWR6xAn3Ju2TCvcOKsE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=DVQw0vvdk4y5NL7kHEmYy08U6BWpjOBm-yKhmkb1SDPW1-YK6a7JEML6uqoRNYrZMH8qdMrnl3LtrAONHxPUmDOHcQVbPjT6334OtuH8YIQBXc5KY3gjTjRXRMGXXm2bKd-AryMXiwsh5FyR3Ap2riszeu27ziotZQjt1PB7P-KKdiDyVmFxae3F99-UKNm2Y_s&node=1i220",
+          "date": 1777052009323,
+          "creationdate": 1777051812000,
+          "modificationdate": 1777051812000,
+          "uploaded": 1777051903581,
+          "size": 1171533833,
+          "name": "Sriranga Neethulu (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7167807,
+            "bitrate": 1307550,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=guJaKlzH5RmofkR0nomrYI4SEvMPOg2k9sxMoyh_-RMHJCU9A6_57xlqrCfK-hv-Ow14GhXNWxSuwuhE1WQIiE1M63U6BrGZ3HdKtJ4FeWoFyJls2UJ9Ri4xcGECsZaewHmUMKB56vE-LL84oCySssIbBZ1ypb8oVKatrgj5GBkrxBjn9lPwjqXdR1JhMiqVd_I&node=1i220",
+              "etag": "00JK6CQXENv+tUZE20F7BnA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=DVQw0vvdk4y5NL7kHEmYy08U6BWpjOBm-yKhmkb1SDPW1-YK6a7JEML6uqoRNYrZMH8qdMrnl3LtrAONHxPUmDOHcQVbPjT6334OtuH8YIQBXc5KY3gjTjRXRMGXXm2bKd-AryMXiwsh5FyR3Ap2riszeu27ziotZQjt1PB7P-KKdiDyVmFxae3F99-UKNm2Y_s&node=1i220",
+              "etag": "00JK6CQXENv+tUZE20F7BnA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "0JK6CQXENv+tUZE20F7BnA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052009456,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/BvKs0I9wSQmNllOSi9zpHzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sriranga Neethulu (2024)",
+  "media_kind": "movie"
+}
