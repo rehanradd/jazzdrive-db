@@ -1,0 +1,83 @@
+{
+  "name": "Sulthan (2021) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Sulthan (2021) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:48:24Z",
+  "remote_folder_id": 1752307,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002194",
+  "tmdb": {
+    "tmdb_id": 792334,
+    "title": "Sulthan",
+    "original_title": "\u0b9a\u0bc1\u0bb2\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+    "release_date": "2021-04-02",
+    "year": "2021",
+    "rating": 5.325,
+    "overview": "A man raised by gangsters tries to reform them, and a hired job to protect a village presents him with the perfect opportunity.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/z9TqB7GcyM0tMOFlI5mZuqNq351.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/vLanw88oSsTJCFDyLxacuQG8INa.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002194",
+    "status": "U",
+    "etag": "8MKWVmUAbxq5QfFpTGXWMg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002194",
+          "url": "/sapi/download/video?action=get&k=chpJD0k1QUvo8whAQEsFwxGCrGGX_AFV620Qb4Cqy24S-HIqOId_wR5--xEmpjnTZKoE_L39AYEgIXqrqR2Ky_TZXr3VU6VlDSb8XxMEeG_jEYxbYid5Q2Du8RmKMZ9C_sR3LrQ_Iohzl_sdf_OxgboMfBqFCqFLsFcxiaKtEDHVjd3h4Cc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=wafnrDm2zOEcqhtWxNEUkDcysDX1Fp8Qhgfz-Iyt2Dll4vMsjJakbJuv5pi4y3y0xa13Hl1_PDVEvlSR7jJtV890O-ARD6N4BMhEnk2OBTzsGCm0Rz2Nwun5JXJ_SJ4qa4aYv_eN3ALKastiiYbb6bjta3zBOkwxxwkwU7q2dl_yAF7rCsA8nvsKCn-t2zzbFdQ&node=1i220",
+          "date": 1777052903625,
+          "creationdate": 1777052396000,
+          "modificationdate": 1777052396000,
+          "uploaded": 1777052762663,
+          "size": 1742246375,
+          "name": "Sulthan (2021) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9381129,
+            "bitrate": 1485745,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=k7dhHl-HJ6pbdViIe7kbcmGMyMBO_fa3Z4g8077Mzv5cuo6GnOcC8ADMHM4WpmA9uUkBP4Q-JENpqitvU5DVssHSsUfBJdX23-1HtpTXzdLbPoWwBmMiEvHlEJsZU2Zv84v27QrKJYmLCtsHUDIQ-r-tVOwLPSrZsYx7SmE8ts4tzSZpug8jdg7YL4cSu3yBt2Y&node=1i220",
+              "etag": "08MKWVmUAbxq5QfFpTGXWMg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=wafnrDm2zOEcqhtWxNEUkDcysDX1Fp8Qhgfz-Iyt2Dll4vMsjJakbJuv5pi4y3y0xa13Hl1_PDVEvlSR7jJtV890O-ARD6N4BMhEnk2OBTzsGCm0Rz2Nwun5JXJ_SJ4qa4aYv_eN3ALKastiiYbb6bjta3zBOkwxxwkwU7q2dl_yAF7rCsA8nvsKCn-t2zzbFdQ&node=1i220",
+              "etag": "08MKWVmUAbxq5QfFpTGXWMg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "8MKWVmUAbxq5QfFpTGXWMg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052903690,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/vH8sYWX6QbyPAVq-IbfVvjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sulthan (2021)",
+  "media_kind": "movie"
+}
