@@ -1,0 +1,82 @@
+{
+  "name": "Love Reddy (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Love Reddy (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:02:19Z",
+  "remote_folder_id": 1752150,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001039",
+  "tmdb": {
+    "tmdb_id": 1372090,
+    "title": "Love Reddy",
+    "original_title": "\u0c32\u0c35\u0c4d \u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f",
+    "release_date": "2024-10-18",
+    "year": "2024",
+    "rating": 4.0,
+    "overview": "Narayana Reddy who finds himself entangled in a web of emotions as his uncertain love life takes unexpected turns.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/A6JcxUu70P1ylx77BjoJdq98GSD.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/E1ZJmhFPM2jBumWAi1IZlsIcxp.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001039",
+    "status": "U",
+    "etag": "5riGEOxtfGq2MdZqAab8GQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001039",
+          "url": "/sapi/download/video?action=get&k=Nc_QU7Au0-kXb9cXD-EfCGNDxoJds1WjJPRlzYShWJaJXFhz6Lpx_JMSl3-c-hivKz-3-knjQIOJc3xEn37yWBw9fTM1yt7joXBJF1SDOwyVUa_AvdXe5q8WgFiBGsciXVyBkoHrfI2NOGf6NvyO2TwBCBjPeg1MveueuBnsSfDDFX0S1YA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=1NL5UkuxlkXL-QDPBVotkjpoiWLcYDCO5VKdfUu1RrrMcBtl2hN95bE3nj7gJmUut6gKsugtJ9qfW1dJGFi092PDZLBTyPYc11EoD3zONeipSIjN_KSgrRDTfEMrjwKHDG5b0xraT0Mc-5oDrX_22vj7wPXZsSgEB96Ksd4O89Na0ry0BG-09zpInkLG1lMk1kM&node=1i220",
+          "date": 1777042938482,
+          "creationdate": 1777042747000,
+          "modificationdate": 1777042747000,
+          "uploaded": 1777042871800,
+          "size": 1201920321,
+          "name": "Love Reddy (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8275648,
+            "bitrate": 1161886,
+            "codec": "hevc",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "eac3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=UnGOqlVdVv_YTZfS5nuJR5sm1aI7vTOeftsjQlJzphpEQIkixZrcHv42R5gD1okx11HLhZ3hCCwk6lSdtQDtZ0oNsvetynW17OghW4nGOOhRAVUZc2jPOdjeSyqItMBt_JYFT8cVxC1uaeu1dPXABtXU_F-Cmx7-vQabreY4J_OTrY-C473WnVpRMeyNb4tZREA&node=1i220",
+              "etag": "05riGEOxtfGq2MdZqAab8GQ=="
+            },
+            {
+              "w": 1280,
+              "h": 720,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1NL5UkuxlkXL-QDPBVotkjpoiWLcYDCO5VKdfUu1RrrMcBtl2hN95bE3nj7gJmUut6gKsugtJ9qfW1dJGFi092PDZLBTyPYc11EoD3zONeipSIjN_KSgrRDTfEMrjwKHDG5b0xraT0Mc-5oDrX_22vj7wPXZsSgEB96Ksd4O89Na0ry0BG-09zpInkLG1lMk1kM&node=1i220",
+              "etag": "05riGEOxtfGq2MdZqAab8GQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "5riGEOxtfGq2MdZqAab8GQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777042938565,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Ld8dawuOS6aSySopxqmndzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Love Reddy (2024)",
+  "media_kind": "movie"
+}
