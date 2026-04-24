@@ -1,0 +1,81 @@
+{
+  "name": "Rocket Driver (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Rocket Driver (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:52:28Z",
+  "remote_folder_id": 1752259,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002005",
+  "tmdb": {
+    "tmdb_id": 1372609,
+    "title": "Rocket Driver",
+    "original_title": "Rocket Driver",
+    "release_date": "2024-10-18",
+    "year": "2024",
+    "rating": 6.0,
+    "overview": "An autorickshaw driver frequently expresses discontent with life's aspects but harbors an ambitious dream of changing the world, though his actions fail to align with his aspirations.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zDDPm4YdUpmKzVXdxMYdGRVylSp.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kbLpay8YkYOpOUMt6ud7DXGsCzH.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002005",
+    "status": "U",
+    "etag": "8h2blJWKH4AdtcoccLNJ2A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002005",
+          "url": "/sapi/download/video?action=get&k=jL5gGBTFgTcDMzqsXfbeTii3OuvM6jQn4CzhoGQUe7Tvs2XiL8tTNphe70ihkcAuJdvKayn0NTeuiSahuMBmyrMxHqr8U0CV6EkRZiHZjBa2f4aH3a467KuneNRorbXUlXzCwNfv2usSjqLGgJjKGyq62rFdObMTNo-FVlRJkC6VDrcVXZI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=kE3fOFNtjSGLFUCPCFHU0LkMUPT1qdBFnI3uNIBR9hVyaA3otwepHq7SvZNMMq7YYW-OrpSkz0Rqzvhl544Wq12SiqelXDmrS8HEAjX6iHzO_AZpo1oXnOFuy7jMfW2Wh3sPEQ-OlYvV-HRe9ditM8n4yl6IdnlUQ5umpLUma0aTJSx8obvi0Q2aK7RpSTKaqdc&node=1i220",
+          "date": 1777049546891,
+          "creationdate": 1777049384000,
+          "modificationdate": 1777049384000,
+          "uploaded": 1777049476365,
+          "size": 1340584513,
+          "name": "Rocket Driver (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6183637,
+            "bitrate": 1734363,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=21Dvf1BIDQ8nTzSEJrXyLPTt2rlFQ2ihIOz1Y6k6hhPNj14dtBBzSMnosseHzYfj4vVKDjB3fkXMXkGHyzWIUOaK1Hc7fOFGKChcoJpyzV14qP2gqLwhrdH5cwJsaYgucEf-OY55Y6X-m63VME5mDzc_VTi69Aooqzao-SlToH70LvJR8jy7-xrGFRkBzQxZKU8&node=1i220",
+              "etag": "08h2blJWKH4AdtcoccLNJ2A=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=kE3fOFNtjSGLFUCPCFHU0LkMUPT1qdBFnI3uNIBR9hVyaA3otwepHq7SvZNMMq7YYW-OrpSkz0Rqzvhl544Wq12SiqelXDmrS8HEAjX6iHzO_AZpo1oXnOFuy7jMfW2Wh3sPEQ-OlYvV-HRe9ditM8n4yl6IdnlUQ5umpLUma0aTJSx8obvi0Q2aK7RpSTKaqdc&node=1i220",
+              "etag": "08h2blJWKH4AdtcoccLNJ2A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "8h2blJWKH4AdtcoccLNJ2A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049546949,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/hVjEb78tS6uZ0OndbZF-gTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Rocket Driver (2024)",
+  "media_kind": "movie"
+}
