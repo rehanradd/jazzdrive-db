@@ -1,0 +1,41 @@
+{
+  "name": "WindowsAzureRegKey.xml",
+  "path": "D:\\CollectGuestLogsTemp\\WindowsAzureRegKey.xml",
+  "uploaded_at": "2026-04-24T00:45:15Z",
+  "remote_folder_id": 1752018,
+  "mediatype": "file",
+  "stream_link": "",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241996160",
+    "status": "U",
+    "etag": "W6/Gk3L8fDBc8SSqSH5lCA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "files": [
+        {
+          "id": "241996160",
+          "url": "/sapi/download/file?action=get&k=DHPNneOKANi80R5hcmpNkSOg1omZuTpO0chnPV1J49G-J1twYwq1_R3GwS0oWSbCCzCitTXbRmKuhTVS_h9lFmL5YwwoX9XLXoLRtRv3ZEvPAdADkkPvWjdTkj5bAH46l6-5-1rE1V9bPQecaDeZ9SQpnpK9471ncYHwCFEjEVMyPCsNEgM&node=2i182",
+          "date": 1776991514988,
+          "creationdate": 1776991515000,
+          "modificationdate": 1776991515000,
+          "uploaded": 1776991514901,
+          "size": 2237,
+          "name": "WindowsAzureRegKey.xml",
+          "mediatype": "file",
+          "status": "U",
+          "etag": "W6/Gk3L8fDBc8SSqSH5lCA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776991515098,
+    "type": "file"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/4xVF8pGHQjSevWWcNvBX2zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Windowsazureregkey",
+  "media_kind": "file"
+}
