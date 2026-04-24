@@ -1,0 +1,81 @@
+{
+  "name": "Nirangal Moondru (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Nirangal Moondru (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:57:29Z",
+  "remote_folder_id": 1752204,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001296",
+  "tmdb": {
+    "tmdb_id": 922360,
+    "title": "Nirangal Moondru",
+    "original_title": "\u0ba8\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+    "release_date": "2024-11-22",
+    "year": "2024",
+    "rating": 5.7,
+    "overview": "On a trippy day, the fates of 3 people - Vetri an aspiring filmmaker, Vasanth a reputed teacher and Selvam a corrupt and crooked cop collide, leading to various revelations, where Shree, an anxious youngster discovers that his girlfriend Parvathy has gone missing under mysterious circumstances, gives them the lead.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sGzSgkWpNIXooUaiXRObhKqdtaN.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/5wr1g2g4cj5lkEDmAbEbT92sU8t.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001296",
+    "status": "U",
+    "etag": "LXa2dPmTLWCW+hD9PiuMeA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001296",
+          "url": "/sapi/download/video?action=get&k=qNvltQ20CmLYUNERFIbgHnikK6OLkjv9qnmg4bYsUZxnEGCnOKiPGjB0ske5EzqQG2uSd-0Y_0zBNWXRB6o31BtuVfnxOYu9s8miWRNu9kn3pK-nvDIdG2skNPj4xVLCJWSpGrZIJSPKJdgFz7Mz3fAr2qxkkf5S1xxT2UXRAn0fTPBg7ds&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=fkzXU-Mn76IqMAH3jaK3fx8msE4cHmqVXmZ5nS5VxY935EGmIXD-n3ELzB9zlDZIyeQkD4ZQUi9BpFRXGJvR-4mrK-MMLM0NLdZNZ3atpcMJO7aidpsAdRsVxjax1DANkvpK3NgKkqIUbMsh0-QG7R9qiYnN2A958ppQnE2eYfPt5kns5P5Ke7vZbv7iqPKajaE&node=1i220",
+          "date": 1777046248159,
+          "creationdate": 1777046058000,
+          "modificationdate": 1777046058000,
+          "uploaded": 1777046201041,
+          "size": 1220868007,
+          "name": "Nirangal Moondru (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7241504,
+            "bitrate": 1348745,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Q-hWQgDOZiAlE7SpM5yABCFZQNSY3lseWSGSD2S-osQox4Gs9sI6Pf0aUvaXrt0qgSF7mA2rASWk6fyazZS39p0eq6did8G6bXCOZzlYVJIVJBFUc05yyhcpCFX2Wi0kDUc8JnCtjEE_j5udbMNfKcQ8UYqi1sUxchBI0Kvc8dJsqPXFUAsiAT7076onFvmKOyI&node=1i220",
+              "etag": "0LXa2dPmTLWCW+hD9PiuMeA=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=fkzXU-Mn76IqMAH3jaK3fx8msE4cHmqVXmZ5nS5VxY935EGmIXD-n3ELzB9zlDZIyeQkD4ZQUi9BpFRXGJvR-4mrK-MMLM0NLdZNZ3atpcMJO7aidpsAdRsVxjax1DANkvpK3NgKkqIUbMsh0-QG7R9qiYnN2A958ppQnE2eYfPt5kns5P5Ke7vZbv7iqPKajaE&node=1i220",
+              "etag": "0LXa2dPmTLWCW+hD9PiuMeA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "LXa2dPmTLWCW+hD9PiuMeA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777046248229,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sBj2SiQVRduQioF6mHQujzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Nirangal Moondru (2024)",
+  "media_kind": "movie"
+}
