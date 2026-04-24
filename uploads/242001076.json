@@ -1,0 +1,83 @@
+{
+  "name": "Maranamass (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Maranamass (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:21:33Z",
+  "remote_folder_id": 1752168,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001076",
+  "tmdb": {
+    "tmdb_id": 1272121,
+    "title": "Maranamass",
+    "original_title": "\u0d2e\u0d30\u0d23\u0d2e\u0d3e\u0d38\u0d4d\u0d38\u0d4d\u200c",
+    "release_date": "2025-04-10",
+    "year": "2025",
+    "rating": 5.6,
+    "overview": "An unlikely group of people become trapped on a bus with a man they do not realise is the serial killer terrorising their community.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/erU6DGyYGEFrnE4reiGX3pytU2e.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hzUZ7MQjLhI3ucx33gPSgV9mMW1.jpg",
+    "genre_ids": [
+      35,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001076",
+    "status": "U",
+    "etag": "7PG5yrIyI4UvbIDzNdR0ow==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001076",
+          "url": "/sapi/download/video?action=get&k=CHfYdmpNSMwPMMwx0qXLbgvGml-4wx_GiZxbAuUeQLzBelipGuqKg8MY8NpYP7rgUKRRfY-d7JuI1nRQqAOiAHb5KsHHnRPZ6kHTMOR6b6_RAf9KbcvkPQGgIHh6KBIPExliQk30KayXwbtAtLZMPtylEp0H-QG2zIDtEfsrqgkq-P7HKO8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=6bv4lvNEjaqI6TH-2Zn6eSrHG-ppPQFguGjI7A7XfQXCR7QnQDZCscQOO316bUayDky6wC3o71J9FYSzceCZwAYyUI5KvXcX3wOYXLcgL4Sk2D3gWe42MzydC_thRnoDyYEyb9bVfZMPV6N4iGLVasSLlqWnf7BSK-w046xmvADS11JXVIjzH31wsd_RWO_92Dc&node=1i220",
+          "date": 1777044092850,
+          "creationdate": 1777043886000,
+          "modificationdate": 1777043886000,
+          "uploaded": 1777044008795,
+          "size": 1423483991,
+          "name": "Maranamass (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8202064,
+            "bitrate": 1388415,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=l_xxUL4wPdFl8MgU-6g8r0sSeccm7E2GZh7hCejbkDJblmGWoYm_zqcSJL4ZzkUhOl4Xd8yRCwfRJM_ftITSCUroFXy3BJn4JxC-yBaeDsavkpl96MlPhVqQ6tyVeRRW2xWtzG1CnZDr4HWoCUvDMKee5imrnPXWuw5_rvg6Kk92W5BYblzaJYXCJpNxcez-xjw&node=1i220",
+              "etag": "07PG5yrIyI4UvbIDzNdR0ow=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=6bv4lvNEjaqI6TH-2Zn6eSrHG-ppPQFguGjI7A7XfQXCR7QnQDZCscQOO316bUayDky6wC3o71J9FYSzceCZwAYyUI5KvXcX3wOYXLcgL4Sk2D3gWe42MzydC_thRnoDyYEyb9bVfZMPV6N4iGLVasSLlqWnf7BSK-w046xmvADS11JXVIjzH31wsd_RWO_92Dc&node=1i220",
+              "etag": "07PG5yrIyI4UvbIDzNdR0ow=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "7PG5yrIyI4UvbIDzNdR0ow==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044092921,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HK2xMGIpRTWg6n0VoWGmwzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Maranamass (2025)",
+  "media_kind": "movie"
+}
