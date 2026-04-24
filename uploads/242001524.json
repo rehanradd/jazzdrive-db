@@ -1,0 +1,82 @@
+{
+  "name": "Padakkalam (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Padakkalam (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:17:17Z",
+  "remote_folder_id": 1752221,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001524",
+  "tmdb": {
+    "tmdb_id": 1251970,
+    "title": "Padakkalam",
+    "original_title": "\u0d2a\u0d1f\u0d15\u0d4d\u0d15\u0d33\u0d02",
+    "release_date": "2025-05-08",
+    "year": "2025",
+    "rating": 7.3,
+    "overview": "Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic world upside down with supernatural events.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9m4lvnqvwppA4BIoxqcWsWna5is.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/c8hXBIgdTwPtF3PhiJayD6YHqAk.jpg",
+    "genre_ids": [
+      35,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001524",
+    "status": "U",
+    "etag": "O4Olwe5ongZleyyVkeVaBA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001524",
+          "url": "/sapi/download/video?action=get&k=lEaM9Ak1_3z-C0shAfDwWKOzuclbQTyeUcl3tQlzSuHPPWPCWrDahaXXgBIbKFJNTUYNkvGuCkn3hH93h31HI5Q_JP4WnPMXEejPf0enYdpzUdNc4x1oQeiG0H_7Y6JVCxCB9gqbq40mtchWvW5k0I3RKajcMkB-bEwEmMFwvblpUJQ9uJ8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=3qdBI4pwYi-YlD3oIzXQPMK8sEgwN3W88Hg6B-OVEBJ7lrT3K_VeDyTMKVdMLfS2MnkzGUvpHIox8oCn-0PB4XV4SCko1f5iy-eEf9X_0YjLy3nVYBHv98Q0nhxiX5S5gCLc3qsPMaoz4i7T-xR5yZReqPBR4gl9X5b4hpPdD2ORWQggCucoPYdqfB1NixzVtNQ&node=1i220",
+          "date": 1777047436988,
+          "creationdate": 1777047093000,
+          "modificationdate": 1777047093000,
+          "uploaded": 1777047346435,
+          "size": 1370821897,
+          "name": "Padakkalam (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7387401,
+            "bitrate": 1484497,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=C0VURkrJSRCw-XNHYc8IgK6aRV85ButwXheE2fPe2s6Ep-QGmq7JhY0fjMuFssCtSKaCPqluMo-OCHFOyIGBHVHwX0XCydAvuc7COL11nyIofVD475_EscsmTCBWCnLPegjB9MCFu-93RU5Mu1XHt0lVtf0vlxDcRekOsghim8LvS9ru5NaTPa7c-Ye60iZ1PVM&node=1i220",
+              "etag": "0O4Olwe5ongZleyyVkeVaBA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=3qdBI4pwYi-YlD3oIzXQPMK8sEgwN3W88Hg6B-OVEBJ7lrT3K_VeDyTMKVdMLfS2MnkzGUvpHIox8oCn-0PB4XV4SCko1f5iy-eEf9X_0YjLy3nVYBHv98Q0nhxiX5S5gCLc3qsPMaoz4i7T-xR5yZReqPBR4gl9X5b4hpPdD2ORWQggCucoPYdqfB1NixzVtNQ&node=1i220",
+              "etag": "0O4Olwe5ongZleyyVkeVaBA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "O4Olwe5ongZleyyVkeVaBA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777047437046,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/V0Bq_9ICSLyDPde04qdDADMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Padakkalam (2025)",
+  "media_kind": "movie"
+}
