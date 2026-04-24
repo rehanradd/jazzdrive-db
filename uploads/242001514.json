@@ -1,0 +1,82 @@
+{
+  "name": "Oshana (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Oshana (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:10:35Z",
+  "remote_folder_id": 1752214,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001514",
+  "tmdb": {
+    "tmdb_id": 1372858,
+    "title": "Oshana",
+    "original_title": "\u0d13\u0d36\u0d3e\u0d28",
+    "release_date": "2024-11-01",
+    "year": "2024",
+    "rating": 1.0,
+    "overview": "Oshana takes you through the journey through the life of a guy named John, where you see how the people around him and his love stories shape everything. Each romance brings unexpected twists and turns, making it a real rollercoaster ride. It's a film that captures all the drama and excitement of love and life in a way that'll keep you hooked.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3r4mYUlTcDctHnlYI5EcjWPTs4G.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tM3MnkA8f8BJG5A2ZMKta8YcydT.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001514",
+    "status": "U",
+    "etag": "XMCxUwl2ERTNLZOOH/8Bwg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001514",
+          "url": "/sapi/download/video?action=get&k=5Bo5FOHHTufyAFaGBGswsaUxro-8FLKhnhGCnW7Llwy-ttehdDe3b5Ql-WoXf3RgI3In1jFJhC_X1N_zIDhRsaKv3qKHnTFUH7vM_MZuHLZ_Y1LlIDzZKbUsKnxImmZM9s9fMbbOy2GHEW7M9iXc1lbvAx4HpYoyrZMyEQAvCU3ipNZVvJE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=N9fRPzwWkPn01sVSbq455_A_VV-Siqd-_znKtxfZ0QiMGPeCrvUP0groF3RiX4nw_63zoyGiE-rhfHZ0-iCfNCi4wRcJLuSGMN3TXdgREA7Pfdb3uT2fZbM3KAEr55JM4mhR9RtLzNHkF6gPh-yKla7k22BqwDd0iVyOQjIT-DBmYAcHVzy-_m3WSFKiw2IOTNI&node=1i220",
+          "date": 1777047034916,
+          "creationdate": 1777046634000,
+          "modificationdate": 1777046634000,
+          "uploaded": 1777046967554,
+          "size": 1350060734,
+          "name": "Oshana (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7468109,
+            "bitrate": 1446214,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=f10QPXnu5KfEcg-oYlASU-AXxxTkcmcOeTV6XiD-ic8KVqfa68sdJYIuLVvsekRuKWApnbqSXBZf_eelEXTuyOf8rr6Md-m2CjDkXLhOBiY4BAFNE5fnsvyylSRumEI_TNTKmiFOt4hidO3Fs-89kiNRxHwg95Zd9Td95R3-ZQM5ffj6W2SqLoi23S38FQ5uNTM&node=1i220",
+              "etag": "0XMCxUwl2ERTNLZOOH/8Bwg=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=N9fRPzwWkPn01sVSbq455_A_VV-Siqd-_znKtxfZ0QiMGPeCrvUP0groF3RiX4nw_63zoyGiE-rhfHZ0-iCfNCi4wRcJLuSGMN3TXdgREA7Pfdb3uT2fZbM3KAEr55JM4mhR9RtLzNHkF6gPh-yKla7k22BqwDd0iVyOQjIT-DBmYAcHVzy-_m3WSFKiw2IOTNI&node=1i220",
+              "etag": "0XMCxUwl2ERTNLZOOH/8Bwg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "XMCxUwl2ERTNLZOOH/8Bwg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777047035006,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Q79qKSC6QY691qqM337tzjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Oshana (2024)",
+  "media_kind": "movie"
+}
