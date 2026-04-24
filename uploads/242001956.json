@@ -1,0 +1,82 @@
+{
+  "name": "Razakar - Silent Genocide of Hyderabad (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Razakar - Silent Genocide of Hyderabad (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:46:28Z",
+  "remote_folder_id": 1752254,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001956",
+  "tmdb": {
+    "tmdb_id": 1210466,
+    "title": "Razakar: The Silent Genocide of Hyderabad",
+    "original_title": "\u0930\u091c\u093e\u0915\u093e\u0930",
+    "release_date": "2024-01-26",
+    "year": "2024",
+    "rating": 4.0,
+    "overview": "During the Hyderabad Liberation Movement of 1948, there will be atrocities, like the episode of Gundrampally, Parkala, Bhairanpally villages.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ieplpESS4twYnlRTXZTyFxBzpi9.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bJonQTxd7xR4MQnd2ks28wBeHqL.jpg",
+    "genre_ids": [
+      36,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001956",
+    "status": "U",
+    "etag": "htueU5G4t/5Fkyba50I+HA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001956",
+          "url": "/sapi/download/video?action=get&k=sQD7U3hDY4WE5CB3t81QqUi7EHeIpnmeW0Y8ZtrNwMcusO3aVlo7Ki-aQSNSTNw-S-y7KCEsi0EGDWIBDRG0kmmtpeVfGsuFWKCvbh3MHydMrQr2RukFvLlAmaTAoag9Zyx3LrGxnJBC8W9PEYfD9-axicvr9r8sItisi4gIeMX_g_sqpEI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=p0QAr__UfUp4XQao34JblZNaQuo_MrunCKWxZ2-zJqIexDVe2PGg3eOzDkyL0YBRwG3UywTl0EOLMP2xXtbBluQYr2EiCutAPHrLUPDEm5mbL1IWH4anPpbkBeHCqqx4bA1c-HUR-oI7db2mNc--3WRtYl9i2EKBZUCYqkSM4XH6hjjSvhTja__QSsLz2Ie9Hb4&node=1i220",
+          "date": 1777049187541,
+          "creationdate": 1777049010000,
+          "modificationdate": 1777049010000,
+          "uploaded": 1777049122234,
+          "size": 1110393737,
+          "name": "Razakar - Silent Genocide of Hyderabad (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9194432,
+            "bitrate": 966144,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=8orCafBjysGDPZN7cwVQf2KzBF5vpzNhgXNAFoVbp4TShv0PlMniYUJyNfNNkNPHbNsLVX-OssHv6UbyAKUTgcx9_QxZsA-uNSRU3Ac-FxpRJ5S5FB6QTA771odz1NRC2UWHvdFTTUZECA8K0LjRxTfDeAotOuYnxbKvMx8OYOro_fkJVnBn9u95DB76CEzhQvw&node=1i220",
+              "etag": "0htueU5G4t/5Fkyba50I+HA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=p0QAr__UfUp4XQao34JblZNaQuo_MrunCKWxZ2-zJqIexDVe2PGg3eOzDkyL0YBRwG3UywTl0EOLMP2xXtbBluQYr2EiCutAPHrLUPDEm5mbL1IWH4anPpbkBeHCqqx4bA1c-HUR-oI7db2mNc--3WRtYl9i2EKBZUCYqkSM4XH6hjjSvhTja__QSsLz2Ie9Hb4&node=1i220",
+              "etag": "0htueU5G4t/5Fkyba50I+HA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "htueU5G4t/5Fkyba50I+HA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049187608,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HuniQwV9Q5CbtWP_BMu2BzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Razakar Silent Genocide Of Hyderabad (2024)",
+  "media_kind": "movie"
+}
