@@ -1,0 +1,82 @@
+{
+  "name": "Jai Ganesh (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Jai Ganesh (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:48:03Z",
+  "remote_folder_id": 1751992,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999894",
+  "tmdb": {
+    "tmdb_id": 1168528,
+    "title": "Jai Ganesh",
+    "original_title": "\u0d1c\u0d2f\u0d4d \u0d17\u0d23\u0d47\u0d37\u0d4d",
+    "release_date": "2024-04-11",
+    "year": "2024",
+    "rating": 5.4,
+    "overview": "In the unforgiving shadows of sympathy, Ganesh Gangadharan, a paraplegic designer, wrestles with his inner demons, striving for a semblance of normalcy.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5t06YuOR93cqD2egserG91MhD4X.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/pCswOJxaoRjOLGuhWEagoResqHv.jpg",
+    "genre_ids": [
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999894",
+    "status": "U",
+    "etag": "akCqR7DA50ulq7M5Qv7FRg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999894",
+          "url": "/sapi/download/video?action=get&k=9NqznTCLk-VscwAXq4U01k4PcbZHHpJZVfLpr1WZHO5AIvUGiFByK_q2G7d0zrk-kNtcCPXk2-3HV7xF5taW1qOLTX5VuGfjNeI0Z_ftDUAu-J-s4_9TKDs7kQhlr8KcM6flLbfZpHjX4jdM6dSsDwcYomQo019iiOfW9Ma0XQJ8DXFP9iQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ehAMFW_j7DkIIaAdhTvFG0hrCk7i2kL-yR-81N9IRG-FbLSicZWIYpeWxPKdsrakvZMOdyMiWbtHYIph-g8krtCd-uxSWi0jcrZOEbKEt-XbPbNYoAFhHFOBANzozaIRA_ABVS0gXoltM0WAjfwDUqpq41tdeyVw_hK8v9G5cI0ewDHBX99TmNAY4Fd0f1iAHCg&node=1i220",
+          "date": 1777038482553,
+          "creationdate": 1777038182000,
+          "modificationdate": 1777038182000,
+          "uploaded": 1777038428507,
+          "size": 1320227314,
+          "name": "Jai Ganesh (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7506475,
+            "bitrate": 1407027,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=l-J4oAT-fqf2mBBMqfmdsno9qqedqSCjdSX3RF9piK92HJyIhFR8ri71wj97v1w6mteGJhoQ9wIFT9tvxXyP4VDXn1sI8b104H-ifycuxypeJK32iz2bhRQhF1ahvpSbulZL79T6moH6dagdo7i9yj5WZKi9AodMXhhHwjqphIiyTqVNVySc7Hw0BMAlD2qcKEY&node=1i220",
+              "etag": "0akCqR7DA50ulq7M5Qv7FRg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ehAMFW_j7DkIIaAdhTvFG0hrCk7i2kL-yR-81N9IRG-FbLSicZWIYpeWxPKdsrakvZMOdyMiWbtHYIph-g8krtCd-uxSWi0jcrZOEbKEt-XbPbNYoAFhHFOBANzozaIRA_ABVS0gXoltM0WAjfwDUqpq41tdeyVw_hK8v9G5cI0ewDHBX99TmNAY4Fd0f1iAHCg&node=1i220",
+              "etag": "0akCqR7DA50ulq7M5Qv7FRg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "akCqR7DA50ulq7M5Qv7FRg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777038482617,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ciDWccirT-iYEsvUCe91gDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jai Ganesh (2024)",
+  "media_kind": "movie"
+}
