@@ -1,0 +1,83 @@
+{
+  "name": "Majhail (2025) Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Majhail (2025) Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:22:18Z",
+  "remote_folder_id": 1752166,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001074",
+  "tmdb": {
+    "tmdb_id": 1420505,
+    "title": "Majhail",
+    "original_title": "\u0a2e\u0a1d\u0a48\u0a32",
+    "release_date": "2025-01-31",
+    "year": "2025",
+    "rating": 9.3,
+    "overview": "Tensions between rival criminal families break out when the arrival of a new police commander disrupts their uneasy truce.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/b7OSIqomkkxwnCEVsMSD5M4HT4e.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iplvHlAce70h7Vy436TIDbyKcuO.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001074",
+    "status": "U",
+    "etag": "Y3a2NyOtFFQN4EjZXZsqag==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001074",
+          "url": "/sapi/download/video?action=get&k=9p5nn-TNa4Iv3uwPHAPgvC0Mq6fbBwsk9ew4mkSto_Bznku6YBt8fWdDlCRn_wjs1wDN98EiPl8bHdxVjVJk6HzGqzQqb3D-LRWILrBD-mhxFeGCP3I1HCGfzgWNSahC6EsbUawpnoUqcRpVEHYjCnLRwEnfsXFf3X6rw9pJ8v9Vo9sWbOc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=PpMgDO68CyELHqq5h6FwdaHY6bdPlgm_mlqJOW4Je5yu1A2q3WcWDdOJtiZwzuB0DyesRTKKo94adttDVHdz8WDrgOhU01Tu_Y_TesGLsiRMdEfgLZ7DX6Oe0zMZsM_tfVDHcniR7wzGoque9p-j44CksApfXslcXwcvM1__HwCvhpTyhMNSKXBFG5kSKLqmqYw&node=1i220",
+          "date": 1777044138172,
+          "creationdate": 1777043744000,
+          "modificationdate": 1777043744000,
+          "uploaded": 1777044065827,
+          "size": 1471925982,
+          "name": "Majhail (2025) Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9652864,
+            "bitrate": 1219887,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=nASvURxuZWGp-yix_eBKVH2vdVCtAKUrBW6G0jSE8Wi6Y1n7hGOrFT3GeY4N6Imy0vdpXUwIiojjTRn4Olb2SNU1pBomfsCs358FTZ70mzsazMIe-UQ3CZl-IcSxKlLwPKJGKhyY_CPvX1JneVlZ0BSY9skz8ReezcA_bIF3Wh7PTvEJEXQCbnId4iDRHYSL98M&node=1i220",
+              "etag": "0Y3a2NyOtFFQN4EjZXZsqag=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=PpMgDO68CyELHqq5h6FwdaHY6bdPlgm_mlqJOW4Je5yu1A2q3WcWDdOJtiZwzuB0DyesRTKKo94adttDVHdz8WDrgOhU01Tu_Y_TesGLsiRMdEfgLZ7DX6Oe0zMZsM_tfVDHcniR7wzGoque9p-j44CksApfXslcXwcvM1__HwCvhpTyhMNSKXBFG5kSKLqmqYw&node=1i220",
+              "etag": "0Y3a2NyOtFFQN4EjZXZsqag=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Y3a2NyOtFFQN4EjZXZsqag==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044138238,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/rM4NooFaQaOfmXLfTOTHPzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Majhail (2025)",
+  "media_kind": "movie"
+}
