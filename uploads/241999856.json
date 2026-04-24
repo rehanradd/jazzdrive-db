@@ -1,0 +1,82 @@
+{
+  "name": "Glassmates (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Glassmates (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:14:42Z",
+  "remote_folder_id": 1751963,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999856",
+  "tmdb": {
+    "tmdb_id": 1376525,
+    "title": "Glassmates",
+    "original_title": "Glassmates",
+    "release_date": "2024-02-23",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Two drinking buddies join detox but make their physician an alcoholic too, sparking mayhem locally.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yxynatDWA34YLk6SXeDvi3MmcZf.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999856",
+    "status": "U",
+    "etag": "2OsrSUsEyC6FbUi2mC0BWA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999856",
+          "url": "/sapi/download/video?action=get&k=GX-90HcrirhadL7ylBHNO0lLOAy_-mVWG7vmLExseQmd_xuFMeGWXaGNdXP_VpoFFI_g5NcPaDiImPn2V--VFodEk85vyt30D9BM73YbW9aTdIMH53iOFXNapl8IpNdPqO75V-jcg_8oSIkNCyMlLiLxRKSKXv85fSl8Jw95s6D1ZNQRS5I&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=vFmPbtJcq654WzzTu9C9BpyJDmv6UHXmvQm36ulpCMnzdylLD6TOQpBCztoCzZEJyj3uYr2aBaxYWtX64vSn7c0F2Q2KWM5jCzQMATNDrGmLhx-CJYJ0VElgIe2yTV2e0oh4rebch0t3aGWqa8sP6IM7EOKC3WIbbfUTxQS2btvdpJnJRA5Ywx72ubXYvA9zdFE&node=1i220",
+          "date": 1777036481541,
+          "creationdate": 1777036013000,
+          "modificationdate": 1777036013000,
+          "uploaded": 1777036371482,
+          "size": 1715814686,
+          "name": "Glassmates (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7497728,
+            "bitrate": 1830756,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=pjdkOICp1CTIWWE8mbO47gh5UrDhU6pTPzgQLRHu_UyLK3YH3Q9tgHu-BVLzbkIQ5oaTdPB9r-jXPTuVRXWZ7SRVxHhiYyYdRunUiAkL66fiW1ynte6US-1Bt9ZVR8AyFdyPob4QvoL0Fk9HofJLWFcOXKV0kknxR4kOO9tialLIM8dPZBwo4-pSNqvWZ00xYDc&node=1i220",
+              "etag": "02OsrSUsEyC6FbUi2mC0BWA=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=vFmPbtJcq654WzzTu9C9BpyJDmv6UHXmvQm36ulpCMnzdylLD6TOQpBCztoCzZEJyj3uYr2aBaxYWtX64vSn7c0F2Q2KWM5jCzQMATNDrGmLhx-CJYJ0VElgIe2yTV2e0oh4rebch0t3aGWqa8sP6IM7EOKC3WIbbfUTxQS2btvdpJnJRA5Ywx72ubXYvA9zdFE&node=1i220",
+              "etag": "02OsrSUsEyC6FbUi2mC0BWA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2OsrSUsEyC6FbUi2mC0BWA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777036481597,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/WsUoT1PsQ4-ltVybJOow6DMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Glassmates (2024)",
+  "media_kind": "movie"
+}
