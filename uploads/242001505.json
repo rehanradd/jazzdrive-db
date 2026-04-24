@@ -1,0 +1,82 @@
+{
+  "name": "Om Bheem Bush (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Om Bheem Bush (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:07:35Z",
+  "remote_folder_id": 1752211,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001505",
+  "tmdb": {
+    "tmdb_id": 1248487,
+    "title": "Om Bheem Bush",
+    "original_title": "\u0c13\u0c2e\u0c4d \u0c2d\u0c40\u0c2e\u0c4d \u0c2c\u0c41\u0c37\u0c4d",
+    "release_date": "2024-03-21",
+    "year": "2024",
+    "rating": 6.286,
+    "overview": "Three friends united by their passion for science and their quest for discovery,  in search of treasure hidden within the Sampangi Mahal, venture into the village of Bhairavapuram, where locals fear a ghost of Sampangi living in the dreaded palace.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/x1dtomYuwo0vkeXyu6GY1OSxO7L.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7Ybes6Kwr6au7vewTXtesRwcrxS.jpg",
+    "genre_ids": [
+      35,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001505",
+    "status": "U",
+    "etag": "kglEy69UuHmFpqXqAzRhew==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001505",
+          "url": "/sapi/download/video?action=get&k=qd66JbMBSLRNMQ-5hJCPPmz9gRvuHXJ2yZ3uosb84oevlI1m9e0G_RRwx1QUK3pZ5QH8QgQ13it1GwqhWyrvXq8WZZmRosXruC1BcCvSQjsfXXiW5y714hERlqVFm5WgOc95SFkZg9IJQGS0M00j5MlJseIeGT5vFRyYkrBszn5tZYbnwSw&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ox0pZbc0GAt4yG6krAqX8QYLtgiC7I4fjRPDQNkCPeFMrYWlk5L-rV1hrdOUHQ7EQT7yiJsIWGS3bIBKtzzRCjDgBJtnuzGa6Y9fX07LpY17SyOxwwhzoUNCLBTf96yi3naXHwmGhrPhQb6yP8oF67fPE0ZEtdeeeDOElSicdAaDyplIFI7OuYanPUzXhaXhoOc&node=1i220",
+          "date": 1777046854671,
+          "creationdate": 1777046448000,
+          "modificationdate": 1777046448000,
+          "uploaded": 1777046779485,
+          "size": 1427533465,
+          "name": "Om Bheem Bush (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8704608,
+            "bitrate": 1311979,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_-b9kc41Iji3d-VMyuOosMUfHsALVRVmR0JDnycUzdQgmM982dEHlVOK6QNBrNtR9KTw32z3KGvBhHjiGjOmXuqhVQ0AD8ujd9GpGzDahxIbHdbkHOhxp9i3vHXiu4ZoTe5VeKVvrvZ14jUBanN4HOEoqx57M0X3fdfz_f9YPu0JxFUhOpgcz4ie5sugzhgu0MQ&node=1i220",
+              "etag": "0kglEy69UuHmFpqXqAzRhew=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ox0pZbc0GAt4yG6krAqX8QYLtgiC7I4fjRPDQNkCPeFMrYWlk5L-rV1hrdOUHQ7EQT7yiJsIWGS3bIBKtzzRCjDgBJtnuzGa6Y9fX07LpY17SyOxwwhzoUNCLBTf96yi3naXHwmGhrPhQb6yP8oF67fPE0ZEtdeeeDOElSicdAaDyplIFI7OuYanPUzXhaXhoOc&node=1i220",
+              "etag": "0kglEy69UuHmFpqXqAzRhew=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kglEy69UuHmFpqXqAzRhew==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777046854731,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/h9Xa5WbUQwuKOmWcl8yglzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Om Bheem Bush (2024)",
+  "media_kind": "movie"
+}
