@@ -1,0 +1,82 @@
+{
+  "name": "Meiyazhagan (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Meiyazhagan (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:34:35Z",
+  "remote_folder_id": 1752179,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001207",
+  "tmdb": {
+    "tmdb_id": 1136423,
+    "title": "Meiyazhagan",
+    "original_title": "\u0bae\u0bc6\u0baf\u0bcd\u0baf\u0bb4\u0b95\u0ba9\u0bcd",
+    "release_date": "2024-09-27",
+    "year": "2024",
+    "rating": 8.022,
+    "overview": "Twenty-two years after losing his home, Arulmozhi Varman returns to his native Thanjavur to attend his cousin's wedding. Amidst the celebrations, Arul is reintroduced to an upbeat man whom he cannot recall. With the help of the unknown man, Arul reconnects with his past.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ngDEH7YqVaMCAD4LpNxRl6ScJnw.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/9v5Q5OOR9e83KBlK6SPQEcbm6Iw.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001207",
+    "status": "U",
+    "etag": "vRumB6ej4XYmHckYupp/QA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001207",
+          "url": "/sapi/download/video?action=get&k=6TovtM8SRxz6S9zI4UmPdcB6ysB6I1vf3Z9qMF2UrZvjtEeE433bbn3syOXtoTZNLm6bcpmXS3Bh7uTy5W0vo7C0MPGTAO0mE_S6FnNmsJS_IjqVd5gN5Fjn1Vd05__L0wbhD4ST22uamlGsY6ojkzlXJ95fo0EZpbdviNQoS-zqhzX1WU4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=TkVZqKU6h6StWxmXuJGaeox24P8fk8XsgndLMmDnpDa3sT7hb2w5Yo06LsxbcFkDAreX9HLQ1a-s4eryp6ZLzgEyfIwdLjxMKOYzxpN_yLPUVl6YjTu5VCf9r2GphOHQ6fwPoDDCA7TyDGkVZcnStanKi_lsnLr0sY9NS_hm626tJPfQayL2YZdC7XuegmRttFI&node=1i220",
+          "date": 1777044874623,
+          "creationdate": 1777044496000,
+          "modificationdate": 1777044496000,
+          "uploaded": 1777044786824,
+          "size": 1598337964,
+          "name": "Meiyazhagan (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9494869,
+            "bitrate": 1346696,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=u7heSKYaQWA-EwzOhut6DCDp6Z1zHSyZ3XpHxv70sFipEbgarSx_mvy5LvCfjouqbwX_d9hxK42DUmbyJZtuqTjheKSgjmfvoWAXTfpc4WD7Ilk8wDbaTik2G2Qp5OGllMqRaUpxqkrNjcW5N1RBX9zJWxYvjaR8WmT7TJPRloYYXGmRDagV4uthDRGvY33Pvak&node=1i220",
+              "etag": "0vRumB6ej4XYmHckYupp/QA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=TkVZqKU6h6StWxmXuJGaeox24P8fk8XsgndLMmDnpDa3sT7hb2w5Yo06LsxbcFkDAreX9HLQ1a-s4eryp6ZLzgEyfIwdLjxMKOYzxpN_yLPUVl6YjTu5VCf9r2GphOHQ6fwPoDDCA7TyDGkVZcnStanKi_lsnLr0sY9NS_hm626tJPfQayL2YZdC7XuegmRttFI&node=1i220",
+              "etag": "0vRumB6ej4XYmHckYupp/QA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vRumB6ej4XYmHckYupp/QA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044874685,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/LxES6leQTv6NaEsdhvj4hDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Meiyazhagan (2024)",
+  "media_kind": "movie"
+}
