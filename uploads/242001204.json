@@ -1,0 +1,83 @@
+{
+  "name": "Matinee (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Matinee (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:32:41Z",
+  "remote_folder_id": 1752176,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001204",
+  "tmdb": {
+    "tmdb_id": 1270460,
+    "title": "Matinee",
+    "original_title": "\u0cae\u0ccd\u0caf\u0cbe\u0c9f\u0ccd\u0ca8\u0cbf",
+    "release_date": "2024-04-05",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Arun owns a property in Bangalore where he invites his friends for a reunion. However, Arun receives an offer for the place but along with his friends, he is trapped in the house.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gVAawllUwgLS00bdLjapoMIMreB.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/oiPp2IzUGRMpXbG7tYV83FCPaPC.jpg",
+    "genre_ids": [
+      27,
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001204",
+    "status": "U",
+    "etag": "fhnZ6TiNMPN0zPD4JMJgyg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001204",
+          "url": "/sapi/download/video?action=get&k=SJioSxUEwOAyqzqaxzccgacL8Ayklk6J4e9FQGCHibmmtKUZ6f_r1CUNixnChCq1zsH88yYa0_mBz3iUB3D2yxI2GSYumilxo4lGY3NbXO7nSeFzQZRxkhE5kOA_0alcRzssBU7eAxFu4tyUi4We0ZdEGkxhIlsokobgbtOPUKnOCF_Bm9U&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=oqJuPu75tNZlofLhgt-Iug0eEfsE7y5cym4fTVJ4sNyYULPCeM1UK-UQHhhcegO1LCtzjT5mkOyvsGN3zOef0tnzIAYeekArj3GVUeUMTobZ740spPxCg1SZjvKmW2M16YsB3UeQuHpySvszVlhW41O4ydZXMYCEIZFgPKS7WER7uJE2HnGGgnTeU04aJ4H0YJE&node=1i220",
+          "date": 1777044760972,
+          "creationdate": 1777044386000,
+          "modificationdate": 1777044386000,
+          "uploaded": 1777044701285,
+          "size": 1508408096,
+          "name": "Matinee (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7565280,
+            "bitrate": 1595085,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=eDhzpJn3NKmTtq1PIYzGruOqA_Z8Ek3EWp-a-brO0PrNqjMH8opgVQ6NSw91iwbk0gX_VRMfbkd_0a-XZwuXNIso4euQoGWjWkPlPtr7CIxA5zV3fWd-e_-d1Uhshb4Ek5uo-sLIgwHnrnQZ4b3AV27DsTyIPHe2xCcR5RBVXr1n1VQR75WW98nIP1PKi8g3hDc&node=1i220",
+              "etag": "0fhnZ6TiNMPN0zPD4JMJgyg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=oqJuPu75tNZlofLhgt-Iug0eEfsE7y5cym4fTVJ4sNyYULPCeM1UK-UQHhhcegO1LCtzjT5mkOyvsGN3zOef0tnzIAYeekArj3GVUeUMTobZ740spPxCg1SZjvKmW2M16YsB3UeQuHpySvszVlhW41O4ydZXMYCEIZFgPKS7WER7uJE2HnGGgnTeU04aJ4H0YJE&node=1i220",
+              "etag": "0fhnZ6TiNMPN0zPD4JMJgyg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "fhnZ6TiNMPN0zPD4JMJgyg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044761035,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/u4fEZTg9Q76t08H7bIHOBTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Matinee (2024)",
+  "media_kind": "movie"
+}
