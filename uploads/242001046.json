@@ -1,0 +1,83 @@
+{
+  "name": "Maaman (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Maaman (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:09:26Z",
+  "remote_folder_id": 1752154,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001046",
+  "tmdb": {
+    "tmdb_id": 1403039,
+    "title": "Maaman",
+    "original_title": "\u0bae\u0bbe\u0bae\u0ba9\u0bcd",
+    "release_date": "2025-05-16",
+    "year": "2025",
+    "rating": 6.4,
+    "overview": "An uncle's deep connection with his nephew is broken, when their family experiences personal differences.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/a0BsRj9qQu8L2arBAHcbbfrVrB7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/aSN6JVqci5QdzuUU5M8IJQ2RKG7.jpg",
+    "genre_ids": [
+      10751,
+      18,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001046",
+    "status": "U",
+    "etag": "GRgW7fe4Xl06aDm6RZGwcA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001046",
+          "url": "/sapi/download/video?action=get&k=etCebCLk6CLWCZb4uUhu0DfhdEzUIpYIVhXoy_C--0iPqBamYG4RkE37pAqPHH1CaAeY-uFUzFJqCu76ZTrpgkku--YQ4FwTDB9HvSBpkgDFkb0megFyysEEbu8OD_0VJqjTsuCGm266bLYi0h-lFyh9kcSWhhm7IlMSftFNhbtXru0Az2Y&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=5IshDFt0h4sQTIeoxE29WzyqYESONpUramka5Ijn6HIRsz-Gn9AQVh7jmuFq6r96YRl0Z_7DWBSFLkYm5O-c_AC8bT3jbu6XYJH9qluyeEUpKrsxHUW6Ean3FyGAR8of-vTxzUzdqOCsKFLaQY_hwQ4cymMk-kggHHa9F7MXdFZupy7Fsd1Cy6b5dbGyIxDJ9mg&node=1i220",
+          "date": 1777043365723,
+          "creationdate": 1777042978000,
+          "modificationdate": 1777042978000,
+          "uploaded": 1777043300730,
+          "size": 1398055413,
+          "name": "Maaman (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8470249,
+            "bitrate": 1320438,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=zE8Viw4wBm6peQYAPpPoPQrJtAAe5indU9WM9PbTl5bo9m-FaaJPXQyNGfnW4_laypempNYiOY96WwWwtEiL-PvSDZZHg_Gy8voriRCi3eC6LPpBqKnUUuXkkJ2PyQtj7DK9-sp2zBy_pjQuBfmOlKI6yKAWzYRsbleFM4xHTy77CgsCM15reRWbZFxF-dpQe3E&node=1i220",
+              "etag": "0GRgW7fe4Xl06aDm6RZGwcA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=5IshDFt0h4sQTIeoxE29WzyqYESONpUramka5Ijn6HIRsz-Gn9AQVh7jmuFq6r96YRl0Z_7DWBSFLkYm5O-c_AC8bT3jbu6XYJH9qluyeEUpKrsxHUW6Ean3FyGAR8of-vTxzUzdqOCsKFLaQY_hwQ4cymMk-kggHHa9F7MXdFZupy7Fsd1Cy6b5dbGyIxDJ9mg&node=1i220",
+              "etag": "0GRgW7fe4Xl06aDm6RZGwcA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "GRgW7fe4Xl06aDm6RZGwcA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777043365790,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HdZ5OSMtTxW3XgwclrJxNjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Maaman (2025)",
+  "media_kind": "movie"
+}
