@@ -1,0 +1,79 @@
+{
+  "name": "Rewind (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Rewind (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:56:53Z",
+  "remote_folder_id": 1752262,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002009",
+  "tmdb": {
+    "tmdb_id": 1374858,
+    "title": "Rewind",
+    "original_title": "Rewind",
+    "release_date": "2024-10-18",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Karthik falls for Shanthi at first sight in a lift. After impressing her, fate takes an unexpected turn. In a bid to win her back, Karthik travels through time to alter events. But does he succeed in his quest for love?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/g5GFIN5ytxkttKO5PIwbGLGzlWe.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/pQ3OytaEsViDr34JNhMXSwHaCht.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002009",
+    "status": "U",
+    "etag": "S14iGwdgPQU55eufX9P/DQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002009",
+          "url": "/sapi/download/video?action=get&k=Walate_XXKUbGy6-gfaR_MCB_nIdYB84z953q2bQllJM3TzbeLPmVWzVsq0t7ydIcV5KlHjZTxHzWuFKOjWQw4hvB7EnYhv-dzglEb4WyBuF0pDWwZK-I5K0R9hLKo9_CAVzVgS3D4qUyiRkbDlkO6u0JQ41mImTGdn_jHHs5AfeiY6YA8Y&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=r5nnoSVlEuO5sfgnGLU4T3lInTGZSGZe7jvuX-_Z7fCsKzgmfoMOJCaU8OWZXs93N01xZ12L5oOF9RY18VHTL7AIvHI8nH2TBwoeTK5AENGDolLgMlbe7pFs8nqXzkQSzOGYOS7qFtC1O_T0ejtzsd0JqFXgL1dp4_XfqTN1yvj8lGMKn7AoD535j2N5q_HQlU0&node=1i220",
+          "date": 1777049812328,
+          "creationdate": 1777049557000,
+          "modificationdate": 1777049557000,
+          "uploaded": 1777049726055,
+          "size": 1720891543,
+          "name": "Rewind (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8003872,
+            "bitrate": 1720059,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=bkeLAB1XKvHzd6VHRnnLP-Q4E0Mdtw0_K1FTcStDPT1TY8yaNjprKESbOCY8GVyKSgCYlqyuDtzJZLQvpQrKBO0w9VjtlrW71YUROFdysx7zWh_zsw9-gPzrL4gaZq0D8_DLcysq-xl5-FQjhAfM9UZYyYMHRI02IjwDsF-ATzT5z6ynsSeTclPkf7WxDOsizNc&node=1i220",
+              "etag": "0S14iGwdgPQU55eufX9P/DQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=r5nnoSVlEuO5sfgnGLU4T3lInTGZSGZe7jvuX-_Z7fCsKzgmfoMOJCaU8OWZXs93N01xZ12L5oOF9RY18VHTL7AIvHI8nH2TBwoeTK5AENGDolLgMlbe7pFs8nqXzkQSzOGYOS7qFtC1O_T0ejtzsd0JqFXgL1dp4_XfqTN1yvj8lGMKn7AoD535j2N5q_HQlU0&node=1i220",
+              "etag": "0S14iGwdgPQU55eufX9P/DQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "S14iGwdgPQU55eufX9P/DQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049812396,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HFSw0wBZSQWjSkRuV6s3ADMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Rewind (2024)",
+  "media_kind": "movie"
+}
