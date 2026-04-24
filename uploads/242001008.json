@@ -1,0 +1,83 @@
+{
+  "name": "Kudumbasthan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Kudumbasthan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:49:06Z",
+  "remote_folder_id": 1752137,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001008",
+  "tmdb": {
+    "tmdb_id": 1357713,
+    "title": "Kudumbasthan",
+    "original_title": "\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0ba9\u0bcd",
+    "release_date": "2025-01-24",
+    "year": "2025",
+    "rating": 7.2,
+    "overview": "Naveen's relationship with his parents becomes strained after he marries a oppressed-caste girl. Though they eventually reconcile, his sudden unemployment puts him in a difficult position. As financial pressures mount, Naveen must navigate societal challenges and personal struggles to regain stability and rebuild harmony within his middle-class family.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xSF6fDlSKI1qrftN9OKOnBLvGZH.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7AA2NJklRlxjixL4VngaQbMsTZ6.jpg",
+    "genre_ids": [
+      10751,
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001008",
+    "status": "U",
+    "etag": "zIN3oD9aL0eFMxAjhXNIYA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001008",
+          "url": "/sapi/download/video?action=get&k=otzHPEfLqm9agc1UuaRDX-BpGFk-gD63xIqCtawrnuxb8q8hZ37hni7Rvrsd2DWKpcN6SpL_hHNCO33nVw4wBvdKIO1x7eLjTNr2HHe0QLPQQCgQpb-10GXl9t-MhqMGYHVnZZn25fU9olyhqI0t20pKQO7ETUjp5nYFWbnucIB0ZYlYbKU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=MR8ndhSNq4lGBJ-k5QE3Zg200_8W6L8Nti22DCktrxsdXKzRZvdVRz72S64PBpsBZ8UJdWfETIH2Aho_XQhz7rh73xI-xVTeXn9VeBlxs3yHl_-DkLkGrk4uC8iBjEMLzX6bRCCjNJPPxDemZHYRv0Pc9IuilR0bfIHxQoVSlyFSYNkAlsoTU93t4b1p1JeUuf0&node=1i220",
+          "date": 1777042145884,
+          "creationdate": 1777041881000,
+          "modificationdate": 1777041881000,
+          "uploaded": 1777042041512,
+          "size": 1640390905,
+          "name": "Kudumbasthan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8834483,
+            "bitrate": 1485443,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VSUlMHldT9A0INiFMCAa4dGSdKk8tSsXU9_0ew3Wu4REui5Dzm4ywjfIynnoWkL7zCGjihHHgpltwwkUluABEAFoIvIfqhnNfTfI6nAsKnJ8pAptvmABozALTsXl3Nfc1s8vdZfWSgAYPSxCzXt6Q10GZUer4PkyJbYyVjmdWo4LC9j1mP4LuIyB_eBcUezypaY&node=1i220",
+              "etag": "0zIN3oD9aL0eFMxAjhXNIYA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=MR8ndhSNq4lGBJ-k5QE3Zg200_8W6L8Nti22DCktrxsdXKzRZvdVRz72S64PBpsBZ8UJdWfETIH2Aho_XQhz7rh73xI-xVTeXn9VeBlxs3yHl_-DkLkGrk4uC8iBjEMLzX6bRCCjNJPPxDemZHYRv0Pc9IuilR0bfIHxQoVSlyFSYNkAlsoTU93t4b1p1JeUuf0&node=1i220",
+              "etag": "0zIN3oD9aL0eFMxAjhXNIYA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "zIN3oD9aL0eFMxAjhXNIYA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777042145997,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Fb7_QjIQRyGWpFN5N2BQJTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kudumbasthan (2025)",
+  "media_kind": "movie"
+}
