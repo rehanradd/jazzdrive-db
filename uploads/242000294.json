@@ -1,0 +1,81 @@
+{
+  "name": "Katha Kamamishu (2024) Telugu\u00a0720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Katha Kamamishu (2024) Telugu\u00a0720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:21:49Z",
+  "remote_folder_id": 1752118,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000294",
+  "tmdb": {
+    "tmdb_id": 1411308,
+    "title": "Katha Kamamishu",
+    "original_title": "Katha Kamamishu",
+    "release_date": "2025-01-02",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "The movie is about a family in a small town and how a small issue changes their relationships...",
+    "poster_path": "https://image.tmdb.org/t/p/w500/foRB1VjqluPwsYA953YrePBq8ZY.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/pOVuvElkYhL521GYKdkF1pmrpcj.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000294",
+    "status": "U",
+    "etag": "N2ceG5qh004DwPERp9Sq4g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000294",
+          "url": "/sapi/download/video?action=get&k=UmX1ug0z0VVREq6rZMrakFjaKNY4BJR-WxsRah9ir3IHsCt_dsNydZC0UInArxqNqHo37iNJFYm9Ig3qibT3K996rZ1woyGnZ7e6aLQoXfl87i4gRpCqzsnFpXmWIljQxlmcI0I18bIkeJ83rNjwznriw_fI4t3vP7d8sIgIjObblKlANp4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=BZeUl8Wep6TjfGTCdUPzrSPZoFDsO_YFgPoaXaLa6YWdoM04m1lm7FY3p7MSGM1cyu2IsoC2Uaj2h6c9jaJi_GsUIULn0RmHIaebKTsUM2J0I897c-X_IeVTb1xNjrPw7UlDnum6xyDbZ8RTlPk6psd4Fg3j8LkBhB2sTmIMl4ai7la8_Kzf3-noQ0yayO90WRA&node=1i220",
+          "date": 1777040507787,
+          "creationdate": 1777040226000,
+          "modificationdate": 1777040226000,
+          "uploaded": 1777040460719,
+          "size": 1034451411,
+          "name": "Katha Kamamishu (2024) Telugu\u00a0720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6616128,
+            "bitrate": 1250823,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=KsNMY00I5PjMxMcRZ6NOViFikeqUtgWkVXogFSP7U7RlFwgikX0OXlS8M-gFUAlez8vfy7_sTd1XAjVZfx0rrb6LJ_eUD1trGLBlme-5fV4NSVWL5v-MoAUJ80Rb9d2tixwPJpRZ-X5W_nmFvDFb4Ctt7pfa0mWe9x-CaPewLZ51W5z_rR90VDU2UTR1M-JNcQg&node=1i220",
+              "etag": "0N2ceG5qh004DwPERp9Sq4g=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=BZeUl8Wep6TjfGTCdUPzrSPZoFDsO_YFgPoaXaLa6YWdoM04m1lm7FY3p7MSGM1cyu2IsoC2Uaj2h6c9jaJi_GsUIULn0RmHIaebKTsUM2J0I897c-X_IeVTb1xNjrPw7UlDnum6xyDbZ8RTlPk6psd4Fg3j8LkBhB2sTmIMl4ai7la8_Kzf3-noQ0yayO90WRA&node=1i220",
+              "etag": "0N2ceG5qh004DwPERp9Sq4g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "N2ceG5qh004DwPERp9Sq4g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777040507858,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/1s7Kp8AKTPexK3yK4ApuIjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Katha Kamamishu (2024)",
+  "media_kind": "movie"
+}
