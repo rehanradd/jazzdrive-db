@@ -1,0 +1,82 @@
+{
+  "name": "Su From So (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Su From So (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:39:47Z",
+  "remote_folder_id": 1752302,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002132",
+  "tmdb": {
+    "tmdb_id": 1513656,
+    "title": "Su from So",
+    "original_title": "\u0cb8\u0cc1 \u0cab\u0ccd\u0cb0\u0cae\u0ccd \u0cb8\u0cca",
+    "release_date": "2025-07-25",
+    "year": "2025",
+    "rating": 7.389,
+    "overview": "In a peaceful village full of joy, laughter, and vibrant life, everything seems perfect\u2014until one day, the devil arrives. What follows is a hilarious chain of events that flips the entire village upside down!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/a9v6QSFClDqGX2D0YCORp8T1Ji0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fBnwpACxGkChCTVvWSfwjeKbSPv.jpg",
+    "genre_ids": [
+      35,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002132",
+    "status": "U",
+    "etag": "DFq4t6EHS8YG6TVW/fI9ZQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002132",
+          "url": "/sapi/download/video?action=get&k=2tJYkwHXdNQ3nifQy0r2wLHQGe18hR7m4gszy4RFUtJ6O_CwJw3J3gChbfzgo4PxsDujkkqvPA0Zp8Lzsq8gxHCgBlzOP_ynoTlscPUPH3lskCzDF1_LqFwkzl69yNhJQX2V_AGboPACr2mp5PcvtBtcllQmEnL_OjpVYz2_yxtJrB6dZc4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=bTZwxOY2MvP1obZaOL0AfHEAMBs8Xm-9ixsOoo9xyBOLnB-c3klB1ulQY12p5B-amyQ0U2V1098-R7hIsw57qurk9KbzjJlv2lYtzxtY39CaLRD6NRKXms9DCaYqP9e-8MnK6ngSIIS0nTxHMQOkwDJOIsFXT80l_Wi2ysvsqaxvDerD1lO6romIofbVgKOZ_E4&node=1i220",
+          "date": 1777052386748,
+          "creationdate": 1777052047000,
+          "modificationdate": 1777052047000,
+          "uploaded": 1777052306003,
+          "size": 1165330307,
+          "name": "Su From So (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7706147,
+            "bitrate": 1209767,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=TOeH8MBpIGFxiMJWaTtUy9iJU06tNXta0DLWuMw1FYyFvXTPtsMLt8hovAwnDlYyZCpI0ghGcIpt3kj_JWsrPxTI2PW_heRCqYKhInSY-uIsS_aTQQ4RXVYELq5-1Almj3GEt_dzpTcX-YMgTjWRr22v3XIyRrnxcVYniXlXNujyaz9OfiAhbFI8a-9U5xhbppw&node=1i220",
+              "etag": "0DFq4t6EHS8YG6TVW/fI9ZQ=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=bTZwxOY2MvP1obZaOL0AfHEAMBs8Xm-9ixsOoo9xyBOLnB-c3klB1ulQY12p5B-amyQ0U2V1098-R7hIsw57qurk9KbzjJlv2lYtzxtY39CaLRD6NRKXms9DCaYqP9e-8MnK6ngSIIS0nTxHMQOkwDJOIsFXT80l_Wi2ysvsqaxvDerD1lO6romIofbVgKOZ_E4&node=1i220",
+              "etag": "0DFq4t6EHS8YG6TVW/fI9ZQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "DFq4t6EHS8YG6TVW/fI9ZQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052386819,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/0RHpBfkCTUyE-6sEwA-ZXTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Su From So (2025)",
+  "media_kind": "movie"
+}
