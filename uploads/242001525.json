@@ -1,0 +1,82 @@
+{
+  "name": "Palayam PC (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Palayam PC (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:17:17Z",
+  "remote_folder_id": 1752222,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001525",
+  "tmdb": {
+    "tmdb_id": 1225469,
+    "title": "Palayam PC",
+    "original_title": "\u0d2a\u0d3e\u0d33\u0d2f\u0d02 \u0d2a\u0d3f \u0d38\u0d3f",
+    "release_date": "2024-01-05",
+    "year": "2024",
+    "rating": 5.0,
+    "overview": "A middle-aged police constable, prefers to take night duty at an aid post in Palayam which is relatively risk-free and quite peaceful. Things changed when he was assigned protection duty for the female activist who was under public threat.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9rSHzEsklpdPFMpd1cUauHIkA9q.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iyZbLQtWAwcbW765Oslgc1gpVrY.jpg",
+    "genre_ids": [
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001525",
+    "status": "U",
+    "etag": "D2jF7ReJgEV204P8aW6HTg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001525",
+          "url": "/sapi/download/video?action=get&k=qM5qvenbKu9QRTDGgqMsFxNFbXmEAw-6JwAWJXcMgYbaDLaE04sIwsk2SPU99EMzrNDGWB1cyye16Y5mXE4kxIeqgsQCwvYsLCvUf9C7mT2r1_Hf-GO4MB-xS5rRnO970Pxx8nN1_iJNPqv6QtDY2LD_BHt4ncFdusQrVQljxgDo4MgdxHM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=_t47IskRe4oFTbRsvAMJwTdabQQ6rp8irN4sWM5GRUgYneSV80x2HTsSf4RsRR209Y6y3cPQJcYnXC5kk0aEiXS4mrGYXx_tSrJMByUD6UbleT3S-gB83bte3rX8Mj-d69DOD4CHKtcPbYypUqM3W3yQtB5Zt80Dgoj3OkCv2HhO2i8xW6PUNCdhHAS_34EB-ZA&node=1i220",
+          "date": 1777047436519,
+          "creationdate": 1777047136000,
+          "modificationdate": 1777047136000,
+          "uploaded": 1777047373665,
+          "size": 812346920,
+          "name": "Palayam PC (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7007765,
+            "bitrate": 927367,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=NON9CbyBIjUBGjGLurKu_Ybf68HZpVoHpEj7ctcKY6SaBd2QuPBVZGecpFh2fHdnWBC-keEQ1SqGKTdVxLbKTrUDr_7f7NVNMHm6Bf9T9Ea1Fezv4j-_sIARvznqxHwE3Y12XPPbO91vx2kSGSa9EIPrYcQjQfsjFOk3aTD1kr9NTvofSklOh0UbTqknp0uuVL0&node=1i220",
+              "etag": "0D2jF7ReJgEV204P8aW6HTg=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_t47IskRe4oFTbRsvAMJwTdabQQ6rp8irN4sWM5GRUgYneSV80x2HTsSf4RsRR209Y6y3cPQJcYnXC5kk0aEiXS4mrGYXx_tSrJMByUD6UbleT3S-gB83bte3rX8Mj-d69DOD4CHKtcPbYypUqM3W3yQtB5Zt80Dgoj3OkCv2HhO2i8xW6PUNCdhHAS_34EB-ZA&node=1i220",
+              "etag": "0D2jF7ReJgEV204P8aW6HTg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "D2jF7ReJgEV204P8aW6HTg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777047436595,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/EZRRiRGGT62c8JO9_FltZTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Palayam Pc (2024)",
+  "media_kind": "movie"
+}
