@@ -1,0 +1,70 @@
+{
+  "name": "Idiyan Chandhu (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Idiyan Chandhu (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:41:42Z",
+  "remote_folder_id": 1751985,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999883",
+  "tmdb": {
+    "tmdb_id": 1189663,
+    "title": "Idiyan Chandhu",
+    "original_title": "\u0d07\u0d1f\u0d3f\u0d2f\u0d7b \u0d1a\u0d28\u0d4d\u0d24\u0d41",
+    "release_date": "2024-07-19",
+    "year": "2024",
+    "rating": 3.3,
+    "overview": "After a toxic childhood under an abusive father. Chandhu became an extremely violent person. But after a point, his aggressive ways become a headache for his family, and he decides to stay away from any sort of violence to keep a promise to his mother. But will that promise hold?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/bVEZFNPZ3yeyu8xD2yryj7dePG1.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999883",
+    "status": "U",
+    "etag": "p3Amxed+KUEZzfrphPHD1g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999883",
+          "url": "/sapi/download/video?action=get&k=VklzYdSJgRRipcgDRqszrXA3Co1abw-32KoW8djK73He82bDINbGbpO3sVWvACwxjiI8I4NgUxR-dcQwAnSqhij0J2SN361V1ZA1o5ai_C2q5GZjQjdtkPFkor1pDZS4FKyVokz7oH0fHfrLRyzgcyRfJRnwKuZobRsClZTD-tlc2Fc_8U0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=cZdDIWD_R3BGYjFjq1RYoTRQmDNqVJE4FmHoiaw9S_xQC3I5N5PlFeTv3rou-byMZEdPVVKy0QJ95f5iBvRIzzHvBery6yg0_hEcbTmCkV-QP4vcmSWa5zutvmPDPxjssgIxyI2_IGj3Q03Kh4qj2jJPH7SNIrWshaYL8zysxO3eKIXxIPQcmma2zdxaTiQDZM4&node=1i220",
+          "date": 1777038101833,
+          "creationdate": 1777037705000,
+          "modificationdate": 1777037705000,
+          "uploaded": 1777038051530,
+          "size": 1486513515,
+          "name": "Idiyan Chandhu (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=vhTRris72oeQ0l36a75J7AyO6-nKNwqgYCsCS5Uke6l-KOoxRWrUHkFWoOWPr1Ax7KyJ6OECUkWRfaxaBQl9gRl0_3J-RNta-DlLc_3TqRwbR61Ii_7W_sSZt9g8Fc6ruVV-RFKL7R5NqhEP6GxU9dGlcnH4Y2u05OWba3M_i2bTKODOhm7iNUcbNJ__4Dz-1bA&node=1i220",
+              "etag": "0p3Amxed+KUEZzfrphPHD1g=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=cZdDIWD_R3BGYjFjq1RYoTRQmDNqVJE4FmHoiaw9S_xQC3I5N5PlFeTv3rou-byMZEdPVVKy0QJ95f5iBvRIzzHvBery6yg0_hEcbTmCkV-QP4vcmSWa5zutvmPDPxjssgIxyI2_IGj3Q03Kh4qj2jJPH7SNIrWshaYL8zysxO3eKIXxIPQcmma2zdxaTiQDZM4&node=1i220",
+              "etag": "0p3Amxed+KUEZzfrphPHD1g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "p3Amxed+KUEZzfrphPHD1g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777038101874,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/_zybC3vlRQa8JvsOTZnDVDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Idiyan Chandhu (2024)",
+  "media_kind": "movie"
+}
