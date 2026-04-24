@@ -1,0 +1,82 @@
+{
+  "name": "Madanolsavam (2023) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Madanolsavam (2023) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:14:23Z",
+  "remote_folder_id": 1752158,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001054",
+  "tmdb": {
+    "tmdb_id": 1019412,
+    "title": "Madanolsavam",
+    "original_title": "\u0d2e\u0d26\u0d28\u0d4b\u0d24\u0d4d\u0d38\u0d35\u0d02",
+    "release_date": "2023-04-14",
+    "year": "2023",
+    "rating": 6.2,
+    "overview": "Madanolsavam is a satirical tale about democracy and the struggle of Madhanan, a street hawker. After becoming the caretaker of his late friend Mohanan's family-his wife Alice and daughter Manju-he marries Alice. However, a politician with the same name drags him into a political contest, forcing him to navigate absurd politics to reclaim his identity.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9snOMWvoMeLsoW5xYUsB9hV9hed.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/aqrX7KpPypMo2mChBDCEBlIy8hP.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001054",
+    "status": "U",
+    "etag": "gwSOsEzOIW+dV4mOVGEpHA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001054",
+          "url": "/sapi/download/video?action=get&k=T3OeG7nleo0bn0whjM5TWXr2oQuwHwRUmcTv87Ll4IriJ3fSXt-od9jqzo8HuyJew3bvPMZ_FvOYW5_ia40Py1ydlhSrOfMlkd7x3WBebpPCNLaTQHQT59VdvZSmLbA49i3ZSCxJOatYQAa2YV9nwkAkxkkD_MmlVT9ef2w0YyBkfP-YlJg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=y5oZQEHta5ZrozyylLJiYljpl5jEFDgaStUzCXkwjv_4ZjfCny5d5nJp3SS8rJp8hicmhOF61FccGp_k6qWHQqHZWVriKXlxZVfQQMUn9f78nScswrFa1ItDIiL6BuRnGaVPbO195pyM5ut4kOJEKbGEMNmgsSgcyBF2JiM7yJHFMuenOgQ2zqmaBsuCC9239MM&node=1i220",
+          "date": 1777043662212,
+          "creationdate": 1777043375000,
+          "modificationdate": 1777043375000,
+          "uploaded": 1777043594190,
+          "size": 1122533637,
+          "name": "Madanolsavam (2023) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7676736,
+            "bitrate": 1169803,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=2BCuXKFJ5svw8eFSnI9e49JRfV90sTyzXhX3ymMuza4t1yFGfJS0y5yp2LK7lI-nGFj3rkXRMsmea-FxILh8u2kLGlEfDCNZRCFHSO_fPoOsZPu9HDJEsSo1Km-LrC46u44fl4QW0orivp3TaEaH0C4JOy311T2kYSggIue89eH_9Hh2O7uYqb2qLUqznxS8PmI&node=1i220",
+              "etag": "0gwSOsEzOIW+dV4mOVGEpHA=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=y5oZQEHta5ZrozyylLJiYljpl5jEFDgaStUzCXkwjv_4ZjfCny5d5nJp3SS8rJp8hicmhOF61FccGp_k6qWHQqHZWVriKXlxZVfQQMUn9f78nScswrFa1ItDIiL6BuRnGaVPbO195pyM5ut4kOJEKbGEMNmgsSgcyBF2JiM7yJHFMuenOgQ2zqmaBsuCC9239MM&node=1i220",
+              "etag": "0gwSOsEzOIW+dV4mOVGEpHA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "gwSOsEzOIW+dV4mOVGEpHA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777043662267,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xpbmTU9LQKuni-dFt6t67DMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Madanolsavam (2023)",
+  "media_kind": "movie"
+}
