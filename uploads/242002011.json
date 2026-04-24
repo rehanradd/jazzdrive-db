@@ -1,0 +1,82 @@
+{
+  "name": "Rudra Garuda Purana (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Rudra Garuda Purana (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:57:35Z",
+  "remote_folder_id": 1752264,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002011",
+  "tmdb": {
+    "tmdb_id": 1424138,
+    "title": "Rudra Garuda Purana",
+    "original_title": "Rudra Garuda Purana",
+    "release_date": "2025-01-24",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "The story delves into the mystery of a bus accident that occurred 25 years ago, claiming the lives of all its passengers. In a shocking twist, the same bus and its passengers reappear years later, sparking an intense investigation. The bus named \"17A Kaveri Express\" forms the center character in the plot.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9oXOYtTp98AroU8BuirKju2wOcZ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jyC0CMGzVUU6Kb3b4FL6Qkzx4ct.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002011",
+    "status": "U",
+    "etag": "U52La+WMW5G1yXWm+wo1NA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002011",
+          "url": "/sapi/download/video?action=get&k=IyYR_NrgTh3mqeWnjytbaIhhgfeYtFHM8SIwJsUjAyBETi-R3I4JSqiMfdxKtvuLfVIP9oxQnMbbxVb_i-oeQf5CeDgijHpnrQrlUrjrzjPi9eYaiE56UlSCAQsVhd8dLYK9X0C1VbrAdhfubVFSgH88s4N6qEHe-8WqsyfKAqdH3GtbGNM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=OV07lzvNVeP3woMvlPHZPOrSzIPBLJI0pforsIbz0obj1eb_7vV_1KarBc-MIC4x0vvBlyba6STpWCb7gILDwwHV2mBy_wsK_qBTGHQp4tuUjMYP5PpHhnbPbODmuzebJNs5dj93V8tJriYXnvqDmjib5HfA3QjH0HIQL_dbDi5y927TfXiczYl-cJjrOWpvPLk&node=1i220",
+          "date": 1777049854317,
+          "creationdate": 1777049667000,
+          "modificationdate": 1777049667000,
+          "uploaded": 1777049794263,
+          "size": 1214559554,
+          "name": "Rudra Garuda Purana (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8028600,
+            "bitrate": 1210232,
+            "codec": "h264",
+            "height": 512,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 102,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=7yaWcc7J0YpQTbhAqHRc_psdP3HKCxAPtysGuFX8cbViHRRaIfksE5YSCGKg6sWgAaW1sC2fQxtnkK6TLIrLNVlFjRrLuhrQxyz9mOqAhZR0zXx2T7M9X3Asd4RAQLm4Blu1DEMTBGOP1dXELXkJlLBUGJYWlUxd4X3yniw4WIW6MUQeR25tQo3WMq-SpCFQfCQ&node=1i220",
+              "etag": "0U52La+WMW5G1yXWm+wo1NA=="
+            },
+            {
+              "w": 1024,
+              "h": 409,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=OV07lzvNVeP3woMvlPHZPOrSzIPBLJI0pforsIbz0obj1eb_7vV_1KarBc-MIC4x0vvBlyba6STpWCb7gILDwwHV2mBy_wsK_qBTGHQp4tuUjMYP5PpHhnbPbODmuzebJNs5dj93V8tJriYXnvqDmjib5HfA3QjH0HIQL_dbDi5y927TfXiczYl-cJjrOWpvPLk&node=1i220",
+              "etag": "0U52La+WMW5G1yXWm+wo1NA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "U52La+WMW5G1yXWm+wo1NA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049854372,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Ge4GbM-0Rk6lGIS0eSQwUzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Rudra Garuda Purana (2025)",
+  "media_kind": "movie"
+}
