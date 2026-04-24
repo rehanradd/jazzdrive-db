@@ -1,0 +1,82 @@
+{
+  "name": "Mechanic Rocky (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mechanic Rocky (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:31:05Z",
+  "remote_folder_id": 1752177,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001205",
+  "tmdb": {
+    "tmdb_id": 1102353,
+    "title": "Mechanic Rocky",
+    "original_title": "\u0c2e\u0c46\u0c15\u0c3e\u0c28\u0c3f\u0c15\u0c4d \u0c30\u0c3e\u0c15\u0c40",
+    "release_date": "2024-11-22",
+    "year": "2024",
+    "rating": 5.2,
+    "overview": "Rakesh, a happy-go-lucky young mechanic, must take on the ruthless land grabber Rankireddy to save his beloved ancestral car garage, uncovering unexpected truths.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/To7wOId0iiPveLn2nyuVIirufP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/y9X4Sqc265J2P5dNspnCfMvWbWG.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001205",
+    "status": "U",
+    "etag": "p+txCIR6vMWRrLg0GCFRSg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001205",
+          "url": "/sapi/download/video?action=get&k=ofKgV5TxiVFppK-u7klqj3qIFsre-aMt1gOyNJA2kDrPiXbIT6G82-Gm96Qdww1ZPaVInOcKH6zYgYoQFPMXors0zDBgi_cKK_ZzMD_VkP-xp0dAPNE-X-ENUVzDJJWlCCOKTG2sEBWKmXCZ2entbxwIq0e9thaCwJ0Y0FoTUTMpqjYUOpY&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=GRbpN4SO0jIe5rqs6WO2or69hOoYD1GXrbAd_fCkQxHxwmSEoVdfPgkDxleOnxOQhbvX8aSXBx11c-z10Ox4knhcEOFjejxAqjKJlKylV1vHFcp_ZsSs8GFaq2FC6j9T4D4gMH2Sb3Y3NIlaSG2t1bOvdfK51ycT_JiRVy8AKjomzAsfT7lR_WXPilSdjWVYV60&node=1i220",
+          "date": 1777044664534,
+          "creationdate": 1777044396000,
+          "modificationdate": 1777044396000,
+          "uploaded": 1777044559348,
+          "size": 1521845244,
+          "name": "Mechanic Rocky (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9203716,
+            "bitrate": 1322809,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=HsGs_UuAM8ucgSllZSJxS9v0fdGT2BP9BlmXPIN6tf1vDJc3tC7R4B5Ov5nQ89tKLh3pAifULKcuFY85fRGQ439UbLayKc2X6gLr_mO1XAtM8GGROHxk_CD1oiIuYWNOGr_pbYNw5reFukpBs6myVJB80fO5vjlpQ2WhKhDR5Pi1v_dejSTDTLmrSPmqGAKvgDU&node=1i220",
+              "etag": "0p+txCIR6vMWRrLg0GCFRSg=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GRbpN4SO0jIe5rqs6WO2or69hOoYD1GXrbAd_fCkQxHxwmSEoVdfPgkDxleOnxOQhbvX8aSXBx11c-z10Ox4knhcEOFjejxAqjKJlKylV1vHFcp_ZsSs8GFaq2FC6j9T4D4gMH2Sb3Y3NIlaSG2t1bOvdfK51ycT_JiRVy8AKjomzAsfT7lR_WXPilSdjWVYV60&node=1i220",
+              "etag": "0p+txCIR6vMWRrLg0GCFRSg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "p+txCIR6vMWRrLg0GCFRSg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044664605,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Nh86K4-kQ3qnE9_poxAz2DMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mechanic Rocky (2024)",
+  "media_kind": "movie"
+}
