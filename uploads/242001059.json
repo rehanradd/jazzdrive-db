@@ -1,0 +1,71 @@
+{
+  "name": "Mad (2023) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mad (2023) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:14:02Z",
+  "remote_folder_id": 1752160,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001059",
+  "tmdb": {
+    "tmdb_id": 1187075,
+    "title": "MAD",
+    "original_title": "MAD",
+    "release_date": "2023-10-06",
+    "year": "2023",
+    "rating": 6.462,
+    "overview": "Set in an engineering college and revolves around the antics of the students there, primarily the boys, who get a kick out of torturing the hostel warden.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nDpOmgBfQZwOpFBcgokQGqd74r1.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jBnnkkXRZ0pV3Tw31Z2ALO638wA.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001059",
+    "status": "U",
+    "etag": "u0ic0et6S43RUGf4ByrQLw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001059",
+          "url": "/sapi/download/video?action=get&k=_7kNpcBVb07eo3TNUy2tgXidkFlHxC4N68HUaKHofJ482spf4YU4t4TxiS5iRSyC6HJZfH7K-fN42Lbap1_QDy_KQl70RQuWLMlQdgzvnh8O2K6zEJ6PIzkOlnJuSoQzQQ4PoUZS6jDzDS0atOmuzrWHVoCDLk3Z6Nyfbt_aaqDb1DMok2A&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=hq6XU1_yWHvhSxWNaWrTiIgjmvHHrsawmwD-iSg6_Lh9gYNZBVHEqAUDiB5RwTjy7JtXB5p_CKDUJEuplOAqDPdet3VUHhgYcr0pGV2xvXLIQ7DY1mFTRzntX92WmRJYKE6c5BNIXuJNs7rYFjIoA5T1_qaAMRkZFmKwa_kiBvM28NCj7ISDfwDIu7tqvogTv5U&node=1i220",
+          "date": 1777043641565,
+          "creationdate": 1777043465000,
+          "modificationdate": 1777043465000,
+          "uploaded": 1777043555268,
+          "size": 1384694261,
+          "name": "Mad (2023) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=SIVt48it3ctLI2cszabAE0Agaqju5MvPZ4gbWnnSAsq6MQt3RF-CA9pcl9zs2GFyMO2qBySZ9NXacCc1oql3Mdm0wTMqFxZzY8r0-mynU7jITgVFf1uor0S-h2I9cQs352iXyqbSiui-kLi4HfBJdQQrc0wt2I31qGRRvVtt8xpsp_fnPvgoAFDvvOCbVA-IWFs&node=1i220",
+              "etag": "0u0ic0et6S43RUGf4ByrQLw=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=hq6XU1_yWHvhSxWNaWrTiIgjmvHHrsawmwD-iSg6_Lh9gYNZBVHEqAUDiB5RwTjy7JtXB5p_CKDUJEuplOAqDPdet3VUHhgYcr0pGV2xvXLIQ7DY1mFTRzntX92WmRJYKE6c5BNIXuJNs7rYFjIoA5T1_qaAMRkZFmKwa_kiBvM28NCj7ISDfwDIu7tqvogTv5U&node=1i220",
+              "etag": "0u0ic0et6S43RUGf4ByrQLw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "u0ic0et6S43RUGf4ByrQLw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777043641609,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/WvlostYTRCimc6n3-NW3HDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mad (2023)",
+  "media_kind": "movie"
+}
