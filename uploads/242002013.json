@@ -1,0 +1,83 @@
+{
+  "name": "Saaree (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Saaree (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:59:57Z",
+  "remote_folder_id": 1752266,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002013",
+  "tmdb": {
+    "tmdb_id": 1462245,
+    "title": "Saaree",
+    "original_title": "\u0c38\u0c3e\u0c30\u0c40",
+    "release_date": "2025-04-04",
+    "year": "2025",
+    "rating": 6.0,
+    "overview": "A photographer's obsession with a young woman escalates to dangerous heights.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5Q94u10VJF75uyctLmqw5CL2S1d.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zsFxeKaAcnGbRumUoMKqYlnUrU4.jpg",
+    "genre_ids": [
+      80,
+      53,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002013",
+    "status": "U",
+    "etag": "wFURi1zh95alHa7gjCHh2A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002013",
+          "url": "/sapi/download/video?action=get&k=hRdXujpT5N14PXUKEOOMt8tPm35ZT-3TFVRUo8tehWp5ZAY3_m3i7HhLf8Gvwjj6qftSP9yZmFDp0IwXMU5-lbvog8JTxFHjAbocPrOEbTYW4Hqxuu-u0DgWcf8rtr_rvq7nhQw3TwMNV6SevJ5Xv--XHWz2J8w00rRTxAq7uG7U5XAK0-o&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=J_g4oOlErVveC4SmcW1kqpZFrCwon94TUMz7Cy6JJTpTehYmb59q4WE5UO_F_592fknZxUG54JJ2Yva5iRYu3rvxtZq7bF3hzW2eDRq39OtPpOxDQDuIg7O3N5ICHahq7LpVewHb4xnGKpyTp9p99rGdU_B-3ufQ7qKiIkXqYDdq9wFc6yn_WVaUObGAawUIdTM&node=1i220",
+          "date": 1777049997160,
+          "creationdate": 1777049822000,
+          "modificationdate": 1777049822000,
+          "uploaded": 1777049908788,
+          "size": 1253536749,
+          "name": "Saaree (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7584945,
+            "bitrate": 1322131,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=dgyzlO-wUTTbzPaNxKlrpvkWKNUsny-yyK2RckgLEqaGLfw-6rcE16EMjYic_ozh2oQGh0wyN8gjHBoFOCnQnD0Axah0no2C-wH17zXk6MpVPAscOR7nv-PqNiAqWTFy_-zxJLRGUtDh8QaT96gqroHArxOH-UTL6uU-PZD5INqTPdAa4wC-Yfa4igwU0Kada9A&node=1i220",
+              "etag": "0wFURi1zh95alHa7gjCHh2A=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=J_g4oOlErVveC4SmcW1kqpZFrCwon94TUMz7Cy6JJTpTehYmb59q4WE5UO_F_592fknZxUG54JJ2Yva5iRYu3rvxtZq7bF3hzW2eDRq39OtPpOxDQDuIg7O3N5ICHahq7LpVewHb4xnGKpyTp9p99rGdU_B-3ufQ7qKiIkXqYDdq9wFc6yn_WVaUObGAawUIdTM&node=1i220",
+              "etag": "0wFURi1zh95alHa7gjCHh2A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "wFURi1zh95alHa7gjCHh2A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049997226,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Y482VzvnQWyoNLIwFSMlsjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Saaree (2025)",
+  "media_kind": "movie"
+}
