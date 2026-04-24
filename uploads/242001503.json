@@ -1,0 +1,81 @@
+{
+  "name": "Oho Enthan Baby (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Oho Enthan Baby (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:05:01Z",
+  "remote_folder_id": 1752209,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001503",
+  "tmdb": {
+    "tmdb_id": 1329271,
+    "title": "Oho Enthan Baby",
+    "original_title": "\u0b93\u0bb9\u0bcb \u0b8e\u0ba8\u0bcd\u0ba4\u0ba9\u0bcd \u0baa\u0bc7\u0baa\u0bbf",
+    "release_date": "2025-07-11",
+    "year": "2025",
+    "rating": 5.0,
+    "overview": "Ashwin goes to actor Vishnu Vishal\u2019s office to pitch a script and ends up narrating his love story. What the actor thinks to be an interval is Ashwin\u2019s climax, it actually is a stoic end to his romantic relationship with Meera. With Vishnu Vishal\u2019s pursual, Ashwin must confront his former lover again, to complete his story and begin his debut directorial.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ffnBY54B4Etmu0UCpMXiJNNTlRV.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/avf83LbIvRCVxTJjjpdyDwBZxB9.jpg",
+    "genre_ids": [
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001503",
+    "status": "U",
+    "etag": "czkQjipiMoTWoi4nN2JFLw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001503",
+          "url": "/sapi/download/video?action=get&k=FDfrVuzXjYxzdW5uLLodtdAMUQk63qNaDiaGevzgOSHkaBgU4hSS-xi-uzy4VbhG0jNPfHqMdYmDvQccvdVRgFZ6g96VmQKGlwnVBXwAyQ58GoMbmlnZX5jr6Tz3RWvQIduQLNVLdmLJIunsD8SsGcz5bFcJz1_49gVS-rN_Ch-3T2Bk_-0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=pvAq5OhmFwzhJ1OqEcC9V9XIwQz4S0ia0Xb_TSKomNkCIS8FBe_pCjsIq_laAIt6xD9oYObe6MkK_quRbyL88TS1qcVAX10CdUn_2iw0h7ccovWcRlS6Fr8Q5DIETjf_wDIsJmgtHlAJwMPlECK1NFVlPVSmLKBbSCqazIPIABSH0oYAkMziWePCA9VwHDdSCbA&node=1i220",
+          "date": 1777046700442,
+          "creationdate": 1777046400000,
+          "modificationdate": 1777046400000,
+          "uploaded": 1777046655041,
+          "size": 1295303777,
+          "name": "Oho Enthan Baby (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7777835,
+            "bitrate": 1332302,
+            "codec": "h264",
+            "height": 676,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 135,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Zjy0FjZX3eWiGsbJIYEXkUxb4gSX4ZTNUcYtZAWj7lQWt0aNH1ysS4_qkD652mKBTgZX9gG7lYiT20iCO1mrnD2Y8dJxuK90Sy7S6QKE0LSisSXOwZGs33eFiZl4sW22OuOmdgodqivaRshbFAd7pmiuEFFXXUxPj7Uv6jzRP92IphKk_h_EvRrOsSdnbbezOJI&node=1i220",
+              "etag": "0czkQjipiMoTWoi4nN2JFLw=="
+            },
+            {
+              "w": 1024,
+              "h": 540,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=pvAq5OhmFwzhJ1OqEcC9V9XIwQz4S0ia0Xb_TSKomNkCIS8FBe_pCjsIq_laAIt6xD9oYObe6MkK_quRbyL88TS1qcVAX10CdUn_2iw0h7ccovWcRlS6Fr8Q5DIETjf_wDIsJmgtHlAJwMPlECK1NFVlPVSmLKBbSCqazIPIABSH0oYAkMziWePCA9VwHDdSCbA&node=1i220",
+              "etag": "0czkQjipiMoTWoi4nN2JFLw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "czkQjipiMoTWoi4nN2JFLw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777046700500,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/W38lP6FgRlGMDKoj4SPjUDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Oho Enthan Baby (2025)",
+  "media_kind": "movie"
+}
