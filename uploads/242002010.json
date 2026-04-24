@@ -1,0 +1,83 @@
+{
+  "name": "Roti Kapda Romance (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Roti Kapda Romance (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:00:19Z",
+  "remote_folder_id": 1752263,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002010",
+  "tmdb": {
+    "tmdb_id": 1391033,
+    "title": "Roti Kapda Romance",
+    "original_title": "\u0c30\u0c4b\u0c1f\u0c3f \u0c15\u0c2a\u0c21\u0c3e \u0c30\u0c4a\u0c2e\u0c3e\u0c28\u0c4d\u0c38\u0c4d",
+    "release_date": "2024-11-28",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Childhood pals scattered worldwide reconnect after years apart. Together, they road trip across India to Goa, one friend determined to confront his ex who broke his heart and show her the mistake she made.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vRS5DCSiqLcyIQCtrCHtxTThw9z.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zjcYDdA2pGeOzAYAZeZQhwM6Die.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002010",
+    "status": "U",
+    "etag": "7EhkFD7RdiI9QZmNXha6kw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002010",
+          "url": "/sapi/download/video?action=get&k=OqinqICvVTqmOImMfJ20-h1dC3YjquQwuy1Zx5e60Z99LPmN989dmDG9YOxeVHSXRBQzy6Q0RxvIQGOcWkssB9EIlD3Teu6a_BZJL2GgWP0gQOR1sv40Ncg2llV-C-oz65faORA1En96-fd0v_lKxsCmQVBvnzj87P6NF888a5dVT6vOUJA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=x83_JorXfbsXCDNanpUHI1yd1OcdP4O7pnV5_oJaC9R859Ar1XISXLSKIuXPWJa_6IAEdrsY9YtUSHic9ai1O86sOiWXmvMM8LiOqz_2mhPRNmuDO3QXkCxeWyYrvz_OU3aokz3NymumF19cmERJaTNwN6qzZwMEDh30rUA0zaMK5GWYC-WZnoGUPI46zY83ZD4&node=1i220",
+          "date": 1777050018970,
+          "creationdate": 1777049567000,
+          "modificationdate": 1777049567000,
+          "uploaded": 1777049901092,
+          "size": 1667944156,
+          "name": "Roti Kapda Romance (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9171709,
+            "bitrate": 1454860,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "ac3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=oVsvbzqIa6xO_hT4ZmAa5F9m35ciUubXPnsiVXeoPxsBoKeVA7_VuNkjn9KE9Ed5mehQ5jQDJYfuT3L_TSsTwpFaUel7YoUgUPRW_Az254QXLNDcq20ucuydcD_OUU5mX0fsJi8Rd2_wx3ltei9ACiHI90OUM23PJkaZ6Skre6hMSIdJ0lJLHZtgwr03fw75XzA&node=1i220",
+              "etag": "07EhkFD7RdiI9QZmNXha6kw=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=x83_JorXfbsXCDNanpUHI1yd1OcdP4O7pnV5_oJaC9R859Ar1XISXLSKIuXPWJa_6IAEdrsY9YtUSHic9ai1O86sOiWXmvMM8LiOqz_2mhPRNmuDO3QXkCxeWyYrvz_OU3aokz3NymumF19cmERJaTNwN6qzZwMEDh30rUA0zaMK5GWYC-WZnoGUPI46zY83ZD4&node=1i220",
+              "etag": "07EhkFD7RdiI9QZmNXha6kw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "7EhkFD7RdiI9QZmNXha6kw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777050019030,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/DWhUk7l-QVCxQQMGatrMUzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Roti Kapda Romance (2024)",
+  "media_kind": "movie"
+}
