@@ -1,0 +1,83 @@
+{
+  "name": "Martin (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Martin (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:31:37Z",
+  "remote_folder_id": 1752175,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001203",
+  "tmdb": {
+    "tmdb_id": 861451,
+    "title": "Martin",
+    "original_title": "Martin",
+    "release_date": "2024-10-11",
+    "year": "2024",
+    "rating": 4.7,
+    "overview": "Martin revolves around Lt. Brigadier Arjun Saxena, whose journey takes him from Pakistan to India to discover his real identity and fight against black market dealers, who are involved with terrorists to orchestrate massive attacks in the country.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rmCJCFrEwPC0u0Y1smihwDo4Cf1.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/42xAe6kVeTjml9Tww6vRoWa5tay.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001203",
+    "status": "U",
+    "etag": "hdP5uvyKqXDs5pX/gfvsKg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001203",
+          "url": "/sapi/download/video?action=get&k=dnRdJdJPjt1K2GTBUEDtfK_0v0cuaDhmAkFwE2ep0Mb4sIRyyR2Z77kzgvEpv5M8yp3OqAkKxw6t8Lo2g-2QvizhKv5nCuTiXEcF6HPXozyEcq1rI8PoZyi_MjjEqBqmEyZU5qfk3cguh1-L72wPUHhRjYVFYOX53pfvIFqWyTMxbSwsd3Q&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=dyJplARH-HHmm6phAyb52pLGuFZ39K1V4UydOQuViajKO1ev9yi_U8b8Ccz2CWOxXwTchLESoFkz695J9P9nPokXMkEgFTEzz8Ajbx-6CSwWZmJYlW7r2RtEwYeOUmO5ITyxXErroj7fs6eeohuksCuLUqC90aaqBBcCINf9uaJQVLUdYfRiItWB9RO54tn7l1I&node=1i220",
+          "date": 1777044696879,
+          "creationdate": 1777044372000,
+          "modificationdate": 1777044372000,
+          "uploaded": 1777044584680,
+          "size": 2145580936,
+          "name": "Martin (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8672640,
+            "bitrate": 1979172,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=hx-ufSzitsfCmLZkG3tH81M4YQb9fhY3sbaWYQ7rY2O_qbFS4mzldr8LIgukOh3WIV9NQwqZS-oJH_S0f9XDj5Mqgf8dsptyn7bi7XmiCoOGEPpk1jtU256Gm3wHeWaVlIsp2UMvsXYZESjpmdlclTfLHWezOwnQX8Yty9FGcbaOUPfcauxeKL9eUA69U8sD92M&node=1i220",
+              "etag": "0hdP5uvyKqXDs5pX/gfvsKg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dyJplARH-HHmm6phAyb52pLGuFZ39K1V4UydOQuViajKO1ev9yi_U8b8Ccz2CWOxXwTchLESoFkz695J9P9nPokXMkEgFTEzz8Ajbx-6CSwWZmJYlW7r2RtEwYeOUmO5ITyxXErroj7fs6eeohuksCuLUqC90aaqBBcCINf9uaJQVLUdYfRiItWB9RO54tn7l1I&node=1i220",
+              "etag": "0hdP5uvyKqXDs5pX/gfvsKg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "hdP5uvyKqXDs5pX/gfvsKg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044696936,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fl47YsmnSUW43wa2s-EP_jMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Martin (2024)",
+  "media_kind": "movie"
+}
