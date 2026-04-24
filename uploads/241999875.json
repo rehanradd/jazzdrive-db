@@ -1,0 +1,82 @@
+{
+  "name": "I Am God (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\I Am God (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:32:50Z",
+  "remote_folder_id": 1751979,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999875",
+  "tmdb": {
+    "tmdb_id": 1575782,
+    "title": "I Am God",
+    "original_title": "I Am God",
+    "release_date": "2025-11-07",
+    "year": "2025",
+    "rating": 2.0,
+    "overview": "An intense love story brews between Deva and Bindhu. On the other side, a masked man who calls himself GOD shakes the city with his brutal serial killings.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2fOSXmOiA9Fqt06ESJbFXsUGX3.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/igkhKVfCPFvI3mmm3mF9Y5rf14a.jpg",
+    "genre_ids": [
+      10749,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999875",
+    "status": "U",
+    "etag": "V4vpKM5BGYsJA9qx86q7PA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999875",
+          "url": "/sapi/download/video?action=get&k=upD5kJaUvrwR1hWITsrAG4s7BbWA8ZkkqNGRRxYHvIX97KUw3Xl9_YVqkZJlg63IbR8dw0KHUSwWtx5jXuCaa01dU0iIowFei9Lh3GyabEuhaSvDjq4SXrcbqjWLOZJxSR60yniW2i6ZtpM3p_AANYqiRPD5szGVJ-KEInnaJmpMrifv2vI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=jkCcB7yeOCETGhV9GhLT-5-u_YIp308NKW9qrRIr63LKGYHkYMAKfvUIOnHewrcocn16OoKCEw-Tkoukg7fT87DL-Zb-r8Y4CTKfwG1fTGhkS4bwDbeGp-asRIbKbPkSJ0FS0UCrniE5z3d1X7yjJmN7Un8apKmLPSMNrSDdgjxB89U1p5eNooGdVg-wVewFyAY&node=1i220",
+          "date": 1777037569450,
+          "creationdate": 1777037198000,
+          "modificationdate": 1777037198000,
+          "uploaded": 1777037515427,
+          "size": 1548067850,
+          "name": "I Am God (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9327090,
+            "bitrate": 1327803,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=KQYfVcFTlIQvCXnu-u3edVyYuaftOR8A5yMV43EupKBBoFw9bLu20jTcXQAHngD48_Ftmmq9bnhf0cZ64yX8tF8U4d5Ssw4Ef2aMh5_Kf4KwCkqbAwr5zCxhdZPz3u8IPeptnNrlG4w_soavaSzTTqalfR3uVrlvP6ZRhpvOg4C919ybHju7arzl9_K-DorLToQ&node=1i220",
+              "etag": "0V4vpKM5BGYsJA9qx86q7PA=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=jkCcB7yeOCETGhV9GhLT-5-u_YIp308NKW9qrRIr63LKGYHkYMAKfvUIOnHewrcocn16OoKCEw-Tkoukg7fT87DL-Zb-r8Y4CTKfwG1fTGhkS4bwDbeGp-asRIbKbPkSJ0FS0UCrniE5z3d1X7yjJmN7Un8apKmLPSMNrSDdgjxB89U1p5eNooGdVg-wVewFyAY&node=1i220",
+              "etag": "0V4vpKM5BGYsJA9qx86q7PA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "V4vpKM5BGYsJA9qx86q7PA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777037569605,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Fej5DaarQwyBoFDB8CGNnzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "I Am God (2025)",
+  "media_kind": "movie"
+}
