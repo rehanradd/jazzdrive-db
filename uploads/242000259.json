@@ -1,0 +1,82 @@
+{
+  "name": "KA (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\KA (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:06:21Z",
+  "remote_folder_id": 1752104,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000259",
+  "tmdb": {
+    "tmdb_id": 1353436,
+    "title": "KA",
+    "original_title": "\u0c15",
+    "release_date": "2024-10-31",
+    "year": "2024",
+    "rating": 6.5,
+    "overview": "Set in 1970s Abhinaya Vasudev, an orphaned and happy-go-lucky postman, treats the Krishnagiri village populace as his extended family. When several women missing and Vasudev\u2019s loved one is nearly abducted, he is determined to find answers.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4Gj7cWuKmWXu1CxwtrzclBlnlm8.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ecz0o5V0GhmbjVSWzTJ1neEigQO.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000259",
+    "status": "U",
+    "etag": "5LtKZ7K001M8zoOo8xpm+g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000259",
+          "url": "/sapi/download/video?action=get&k=HuEZWeH8FYBPZLg8dXtnFWJtWxQP1L4NHYf5ly7lNQ2PudiWXPOG7Fgi5ZA9nZ0DjGiXTDix6F-CaVNf1RIbWt5A7AEgUILkK-85NPnAt2uFrzN_5BAwYlS7na06sK0rBP8xCxHUY0oYfXaAs8YFF3nSCEIiTbidJQ_dmSLcyYwqJ9JyyhM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=fhSfz8mHFfPwSAKwVyc5HA8YGBty_oVHZgNssurDUiv4k5aZsRriuGAS_4ve5klxzGF29822H6yF7eVK3bt-riEVGCet8NgohhPcLdRUpMWFCNG0rca9WkXeTe-5BbSty9yqO-_WW97kEf4MVnvMpNKN_HHJtSrRQUFkkeOxq1uUZwqzbJqPMFxrFthmUp1otoU&node=1i220",
+          "date": 1777039580859,
+          "creationdate": 1777039135000,
+          "modificationdate": 1777039135000,
+          "uploaded": 1777039490772,
+          "size": 1684478367,
+          "name": "KA (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8955959,
+            "bitrate": 1504677,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "ac3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ZgcRJrzoCsUpvDKp27Qcrp2KHP-PpkXCmBzRWeds0n3Dne3op5HJQIYO2cn_qE6H0X5Nr3JNx9aWLtRVgrvLr34ZtB9w93sbxk6aYDazRsPuXFiQpxUWteEDLnAyE3ohE8wnGa9ZDFCa1q56t0c57BruyytM1h6B8mpLrYGR4_EL-flHnKS_rk55bV7ReW7tt9U&node=1i220",
+              "etag": "05LtKZ7K001M8zoOo8xpm+g=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=fhSfz8mHFfPwSAKwVyc5HA8YGBty_oVHZgNssurDUiv4k5aZsRriuGAS_4ve5klxzGF29822H6yF7eVK3bt-riEVGCet8NgohhPcLdRUpMWFCNG0rca9WkXeTe-5BbSty9yqO-_WW97kEf4MVnvMpNKN_HHJtSrRQUFkkeOxq1uUZwqzbJqPMFxrFthmUp1otoU&node=1i220",
+              "etag": "05LtKZ7K001M8zoOo8xpm+g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "5LtKZ7K001M8zoOo8xpm+g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777039580928,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/w3lFmg31T_SipXku4vPfYjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ka (2024)",
+  "media_kind": "movie"
+}
