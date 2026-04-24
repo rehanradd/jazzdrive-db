@@ -1,0 +1,82 @@
+{
+  "name": "Game Changer (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Game Changer (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:04:00Z",
+  "remote_folder_id": 1751954,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999846",
+  "tmdb": {
+    "tmdb_id": 811944,
+    "title": "Game Changer",
+    "original_title": "\u0c17\u0c47\u0c2e\u0c4d\u200c \u0c1b\u0c47\u0c02\u0c1c\u0c30\u0c4d\u200c",
+    "release_date": "2025-01-09",
+    "year": "2025",
+    "rating": 5.0,
+    "overview": "Ram, a newly appointed district collector, takes charge in a city in Andhra Pradesh and immediately confronts the deeply entrenched corruption and inefficiency plaguing the government. Determined to bring reforms, he initiates sweeping changes, sparking a fierce conflict with a powerful state Minister.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qtOGsZoLW7QceqKmsOy5nSM6Aik.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/aBw406SvghTKV6CTK9t84Bo9Xik.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999846",
+    "status": "U",
+    "etag": "nY+9Y7ytXreXv0Drz2HXDw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999846",
+          "url": "/sapi/download/video?action=get&k=kC9LK2sSaIWL5K_vpNlEMKukMnXF-qcBouCQ8LdwNnYVRc7be6SUxUvpfneqxXAUgr6qcnxVNuuxbw40bShEIElR85sLA5UaqDTlBvj63uOXhwMiQ_OjGW3FgzbyKid6eOLd0AuurAuWoywcwKj5i8_urcO0LX7FfPLnLJoEtw2dXp33lTA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=9VAATYDBmZABj0-9LjHscs44vHG5LCpgNcxZfmkARjQGWdab1c6dSHY8ERaTzCTuVuf_u5JPoI4_YJ3wsQlHAED2G5gCKwOhc2udagT1y_mh8C1CaKwilEZlBpWjlIO1h7Em7ziA0TLPdg_4aagvl1zTogIYY3XZNLzyd0SR9_02BYNR_fGwdHDgVnSKNDsX-yU&node=1i220",
+          "date": 1777035839513,
+          "creationdate": 1777035375000,
+          "modificationdate": 1777035375000,
+          "uploaded": 1777035778721,
+          "size": 1758229499,
+          "name": "Game Changer (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9469171,
+            "bitrate": 1485434,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=1b5AYEbE_-J_ODhDthWxZSMT7Si-rbifwdDTYS32T9v25jfznKYtpWpmGjBZ0lKrtVEwgp7df1iuDboTP4RsfdrRrfNWpazIEz1m1Y5U7CY6bJkhujsCEqfshXkacQdSj3ZHgYSy70M7A1-7K3ZmeTI20S9GwpP18vp2W_96L60JFVaM0oWMlfp9yGNw_803NjU&node=1i220",
+              "etag": "0nY+9Y7ytXreXv0Drz2HXDw=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=9VAATYDBmZABj0-9LjHscs44vHG5LCpgNcxZfmkARjQGWdab1c6dSHY8ERaTzCTuVuf_u5JPoI4_YJ3wsQlHAED2G5gCKwOhc2udagT1y_mh8C1CaKwilEZlBpWjlIO1h7Em7ziA0TLPdg_4aagvl1zTogIYY3XZNLzyd0SR9_02BYNR_fGwdHDgVnSKNDsX-yU&node=1i220",
+              "etag": "0nY+9Y7ytXreXv0Drz2HXDw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "nY+9Y7ytXreXv0Drz2HXDw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777035839573,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/jAztnSggTXSpFly4xxzfXzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Game Changer (2025)",
+  "media_kind": "movie"
+}
