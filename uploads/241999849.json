@@ -1,0 +1,82 @@
+{
+  "name": "Gangers (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Gangers (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:06:30Z",
+  "remote_folder_id": 1751957,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999849",
+  "tmdb": {
+    "tmdb_id": 1320752,
+    "title": "Gangers",
+    "original_title": "\u0b95\u0bc7\u0b99\u0bcd\u0b95\u0bb0\u0bcd\u0bb8\u0bcd",
+    "release_date": "2025-04-24",
+    "year": "2025",
+    "rating": 6.4,
+    "overview": "An undercover cop teams up with a crooked PT Master to loot 100 crore from a corrupt politician.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9VOKdmARTbZ8MuYM3quxlBivYkm.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/vm1qwSwhdt5lFhC0hqfPJ6exy46.jpg",
+    "genre_ids": [
+      35,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999849",
+    "status": "U",
+    "etag": "q1ArtFUAb5Kv2kLEOhasfQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999849",
+          "url": "/sapi/download/video?action=get&k=-oEM-gUBA-cuVfNPGtk4249poMTZktuPS1bSKKiU8uNxcUvNSoP-RtrhI90pmcVXvSGxjPNl33EyiS8J171HDmXTj23MkQxKYYCSrzG7VHAFX4nZy-wAhNHXVuH563kCpyC51zmUC8dHI1csG1WA4FMYpFTeMT7Jnwx_y18YnmMNknU5fhk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=6i37ESlW9sRK2nKPxY8-2pp13P3fU4jadvRZ9G7PX1rqkgACGAUQqid3BNXww6M3Cx7jEFLBhvT2AlkBvX0Zg0mzTvj7vpIB21CkskDvALCpENYP-ZaL2rhjXwjaOov-O6DCdpxfgsvGcZc65_fSb0TtJQurqRYLX-PV1qcYQ4pX6fpkdokUVtRIkBX9gIFmxAg&node=1i220",
+          "date": 1777035990081,
+          "creationdate": 1777035560000,
+          "modificationdate": 1777035560000,
+          "uploaded": 1777035912452,
+          "size": 1669048462,
+          "name": "Gangers (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9494784,
+            "bitrate": 1406286,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=3h_GqGmoclllZtviWTy9pTbq7a1WwcQ1yih2ZaQwh8K4ouhNswEwcQn_xe5mZXoKTcb0USyefXWnjkFHKudBnyKUk3QoiMBrRDpW8ByHngOJXzb262IDwoOhz-22K2xqXJI1Lq901uY0EQGFam-1DuXefSKyVvy8as7adx_N2nLIhjrF7Qe8PHvzWTwCIHd2x-I&node=1i220",
+              "etag": "0q1ArtFUAb5Kv2kLEOhasfQ=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=6i37ESlW9sRK2nKPxY8-2pp13P3fU4jadvRZ9G7PX1rqkgACGAUQqid3BNXww6M3Cx7jEFLBhvT2AlkBvX0Zg0mzTvj7vpIB21CkskDvALCpENYP-ZaL2rhjXwjaOov-O6DCdpxfgsvGcZc65_fSb0TtJQurqRYLX-PV1qcYQ4pX6fpkdokUVtRIkBX9gIFmxAg&node=1i220",
+              "etag": "0q1ArtFUAb5Kv2kLEOhasfQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "q1ArtFUAb5Kv2kLEOhasfQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777035990154,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kvZc8W25QxOJskiyNC7tNDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Gangers (2025)",
+  "media_kind": "movie"
+}
