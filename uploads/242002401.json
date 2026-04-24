@@ -1,0 +1,81 @@
+{
+  "name": "Sweetheart (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Sweetheart (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:49:15Z",
+  "remote_folder_id": 1752313,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002401",
+  "tmdb": {
+    "tmdb_id": 1510325,
+    "title": "Sweetheart",
+    "original_title": "Gioia mia",
+    "release_date": "2025-12-11",
+    "year": "2025",
+    "rating": 7.25,
+    "overview": "A reluctant summer together transforms into an enchanting adventure when a young boy discovers his aunt's mysterious Sicilian house holds secrets and, perhaps, ancient spirits lurking within its walls.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7N4QlTDnw0NfF9B6kKfG1O9zU35.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ccQ9abrYHA0aDmaZGqZ1zDaaUem.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002401",
+    "status": "U",
+    "etag": "VqKCB+qww8Sdd8UrG7LJRQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002401",
+          "url": "/sapi/download/video?action=get&k=hnBqTcUFC7qScF0rqOEB_PK6vUuwHmMF-5D-qQQZWHKUUEuWM1Gtg9uyj5YiD5E7QjQxi4fV4xLVRtRSNln-ei2GzIq6pPMd_BNfWtFn6LU0a6p_u9svxOcMZ-vkDVgp6auEu4DfHKlE8-Qs9-2t2AjnV3GCXTytfhZ-5wXJhSbndc6ts88&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ybVEAHN4y61prvBommMWqGmCHvj5ImDoLtlfVXI4KkiOQrIIHxHL11g1g6Fk3q71xXOfTNbQu82nM3Qri3_vuB3TGdOD3fE4QNFgHmtr0EAukAQz94qqGE7sM34q0NVoGyC16xnMiec1YbdIo8KFHhVY2T7mGZsLjzw0rmbAtWl1rstA-NODc_tatQhhVh5pPLE&node=1i220",
+          "date": 1777052954875,
+          "creationdate": 1777052656000,
+          "modificationdate": 1777052656000,
+          "uploaded": 1777052854830,
+          "size": 1597175948,
+          "name": "Sweetheart (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8601609,
+            "bitrate": 1485467,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6OevODHeiuqzl3olME7FT-Um2Poe717H2jYAkV0S-120Xai3UEaSBN_T_ucb2DA_phvrmZdAd0FnIOeBsPRzbPSM80hcdV1oUHm8pKqiRFyOZQGO0XLusOQKCMrKwkwv2IP-4JmkyM4nO8hMkGNYc0m00VFOrv0oag15evVI1TAwkM5UIjTDp0bSJjlbs6VmKh0&node=1i220",
+              "etag": "0VqKCB+qww8Sdd8UrG7LJRQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ybVEAHN4y61prvBommMWqGmCHvj5ImDoLtlfVXI4KkiOQrIIHxHL11g1g6Fk3q71xXOfTNbQu82nM3Qri3_vuB3TGdOD3fE4QNFgHmtr0EAukAQz94qqGE7sM34q0NVoGyC16xnMiec1YbdIo8KFHhVY2T7mGZsLjzw0rmbAtWl1rstA-NODc_tatQhhVh5pPLE&node=1i220",
+              "etag": "0VqKCB+qww8Sdd8UrG7LJRQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "VqKCB+qww8Sdd8UrG7LJRQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052954932,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MoQLZ6OUSRS4gyAdejnaajMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sweetheart (2025)",
+  "media_kind": "movie"
+}
