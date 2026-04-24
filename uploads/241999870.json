@@ -1,0 +1,83 @@
+{
+  "name": "Hit 3 (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Hit 3 (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:28:37Z",
+  "remote_folder_id": 1751975,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999870",
+  "tmdb": {
+    "tmdb_id": 1060046,
+    "title": "HIT: The Third Case",
+    "original_title": "\u0c39\u0c3f\u0c1f\u0c4d: \u0c26\u0c3f \u0c25\u0c30\u0c4d\u0c21\u0c4d \u0c15\u0c47\u0c38\u0c4d",
+    "release_date": "2025-04-30",
+    "year": "2025",
+    "rating": 6.8,
+    "overview": "The Homicide Intervention Team (HIT) sends ruthless police officer Arjun Sarkaar to find a group of killers and stop their grisly murder spree.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xzpXvyetmrdR3NSRN9uy0xO3lR1.jpg",
+    "genre_ids": [
+      80,
+      53,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999870",
+    "status": "U",
+    "etag": "9DQSsT9BnpENMnSgwagdwg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999870",
+          "url": "/sapi/download/video?action=get&k=PmLS26Nb0pQAIz16_95lbkdn0k_zE0KNo7_lR9VYIW7Ugaj9xfZqJu7zoLzU7rBpaV8qXQyUcUZ2staba60ysRCreaCpycbxZuIymXQbjZJqEPQ5O3w80_df8DKWYc-tl09kTBcBlgZ_wWDUji426TABH_-7rXfwCeUfGf-hxzFWPBn0eJY&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=qmhuUMJmXNynth9JbsIvOT03tjKkmcN8tCaYmBeXxery8geefDvKKHS-y9fX6gcsaSP7YUNkZ-bVogj1_G4EHyHU_3w0Qro0w2TRER7ZXsJB5zdQJDDgPavuPqkXu-oTvKAgqM7fPF8Zu7kwlNc3NrIosn2b4JCmxT4AeYUuzog-QAYsltyCmc9ulL3Eh4gj4jc&node=1i220",
+          "date": 1777037316860,
+          "creationdate": 1777036965000,
+          "modificationdate": 1777036965000,
+          "uploaded": 1777037267065,
+          "size": 1504377972,
+          "name": "Hit 3 (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9211671,
+            "bitrate": 1306497,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ULUT5wPSUTQ0u2JBZqe_buXwZ5mDgsfZQSTiOco0GOIz8zO5RYgnUaaqwMu03dk7icX-JxR2bselyuOX3gR_zuqFwo2nFG08tjwR4OeeDCnynK1hee_JY-BvSDPJwfvIvSBBrCSD3uHyekUzN_IQilt2KxZQy3kt1wDrx7PmC3AAuxD2ehIpdgpPOO_hDRPISn8&node=1i220",
+              "etag": "09DQSsT9BnpENMnSgwagdwg=="
+            },
+            {
+              "w": 1280,
+              "h": 534,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qmhuUMJmXNynth9JbsIvOT03tjKkmcN8tCaYmBeXxery8geefDvKKHS-y9fX6gcsaSP7YUNkZ-bVogj1_G4EHyHU_3w0Qro0w2TRER7ZXsJB5zdQJDDgPavuPqkXu-oTvKAgqM7fPF8Zu7kwlNc3NrIosn2b4JCmxT4AeYUuzog-QAYsltyCmc9ulL3Eh4gj4jc&node=1i220",
+              "etag": "09DQSsT9BnpENMnSgwagdwg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "9DQSsT9BnpENMnSgwagdwg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777037316919,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/y0ZKXiY0TlqT3xw7Qsyc5TMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Hit 3 (2025)",
+  "media_kind": "movie"
+}
