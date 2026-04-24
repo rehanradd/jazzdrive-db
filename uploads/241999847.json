@@ -1,0 +1,79 @@
+{
+  "name": "Garadi (2023) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Garadi (2023) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:02:25Z",
+  "remote_folder_id": 1751955,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999847",
+  "tmdb": {
+    "tmdb_id": 1245091,
+    "title": "Garadi",
+    "original_title": "Garadi",
+    "release_date": "2023-11-10",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "Garadi is the school of traditional Indian wrestling.Suri is a wannabe wrestler. His aim is to win the local wrestling championship. His guru snubs his talent.Guru's stance is that Suri's father & brother are criminals. He feels Suri might also become a criminal if he learns wrestling.He makes him do menial jobs instead of teaching him Garadi. In his free time Suri secretly practices wrestling.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nPtLGRVo14q8nW2XEBHBMUhgsgt.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999847",
+    "status": "U",
+    "etag": "lI3HZgrwHGcDltmRjZVkow==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999847",
+          "url": "/sapi/download/video?action=get&k=FDEl5L8mUTjXhHrWdnQBbR8X62apJ3N3n0thvW62jyYdEdHvCjv2t4F5RD50t3O5Qg_TL2emid5i1D88DAl_dyZ4A-oA2xWe45YvE3UahkdW-XSrIHnkMVD7Fq7Ta_nT3NN33foe16ndkGifBi04HUOMW9Dh45tbbeM3f0_g9uNY90h7ips&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=VOt82vt1ac0Sx00NVyjjQY9HzBhy3OtLcZ1EONzxiNTGj5IRK9zirISivWR8RKLr867-E7c0CCPotR2gXpwwUt9ZLes8HzfTgjLd7X5fDE18jKJZAw2UfRLVx3b9raV3HCWSzRuwauZ5osjNf71go2IELgxv9xNTx1InCsiOC5ezdzbRz9jVlmQ1JzSsS0oWU5k&node=1i220",
+          "date": 1777035744853,
+          "creationdate": 1777035421000,
+          "modificationdate": 1777035421000,
+          "uploaded": 1777035700806,
+          "size": 1288751268,
+          "name": "Garadi (2023) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7969140,
+            "bitrate": 1293741,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=i-cuMBbSFwWLtb4HJWwK3vzMe-VWqzqtwkT9tNwiGNxHIQ21OYFkukU0Bs9MvC-3tyLMJeSm1fUc_osqlqgqzgiB7-684O4ohlLxZsxgOPLYjwhXGNaB_u1mA3Hzo2-a6USguYyYwxTVRRElA9J4BhVI1PlR-zfi-5fwKgD1iUNSuHw8c5j5wbPs8wap6YxvQsk&node=1i220",
+              "etag": "0lI3HZgrwHGcDltmRjZVkow=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=VOt82vt1ac0Sx00NVyjjQY9HzBhy3OtLcZ1EONzxiNTGj5IRK9zirISivWR8RKLr867-E7c0CCPotR2gXpwwUt9ZLes8HzfTgjLd7X5fDE18jKJZAw2UfRLVx3b9raV3HCWSzRuwauZ5osjNf71go2IELgxv9xNTx1InCsiOC5ezdzbRz9jVlmQ1JzSsS0oWU5k&node=1i220",
+              "etag": "0lI3HZgrwHGcDltmRjZVkow=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "lI3HZgrwHGcDltmRjZVkow==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777035744926,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/KYAkdbIGTGexK7QSn3fjLzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Garadi (2023)",
+  "media_kind": "movie"
+}
