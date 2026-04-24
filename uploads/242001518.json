@@ -1,0 +1,82 @@
+{
+  "name": "Oru Thavaru Seidhal (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Oru Thavaru Seidhal (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:13:10Z",
+  "remote_folder_id": 1752216,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001518",
+  "tmdb": {
+    "tmdb_id": 1269773,
+    "title": "Oru Thavaru Seidhal",
+    "original_title": "\u0b92\u0bb0\u0bc1 \u0ba4\u0bb5\u0bb1\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd",
+    "release_date": "2024-04-05",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Evicted from their flat and desperate for cash, a group of friends, including an aspiring filmmaker, find themselves at Chennai's Koyambedu junction. A chance encounter sparks a risky scheme to earn quick money, but their path is fraught with deception and unforeseen consequences. Did their gamble pay off, or did they fall victim to their own ambitions?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1B34wmoTt1laqEgw06v1nM14WBf.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bm24UP8u1ZENPYaVmOn5c2mhtZl.jpg",
+    "genre_ids": [
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001518",
+    "status": "U",
+    "etag": "hXzkO9RzcvpQxKrD/1ysVQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001518",
+          "url": "/sapi/download/video?action=get&k=5kI1J28Rz2ipA2eSae-iWcCFssIiuwUaBaVWmWuFKnr7s3xhOnnvaQEtIOn1noV7PvQu_yoH_xKU0eREvkYnG9YwDbwDshMxLyTGIUF6qiMD9KF6b_Sj584fxhgxclZgrx22ZmcsQic2Zg5t-DBFGVLJLwh4UPwEZu7OLk25-xQwFTYJgi4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=GVnEBzg1B2yqyZ4MMNo8DAXRY6o_c_9bECKlU5AbxTs82B8QqAhyrcHlGmak_1TwinUGQ3y4KI6qx34TC94mBfqCxHnPat8MypKLiX2dtCcnTnSsKLGQvmU-wftrWdgpTL5zPdLVhZMjOC9B23UujRoxkgn6j8r0dAsuemf_MYSf109lCxWg7MpYkH-sy2_Yzuw&node=1i220",
+          "date": 1777047189621,
+          "creationdate": 1777046863000,
+          "modificationdate": 1777046863000,
+          "uploaded": 1777047133549,
+          "size": 1504920291,
+          "name": "Oru Thavaru Seidhal (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7207957,
+            "bitrate": 1670287,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=zSiu7h2ymHeutVYiSHZ4oHEOfV-UprVhyYJI9VTq0DEICshAp1gRLMDIaR2IhaaoPif1ULIwAoMNHJNN0bE_-xGmW3Fs5jAj19HzyKJSk0NLi9yPtBeDJNFRC4aYx8rAai1KlUVGwOwL-ITJ1BAFxRDPSuoIA80WIiLWQMrADvtAHfyYx6HTHC_fT0LZhoqR66g&node=1i220",
+              "etag": "0hXzkO9RzcvpQxKrD/1ysVQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GVnEBzg1B2yqyZ4MMNo8DAXRY6o_c_9bECKlU5AbxTs82B8QqAhyrcHlGmak_1TwinUGQ3y4KI6qx34TC94mBfqCxHnPat8MypKLiX2dtCcnTnSsKLGQvmU-wftrWdgpTL5zPdLVhZMjOC9B23UujRoxkgn6j8r0dAsuemf_MYSf109lCxWg7MpYkH-sy2_Yzuw&node=1i220",
+              "etag": "0hXzkO9RzcvpQxKrD/1ysVQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "hXzkO9RzcvpQxKrD/1ysVQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777047189678,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/McHaHkV1Qj-E44wi-PLhRjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Oru Thavaru Seidhal (2024)",
+  "media_kind": "movie"
+}
