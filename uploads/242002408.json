@@ -1,0 +1,83 @@
+{
+  "name": "Thanal (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Thanal (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:54:38Z",
+  "remote_folder_id": 1752319,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002408",
+  "tmdb": {
+    "tmdb_id": 1090991,
+    "title": "Thanal",
+    "original_title": "\u0ba4\u0ba3\u0bb2\u0bcd",
+    "release_date": "2025-09-12",
+    "year": "2025",
+    "rating": 6.0,
+    "overview": "Fuelled by a lifetime of suffering, an ex army man embarks on a vengeful quest. Standing in his way is a police constable whose own past pain transformed into a dutiful son. When their paths converge, hero either can flee for his life or take a stand against the villain\u2019s scheme\u00a0of\u00a0things.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5CVSHJZBlTG5xF7UqrWTHquBLtX.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/naNEpMPkUaFoA87Qbj7waH2eZCc.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002408",
+    "status": "U",
+    "etag": "A2FCoQrkAFBvMVVE1Usmag==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002408",
+          "url": "/sapi/download/video?action=get&k=w_ImTC3CnFNtJW32Ylj04RAdWsk4DTs6s83qipGScdDZccy9_nWo5l2ellnpfo7x_jW8kUf5gkttQDuIdkOZBorNP8kZzZdWvXa5Uh5Di25y7ODvCP8CxsrYzPTC3M__kw58Y2HmY8-wKKEX2ensHRSwutDGhWzlnPm_oTjHKd0qr5lA0GQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=IDOxQWDWeo5k0qxTfoIlmZpiF1-01OytWwLbdaCH9Eu5zh1gokLQAc6PagFDrJyaTCElO1XS4C3-uDC43YxNsaq9lpFr73s4XwBHezzrC2q_Akzfm_KWOGXNNOgcG3Khn85VtrMCSc2m5punmEENSfOdIOgtXlHbm-A8uYWZfKiBpANXNsGtq20FKN0NfQ0V_YQ&node=1i220",
+          "date": 1777053278163,
+          "creationdate": 1777052964000,
+          "modificationdate": 1777052964000,
+          "uploaded": 1777053188835,
+          "size": 1285438341,
+          "name": "Thanal (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7616605,
+            "bitrate": 1350143,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=4Y_oZ8bO_y1O85oyP0_07cJmtEwvhADftXY5IyLqpCQFcZrTSgvFDfloVHak1o_VGzHyvmLUf2FFF8YtFLjizo8qXU7MV-InIYTP2HI4XR_DxW_D8bqWxGten5S2FTcU9qvPW9RMlyaxIYOLdclv7SGiocCBBqbqKK4c1hvd-6H6e1qr8hstG4EI2lHn2PTE7bY&node=1i220",
+              "etag": "0A2FCoQrkAFBvMVVE1Usmag=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IDOxQWDWeo5k0qxTfoIlmZpiF1-01OytWwLbdaCH9Eu5zh1gokLQAc6PagFDrJyaTCElO1XS4C3-uDC43YxNsaq9lpFr73s4XwBHezzrC2q_Akzfm_KWOGXNNOgcG3Khn85VtrMCSc2m5punmEENSfOdIOgtXlHbm-A8uYWZfKiBpANXNsGtq20FKN0NfQ0V_YQ&node=1i220",
+              "etag": "0A2FCoQrkAFBvMVVE1Usmag=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "A2FCoQrkAFBvMVVE1Usmag==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777053278220,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/vYdr6-38TSq-LwvSc4gJEjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Thanal (2025)",
+  "media_kind": "movie"
+}
