@@ -1,0 +1,83 @@
+{
+  "name": "Kuberaa (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Kuberaa (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:44:33Z",
+  "remote_folder_id": 1752134,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000887",
+  "tmdb": {
+    "tmdb_id": 1171101,
+    "title": "Kuberaa",
+    "original_title": "\u0c15\u0c41\u0c2c\u0c47\u0c30",
+    "release_date": "2025-06-19",
+    "year": "2025",
+    "rating": 7.053,
+    "overview": "A ruthless billionaire, Neeraj, uses beggars as benamis to launder money, with the help of a disgraced civil submit servant, Deepak. One of the beggars, Deva, escapes with \u20b910,000 crores and becomes the target of a deadly manhunt. He meets Sameera, who joins him in his mission to use the money to uplift society's poor. With Deepak's help, Deva fights back.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xjLC5DeA4FQTBv4xe8r3wYqh8lu.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nbyTX77u3qELm9DYPgYfva7vAwj.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000887",
+    "status": "U",
+    "etag": "1Hqoiph4MVgS9Vfm1sRSZQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000887",
+          "url": "/sapi/download/video?action=get&k=yC3TUacPYu5emSPLcPKLdU6Nzbgkl8DEJoM_s9oNMkvYmM43olsjo7GWvGFMT77kG0ipHupH5k3vufWdyp8SIfW-0YKVa6qixoCBRgCZwIRNkIEx0N6G9qa-NPEKnTsmVTryu3w1wz2sTEoYHhRfnEwtauKdsoM_d89259WY_fwLmxoWUAs&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=WPJ_2ZCxUDJgp1IJvoXS12l95oZtnRO6f1lOerHBZP5x6qSRTyiIjrt_B5AnelrYpHA4y705hp_27xIHJD0n25w8HMaFJ9yjIGvxaSUFlnKgpBr_Jsqt14uMz2Gun7UYYP9fXB5HjbhZaql8P_m66LEtosxp5bmWPi1QkAXuESFG2pXh9rKrJ7l4DVwTygNb5AM&node=1i220",
+          "date": 1777041872781,
+          "creationdate": 1777041589000,
+          "modificationdate": 1777041589000,
+          "uploaded": 1777041759694,
+          "size": 1775896833,
+          "name": "Kuberaa (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 10745480,
+            "bitrate": 1322153,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ahPjfyedN8Px7JhCs89AX5ef5BfQs4r6JavEsov8lO-BVbaWxJaak-16acCVWJsf2bn2sMEsAlhhQu1gvlHHaS4Xbp_gjBnxnZWJ6cx6Onyz5sWAL6vOp9DlNSu_2JqnC3ijLrYeUKDCN9wqr14snPjxI7f-E-OwaN9SnSLdgltOgdtFSEaEutLfqbgpj4vN3C4&node=1i220",
+              "etag": "01Hqoiph4MVgS9Vfm1sRSZQ=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=WPJ_2ZCxUDJgp1IJvoXS12l95oZtnRO6f1lOerHBZP5x6qSRTyiIjrt_B5AnelrYpHA4y705hp_27xIHJD0n25w8HMaFJ9yjIGvxaSUFlnKgpBr_Jsqt14uMz2Gun7UYYP9fXB5HjbhZaql8P_m66LEtosxp5bmWPi1QkAXuESFG2pXh9rKrJ7l4DVwTygNb5AM&node=1i220",
+              "etag": "01Hqoiph4MVgS9Vfm1sRSZQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "1Hqoiph4MVgS9Vfm1sRSZQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777041872858,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fBDEZHQdT-unlZcmqmh4yTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kuberaa (2025)",
+  "media_kind": "movie"
+}
