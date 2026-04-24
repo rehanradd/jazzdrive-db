@@ -1,0 +1,82 @@
+{
+  "name": "Retta Thala (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Retta Thala (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:49:36Z",
+  "remote_folder_id": 1752257,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001996",
+  "tmdb": {
+    "tmdb_id": 1413333,
+    "title": "Retta Thala",
+    "original_title": "\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f \u0ba4\u0bb2",
+    "release_date": "2025-12-25",
+    "year": "2025",
+    "rating": 2.5,
+    "overview": "Kaali, a struggling Pondicherry orphan encounters his rich Goa doppelganger Malpe Upendra with criminal past, leading to identity swaps and messy consequences. Corrupt cop Thiraviyam and Upendra\u2019s enemies soon conspire to put that to an end.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zlE1oVtfr7MckzDyEMZkF4WIvGG.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6ywskZ2n8wgyjCHFN1w0kjIXhGI.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001996",
+    "status": "U",
+    "etag": "X53QY2BoARI6IwMUzieNow==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001996",
+          "url": "/sapi/download/video?action=get&k=aH8ySmc-622HfpUauy3RCo7n-bz-2IDQgJIVDLpvIuDFKljIkZnmP-4iQt2EtnehsJ63IncWPbQ4WHw3X96HBnmuboeenSIgD4AekAg2T5BMyoOu3UOsOWTeXDWJn_ujuncSCEkSemn8smHpQHi_xYc8avzfQ2zc_Pxrm6O-M7_Ws6xRnDQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=5yrxRe52L2oqDLAQ9DHyXWTU1AQCJ1YixhA0DCBNxdmGNOynPMJAO3Axh2YI3_L4svUc3RhGYpQc_DzI7G_61_wGcrWRhGoAcspuoeF6YW_WmrHULX7NdMEZBX7-myQdpLoqiI8Wr_piEgIkwecu_2XtEVEcx_-paYbPjkHX9D-VzmipZQAAOlW9ebMhPKqXhKY&node=1i220",
+          "date": 1777049375461,
+          "creationdate": 1777049196000,
+          "modificationdate": 1777049196000,
+          "uploaded": 1777049326474,
+          "size": 1094940287,
+          "name": "Retta Thala (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6733290,
+            "bitrate": 1300927,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=tPNZ0c8f4nsdayOflFti9au7_Cb5yE3EBODnzLLu5LLLjNt3Z44elad3i547dHlH3Ux1bQ6rbPCEYqPMPgxbR89vJ5ht52BPc_VCJiFxNG04WdRDw8LiHXZepipMzoSGrZfP7n77NFYiXtIdbyoO616mVBYy-fAdqlBinBonR67WpkcQsxN0Zr3W4FhhhI--GKo&node=1i220",
+              "etag": "0X53QY2BoARI6IwMUzieNow=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=5yrxRe52L2oqDLAQ9DHyXWTU1AQCJ1YixhA0DCBNxdmGNOynPMJAO3Axh2YI3_L4svUc3RhGYpQc_DzI7G_61_wGcrWRhGoAcspuoeF6YW_WmrHULX7NdMEZBX7-myQdpLoqiI8Wr_piEgIkwecu_2XtEVEcx_-paYbPjkHX9D-VzmipZQAAOlW9ebMhPKqXhKY&node=1i220",
+              "etag": "0X53QY2BoARI6IwMUzieNow=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "X53QY2BoARI6IwMUzieNow==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049375516,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CVoW40R6SBepvPWQzukZrzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Retta Thala (2025)",
+  "media_kind": "movie"
+}
