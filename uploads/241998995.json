@@ -1,0 +1,82 @@
+{
+  "name": "Demonte Colony 2 (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Demonte Colony 2 (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:12:23Z",
+  "remote_folder_id": 1751918,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241998995",
+  "tmdb": {
+    "tmdb_id": 979250,
+    "title": "Demonte Colony 2",
+    "original_title": "\u0b9f\u0bbf\u0bae\u0bbe\u0ba9\u0bcd\u0b9f\u0bbf \u0b95\u0bbe\u0bb2\u0ba9\u0bbf 2",
+    "release_date": "2024-08-15",
+    "year": "2024",
+    "rating": 6.7,
+    "overview": "Debbie attempts to contact the spirit of her deceased husband Sam, she inadvertently contacts Srinivasan, who had just died. This contact saves his life but leaves him in a coma for years. Later, Debbie unravels mystery about Lord Demonte sacrificing people and enslaves their spirits. Can Debbie break this cycle and help Srinivasan to wake up from his coma?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lZmH9hea8fstTK49fplSQS0NWUd.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/t6Pnd8lzSeelNOOXraRfg5HizZD.jpg",
+    "genre_ids": [
+      27,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241998995",
+    "status": "U",
+    "etag": "aaS37SWI3SOTktkIpmLMrw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241998995",
+          "url": "/sapi/download/video?action=get&k=HSY7AxRQ5UgzcrsUB2R7-EVEmGLIpK-QoQaLm5yzwtPL55ntI4dP8z7WsMoaDy5Hp-p97NLXOGhUbVIvRuPFljDJIU5m4vOh06U40tgouhw1SE0yw15oieX3FbsoafuhpuzrxL3uYTEmZnjxnXWmEUigPW3w_6yrqiSuv7mIPenH7ml--M0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=WLypklLlKpK1W1LHfa4gxEvHEaPl1EAJckiym8lcVLbz0bxMoYMz905oSFIxcUSKrguclg-JG0M67Wx4vplS20keK6RpXuPbaNS3aZiva_ok5KPDxT5yUo_2wedmlfULkLEOCdHC2jUT9VpDQHB8nn4oehbGr4wTM__SLDct3gD6TZjDFNXnVD2Ov2JdhV14alI&node=1i220",
+          "date": 1777032743044,
+          "creationdate": 1777032440000,
+          "modificationdate": 1777032440000,
+          "uploaded": 1777032699304,
+          "size": 1338731374,
+          "name": "Demonte Colony 2 (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8198144,
+            "bitrate": 1306375,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=WxvxBxf-Yg4NRQEBqZFYljxT1bqNE-BLY2k1MRexrlvj56A8vfi2TXaMu3jejKaEjkQZ6RoBqmuqkqGY8St2X4F_3AsBNvHw7MsZQ8PAHJy0OvFF16AL156sfOTob0SgYitWtI_gtMXEMX2Rnul7FBjIEMd0hHnDWaYscaZ9-MV-qrOifr6tYuEUj40uaxK7DwY&node=1i220",
+              "etag": "0aaS37SWI3SOTktkIpmLMrw=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=WLypklLlKpK1W1LHfa4gxEvHEaPl1EAJckiym8lcVLbz0bxMoYMz905oSFIxcUSKrguclg-JG0M67Wx4vplS20keK6RpXuPbaNS3aZiva_ok5KPDxT5yUo_2wedmlfULkLEOCdHC2jUT9VpDQHB8nn4oehbGr4wTM__SLDct3gD6TZjDFNXnVD2Ov2JdhV14alI&node=1i220",
+              "etag": "0aaS37SWI3SOTktkIpmLMrw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "aaS37SWI3SOTktkIpmLMrw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777032743114,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/TKfkdx_8R3-qQHye3Mu7QzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Demonte Colony 2 (2024)",
+  "media_kind": "movie"
+}
