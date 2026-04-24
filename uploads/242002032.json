@@ -1,0 +1,83 @@
+{
+  "name": "Secret (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Secret (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:15:50Z",
+  "remote_folder_id": 1752280,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002032",
+  "tmdb": {
+    "tmdb_id": 1242850,
+    "title": "Secret",
+    "original_title": "Secret",
+    "release_date": "2024-07-26",
+    "year": "2024",
+    "rating": 2.0,
+    "overview": "A man tries desperately to change his fate after an astrology reading predicts the death of his fianc\u00e9.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7saO2J2wvmM3eZu1OzgfMlaYzKr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fo7lRfADFFlFEO64mePHkgGN7ai.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002032",
+    "status": "U",
+    "etag": "m8f6geXfLTIzYsYpTE2CNA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002032",
+          "url": "/sapi/download/video?action=get&k=5U71iTNROCta1r6OCLaz4xqqO7c72_BlEfcVmKnUrQKvaVI4y3eZ8dbzYD2ARTR-dKP4Lh6xGq7m98vejWu4sGH0-f__bd4GGu5J1Lw0xGDYW5QP2blDbfLbpWfEIbCHwgicM8NjT-jyORrpml8OKPjL_VO3eYeCXk7Ky3wOLV0Db70cjug&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ycIwePNHhM-hnmrIoR0OdLug6xHPojZ6o-png-gAMQewYKs4KHwYg14b6ncRMLFtJka8tzwa44U_B409Hu2ZY7oRowzJYAcKLJksK1SkMMEt4jtmDMS8GtjZ2ZJA77XpuzHHho92_CYOD37KZfQTo_OvnA9EYseiSPTTFvLgKa0qaTu3H_yGNZ6GM4h3YyGjIL0&node=1i220",
+          "date": 1777050949472,
+          "creationdate": 1777050759000,
+          "modificationdate": 1777050759000,
+          "uploaded": 1777050856114,
+          "size": 1517839318,
+          "name": "Secret (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6967040,
+            "bitrate": 1742879,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=RonL_CCq7gSPKp7FY16y69xIIFllonRZ4d9Vh0k-Bsw2bs8tviBdSfCtKwofkAcx_c1sgcq4cZVJL_7q2tv6k393S4YZA2bDcFktHvhUGUNlPV3QUT_-VMsX7Br6QvYaLhfL8FL11U5Jv_zL2aa5qCnJ67u1v86O-gco9FhenSA9q_YTneu4OhQIaBI6_erF0Ug&node=1i220",
+              "etag": "0m8f6geXfLTIzYsYpTE2CNA=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ycIwePNHhM-hnmrIoR0OdLug6xHPojZ6o-png-gAMQewYKs4KHwYg14b6ncRMLFtJka8tzwa44U_B409Hu2ZY7oRowzJYAcKLJksK1SkMMEt4jtmDMS8GtjZ2ZJA77XpuzHHho92_CYOD37KZfQTo_OvnA9EYseiSPTTFvLgKa0qaTu3H_yGNZ6GM4h3YyGjIL0&node=1i220",
+              "etag": "0m8f6geXfLTIzYsYpTE2CNA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "m8f6geXfLTIzYsYpTE2CNA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777050949532,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/AaErItvHTa2swYXKleurdzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Secret (2024)",
+  "media_kind": "movie"
+}
