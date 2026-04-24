@@ -1,0 +1,70 @@
+{
+  "name": "Sankranthiki Vasthunam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Sankranthiki Vasthunam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:12:27Z",
+  "remote_folder_id": 1752276,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002028",
+  "tmdb": {
+    "tmdb_id": 1380920,
+    "title": "Sankranthiki Vasthunam",
+    "original_title": "\u0c38\u0c02\u0c15\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c3f\u0c15\u0c3f \u0c35\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c02",
+    "release_date": "2025-01-14",
+    "year": "2025",
+    "rating": 5.5,
+    "overview": "When a renowned tech entrepreneur is kidnapped upon returning to India, a police officer recruits her ex-boyfriend, a former cop now living a quiet family life, to assist in the rescue mission.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gFa07KuR3tWFI6YFTeGz930zeMo.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/34vhD3KFITH2Ymeh1wF73zZXYDZ.jpg",
+    "genre_ids": [
+      28,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002028",
+    "status": "U",
+    "etag": "D/gdmCsg/iz3w7H1hN2PBA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002028",
+          "url": "/sapi/download/video?action=get&k=mIDAR-P7exGpGUBjB0965D1Js6OkBRb69yj5dgBhXOlZMSJSBsUx1tpDpgyoCzwkd7AcfeIp6Q3GUlquI_ZVt2zEUS9YMFHh238up5NtxWpqjB6o7YFNrDcq_3T5lqRkljE_afPiVqBeeCF9Eq5NUwl4QMXEgjf0rXAix6Vsjzq_i9JhLE0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=2YmpCqGUS9SBv0WGO2Idzn6WXvZXDlsEhLrrjz0XUzLYCR69xV2foVx31M5KnwgIYQwdzMVDRrHoOV_4glShH6Tlzuux249kLCK-fU0qYb9J-Wo_gYZHhCylPVgYbnRirNHRx0yyR9W49qY3EthLi1Bv2KpW_GugBx0-k8THNnti1AwW1wlIY5Mrg_vNB6EtH5w&node=1i220",
+          "date": 1777050746918,
+          "creationdate": 1777050492000,
+          "modificationdate": 1777050492000,
+          "uploaded": 1777050691454,
+          "size": 1516310573,
+          "name": "Sankranthiki Vasthunam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=4D9iV7gxhlORwxItME-DHmPsG9s0qGsWEmYYfqgmz3VS1zQMsLR0zckpeLL6l-aYOgrhVtsVZFbTrhQyyS4Rd2jkfxV5B2QqWUq-KlIYM8mVV7jzNlwJ9plGWlTt8NM0ooYdpG96r300vtdHZv7OMNUhfIRV-pIKUjNCaWzvGEDdQgZ6Qd49FbVeFjvAIElDaIM&node=1i220",
+              "etag": "0D/gdmCsg/iz3w7H1hN2PBA=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=2YmpCqGUS9SBv0WGO2Idzn6WXvZXDlsEhLrrjz0XUzLYCR69xV2foVx31M5KnwgIYQwdzMVDRrHoOV_4glShH6Tlzuux249kLCK-fU0qYb9J-Wo_gYZHhCylPVgYbnRirNHRx0yyR9W49qY3EthLi1Bv2KpW_GugBx0-k8THNnti1AwW1wlIY5Mrg_vNB6EtH5w&node=1i220",
+              "etag": "0D/gdmCsg/iz3w7H1hN2PBA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "D/gdmCsg/iz3w7H1hN2PBA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777050746999,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/STvARP9bR5y4FyhH-AZaxTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sankranthiki Vasthunam (2025)",
+  "media_kind": "movie"
+}
