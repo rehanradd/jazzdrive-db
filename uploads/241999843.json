@@ -1,0 +1,81 @@
+{
+  "name": "Gandhi Talks (2026) 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Gandhi Talks (2026) 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:01:03Z",
+  "remote_folder_id": 1751953,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999843",
+  "tmdb": {
+    "tmdb_id": 786567,
+    "title": "Gandhi Talks",
+    "original_title": "Gandhi Talks",
+    "release_date": "2026-01-30",
+    "year": "2026",
+    "rating": 6.5,
+    "overview": "A silent black comedy, about the monetary needs of a character & how it impacts the others. A young, unemployed graduate Mahadev\u2019s struggle to land a job through any means possible and crosses paths with a businessman and petty thief. A subject wherein silence speaks much louder than words. Although a work of fiction by the writer, all the characters in the film are sketched out to seem very real and relatable ensuring an enriching journey as well a laugh riot as the cat and mouse guffaws amongst them unfold. Gandhi Talks aims at telling a story by switching off the device of dialogue, which is not only scary but also interesting and challenging.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/p4iQT3s97T3gQOLhTj0UplzYMOj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4Cqad6ZpWJRhBumGE1QwHs9pVuB.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999843",
+    "status": "U",
+    "etag": "ElF3IPooyWoOY5gOeqBTTA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999843",
+          "url": "/sapi/download/video?action=get&k=PxtssXVw05_vcy-DdAnQtoHTwXSQ-GTvZaL_Uthf_BJ3bxgGJEDTXQL5vb48GtUFxMS2rheQbYRDr6pTcTVUNVou4QVC1OPi4r2lrOYCV6xwUfAxZ1x1l-MGyXzSSQesmlUids911VnLyDiwHlMvsnywwz2E3OI9nVybJ2xRordqGOQwqhQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=-SpIs708oxRR1cy04GNIU5rv6CMBO7N5zWAinOdF33Wl7R6m0CSyBTJ6p2yzE6IiQ3fvOkpBI0Hc8k_uonsTOKwGfp2cKFlc2lo5hSjxo4N3DhT0zv546ZtMkLMJUfJFkKxRt-WtynP8EbIIC3Rj_ngQlnho8QDCwj5Gxnkbi1ADR-V3Au4fDsFyH04S0aebzvc&node=1i220",
+          "date": 1777035662702,
+          "creationdate": 1777035347000,
+          "modificationdate": 1777035347000,
+          "uploaded": 1777035621678,
+          "size": 1164238660,
+          "name": "Gandhi Talks (2026) 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7826006,
+            "bitrate": 1190122,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=eRH-SONWolq3xElei8cnq2ltPrQUkNeWEVGflS-jOlxXYq17WAA_NerY6ndxkjOiYbQfdzhvUn24pB-PFrwfwoCMuS6GyjX3w5F8DcwHaeB5azcBD30CtYtX0MtdalQfLZDtwPQdZZB6TsgW5z-RbubC0ZgQtNghLemIi2fINdVXfOj6oHeC10zN4jo74u3gf08&node=1i220",
+              "etag": "0ElF3IPooyWoOY5gOeqBTTA=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=-SpIs708oxRR1cy04GNIU5rv6CMBO7N5zWAinOdF33Wl7R6m0CSyBTJ6p2yzE6IiQ3fvOkpBI0Hc8k_uonsTOKwGfp2cKFlc2lo5hSjxo4N3DhT0zv546ZtMkLMJUfJFkKxRt-WtynP8EbIIC3Rj_ngQlnho8QDCwj5Gxnkbi1ADR-V3Au4fDsFyH04S0aebzvc&node=1i220",
+              "etag": "0ElF3IPooyWoOY5gOeqBTTA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ElF3IPooyWoOY5gOeqBTTA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777035662759,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/84VSixehScq1qbiWzau2OjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Gandhi Talks (2026)",
+  "media_kind": "movie"
+}
