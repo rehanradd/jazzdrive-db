@@ -1,0 +1,71 @@
+{
+  "name": "Lubber Pandhu (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Lubber Pandhu (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:10:25Z",
+  "remote_folder_id": 1752156,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001048",
+  "tmdb": {
+    "tmdb_id": 1097000,
+    "title": "Lubber Pandhu",
+    "original_title": "\u0bb2\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bc1",
+    "release_date": "2024-09-20",
+    "year": "2024",
+    "rating": 7.6,
+    "overview": "Middle aged local cricketer Poomalai finds a new rival in the form of a younger sports person named Anbu. Their rivalry in cricket gets complicated when Anbu falls in love with Poomalai's daughter Durga.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jNyLZjIgaYVkBli2JihHwABlAPY.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8BemLDPKS52ZKgqzwD21W5BEZAY.jpg",
+    "genre_ids": [
+      10751,
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001048",
+    "status": "U",
+    "etag": "XKmrBTyN/q8nEvs+k9usRw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001048",
+          "url": "/sapi/download/video?action=get&k=c_nglZHveO7yS-gw2F5G-fFpDCvuuAqSK5rlVj7g_sOacwFsCLbiRDds92zeFwvQ7KPS3vml0NC4-AkUOBadAgpgkJEOiEfRNMoL3C9IwMaLtTq5xuPT7tIOTcsSoj6Qus3ei5AxQ4IGQWoHpGMDkcW_rPoWRkpn99K1RLCWKywj5svnNr0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=AiwVyqAYEDSTCfeu2guAPRo1ZXYjw9EhdWXycGwQ46siFGM2LNIorqWrhDtxn9SILI9vEcXkqh8-nabAjuxE8e_nfWlLrQcx0-C2rTes-JuR7ZKmRXn2TeuChW8vIZEUPcNkpwzwRyK-ksGgG3zGZ1h_O-EHpi-diKneDkc18iGr5SSXnVVqUTrqMugDDGUjyGA&node=1i220",
+          "date": 1777043425229,
+          "creationdate": 1777043023000,
+          "modificationdate": 1777043023000,
+          "uploaded": 1777043332775,
+          "size": 1613210954,
+          "name": "Lubber Pandhu (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=faOr6_69edYX8IfrdH0Im4IebUDFAkTRiamTeDeKflp0wdesh3NF-bNaCioWaZgWrvpsxxH4h6N_o8ys5JqrBBYvluzKDVX2SLM-J9-_2ZM-gR_ce370CbB_HKeLhCW7T76IvPGQBFiTLoTmY21sWl985VK1g5vJ84ryvNmvJ7-pnNWBUF0vmr6Q70WbBOa2p8k&node=1i220",
+              "etag": "0XKmrBTyN/q8nEvs+k9usRw=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=AiwVyqAYEDSTCfeu2guAPRo1ZXYjw9EhdWXycGwQ46siFGM2LNIorqWrhDtxn9SILI9vEcXkqh8-nabAjuxE8e_nfWlLrQcx0-C2rTes-JuR7ZKmRXn2TeuChW8vIZEUPcNkpwzwRyK-ksGgG3zGZ1h_O-EHpi-diKneDkc18iGr5SSXnVVqUTrqMugDDGUjyGA&node=1i220",
+              "etag": "0XKmrBTyN/q8nEvs+k9usRw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "XKmrBTyN/q8nEvs+k9usRw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777043425266,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/F9H7D9dqSH-WdU7ORXnS9jMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Lubber Pandhu (2024)",
+  "media_kind": "movie"
+}
