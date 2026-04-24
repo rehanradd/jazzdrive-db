@@ -1,0 +1,71 @@
+{
+  "name": "Lucky Baskhar (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Lucky Baskhar (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:11:15Z",
+  "remote_folder_id": 1752157,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001050",
+  "tmdb": {
+    "tmdb_id": 1239511,
+    "title": "Lucky Baskhar",
+    "original_title": "\u0c32\u0c15\u0c4d\u0c15\u0c40 \u0c2d\u0c3e\u0c38\u0c4d\u0c15\u0c30\u0c4d\u200c",
+    "release_date": "2024-10-30",
+    "year": "2024",
+    "rating": 7.6,
+    "overview": "A cash-strapped bank cashier embarks on a risky investment scheme and soon gets drawn into the murky world of money laundering.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/a47JQFl9L7VDa79tEvnTOJe0rPa.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/q8UyN4XhpmChtneZXdZ8fktQka6.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001050",
+    "status": "U",
+    "etag": "pA1GhbR03/qyZ2gsgO0PAQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001050",
+          "url": "/sapi/download/video?action=get&k=F6pQ93Ngnub3LK5-0QlRvJ6t7ObMvratjJgEtbRKKS_Glp8klqnSGPOGzmfe0r23YL9FnHMlPDNXRd0Es3yImKnb1axBloNIbNYfZV1LMTjQGJKY5vjaIpcFtu4uRPHv6yhQFHq_qJ_vKr7crVPaDy6R7bACMxFZx59GEXOiL7lHfpEDzdU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=4_ixY-XSq6F6EbROlIvDgjclct1pUkFnzI1FldaAcx9RY5EG9TnmxbQ-0IWcFszaT3qtTkAHosVAhudQNfX3LGvKeVMjUfyJOK78OKI5EDHo19g55ToutJTyp--QYAHDSBdfXPpecqtu7FvYRHfu6aFLqsXNXABPlhtNtRMBLKr20pk9eK0KT-UPnUaqS1fPzH8&node=1i220",
+          "date": 1777043474687,
+          "creationdate": 1777043225000,
+          "modificationdate": 1777043225000,
+          "uploaded": 1777043388889,
+          "size": 1648149926,
+          "name": "Lucky Baskhar (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=sncRKU5zOH0mahBH9Kab5CoX2B6XR22PSg4rob7zmGoLfs_KMorx1qNk6132j-JTwJkTyZdB-gf-Jq3rIu6k1sqWjod2BMQIqnI1TzbOrM873ha9UPNzIAFBI1FoWPFf-B4MqhLR9yE7sJGH4sITr3o5gHPbpKhFlw6NXGavLzrnyAbVAZRzXAJ-T200ium1Omg&node=1i220",
+              "etag": "0pA1GhbR03/qyZ2gsgO0PAQ=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=4_ixY-XSq6F6EbROlIvDgjclct1pUkFnzI1FldaAcx9RY5EG9TnmxbQ-0IWcFszaT3qtTkAHosVAhudQNfX3LGvKeVMjUfyJOK78OKI5EDHo19g55ToutJTyp--QYAHDSBdfXPpecqtu7FvYRHfu6aFLqsXNXABPlhtNtRMBLKr20pk9eK0KT-UPnUaqS1fPzH8&node=1i220",
+              "etag": "0pA1GhbR03/qyZ2gsgO0PAQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "pA1GhbR03/qyZ2gsgO0PAQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777043474724,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HyufBGx4SvC3EtumHZcnKDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Lucky Baskhar (2024)",
+  "media_kind": "movie"
+}
