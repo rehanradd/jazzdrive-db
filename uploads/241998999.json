@@ -1,0 +1,82 @@
+{
+  "name": "Dhandoraa (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Dhandoraa (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:18:02Z",
+  "remote_folder_id": 1751922,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241998999",
+  "tmdb": {
+    "tmdb_id": 1600883,
+    "title": "Dhandoraa",
+    "original_title": "\u0c26\u0c02\u0c21\u0c4b\u0c30\u0c3e",
+    "release_date": "2025-12-24",
+    "year": "2025",
+    "rating": 6.8,
+    "overview": "In a remote village, over a single day, four characters respond differently to the death of an upper-caste man named Shivaji.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hs3wQWyXPQEHxnMjXOXRoHY0dOG.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/81CU1x2f7hUsZF6WeCo6WQxYx7K.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241998999",
+    "status": "U",
+    "etag": "TvEt+BGUQe9IzaWnUgYaWA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241998999",
+          "url": "/sapi/download/video?action=get&k=ZW0qNJEu8srROSsRaz3J6kuUqD-L0LIU0HNblcJo03B_5m6_t-_9WKDZuX5XgGwwuC0hWIslT_FJx1N_3MDjXMALg3r_MO8MJwnU581Z6N85ulA8J72aAO6l7IxnG83s3_gx-VHDWA1X53bfFzZ0T1F1aeVy8R_WRpesYnl7V01DR5C_CTk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=H74AxN5ULKzuVO2qpTYpWD25Qe5dbswa5QyqgZUFyHYTo2oOKtvE0mWzL5lkan2Z_0WfvEK6viUJdukLk6-EyVrErUmDQlaLnHaOVHY8PWQIi8_m0xl9KhRTzzvR23imp89ub33h09Z-xzlPsgVaaqScJLKBONwkivd7irPDDjFFBfnthbTOGtfZxB7vbo7QpEo&node=1i220",
+          "date": 1777033081304,
+          "creationdate": 1777032714000,
+          "modificationdate": 1777032714000,
+          "uploaded": 1777033020630,
+          "size": 1332387594,
+          "name": "Dhandoraa (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8071919,
+            "bitrate": 1320516,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=7fi-DAue0JyvkEnxeORHEu4kEGZW8bbwOXYKRaSbztWWnRXB23C7whp3YZQhQizLI3NMARngFoafDogd61ooz50s41pSR39MN16p353NVZqSmfb2de9X3LwipWQ499d1Qqntcc1kOrPcxcO_uaRxM25e9CQIb02neV1le9RVodX5VCF7Hq6U1d-cEhulMlGTVMQ&node=1i220",
+              "etag": "0TvEt+BGUQe9IzaWnUgYaWA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=H74AxN5ULKzuVO2qpTYpWD25Qe5dbswa5QyqgZUFyHYTo2oOKtvE0mWzL5lkan2Z_0WfvEK6viUJdukLk6-EyVrErUmDQlaLnHaOVHY8PWQIi8_m0xl9KhRTzzvR23imp89ub33h09Z-xzlPsgVaaqScJLKBONwkivd7irPDDjFFBfnthbTOGtfZxB7vbo7QpEo&node=1i220",
+              "etag": "0TvEt+BGUQe9IzaWnUgYaWA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "TvEt+BGUQe9IzaWnUgYaWA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777033081371,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/rtuZ6GxUQ7-6GbQUuFVE-zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dhandoraa (2025)",
+  "media_kind": "movie"
+}
