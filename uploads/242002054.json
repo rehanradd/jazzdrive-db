@@ -1,0 +1,83 @@
+{
+  "name": "Sookshma Darshini (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Sookshma Darshini (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:33:57Z",
+  "remote_folder_id": 1752293,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002054",
+  "tmdb": {
+    "tmdb_id": 950075,
+    "title": "Sookshmadarshini",
+    "original_title": "\u0d38\u0d42\u0d15\u0d4d\u0d37\u0d4d\u0d2e\u0d26\u0d30\u0d4d\u200d\u0d36\u0d3f\u0d28\u0d3f",
+    "release_date": "2024-11-22",
+    "year": "2024",
+    "rating": 7.242,
+    "overview": "Manuel returns with his mother to their former home in a middle-class neighbourhood. Suspicious of his intentions, Priyadarshini and her friends begin gathering clues, convinced he may be hiding something sinister.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rOZt5FVZC51keFRRUSzWGE5y1Rt.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jdSLtUpElZuKkqlY85n6YHZhVWB.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002054",
+    "status": "U",
+    "etag": "c+aTTMmy32O+YfZ4+qH2eg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002054",
+          "url": "/sapi/download/video?action=get&k=ThL_ib2Npcd7qACB3ir6qRPKU-x-75EPjsIh6eZl31yZ_SRvyizbgl9PNwN4hJlS5nOdMZhsGqkMHP5Nsn2OTbc15NIIp73z0_jquGNefj3bpgwmMIgGhO5lq9WwKHFENwAkB64BKE824_uen13KU6ThYkXW4v3DTknSO_pOim9A9fn7KIY&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=gJWN6zSN5epELsY4Ut4PoaV2foo-oeOzONN8v0Oere5NIUGQgQV6rjK_tn6p643jFXmtIcdnr-jBZpZexOhrwOY4pw3Sp6j3qBzeu7vZJn14F7U1CuXwb0HuxPPPSkO2vRnLu47vtFgGKcygqM1-oYw9el5ayeh8FiDvcSnlkHcp-EeXG-QuySKSti9EjpYkXdw&node=1i220",
+          "date": 1777052036754,
+          "creationdate": 1777051519000,
+          "modificationdate": 1777051519000,
+          "uploaded": 1777051904341,
+          "size": 1576301904,
+          "name": "Sookshma Darshini (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8460160,
+            "bitrate": 1490564,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Bewy4fDVIckAoXbVCfsuJGl3b-LIy-fzk6133FYHu_ij3RQv8cEZarG-v6SkLxhAiJD7HZG0wXf1zJLgqYOHTNWah66EdwFG4xd4vnQL3k79ZeRXQyjh6cW54zZOLu3uRKv-A9Cc2QM7ErzM2yfZwdL0qbe1uvNNRKcd9D46AaY_1xb5SEP7VE6tK4zfUXyYXuo&node=1i220",
+              "etag": "0c+aTTMmy32O+YfZ4+qH2eg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=gJWN6zSN5epELsY4Ut4PoaV2foo-oeOzONN8v0Oere5NIUGQgQV6rjK_tn6p643jFXmtIcdnr-jBZpZexOhrwOY4pw3Sp6j3qBzeu7vZJn14F7U1CuXwb0HuxPPPSkO2vRnLu47vtFgGKcygqM1-oYw9el5ayeh8FiDvcSnlkHcp-EeXG-QuySKSti9EjpYkXdw&node=1i220",
+              "etag": "0c+aTTMmy32O+YfZ4+qH2eg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "c+aTTMmy32O+YfZ4+qH2eg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052036817,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pcgHfMrmR76aB_KDXSeCqDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sookshma Darshini (2024)",
+  "media_kind": "movie"
+}
