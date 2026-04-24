@@ -1,0 +1,82 @@
+{
+  "name": "Pennum Porattum  (2026) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Pennum Porattum  (2026) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:21:28Z",
+  "remote_folder_id": 1752228,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001577",
+  "tmdb": {
+    "tmdb_id": 1054493,
+    "title": "Pennum Porattum",
+    "original_title": "\u0d2a\u0d46\u0d23\u0d4d\u0d23\u0d41\u0d02 \u0d2a\u0d4a\u0d31\u0d3e\u0d1f\u0d4d\u0d1f\u0d41\u0d02",
+    "release_date": "2026-02-13",
+    "year": "2026",
+    "rating": 5.667,
+    "overview": "When a woman and her dog face public hostility, a village's hidden tensions erupt. A stark examination of mob mentality, social judgment, and how communities can turn cruel when seeking to punish perceived wrongs.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8ZMLghRvo5qHwrAUH8k878SThy6.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001577",
+    "status": "U",
+    "etag": "0VZtK0a+i9QZ0GQ9H6zsBA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001577",
+          "url": "/sapi/download/video?action=get&k=6w_ZcTkT7V8w8Asq1Gv64Nv4SlGDVYBvp9A59iw8J26MsLwbGCyabtjntVNWKVMX0S7dcmWtT9y-UtCg66J0O8-_CiFKrkdglhJQJuQR2bzL70utL-KacFCHGoTj-3dds-3O59zMK9b9Mb9A83zhRnBe4pubKvrAc4HNP3ZVC4UgFurQH3Q&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=I5FOcrgPS-jycIHTu61w2F8zi0tRM-gVLiy1SsZEOb9TkoCrkjx3AmuYeUlX5RNNCkqmRq_V0NfRGIuwWGnFU8YmlKHj8bCAKWzApK533_LSHt2B7wcee59qfLBb9Fp0lP7cMaVz713osMVrA0TyQU-2qNBepd1Je7dv7yMJ1uHu4_qZI4fHf_0mAxIpCOH0gZk&node=1i220",
+          "date": 1777047688126,
+          "creationdate": 1777047507000,
+          "modificationdate": 1777047507000,
+          "uploaded": 1777047604617,
+          "size": 1171195470,
+          "name": "Pennum Porattum  (2026) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7162366,
+            "bitrate": 1308166,
+            "codec": "h264",
+            "height": 674,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 134,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=rUiDPK7EQYfZVodgyw06OQ7DKLLgKD4NaQnLL4FowTqgKQmPbsNixhkxDY4DiUXKpyvIC2YoR1GDWp1IwnzqHXDkO1rQCdTLXZf-AA8W7QLWde19Hbbf6O9_5iWdCXbwJeX9jQaCGbH_lq7nAXYpmyX1X7Eby0XYQpjL3WzZJxucNmVsXkEI4-ap8gQWpTx0KSY&node=1i220",
+              "etag": "00VZtK0a+i9QZ0GQ9H6zsBA=="
+            },
+            {
+              "w": 1024,
+              "h": 539,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=I5FOcrgPS-jycIHTu61w2F8zi0tRM-gVLiy1SsZEOb9TkoCrkjx3AmuYeUlX5RNNCkqmRq_V0NfRGIuwWGnFU8YmlKHj8bCAKWzApK533_LSHt2B7wcee59qfLBb9Fp0lP7cMaVz713osMVrA0TyQU-2qNBepd1Je7dv7yMJ1uHu4_qZI4fHf_0mAxIpCOH0gZk&node=1i220",
+              "etag": "00VZtK0a+i9QZ0GQ9H6zsBA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "0VZtK0a+i9QZ0GQ9H6zsBA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777047688186,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CyHbUmehTaSxUiFUMmmmNzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Pennum Porattum (2026)",
+  "media_kind": "movie"
+}
