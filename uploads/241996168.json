@@ -1,0 +1,41 @@
+{
+  "name": "GuestAgentRegKey.xml",
+  "path": "D:\\CollectGuestLogsTemp\\GuestAgentRegKey.xml",
+  "uploaded_at": "2026-04-24T01:45:29Z",
+  "remote_folder_id": 1752017,
+  "mediatype": "file",
+  "stream_link": "",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241996168",
+    "status": "U",
+    "etag": "4bRXZR0Umgyu0DoecOoV2Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "files": [
+        {
+          "id": "241996168",
+          "url": "/sapi/download/file?action=get&k=5IAdRPc0Rb5khgbEPQ_VOSX2ZqU5Wck9tAbf38R10UqZSeBEVKPt_XfzyevquBPFup2PonaRBRppDHzCtnF2T_J6AykFppsPXUFoa0iYWecIjDjuRUeGLzzIWUBNlgvI1Tmq_dlJ-HTeWKQDFDnsj3iAGGC1QDJEOnEnriapXRXL3Xiyemw&node=2i182",
+          "date": 1776995128695,
+          "creationdate": 1776995129000,
+          "modificationdate": 1776995129000,
+          "uploaded": 1776995128608,
+          "size": 745,
+          "name": "GuestAgentRegKey (1).xml",
+          "mediatype": "file",
+          "status": "U",
+          "etag": "4bRXZR0Umgyu0DoecOoV2Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1776995128779,
+    "type": "file"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/tYC55LowSgeGr7QWiN2GIzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Guestagentregkey",
+  "media_kind": "file"
+}
