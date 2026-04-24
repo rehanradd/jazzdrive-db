@@ -1,0 +1,83 @@
+{
+  "name": "Mirai (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mirai (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:42:39Z",
+  "remote_folder_id": 1752183,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001212",
+  "tmdb": {
+    "tmdb_id": 1222479,
+    "title": "Mirai",
+    "original_title": "\u0c2e\u0c3f\u0c30\u0c3e\u0c2f\u0c3f",
+    "release_date": "2025-09-12",
+    "year": "2025",
+    "rating": 6.2,
+    "overview": "Following the historic Kalinga battle, where King Ashoka of the Maurya dynasty emerged as the winner, he chose to walk the path of peace instead of continuing warfare. Yet, the kingdom appointed nine warriors to protect some ancient scriptures rumored to have the ability to make someone divine or godlike.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gVzWHYThVODV5MgccDoyQxPFXve.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1Xw1Gh4XTWwrkIIISOGFBMPvO8.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001212",
+    "status": "U",
+    "etag": "aR30a2X1BHyaP684Z6rQLw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001212",
+          "url": "/sapi/download/video?action=get&k=t-CgbviglAxM7oWclokJ4_7ZIiTEEZY9z0EJMG87caBpgmiHFmohk-EhbZBkrIS60RSzGX9XfrD-Nr2xuQh-242NwgcAWQxAhQ3qBcA2pJvpbxve5w5dIe7w88XwLYWp3MLDz6xyj-iviMadSMKq0XmrttAypwxaZ62tb1OZ8WJQGn2DY_s&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=HS-xY6fLeTYop_5XJbwhqqv0cLjhpYDZ_s46PI0YjmBVeKXadbKGLMEIJuIRTRUd_ncv2IDCLr1gfqFTY4Mb60LLXHBCynmYmyPKKVA6XT5sT8_MglZMNdAUAqeQzKy3puMsbj2fwgFjFepopxsAXu7bMaaIdRV0vz3yL-egfIavlVT2lM6-4qQlETfV7KBVrzQ&node=1i220",
+          "date": 1777045358416,
+          "creationdate": 1777044885000,
+          "modificationdate": 1777044885000,
+          "uploaded": 1777045277397,
+          "size": 1742990649,
+          "name": "Mirai (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9972992,
+            "bitrate": 1398168,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=E-XIck1KkzSO7Ltsn06ld8kcx1_AgNaDoVshBv0-xr3gqQR9LfLC1DLb0uL-BUIMLtXY63TJKX46jTz2Jmfd2GfxzUamMsk9JSg38fart-ja6ChL_l5eSucavXlzw0KC9QLL5NsJun31wl9MnctPINTkwK38XvEjD1wuRfmOWoA-BIsbuuM9NoYkXjKhkwU61Wo&node=1i220",
+              "etag": "0aR30a2X1BHyaP684Z6rQLw=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=HS-xY6fLeTYop_5XJbwhqqv0cLjhpYDZ_s46PI0YjmBVeKXadbKGLMEIJuIRTRUd_ncv2IDCLr1gfqFTY4Mb60LLXHBCynmYmyPKKVA6XT5sT8_MglZMNdAUAqeQzKy3puMsbj2fwgFjFepopxsAXu7bMaaIdRV0vz3yL-egfIavlVT2lM6-4qQlETfV7KBVrzQ&node=1i220",
+              "etag": "0aR30a2X1BHyaP684Z6rQLw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "aR30a2X1BHyaP684Z6rQLw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777045358471,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/m11-DjHFT7ifyeOrCFz6mzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mirai (2025)",
+  "media_kind": "movie"
+}
