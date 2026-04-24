@@ -1,0 +1,83 @@
+{
+  "name": "Gaganachari (2024) - Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Gaganachari (2024) - Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:56:52Z",
+  "remote_folder_id": 1751950,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999839",
+  "tmdb": {
+    "tmdb_id": 874763,
+    "title": "Gaganachari",
+    "original_title": "\u0d17\u0d17\u0d28\u0d1a\u0d3e\u0d30\u0d3f",
+    "release_date": "2024-06-21",
+    "year": "2024",
+    "rating": 7.5,
+    "overview": "A dystopian comedy that takes place in the 2040's, where an apartment inhabited by three problematic bachelors soon becomes a haven for an extra-terrestrial female fugitive.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qTrGkS3Khx2Vj7Z3IplpiDqBkwv.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7CVWvqO0huXURgVnuhgNQA1s8P2.jpg",
+    "genre_ids": [
+      878,
+      35,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999839",
+    "status": "U",
+    "etag": "CMaQFmSkxQypAutB7mcwBg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999839",
+          "url": "/sapi/download/video?action=get&k=pEsLtbVa3Szbnkc9p8xq0gMpF0OnQHcVZyWXG5nIDTL2Eo3loYwSjAbCmunugoywdztxEGspgZlk0_SeJpdAjWW2zgXYf8By4WDOG0ZUR34p_CQI3k5_SMd80gOKlAxGU-TLp9gl3U-8GTGm0PI_VrAH_OsFKjQBht1qZuoLNoxlPHtGPX8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=tlQko7K4-3GQbLZOngmNT2y9E2knXjVVEqLeKP3TlxWgQAwl_C58sHjV0lBf9w_i_Va0W8GQTO5-LdiSBk1iVnmGkhhHEFIvtkt_31b-kQObptOzsl9SnEjafUEetN5aIsI2tbVeMHkktJo2U85-2OW7jFSYapp3hftmPQSdhGOqeIv2JNFb5lXeDvos_iuS6YA&node=1i220",
+          "date": 1777035412146,
+          "creationdate": 1777035033000,
+          "modificationdate": 1777035033000,
+          "uploaded": 1777035363011,
+          "size": 1449966561,
+          "name": "Gaganachari (2024) - Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6853568,
+            "bitrate": 1692510,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=TFjWjcQUGVRpbPhY9sMMDO8S2zYZl58Kqk1SAmGWWEkD3d0Im2jQgwKArHmPrCO4YZ-V2xXDpWolkJGbwSR1qVYankHYvp7mmjxxZMNqGmQyzWlWrKyDT85i2tmJg_b_g5ucLEPQyg9TrcyB4WQLQdcYqwzIBmc_eXtH0HKTid9sTSVxUVsg06ifVX4RLbUYrS0&node=1i220",
+              "etag": "0CMaQFmSkxQypAutB7mcwBg=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=tlQko7K4-3GQbLZOngmNT2y9E2knXjVVEqLeKP3TlxWgQAwl_C58sHjV0lBf9w_i_Va0W8GQTO5-LdiSBk1iVnmGkhhHEFIvtkt_31b-kQObptOzsl9SnEjafUEetN5aIsI2tbVeMHkktJo2U85-2OW7jFSYapp3hftmPQSdhGOqeIv2JNFb5lXeDvos_iuS6YA&node=1i220",
+              "etag": "0CMaQFmSkxQypAutB7mcwBg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "CMaQFmSkxQypAutB7mcwBg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777035412207,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/JnMd5LqgRgGplImWUplHczMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Gaganachari (2024)",
+  "media_kind": "movie"
+}
