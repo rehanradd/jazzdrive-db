@@ -1,0 +1,82 @@
+{
+  "name": "SWAG (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\SWAG (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:08:08Z",
+  "remote_folder_id": 1752268,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002023",
+  "tmdb": {
+    "tmdb_id": 1252542,
+    "title": "Swag",
+    "original_title": "\u0c36\u0c4d\u0c35\u0c3e\u0c17\u0c4d",
+    "release_date": "2024-10-04",
+    "year": "2024",
+    "rating": 6.0,
+    "overview": "The eternal battle of the sexes is played out across several generations of a family who seek to obtain a fortune.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/59j909O4PVE7vZxFU0JzuDzLuo7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/9sCYvQNrLmSYqgVne8iH9bsutw8.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002023",
+    "status": "U",
+    "etag": "6AFqXHbI0dO+ZXUHxGFL/A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002023",
+          "url": "/sapi/download/video?action=get&k=UjKk9mrJ3hM3tInubb9dulYZ57dvIRxeEM9QE-0R9bsWnpXPRrukP6DVy36KHAjFE-PIY5ZFWa1t9APjvp5oINMG-fR4bTj8GQLr1aHymzZQPXZRHMQnY2ffRM9ZuBjl-CHLtuezhwVzBMg6bsF32hZXnipzPRN9OViKfivAWhzRCxeSmVk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=zTjphvIz-y6_0lFoLKn1bQhon_VI5X2ri4JUh44j9qGQ54wI_pvexUDzE5h9Kyn6K9el1HFU1fvFtiuvlTgYL2F13Xz0J2IyUMxPTWf-oJCFphBxaZ1sOng5AdAmlU5D3kNzRKE5wkwmx_SCxvfwq7wz5a9YggUYKQfEBxbtt-4DA2DmnLOY7DGh8rJnmB2Nh4U&node=1i220",
+          "date": 1777050487908,
+          "creationdate": 1777050179000,
+          "modificationdate": 1777050179000,
+          "uploaded": 1777050372110,
+          "size": 1510203592,
+          "name": "SWAG (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9423200,
+            "bitrate": 1282115,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "eac3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=5t9_TO9AOkpON3DrloiO7_4QoodQ_ACw7FNegyE1mrPthcAcN4CeEKFnTHheuGn6aGiz_f2TJfA9zNrS4dvLM41n1Pv8lymnLE_uO3v1Gp0bPYOo_Vw5R3J-gI1HVULbamvl9f9d9mFvQnR14y7nikazglWurpZdleG-lZnQPP880nmGQ2c4-IOZH0Sr83iHGLw&node=1i220",
+              "etag": "06AFqXHbI0dO+ZXUHxGFL/A=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=zTjphvIz-y6_0lFoLKn1bQhon_VI5X2ri4JUh44j9qGQ54wI_pvexUDzE5h9Kyn6K9el1HFU1fvFtiuvlTgYL2F13Xz0J2IyUMxPTWf-oJCFphBxaZ1sOng5AdAmlU5D3kNzRKE5wkwmx_SCxvfwq7wz5a9YggUYKQfEBxbtt-4DA2DmnLOY7DGh8rJnmB2Nh4U&node=1i220",
+              "etag": "06AFqXHbI0dO+ZXUHxGFL/A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "6AFqXHbI0dO+ZXUHxGFL/A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777050487972,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fJG_9yhTRjiZ4a7nvzaELDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Swag (2024)",
+  "media_kind": "movie"
+}
