@@ -1,0 +1,82 @@
+{
+  "name": "Jatt And Juliet 2 (2013) Hindi Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Jatt And Juliet 2 (2013) Hindi Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:56:36Z",
+  "remote_folder_id": 1751998,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000226",
+  "tmdb": {
+    "tmdb_id": 203599,
+    "title": "Jatt & Juliet 2",
+    "original_title": "\u0a1c\u0a71\u0a1f \u0a10\u0a02\u0a21 \u0a1c\u0a42\u0a32\u0a40\u0a05\u0a1f 2",
+    "release_date": "2013-06-28",
+    "year": "2013",
+    "rating": 7.4,
+    "overview": "In order to get promoted, Fateh Singh, a constable, agrees to go to Canada and bring the commissioner's daughter back to her father. However, he ends up falling in love with her.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yJmq1RjPOFmiyfHOjjta7qF73ph.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fRwDKL8kuBZZNOtXvNxag8bXMYw.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000226",
+    "status": "U",
+    "etag": "kIG67mbt1IC/UOwifFVxBw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000226",
+          "url": "/sapi/download/video?action=get&k=oFohyqmeE-dz1ca02RTv_WZMU-wYCsMhXegaf11KzEp4c4qNWX_HKyhG6HmazSeL6dvqrDaON-15xYFOaT5j6ktylI2q0O2wmMlPkMsnB9ShIOK9jt4PacUsvTqqsNYYekvgZQj956lCbLqqKKLcmy5vw3irRZCaZuEqetvvhVJQ7jWwOQI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=iHhTO0dhOzlRT_7cr4Ybv5O3mhXBi3CFwTrwwDmYMgo__MN43a3-842iXVJISzOxgQ-u00PGiODF6VU3ABUEg36DlM3ljg2BjA88ZqO4vlmp0W-9OgLXpcktRdaHPP8SiEmhwj-RkLXOR8ZIIQVLnb6VTaCpwbKL0D70sgSAWc2Z4QFLZn_dT7XAt9MCKJgBEjg&node=1i220",
+          "date": 1777038995562,
+          "creationdate": 1777038651000,
+          "modificationdate": 1777038651000,
+          "uploaded": 1777038931566,
+          "size": 1525832428,
+          "name": "Jatt And Juliet 2 (2013) Hindi Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8205684,
+            "bitrate": 1487585,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=g_vMgnJXcIPKx7Jn6_N-QvcT9jQbNkCp_He55rNDha_xYtK2JP64aqTa51KhaMV9OC28EPu7LYNyh0p-I4aDAFS7AlZ5lXpKVZnGD3WYb6kUSjcbsO8d2QjLrSbZjf3ectppjmGfKGvVC4i8pZwnWQGd0xxQS5R1Au7iB-hEa0caMprKOa7lEZKwBxtnhIoWzsM&node=1i220",
+              "etag": "0kIG67mbt1IC/UOwifFVxBw=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=iHhTO0dhOzlRT_7cr4Ybv5O3mhXBi3CFwTrwwDmYMgo__MN43a3-842iXVJISzOxgQ-u00PGiODF6VU3ABUEg36DlM3ljg2BjA88ZqO4vlmp0W-9OgLXpcktRdaHPP8SiEmhwj-RkLXOR8ZIIQVLnb6VTaCpwbKL0D70sgSAWc2Z4QFLZn_dT7XAt9MCKJgBEjg&node=1i220",
+              "etag": "0kIG67mbt1IC/UOwifFVxBw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kIG67mbt1IC/UOwifFVxBw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777038995625,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Ba5H5MzuSf6xnoYlXo368jMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jatt And Juliet 2 (2013)",
+  "media_kind": "movie"
+}
