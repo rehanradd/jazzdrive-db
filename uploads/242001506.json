@@ -1,0 +1,81 @@
+{
+  "name": "Once Upon a Time in Madras (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Once Upon a Time in Madras (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:03:40Z",
+  "remote_folder_id": 1752210,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001506",
+  "tmdb": {
+    "tmdb_id": 1398967,
+    "title": "Once Upon a Time in Madras",
+    "original_title": "\u0b92\u0ba9\u0bcd\u0bb8\u0bcd \u0b85\u0baa\u0bbe\u0ba9\u0bcd \u0b8e \u0b9f\u0bc8\u0bae\u0bcd \u0b87\u0ba9\u0bcd \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbe\u0bb8\u0bcd",
+    "release_date": "2024-12-13",
+    "year": "2024",
+    "rating": 8.0,
+    "overview": "In Chennai, along the Koovam River, 9-year-old Dinesh's life ends tragically when he's shot by retired army officer Krishnaraja in a fit of rage. Confusion ensues as the police investigation fails to identify the shooter. Krishnaraja disposes of the gun in the river, but its discoveries by a few people sets off a chain of events with unforeseen consequences.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/waJePev0h6x1zORqCm4A54rfS8p.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/vWkfGnXTaRCrwL60GTarwImLOuQ.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001506",
+    "status": "U",
+    "etag": "AiJNKZ+7glgCUJeI8opPYw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001506",
+          "url": "/sapi/download/video?action=get&k=wb2wQiRst-mf7V13aBAfw9kQH1AGvpTRDFZmabwBn2CmP1ARbSckG2jVIs1goCoSN8Iy--Ez5-rbFKN1bAzvhCXOPMTBF3F_M54av4LTm8nsYVHgcILsNrQCjolkiIKhlrfDtEMEc9u40YoJWG3AoFQDWWk38NIFYtUwUHl1jextQodQfAg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=8Q9qY7euEi_yITbegUlBij4J4R2Xx1G3eLswORgHrT0gSd1V5VNCprc9Y-DQBhqnEIg5Wfa85uzLW8339yKxHEN0mJHLKdm-RsxhxHMJ7C6FydUTd9fFU1vZV2fdFf3WBk_wBMvdyWxN1k_WkDM0Bqerr4zvN-oLlENgfbcMsw7TBeT0D_Pfe5rWto0CDTsAmZ0&node=1i220",
+          "date": 1777046619751,
+          "creationdate": 1777046492000,
+          "modificationdate": 1777046492000,
+          "uploaded": 1777046556856,
+          "size": 979075637,
+          "name": "Once Upon a Time in Madras (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7233386,
+            "bitrate": 1082840,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=1qtKX1DM_PiNYvpFbxVniVTTiUaNtYtPSK6oULLGvHk8DgkEmOVvdSBmO3mox71twecyeA2YrY9Ds8JBx1Z0waoDu7NALFSZdZlXtbepgkBz9Od7H79HSd9TdyBF3b-Dc7YukAKXhg3D_tgsMklCHYO32FCG6Xrur_gjp2G0xJ-V4XuGIXKYWjRI2Yqe9Mr__ZE&node=1i220",
+              "etag": "0AiJNKZ+7glgCUJeI8opPYw=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=8Q9qY7euEi_yITbegUlBij4J4R2Xx1G3eLswORgHrT0gSd1V5VNCprc9Y-DQBhqnEIg5Wfa85uzLW8339yKxHEN0mJHLKdm-RsxhxHMJ7C6FydUTd9fFU1vZV2fdFf3WBk_wBMvdyWxN1k_WkDM0Bqerr4zvN-oLlENgfbcMsw7TBeT0D_Pfe5rWto0CDTsAmZ0&node=1i220",
+              "etag": "0AiJNKZ+7glgCUJeI8opPYw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "AiJNKZ+7glgCUJeI8opPYw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777046619812,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/zOZsqs65QG6-fchrodknmjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Once Upon A Time In Madras (2024)",
+  "media_kind": "movie"
+}
