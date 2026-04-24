@@ -1,0 +1,83 @@
+{
+  "name": "Jatadhara (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Jatadhara (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:58:40Z",
+  "remote_folder_id": 1752100,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000240",
+  "tmdb": {
+    "tmdb_id": 1444973,
+    "title": "Jatadhara",
+    "original_title": "\u0c1c\u0c1f\u0c3e\u0c27\u0c30",
+    "release_date": "2025-11-07",
+    "year": "2025",
+    "rating": 4.0,
+    "overview": "Shiva, a rational ghost hunter, man of science and reason\u2014is drawn back to the mystery of a powerful guardian spirit named Dhanapisachi, pulled into a world where his beliefs are tested.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/91aJa79gHiTUWh86XFRMaD2MGjj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/l9Xe6L1QuM5DQsSthMPN3yPwfJK.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000240",
+    "status": "U",
+    "etag": "UMdquzXevYxiJvp9Crzf6g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000240",
+          "url": "/sapi/download/video?action=get&k=Ylz9ocsNAG7x_lsOV7l5bUZ0BCB0wRVVEhbl1Bz5yClp6vItWyX5k3lfrm4rtPDyeDyBQvpzkgkQjmrOrhunoCten4DmXKUzZtChmICGpYarvUk7KizLvR2XcJXmfo7aS41PXbxl8k5zc3fypFsimkOtWYQHXKOmo7X7nE76AtWFrC8Vd3E&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=9tM8bWFkSbvOPpas2dho8Jm8LFX4Sg3KXbszf3l_jvPEXOOaEVUkOj49gdADt9-5oG7o-jGFSwXRgokqBxcGHu-Ow-FRlbaqQk1V37hXchkp3KQrteKZka0QtebbqYfALyowA3FRgeD-ov5ZXNA5lYAN8C8azAOYLffHnHgrlgc1Day-FeHPOqcYLSsViC4oNrs&node=1i220",
+          "date": 1777039119624,
+          "creationdate": 1777038755000,
+          "modificationdate": 1777038755000,
+          "uploaded": 1777039051714,
+          "size": 1326081669,
+          "name": "Jatadhara (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7687998,
+            "bitrate": 1379898,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=MVDcgZv4Ic5Se7Ysoa-D96MstM1pL5T8tlWbUhFWKISSAWtXVbuMAMcGThamggiwrUk0AG-V8ACq_RJ7GDvkt83RVBf2plFDmCN-yc3k2b3j8qfbwXUW3T8QgPNjTeh5dd7wKLzEwOGZTlhy67KbkYIjM-UVvtR99AoPqLjvkT5yorQvHr96kFz1jsGn1uhKLD8&node=1i220",
+              "etag": "0UMdquzXevYxiJvp9Crzf6g=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=9tM8bWFkSbvOPpas2dho8Jm8LFX4Sg3KXbszf3l_jvPEXOOaEVUkOj49gdADt9-5oG7o-jGFSwXRgokqBxcGHu-Ow-FRlbaqQk1V37hXchkp3KQrteKZka0QtebbqYfALyowA3FRgeD-ov5ZXNA5lYAN8C8azAOYLffHnHgrlgc1Day-FeHPOqcYLSsViC4oNrs&node=1i220",
+              "etag": "0UMdquzXevYxiJvp9Crzf6g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "UMdquzXevYxiJvp9Crzf6g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777039119681,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/eDbXbEhvQ5KaNsX9FGXP1jMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jatadhara (2025)",
+  "media_kind": "movie"
+}
