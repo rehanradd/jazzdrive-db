@@ -1,0 +1,82 @@
+{
+  "name": "Jango (2021) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Jango (2021) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:56:18Z",
+  "remote_folder_id": 1751997,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000224",
+  "tmdb": {
+    "tmdb_id": 866370,
+    "title": "Jango",
+    "original_title": "\u0b9c\u0bbe\u0b99\u0bcd\u0b95\u0bcb",
+    "release_date": "2021-11-19",
+    "year": "2021",
+    "rating": 4.8,
+    "overview": "A neurosurgeon who is stuck in a time loop tries to save his estranged wife from being killed by a mystery man.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/dEsyVsBnJBEiBi7yBY3BAVZOw2U.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/dv5NOxG6BMK49y5U7Ygg8M1qMPV.jpg",
+    "genre_ids": [
+      878,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000224",
+    "status": "U",
+    "etag": "kDPycv5JnwWO2p4TH+HJsg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000224",
+          "url": "/sapi/download/video?action=get&k=UPdy8RrCJ2paKd-4UDTxEV3KfsyST329m1QpErSoI4ocJ9oWzmLpL12n4GHm_CyT2NREFq940fY54pla8zPbBkmUl8ZucwQHtDg-nPEHhtj3i4VTsA_n04bkNaQo0XstjgxPSW5Ivnmows4_2BhXngeFbSp7P1wV4NAy96RoCtGogOcM67o&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=KOEIROEUmjz28179-H_jF269gIk3SXVt_LwmSMTjQpxjPKnCnRjsjEslwY6lXIVRe-0upQl4aekW3Ye7_2SUlk3wnvUV5qsq9hAURpHUG7mzZ5MmyAic_jVlpYrnwhkMpT9duoFTn2kx1C1FBQAbT31w6aNmMq8Dg6QQW79HPP3DNCU9qWpdX07SuK47olZccHI&node=1i220",
+          "date": 1777038977862,
+          "creationdate": 1777038493000,
+          "modificationdate": 1777038493000,
+          "uploaded": 1777038907500,
+          "size": 1590512930,
+          "name": "Jango (2021) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8566196,
+            "bitrate": 1485385,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=imjf28vXbnJavE-aBAWH0pkTwq2T-hUY0KeBqIfAelC2R8c4rVe2rRK5euebQNta7yqqHki8jczXcmx2bxcnHwl7re54umkmho1b8EfGpR0l6cJOXK5dtW4v7SdRR3OaY8qpoveOuNeOVQW50tykPnB4YVVmyR_Tx-W3fk_JKMW4d-X7WHFcvptDBCC5d8LNmag&node=1i220",
+              "etag": "0kDPycv5JnwWO2p4TH+HJsg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=KOEIROEUmjz28179-H_jF269gIk3SXVt_LwmSMTjQpxjPKnCnRjsjEslwY6lXIVRe-0upQl4aekW3Ye7_2SUlk3wnvUV5qsq9hAURpHUG7mzZ5MmyAic_jVlpYrnwhkMpT9duoFTn2kx1C1FBQAbT31w6aNmMq8Dg6QQW79HPP3DNCU9qWpdX07SuK47olZccHI&node=1i220",
+              "etag": "0kDPycv5JnwWO2p4TH+HJsg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kDPycv5JnwWO2p4TH+HJsg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777038977924,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MBj0DuPRSem-1MsObED0STMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jango (2021)",
+  "media_kind": "movie"
+}
