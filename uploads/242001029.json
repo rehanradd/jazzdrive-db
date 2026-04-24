@@ -1,0 +1,83 @@
+{
+  "name": "Little Hearts (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Little Hearts (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:55:22Z",
+  "remote_folder_id": 1752143,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001029",
+  "tmdb": {
+    "tmdb_id": 1440700,
+    "title": "Little Hearts",
+    "original_title": "\u0c32\u0c3f\u0c1f\u0c3f\u0c32\u0c4d \u0c39\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c38\u0c4d",
+    "release_date": "2025-09-05",
+    "year": "2025",
+    "rating": 6.6,
+    "overview": "Akhil, when failed in EAMCET exam, is forced into long-term coaching after heartbreak teaches him the difference between true and shallow love. At the center, he meets Katyayani and falls for her, only to be rejected for a strange reason. Determined not to lose her, his humorous and transformative journey to win her heart becomes the soul of the story.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8QcQ0DP76YpY4VS8bsB53H8Fpwj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wN0epLoxu8pbvde68M9IZG5T8eD.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001029",
+    "status": "U",
+    "etag": "YOafRHHnH2yFz1cIn8uqAg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001029",
+          "url": "/sapi/download/video?action=get&k=wwO1OV8Xx3g2nmysfZr3z_k60ZStJB9FY_tgr6s8edU3kU4i3P9nQflLo61B5N9OWgLJLXmbPRHr5gqQllQgUKnx0FWboc5dxNCWwxfvDsg3xbeZpmAbBqwGFzsOz-lwxc7XYUzl4hsWd1FaZSfBCElnvfAJVKvhZr54_lbfqeMUyKJnUFA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=Q19Ai29wEe2KfF5ySh4EjKjmTGtbNOidsHX2QbeCjPe86J7BI7Am04Yp1e5saAR2nvOGrzpPUDmBauX8pfvPiBw4Gb2zEdu5IBelmTdZiLbzCx87eUZw1XNy9_-RP3E1HBYSQy4qmrlU6mHLYt6kdA90Cw1oPl97tSifj67mBZ25HEVkyhxjUShQI3-GB6e3pcM&node=1i220",
+          "date": 1777042521765,
+          "creationdate": 1777042269000,
+          "modificationdate": 1777042269000,
+          "uploaded": 1777042435883,
+          "size": 1245664608,
+          "name": "Little Hearts (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7572862,
+            "bitrate": 1315924,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ANSTzE8D7jtMk33FsEul8IFMVXzapk4V38_0VsVFH58DJ58jX3rgRJlG__HrKTMrBifOqAlt9Sq3cdYMy_3oqWk5o8JkK8IahIUz5Cancg7sPcCASX59ARVxlQGvu2Z2vQ6HQd5W9OFES_9vHKbcfshsVcmRtyG1cZ5ZgU4lH-OF3NJKcvwW7x_uMMdK1gxPHY4&node=1i220",
+              "etag": "0YOafRHHnH2yFz1cIn8uqAg=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Q19Ai29wEe2KfF5ySh4EjKjmTGtbNOidsHX2QbeCjPe86J7BI7Am04Yp1e5saAR2nvOGrzpPUDmBauX8pfvPiBw4Gb2zEdu5IBelmTdZiLbzCx87eUZw1XNy9_-RP3E1HBYSQy4qmrlU6mHLYt6kdA90Cw1oPl97tSifj67mBZ25HEVkyhxjUShQI3-GB6e3pcM&node=1i220",
+              "etag": "0YOafRHHnH2yFz1cIn8uqAg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "YOafRHHnH2yFz1cIn8uqAg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777042521828,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/6dNJ2GdgR7KYm2O_N6FgaDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Little Hearts (2025)",
+  "media_kind": "movie"
+}
