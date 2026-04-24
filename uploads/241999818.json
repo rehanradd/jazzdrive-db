@@ -1,0 +1,82 @@
+{
+  "name": "Eko (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Eko (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:40:58Z",
+  "remote_folder_id": 1751939,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999818",
+  "tmdb": {
+    "tmdb_id": 1070186,
+    "title": "Eko",
+    "original_title": "\u0d0e\u0d15\u0d4d\u0d15\u0d4b",
+    "release_date": "2025-11-21",
+    "year": "2025",
+    "rating": 7.479,
+    "overview": "In the misty hills of Kaattukunnu, an aging woman and her servant boy struggle to survive the ghosts of the past, as the hunt for Kuriachan \u2014 a legendary dog breeder and outlaw \u2014 blurs the line between myth, memory, and vengeance, revealing that even in absence, he still rules the hills.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tXdFEmtqLm8tewIErDJgnbTS9qs.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1NegG8bZRn3Fc1wluAbMeR19rym.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999818",
+    "status": "U",
+    "etag": "Kc5y4Ny4meNWSwyEQd3mPg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999818",
+          "url": "/sapi/download/video?action=get&k=WD15RNU8IFvYLGTNGCUSpBkMrpBKej0hyw47R2N4HKSoTLmKdGwAayCmVWRq9UfwMUUoOS-GTsgAG4WOiWkf102gQUd1vhHUG2j6PiYWL2uZLh-OggToQ0at4euMGeGk638Mp4CGt-cr90_C3vvnlxpMlII-IJVJVs4eRKStzAJTEOTs8_4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=KNwoLRuYqGS_lspgOj-3c-F3j-0Ox0biqBuIgFj7FOUVhzvciveTaUfNv-OzbEAh-w-lC7DW-SgiLfdGk0qxB8HNxK-ihoKooPICsGbN1nI_aSTsmoPBcZMZb-Km3SlONKIsA6Mqh_hWP7zZOUshGyqf3dCDnuD-Fkf-udP_LhBnzBaS5IlwSg3Kz0FJExM50kw&node=1i220",
+          "date": 1777034457498,
+          "creationdate": 1777034185000,
+          "modificationdate": 1777034185000,
+          "uploaded": 1777034410608,
+          "size": 1235241507,
+          "name": "Eko (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7514110,
+            "bitrate": 1315116,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=FSg8HU4DQNGhByWFX5Zy0Ee-0zQV4KwbEvCmhkslAQ-p_dIxpcJ4j7kOz5LXVpnEcgsgC-Bzty2jZkq0-u0Qg7816Jv172t2H3iPRscttBTLuS8pFHZcbmKmlpH0xjsV0ABmFeieX_fV4yD6n88oTJ91pE1_Ds57_eyM6gebA2H7lV-6XE0LHPot5uEdk19U99o&node=1i220",
+              "etag": "0Kc5y4Ny4meNWSwyEQd3mPg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=KNwoLRuYqGS_lspgOj-3c-F3j-0Ox0biqBuIgFj7FOUVhzvciveTaUfNv-OzbEAh-w-lC7DW-SgiLfdGk0qxB8HNxK-ihoKooPICsGbN1nI_aSTsmoPBcZMZb-Km3SlONKIsA6Mqh_hWP7zZOUshGyqf3dCDnuD-Fkf-udP_LhBnzBaS5IlwSg3Kz0FJExM50kw&node=1i220",
+              "etag": "0Kc5y4Ny4meNWSwyEQd3mPg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Kc5y4Ny4meNWSwyEQd3mPg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777034457571,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/EMcMWfYdSX2rkUP9uI_gOzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Eko (2025)",
+  "media_kind": "movie"
+}
