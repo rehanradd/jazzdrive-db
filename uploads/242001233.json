@@ -1,0 +1,81 @@
+{
+  "name": "Moonwalk (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Moonwalk (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:43:19Z",
+  "remote_folder_id": 1752188,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001233",
+  "tmdb": {
+    "tmdb_id": 792855,
+    "title": "Moonwalk",
+    "original_title": "\u0d2e\u0d42\u0d7a\u0d35\u0d3e\u0d15\u0d4d\u0d15\u0d4d",
+    "release_date": "2025-05-30",
+    "year": "2025",
+    "rating": 6.2,
+    "overview": "It's the year 1987. Youngsters living in the outskirts of Thiruvananthapuram start exploring breakdancing.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/72UnYskIKh9LTVIIV9wmDjTsB6d.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/yb6BBgvHJp6Q3JYuSEeckm1uWZE.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001233",
+    "status": "U",
+    "etag": "P7JjQwPgpnqUdYZzyeOWRQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001233",
+          "url": "/sapi/download/video?action=get&k=xGRYmKl7HjteBV6zvN-euEvnUOlE8WuwezfS-hm4WJnWI2o7uAhhD8X6sDAoYV3bTSutOMMYSu6KPEoZ7UXYLfdDz1O0vdqC0kGHD62BZmKHej4oT9JuZsNLaRgdpsvBPTYPVsQOy4Mw7pSHn3RoE85ve6nqUyUvUY127Nzw8wza6Vr8SrM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=1GPSpDIPoM2Bg74xP1B8aUgJE6SO8RcIJwE9VpXnTq6c3w3PDN3RxMWdUla6m3kkSOFtyGyBdVhAZgT-PSwsHeb2BZxOCcibhe1XxkAmTBO_nj5QCCPAbwlRI__Tr-E7ap--T7MhGY0JczAIw9mFyC3OPITLc8E_5g1-3DvpoyIxo7PeyhYgvPpgP3MLSjWmbZA&node=1i220",
+          "date": 1777045398829,
+          "creationdate": 1777045224000,
+          "modificationdate": 1777045224000,
+          "uploaded": 1777045334962,
+          "size": 1151900305,
+          "name": "Moonwalk (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7000105,
+            "bitrate": 1316437,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=PzxlO6Dr-aocRnlig2Y-AdcUz8UEB5CLMMKxfUA5EJx4Z0B-ej9xExxpMAkUbi3LmWzOk1VtUvMx7ko6z3TJTQAm27BtN7N1lskcTKrVKuc6JorM7raKh7lxbDHCNtVLDfWUHxVKLkMbDDYJA_DHC2H-yCbiC-zj1mzB46S7ymB9YDA-HphoD9NTSkL44YMiCLQ&node=1i220",
+              "etag": "0P7JjQwPgpnqUdYZzyeOWRQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1GPSpDIPoM2Bg74xP1B8aUgJE6SO8RcIJwE9VpXnTq6c3w3PDN3RxMWdUla6m3kkSOFtyGyBdVhAZgT-PSwsHeb2BZxOCcibhe1XxkAmTBO_nj5QCCPAbwlRI__Tr-E7ap--T7MhGY0JczAIw9mFyC3OPITLc8E_5g1-3DvpoyIxo7PeyhYgvPpgP3MLSjWmbZA&node=1i220",
+              "etag": "0P7JjQwPgpnqUdYZzyeOWRQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "P7JjQwPgpnqUdYZzyeOWRQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777045398884,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/0vSOnxSrRTWonS-gFqgwRzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Moonwalk (2025)",
+  "media_kind": "movie"
+}
