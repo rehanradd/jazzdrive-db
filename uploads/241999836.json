@@ -1,0 +1,83 @@
+{
+  "name": "Family Padam (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Family Padam (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:55:39Z",
+  "remote_folder_id": 1751947,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999836",
+  "tmdb": {
+    "tmdb_id": 1383201,
+    "title": "Family Padam",
+    "original_title": "Family \u0baa\u0b9f\u0bae\u0bcd",
+    "release_date": "2024-12-06",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Being a Middle Class Family That Can Afford Movie Tickets, They Dream of Producing a Whole New Movie to Fulfill Their Younger Son's Wish to Rediscover Himself Which Brings Grave Challenges",
+    "poster_path": "https://image.tmdb.org/t/p/w500/uN9APj5ad7UIgdmnRZwuxJy9eVA.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6lyGdoAqVvkSAAURGv0iRilYxJI.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999836",
+    "status": "U",
+    "etag": "3BAzX1F9mG93X0JA7sUMAQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999836",
+          "url": "/sapi/download/video?action=get&k=M53Ccucp_9W6L8E_Hq0-gH7P0uQDCZGO86EsP0VR_B5P0J8rEzs1Fd2_RScEiknb1fuayG62RiH1ngiNo7LZyKggLqLaj5t081xPnbqbTJhBwGoJKkSOjpUT2HIbkwciQoLFSeNHZPmXJ-AYjympXdxG-KLSxWhALZoUlEX0L5iJToQxO0g&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=_Lp1ndcBV8hm_VdIONkhyiSDDhbmPgxCcMCt1albw-0Rq3lj-uwEx6QqsxcAb1xhDfSqKpmtiPHSXTx9fr5UrjnU8C4DAsc7_Tjc2Hit3mCVGFvgAfNDV6hzCFdqPrVan6UpZuoCSZkVdkOoCdBu4HQeHcDax7gMqeEri-TFMl8zpR5A4d6iL-qv2jg94soxNdA&node=1i220",
+          "date": 1777035339104,
+          "creationdate": 1777034859000,
+          "modificationdate": 1777034859000,
+          "uploaded": 1777035271295,
+          "size": 1766004240,
+          "name": "Family Padam (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7783189,
+            "bitrate": 1815198,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=GX7xlnyiW0wdDnZvpr4aQrLD8Sx6bq6LPQMaBDGIpSMSwgt0vGFHSxyP-VYrZWnbB4EDAMjVDlBmJbLI5OTsKz4_L1fxdw_rVv2DZUshfhYr_1PgI3Jbon2sEaafV7pBoFUWsYvt3hM67elN8DTphdZ8uiVIVtzNPSOaGYERlbLTiGGCP0ihkdXOJa6IsPyc2qU&node=1i220",
+              "etag": "03BAzX1F9mG93X0JA7sUMAQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_Lp1ndcBV8hm_VdIONkhyiSDDhbmPgxCcMCt1albw-0Rq3lj-uwEx6QqsxcAb1xhDfSqKpmtiPHSXTx9fr5UrjnU8C4DAsc7_Tjc2Hit3mCVGFvgAfNDV6hzCFdqPrVan6UpZuoCSZkVdkOoCdBu4HQeHcDax7gMqeEri-TFMl8zpR5A4d6iL-qv2jg94soxNdA&node=1i220",
+              "etag": "03BAzX1F9mG93X0JA7sUMAQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "3BAzX1F9mG93X0JA7sUMAQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777035339163,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Fnfbwu_DTGqNpP1QxP7WtTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Family Padam (2024)",
+  "media_kind": "movie"
+}
