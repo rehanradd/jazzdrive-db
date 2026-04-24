@@ -1,0 +1,82 @@
+{
+  "name": "Swargam (2025) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Swargam (2025) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:47:33Z",
+  "remote_folder_id": 1752308,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002195",
+  "tmdb": {
+    "tmdb_id": 1372862,
+    "title": "Swargam",
+    "original_title": "\u0d38\u0d4d\u0d35\u0d7c\u0d17\u0d02",
+    "release_date": "2024-11-08",
+    "year": "2024",
+    "rating": 2.0,
+    "overview": "In the bustling city, two families live parallel lives, separated by wealth and social status. As the two families navigate their lives, they face challenges and triumphs:",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vvESXaz3562U7zT2BttrV5VTMLf.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      10751,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002195",
+    "status": "U",
+    "etag": "ztuOemfsv3zijPAxewb6jA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002195",
+          "url": "/sapi/download/video?action=get&k=WDTYqUQJb1QQSnNKA_-zjz3uiLIMHUewXR7GSG5cxaDK8nad330DQP_AOPYFaRdR4GsEdX9fMBxhQezb4wU2mw9_c8u_f6cc1GPNTjhrIvRcAcL7d-0HNGjlYQRn0Gq7MOFRaK7FO1vde4sq5_FxMSNx2gGRAqxO32A27E2GSu12qRpxnpw&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=PvN3pzm3LFSR1hJZZHeQdvoiOIp3YaNtc4cPtavRUjYG1G_tkVlWLchxf4KUASF-boZ_QPtRngAc48MtGHtmHk0-GCzZ2rgnAql9Mk8In0gj4iZ8U_9qWaFTuaDhIl7BsUoTS8Jud7NcOzvVcsVBEJYdY50sKGA7i_A8VIJ-ntfEAgjY0qksX908GVW8tjfxnr4&node=1i220",
+          "date": 1777052851833,
+          "creationdate": 1777052420000,
+          "modificationdate": 1777052420000,
+          "uploaded": 1777052737146,
+          "size": 1575923432,
+          "name": "Swargam (2025) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6523285,
+            "bitrate": 1932674,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=x4BThVVTdZnM504wo8rQtD9fgL1tazFnCJG0MeHH85gQR6_Jq_6RZ-voMpKHkYB-7bsZt5gV1fH_o7Qifi7IdYufqs87KsckUhUFwtBu_fhIPZTHIxKjWhc51-kPS5NVl9z8l5TGQg0k20iAa9X-2bDcV6PNk6wewQ4CQJHEUD6h7qhAdA7dSEa_QbzEYjZZZD0&node=1i220",
+              "etag": "0ztuOemfsv3zijPAxewb6jA=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=PvN3pzm3LFSR1hJZZHeQdvoiOIp3YaNtc4cPtavRUjYG1G_tkVlWLchxf4KUASF-boZ_QPtRngAc48MtGHtmHk0-GCzZ2rgnAql9Mk8In0gj4iZ8U_9qWaFTuaDhIl7BsUoTS8Jud7NcOzvVcsVBEJYdY50sKGA7i_A8VIJ-ntfEAgjY0qksX908GVW8tjfxnr4&node=1i220",
+              "etag": "0ztuOemfsv3zijPAxewb6jA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ztuOemfsv3zijPAxewb6jA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052851898,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/shsfpcYSQB-w6J2RfajftjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Swargam (2025)",
+  "media_kind": "movie"
+}
