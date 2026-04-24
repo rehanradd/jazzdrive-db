@@ -1,0 +1,81 @@
+{
+  "name": "Srikakulam Sherlock Holmes (2025) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Srikakulam Sherlock Holmes (2025) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:35:56Z",
+  "remote_folder_id": 1752300,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002082",
+  "tmdb": {
+    "tmdb_id": 1406816,
+    "title": "Srikakulam SherlockHolmes",
+    "original_title": "\u0c36\u0c4d\u0c30\u0c40\u0c15\u0c3e\u0c15\u0c41\u0c33\u0c02 \u0c37\u0c46\u0c30\u0c4d\u0c32\u0c3e\u0c15\u0c4d \u0c39\u0c4b\u0c2e\u0c4d\u0c38\u0c4d",
+    "release_date": "2024-12-25",
+    "year": "2024",
+    "rating": 5.7,
+    "overview": "A string of beach murders rocks a coastal town, prompting police to hire a meticulous private eye. His investigation zeroes in on seven suspects, including a village couple, after a young girl's killing sparks public outcry.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5uFqY6ksaKQVC3DdV1mA5IjMlgr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6364Vcf40IHdRfxv2pyXy6pfmXp.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002082",
+    "status": "U",
+    "etag": "9YsKXJis3acBN9IodFsd6w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002082",
+          "url": "/sapi/download/video?action=get&k=Pr4dPkLI5QJCcilGDtKZF48iesv5lgi91K6iNAvkmbQjyoXQQOyM6-D22bw5WlTQJ0r3a-kpfqgBq4lvYtdVeCySQf09rmrADFmcKJ3kWluHHgxOpyPeu_LrQg13QPkTuTzu5FqaUXlm5yH7sH5cIq32VUrVBkjjaPtXM63pxufdFNP6LFk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=G9I22F6N5ZELIRNVJp-82MCgO3FJuqviVAVkoHRCOOCc5qO8oxP9q6dw3nBAf6llFzykb98QO9B4zpBVZd9Cs8_BnzBDrmryibFZ7sjHV07zvJA0I6GLVM4jK9xex-nJ9T2dMc9HXBZnngaMAQJ8LLqtKvzl7A0zBrJtHAuzscVjHnkOSH5BGE__CvB-3V14UcI&node=1i220",
+          "date": 1777052154907,
+          "creationdate": 1777051952000,
+          "modificationdate": 1777051952000,
+          "uploaded": 1777052077918,
+          "size": 1771209390,
+          "name": "Srikakulam Sherlock Holmes (2025) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7672448,
+            "bitrate": 1846825,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=qeVpa7HqELATEKuKODzLg7ItcqHTKcgR1rMhOxMFic0KIxU3pioTtFc8LxxTVubw5XvUvpxEXz6Ji0JZzhY-ioSsLXVXJBtu1WwoosDf1UfZS3E1ApfrzYi3XLJs7lrWP3wMgDboxu4bW3ajh24GH7hJG1yJjC2NykNXxM9EI4hruDoOh_kwiUjx-6ehXNHfxEg&node=1i220",
+              "etag": "09YsKXJis3acBN9IodFsd6w=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=G9I22F6N5ZELIRNVJp-82MCgO3FJuqviVAVkoHRCOOCc5qO8oxP9q6dw3nBAf6llFzykb98QO9B4zpBVZd9Cs8_BnzBDrmryibFZ7sjHV07zvJA0I6GLVM4jK9xex-nJ9T2dMc9HXBZnngaMAQJ8LLqtKvzl7A0zBrJtHAuzscVjHnkOSH5BGE__CvB-3V14UcI&node=1i220",
+              "etag": "09YsKXJis3acBN9IodFsd6w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "9YsKXJis3acBN9IodFsd6w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052154982,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/4aipfV0cRn24PJIfzyJ5IDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Srikakulam Sherlock Holmes (2025)",
+  "media_kind": "movie"
+}
