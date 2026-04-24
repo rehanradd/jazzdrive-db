@@ -1,0 +1,71 @@
+{
+  "name": "Dragon (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Dragon (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T12:37:48Z",
+  "remote_folder_id": 1751934,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999813",
+  "tmdb": {
+    "tmdb_id": 1273049,
+    "title": "Dragon",
+    "original_title": "\u0b9f\u0bbf\u0bb0\u0bbe\u0b95\u0ba9\u0bcd",
+    "release_date": "2025-02-21",
+    "year": "2025",
+    "rating": 7.6,
+    "overview": "Raghavan transforms from a school topper into a \u201cbad boy\u201d to score girls in college, but ends up a heartbroken dropout. He then cons his way into a successful finance career, but the lies keep building and maintaining the facade proves tricky.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vKNJPuejtE6Xrp6RK6LKsQcbL8L.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8y8pxJwYEK1WvQAfoZTwC601eD8.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999813",
+    "status": "U",
+    "etag": "IGIfn95+Ynxd8bAhfAPE2A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999813",
+          "url": "/sapi/download/video?action=get&k=rP9FPscDexM5A-tc-mgqpZCUMX_1fRhZzs_QBd03q_i78-snR6t0BCDQSjTWk9qLRsrFTll7KWyV0wFGDsNuEvZzhIFS5ww-Tur4848ObFTWgdat_omrArm7deUwFOjkU19Yz62f4SJJ0f-q5qAUtcOR2I31tkSbkbZO08BFcsl0c-_8RiQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=qI9b9bg-R2g-iGa_8iT46hzar_mTJxGhVfx9TIZVPNUn697CUUqCgIOwD58K6_0oJWRe034WsFPV7ZVQpT8XypKqhYIlNzG6-e8wyvfUbb6x5tYvbtO8GRq5FwcZA8yvuNiH33jux3J7fnuN3qp74t2F1pGL9fDH5JsRphfzuJfZvbHMhIn5qPkNmiCR361y22c&node=1i220",
+          "date": 1777034267782,
+          "creationdate": 1777033805000,
+          "modificationdate": 1777033805000,
+          "uploaded": 1777034182090,
+          "size": 1713014129,
+          "name": "Dragon (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=deZ5KmXH5HxCm2mz9HvCEvAPthYA5s-LFsQqmfAYSDeaTTYkMKY8g0ZW1i1-ULfzp9qEGBNR9kvQmDayep-XH1bc7CXqLEKl2Iwy7qaEFtd223BeuTegHpQZQlF5CL6MGGEimAJqkoJuDfuceYwGlSW4qZH5XYfnvZYaAcPR5N73BiZXMwz1OPwzhGKENJaGpt8&node=1i220",
+              "etag": "0IGIfn95+Ynxd8bAhfAPE2A=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qI9b9bg-R2g-iGa_8iT46hzar_mTJxGhVfx9TIZVPNUn697CUUqCgIOwD58K6_0oJWRe034WsFPV7ZVQpT8XypKqhYIlNzG6-e8wyvfUbb6x5tYvbtO8GRq5FwcZA8yvuNiH33jux3J7fnuN3qp74t2F1pGL9fDH5JsRphfzuJfZvbHMhIn5qPkNmiCR361y22c&node=1i220",
+              "etag": "0IGIfn95+Ynxd8bAhfAPE2A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "IGIfn95+Ynxd8bAhfAPE2A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777034267826,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/NYNxtq0VQgiWhKlYpiWpRTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dragon (2025)",
+  "media_kind": "movie"
+}
