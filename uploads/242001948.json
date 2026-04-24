@@ -1,0 +1,83 @@
+{
+  "name": "Raunak (2025) Hindi Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Raunak (2025) Hindi Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:47:48Z",
+  "remote_folder_id": 1752253,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001948",
+  "tmdb": {
+    "tmdb_id": 1487106,
+    "title": "Raunak",
+    "original_title": "\u0a30\u0a4c\u0a23\u0a15",
+    "release_date": "2025-06-13",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "Resilience and destiny shape Raunak's path and keep her spirits up against all odds.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xupYWGFIZ4NM4LVWxYyT9yr8J6V.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/5D7b3oRrZImCIwGa4C6xFFbyPX5.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001948",
+    "status": "U",
+    "etag": "e3mAzGAJNJrDV426QlL7tA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001948",
+          "url": "/sapi/download/video?action=get&k=eiS5rM-f31-e8NsycLMuI6pSfo1JG5ohjBAiGyffQt4mTrHmWJjGC4RVzOdf5DbFCEfS0K96jHJgUQuTTghjS-2SpIwOpsHP4qpu7PTs6XspQ8rC4LS6kfSm7W5Ra5vzM5QXLOvgVBsci-psSIEEC6XdveOBr04mKrbdsGT8Qo9RbJBH48I&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=wlU5Y4DiHKjN-_WztiWvVr7O16Z7-d5I8CDDPlOPhce-IDCWKXDZZ06il12qPB2oDCiR4g-n4MBRohL19kN6ZQ7j2Z-QZpf-P41Y5yZzOd0YsXIBf5TQ6vX5n7F-IqevnCYBglz240-H3bxTR1tuS9PiAvTacr0dwAfg5peHZ5GG4SNe6kKReuM715Lw82hzznE&node=1i220",
+          "date": 1777049267501,
+          "creationdate": 1777048971000,
+          "modificationdate": 1777048971000,
+          "uploaded": 1777049222348,
+          "size": 1275430322,
+          "name": "Raunak (2025) Hindi Punjabi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7567480,
+            "bitrate": 1348327,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=pJbnc9xTGjDE2Js9I38GeSKHQt8p2Vj-UhRzO5eXMY0l2dJ9CuwIrjFTwnD0tka_tDU2Xv4hmm8VFOii07R1SNcJEI9ZPVd2RU0h_u0BXfwYPNyOoK9QmkStbA-vH7q3lPOvAr9pq-XoqcaHj_13SQpPLm7Bn5_cRWrwhkLPvqvjlV7AfMt3oRtDNLHs_XR9FVc&node=1i220",
+              "etag": "0e3mAzGAJNJrDV426QlL7tA=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=wlU5Y4DiHKjN-_WztiWvVr7O16Z7-d5I8CDDPlOPhce-IDCWKXDZZ06il12qPB2oDCiR4g-n4MBRohL19kN6ZQ7j2Z-QZpf-P41Y5yZzOd0YsXIBf5TQ6vX5n7F-IqevnCYBglz240-H3bxTR1tuS9PiAvTacr0dwAfg5peHZ5GG4SNe6kKReuM715Lw82hzznE&node=1i220",
+              "etag": "0e3mAzGAJNJrDV426QlL7tA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "e3mAzGAJNJrDV426QlL7tA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049267561,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/hgVXyaUXQZ6AYorii4tBQjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Raunak (2025)",
+  "media_kind": "movie"
+}
