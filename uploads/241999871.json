@@ -1,0 +1,82 @@
+{
+  "name": "Hitler (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Hitler (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:32:13Z",
+  "remote_folder_id": 1751976,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999871",
+  "tmdb": {
+    "tmdb_id": 1185591,
+    "title": "Hitler",
+    "original_title": "\u0bb9\u0bbf\u0b9f\u0bcd\u0bb2\u0bb0\u0bcd",
+    "release_date": "2024-09-27",
+    "year": "2024",
+    "rating": 2.5,
+    "overview": "A man and his new love are caught in the middle of a dangerous conflict between a tough detective and a tyrannical politician.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5xfPlHPrQgVpQHRDYxIIwjMr2Xu.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lIBuJV5QW2N1UPTGIwm1h3N6I9U.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999871",
+    "status": "U",
+    "etag": "NLjA+bbw4SxSuSnIVlDAEg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999871",
+          "url": "/sapi/download/video?action=get&k=kon3wFjHcMvMJRp8gd-mtUhiQg8AND1ek_3_2HroyAERuj-jZzOkycYvP-RBoCwOJ_ZzlhwhOEks0BMnzHhOqpSKI9wBlYafS9wM6RI6IzurCCSqpWhVImKv4_35KHnaJBpNdWJAbEtTAY99EzeOZZh5LKLtgr9bxWdpgZES41PSr9Pg9Rc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=voeWDZIL-sbBJDJyfjm_KPOAqThpGQh3z8PSNN-kVB7eS2YM92EiwRkH4iRGxcHsuknuX6Q2c66eWVQN5G8mAFAd9ke-b0ylm2kJcQx9Iv54SIwydmAQtckTWlLtwJlfZM65FCmH-4CPj7Fmnbg_SveuiABMWjXTe7VngZxj6cuvJytYKE0a34cCoeN6L9N3XGU&node=1i220",
+          "date": 1777037533034,
+          "creationdate": 1777037112000,
+          "modificationdate": 1777037112000,
+          "uploaded": 1777037461653,
+          "size": 1637345599,
+          "name": "Hitler (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7702997,
+            "bitrate": 1700476,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=RjhLmw_mhpM9wWQaFKD_7OjIHLhne-8xhTy_e3bWK2TLJJC7B3vnUpZwC1-qpxBfUHWMqhUhCnMBViJjO9vOYgSt37ix3omS1eb1C0h9GwGjEbqENMDzCDsQm7_Ku_4E3kIAxkSn7nzpANnpfzzwqLd31F_h7HpiQCw2Fff_RzFsjsmPxFY8Hxqgt6Z67PNzh3E&node=1i220",
+              "etag": "0NLjA+bbw4SxSuSnIVlDAEg=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=voeWDZIL-sbBJDJyfjm_KPOAqThpGQh3z8PSNN-kVB7eS2YM92EiwRkH4iRGxcHsuknuX6Q2c66eWVQN5G8mAFAd9ke-b0ylm2kJcQx9Iv54SIwydmAQtckTWlLtwJlfZM65FCmH-4CPj7Fmnbg_SveuiABMWjXTe7VngZxj6cuvJytYKE0a34cCoeN6L9N3XGU&node=1i220",
+              "etag": "0NLjA+bbw4SxSuSnIVlDAEg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "NLjA+bbw4SxSuSnIVlDAEg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777037533102,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MbQkottUSp6CvOGoIvgWtDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Hitler (2024)",
+  "media_kind": "movie"
+}
