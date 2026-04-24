@@ -1,0 +1,81 @@
+{
+  "name": "Raid (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Raid (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:42:42Z",
+  "remote_folder_id": 1752248,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001756",
+  "tmdb": {
+    "tmdb_id": 1396794,
+    "title": "The Raid",
+    "original_title": "Attentat",
+    "release_date": "2024-11-30",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Gustav (15) is vegan and straight edge in 90s Ume\u00e5. One night, he follows his friend Zeke, full of hatred against the meat industry, to the town's slaughterhouse with gasoline-filled bottles. It will be a night that changes Gustav forever.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/y9wr8yohY2iBbGunUfTRVeErVZB.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/oTLVjQqEaVlakI9hoxX9RKkfmWi.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001756",
+    "status": "U",
+    "etag": "WUWneZub/oP+wZFwgR5YZQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001756",
+          "url": "/sapi/download/video?action=get&k=NCWfIT-ir60uWazIfmXuydFv7Ua3W7DqNFWsBK1foVfu8cUtpBH7NAUxRxiqUW_9r79mNz1sn5ZfHRLhK6AhP8EUApk1xTqw98Dy-W_7_5uhBkbIesZgTCo9RvcUDIg29xjdihe9u5-Nzylx4zw-Qq_5w0EliOgadxQVbIJyD1fBAE1t-NE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=dmy0wPfwRTpXBGaG8PFBxvWKMAXrbnz2KxWr0VqG6ShTxuNvITWXX6NxPnODr-CeuQvwHn-8HegvVw4i4S6cBq7UhXF5Hs5DrwKhd9uwPBB-rPRhxcgd0ReslLIE-dhdhE4A1rcgF_RHeAEdBBv6T4JyVhDL5UvH7FF71fyfiQl18SlYx5l425TslYJBO3-sE5k&node=1i220",
+          "date": 1777048961684,
+          "creationdate": 1777048635000,
+          "modificationdate": 1777048635000,
+          "uploaded": 1777048911713,
+          "size": 1312151655,
+          "name": "Raid (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7199018,
+            "bitrate": 1458145,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=G0kdODg2Pm175lX2MXUlGX1rYszpaCSB0jMGVQ00gDFwGjucnjl7_IaSHfvNmYzHqLp24aaTGLygL1qj6NZqpAyPcCGrHiDNE6nACxvMoQYzmXtkAzEPNbYfcvJDVuhl0UluuQUJYctlZ1X9jwQZ0nY3K9jEG1GTTZTqEq9MWtwqZ-umR0KvHbreENofiUqcrBs&node=1i220",
+              "etag": "0WUWneZub/oP+wZFwgR5YZQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dmy0wPfwRTpXBGaG8PFBxvWKMAXrbnz2KxWr0VqG6ShTxuNvITWXX6NxPnODr-CeuQvwHn-8HegvVw4i4S6cBq7UhXF5Hs5DrwKhd9uwPBB-rPRhxcgd0ReslLIE-dhdhE4A1rcgF_RHeAEdBBv6T4JyVhDL5UvH7FF71fyfiQl18SlYx5l425TslYJBO3-sE5k&node=1i220",
+              "etag": "0WUWneZub/oP+wZFwgR5YZQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "WUWneZub/oP+wZFwgR5YZQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777048961788,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/-JG65-p2RBmeQA-iku2dtjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Raid (2024)",
+  "media_kind": "movie"
+}
