@@ -1,0 +1,83 @@
+{
+  "name": "Kadhalikka Neramillai (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Kadhalikka Neramillai (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T14:06:15Z",
+  "remote_folder_id": 1752106,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242000262",
+  "tmdb": {
+    "tmdb_id": 1211999,
+    "title": "Kadhalikka Neramillai",
+    "original_title": "\u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bc7\u0bb0\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+    "release_date": "2025-01-14",
+    "year": "2025",
+    "rating": 5.5,
+    "overview": "Does the idea of a perfect life leading to love, marriage and babies exist? Shriya finds it a challenge, especially when she meets men like Siddarth who think marriage is a recipe for disaster, and babies should be banned. When times are changing and relationships are evolving, the idea of love remains timeless- the more you resist it the more you will fall in love.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nSgPlMtvKJGyiUivXDRGANUyP5v.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/csCeW5q2iIdTWQ76Mc10hv3PpUF.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242000262",
+    "status": "U",
+    "etag": "mSwQqBU2MWH0IV2sWvoX9Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242000262",
+          "url": "/sapi/download/video?action=get&k=3lLU6VQDSMTVJH6cB4BzVdsdK5RSLfOVEnHkrABA88r1gxa9F1ZgHILVtFh81ZOshHz6IbDf38B30ixpK4Zp7O4tq4Wk8Cl_3qGxR3mM6XxUV62I0TDl8E3q7np6JTQHCo4CQdItJ-csXqoY16Zg7YiZ71rJ8LGnJjhl2J9Oevi6woxrKPg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=O0w9rU1hDomHv9j57Ow9z6f0SnyMkmpXcsdrWk2sI2313DiF0xM4D7rFBjd15wQOLBPT6vah57Kp6txy6LtVPYdBg9Q6_KPKW5vQew5QM-n0gtZKDRcQs2sBpEEx4SM-qodXNzJJ3ouIRPJFWLonxVIAU066Tm95ag9UCEiLny3-jg2GiFyCj8Szw_C5Laf-Ug8&node=1i220",
+          "date": 1777039574727,
+          "creationdate": 1777039282000,
+          "modificationdate": 1777039282000,
+          "uploaded": 1777039506915,
+          "size": 1119679060,
+          "name": "Kadhalikka Neramillai (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8420330,
+            "bitrate": 1063786,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Tf-Zk3CYHTyqQFHUuCh3p7jfVg1lCFpMC1n9F_RI3doHnZMQpkYQtC-Q81wtRAT8QdscCBmuH2RHtVvLBjKB2qHjCnZv9322egJbMAS0UuZr3FhHVtuIAKl3TAaaBM2qEh472_ALR3V_GaMcqqSOgP-9L-4cKHbKu3HsnWkrCJ8YSXqn1zdf0IMi-vTxIgRhpmk&node=1i220",
+              "etag": "0mSwQqBU2MWH0IV2sWvoX9Q=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=O0w9rU1hDomHv9j57Ow9z6f0SnyMkmpXcsdrWk2sI2313DiF0xM4D7rFBjd15wQOLBPT6vah57Kp6txy6LtVPYdBg9Q6_KPKW5vQew5QM-n0gtZKDRcQs2sBpEEx4SM-qodXNzJJ3ouIRPJFWLonxVIAU066Tm95ag9UCEiLny3-jg2GiFyCj8Szw_C5Laf-Ug8&node=1i220",
+              "etag": "0mSwQqBU2MWH0IV2sWvoX9Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "mSwQqBU2MWH0IV2sWvoX9Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777039574787,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sk2h18wDQZGFqoiMFfij3zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kadhalikka Neramillai (2025)",
+  "media_kind": "movie"
+}
