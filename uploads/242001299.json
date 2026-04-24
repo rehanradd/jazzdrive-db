@@ -1,0 +1,83 @@
+{
+  "name": "Odela 2 (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Odela 2 (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:03:41Z",
+  "remote_folder_id": 1752206,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001299",
+  "tmdb": {
+    "tmdb_id": 1257693,
+    "title": "Odela 2",
+    "original_title": "\u0c12\u0c21\u0c47\u0c32 2",
+    "release_date": "2025-04-17",
+    "year": "2025",
+    "rating": 6.0,
+    "overview": "A savior, Odela Mallanna Swamy, protects a village from evil forces.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xG5SdRKXjWupcwXj2JJLOSX0PiS.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4D7vkNkdDnAxYkmvpRaSO9diqhq.jpg",
+    "genre_ids": [
+      53,
+      12,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001299",
+    "status": "U",
+    "etag": "NPOgmZTlq1TcRj8Ipr3rhQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001299",
+          "url": "/sapi/download/video?action=get&k=kR7RKDu_xcD7TnHku7dJ08XbGQYbFHQbGj3EbPZceJGfcxUSMKSoSGUPmFUml70ZqY-GmbCYjVDYgl4SxjS1K8MlnyoNz3q2CI4mhZxsyMPg0DaZ9M9Wh1EaaEvc6uTb8S3x7NtksdpxcXLZKSDm-1aT9o-UoEeQ2LBOeQPNkOscERcTZzc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=GoWFtXAnK2v9y4Ou5c3UBJpR-uNf-5isPzZEVTIrxfiurklWYTAj1Kai5xaY1QsyTgbgQAqGhcA7YWVc28wM3fEz0aICXrvQ2RXfZsa0BCgKU2-2ifLYAg0d_94gQHHB4pGJoL5PRLO4eYohKhxgmIIB0Wy75Uh3MfPYmFbpP5YyNEgBgm92xQ1pIcxQKTDpSj4&node=1i220",
+          "date": 1777046620330,
+          "creationdate": 1777046153000,
+          "modificationdate": 1777046153000,
+          "uploaded": 1777046518123,
+          "size": 1644325004,
+          "name": "Odela 2 (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8861146,
+            "bitrate": 1484525,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=SPiEtaTkOf7LYLD54DDsz69fUanM7mvBiVgMVD8PIy-t_wQBgFcf4EqdK_ODAqa-cNRSXumZRbLrUc8MDl-h7hnDWOHPkJ6W9ZS78VwLMgXaqf3ViQ6XxLZ1hSgrkxyAClyTzjwfiTUhTScDm2Sbv2zAf63b3qWQcgYXJLhKe8fdSTQng7tIIMdYz4NlYpY-U3Q&node=1i220",
+              "etag": "0NPOgmZTlq1TcRj8Ipr3rhQ=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GoWFtXAnK2v9y4Ou5c3UBJpR-uNf-5isPzZEVTIrxfiurklWYTAj1Kai5xaY1QsyTgbgQAqGhcA7YWVc28wM3fEz0aICXrvQ2RXfZsa0BCgKU2-2ifLYAg0d_94gQHHB4pGJoL5PRLO4eYohKhxgmIIB0Wy75Uh3MfPYmFbpP5YyNEgBgm92xQ1pIcxQKTDpSj4&node=1i220",
+              "etag": "0NPOgmZTlq1TcRj8Ipr3rhQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "NPOgmZTlq1TcRj8Ipr3rhQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777046620399,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/M7PaavQESYCzSdSc3-omUjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Odela 2 (2025)",
+  "media_kind": "movie"
+}
