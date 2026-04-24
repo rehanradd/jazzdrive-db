@@ -1,0 +1,70 @@
+{
+  "name": "Ronth (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Ronth (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:00:50Z",
+  "remote_folder_id": 1752265,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002012",
+  "tmdb": {
+    "tmdb_id": 1339055,
+    "title": "Ronth",
+    "original_title": "\u0d31\u0d4b\u0d28\u0d4d\u0d24\u0d4d\u200c",
+    "release_date": "2025-06-13",
+    "year": "2025",
+    "rating": 7.265,
+    "overview": "Two patrol officers face mounting tensions during a night shift as they navigate dangerous calls while confronting their strained partnership and personal demons.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/50MxvHckUkNgPI4EzjMwcWAq7ea.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8J7Wg51TeHM7w8Jtg5IPewNIspP.jpg",
+    "genre_ids": [
+      80,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002012",
+    "status": "U",
+    "etag": "dBrZRFE8TaWWlHu4aCduOQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002012",
+          "url": "/sapi/download/video?action=get&k=Xqb_nNegOnH_8qtkwic-SBARzTG8N9CcD1tD_fCLLCcp502RTtguy1EgsJIdZzTsg5WihKG_P1-b1GMsD3mAHABpBZIuejsILp-OZQUaiC-wz7h_5BW9O9F2g7XSlGmRC32vXcNwZI4zhdreuxAcldXHw_PL0fEj2L8P8TmmQh8SIAn6sJI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=e3aqrwephzx6cSJyAweA0OvrP33H3WvVOR8y79ZekRoWfBGb84dV5C4vuAHiBCdCI9wTE4dKWo56G9Leoo3coes-UoD1cQ7Itq7raLvoqT3VwJEMSMrpurOmutjD_PCmkHFDgN9Sop6hCFcmo8LumzKawno4AHXctZK_6ERo-Nj8cXsHTpDa28FM37PKncyITaA&node=1i220",
+          "date": 1777050049574,
+          "creationdate": 1777049705000,
+          "modificationdate": 1777049705000,
+          "uploaded": 1777049950359,
+          "size": 1354495205,
+          "name": "Ronth (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=iLPQEfYTLDnLGvJOUA8BPKQyNwfbhPoTx8IKwZ66JkO4tfcLFyFvl-3BGhIMiJ-1G17tRnHk3SSeX6arGMwzVinsLujloNXL1NGEOVBLOq7l9tKUMGQBy2gBimptvG-FL7Vz66slSNrauvkSVyfnpycpzAXHRSZF5eAsoIoqiSvUGPxOj2JRpbCGjYibGdKIaS8&node=1i220",
+              "etag": "0dBrZRFE8TaWWlHu4aCduOQ=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=e3aqrwephzx6cSJyAweA0OvrP33H3WvVOR8y79ZekRoWfBGb84dV5C4vuAHiBCdCI9wTE4dKWo56G9Leoo3coes-UoD1cQ7Itq7raLvoqT3VwJEMSMrpurOmutjD_PCmkHFDgN9Sop6hCFcmo8LumzKawno4AHXctZK_6ERo-Nj8cXsHTpDa28FM37PKncyITaA&node=1i220",
+              "etag": "0dBrZRFE8TaWWlHu4aCduOQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "dBrZRFE8TaWWlHu4aCduOQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777050049620,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/IZOkNXS3Qai9w9hEtf2v4DMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ronth (2025)",
+  "media_kind": "movie"
+}
