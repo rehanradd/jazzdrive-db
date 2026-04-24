@@ -1,0 +1,71 @@
+{
+  "name": "Mrithyunjay (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mrithyunjay (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:38:39Z",
+  "remote_folder_id": 1752185,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001215",
+  "tmdb": {
+    "tmdb_id": 1428294,
+    "title": "Mrithyunjay",
+    "original_title": "\u0c2e\u0c43\u0c24\u0c4d\u0c2f\u0c41\u0c02\u0c1c\u0c2f",
+    "release_date": "2026-03-06",
+    "year": "2026",
+    "rating": 6.7,
+    "overview": "An intense murder investigation unfolds when a man refuses to accept a death casually deemed natural by the police. As he digs deeper, what begins as doubt turns into a relentless pursuit of truth, uncovering layers of deception and danger",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zRRtEqB42EeOhVe4traWDGZwlZQ.jpg",
+    "genre_ids": [
+      53,
+      80,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001215",
+    "status": "U",
+    "etag": "eMew3raFjPEdRfE44ZmffA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001215",
+          "url": "/sapi/download/video?action=get&k=gzVlXHkWdcE2MdB_woOYJbvyy-NmEUdHG7xMf82KMSB96w3s9cNVRHSgsv4t61YNz6za2voVN8Te-fpgtCczOAueT5bJPdD54y2-ctSsNzabJQ6-PuECf9uyTl9nKCeuHnHU-Bl9m0npbyhnqFzoybJce9xzqr1iNQk_J0VMOfu9uydcgIs&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=a8VxaQIRHGxa9FdXEGc0TY6ynUVNqgqI0edN_kWE-U9YVcI5ZsUKzNJ2gDJLINrFRo28JO5BVUKfRRmkfT4G1lp_u1HRec_2Lu0NnPW-6DhS2vCp5cNHzZFPHR_X7VOJ79jUHNf6z1ouDGsbqo0cQ6y5r_RejIruTT8Afrb9jX8yIF6heVdayzzWfZmijf0SqH4&node=1i220",
+          "date": 1777045119049,
+          "creationdate": 1777044978000,
+          "modificationdate": 1777044978000,
+          "uploaded": 1777045084092,
+          "size": 1143573618,
+          "name": "Mrithyunjay (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=V6-DBaY_SIJYEqHiMSlRRmG9go4e60pO5vNOcA0R2eo7qQ4JsrbtnlNQq1EN76MsKti0VDKI9rLTR10u_qIvpPhZ-7wfEVMokicO6MxcweZc8DCIZK-legXjHeQliS03jx5zF5QrEEEOje2fTVIgfZkiNrsRR2fr2MeYWBslB7Rp2ZoWK2xW-uqY0uq0LJYd2mI&node=1i220",
+              "etag": "0eMew3raFjPEdRfE44ZmffA=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=a8VxaQIRHGxa9FdXEGc0TY6ynUVNqgqI0edN_kWE-U9YVcI5ZsUKzNJ2gDJLINrFRo28JO5BVUKfRRmkfT4G1lp_u1HRec_2Lu0NnPW-6DhS2vCp5cNHzZFPHR_X7VOJ79jUHNf6z1ouDGsbqo0cQ6y5r_RejIruTT8Afrb9jX8yIF6heVdayzzWfZmijf0SqH4&node=1i220",
+              "etag": "0eMew3raFjPEdRfE44ZmffA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "eMew3raFjPEdRfE44ZmffA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777045119097,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/P92TCm7ETCucXDvwRFHUgjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mrithyunjay (2026)",
+  "media_kind": "movie"
+}
