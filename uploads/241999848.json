@@ -1,0 +1,83 @@
+{
+  "name": "Gatha Vaibhava (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Gatha Vaibhava (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:04:53Z",
+  "remote_folder_id": 1751956,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999848",
+  "tmdb": {
+    "tmdb_id": 1580775,
+    "title": "Gatha Vaibhava",
+    "original_title": "\u0c97\u0ca4\u0cb5\u0cc8\u0cad\u0cb5",
+    "release_date": "2025-11-14",
+    "year": "2025",
+    "rating": 4.5,
+    "overview": "Gatha Vaibhava is a fantasy drama that weaves together history, mythology, and destiny. When Purathan and Adhunika meet in the present, they embark on a mystical journey through their past lives from the divine realms of Devaloka to Vasco da Gama's voyage and the coastal lands of pre-independence Karnataka. As echoes of the past resurface, they must unravel their fate. Will love endure across lifetimes, or is history doomed to repeat itself?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/aacJ77PR6wx1KE6MQN9IUeytg2J.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zpkxU2dOfy32kBJ60Zwkv4h6FKB.jpg",
+    "genre_ids": [
+      14,
+      10749,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999848",
+    "status": "U",
+    "etag": "wZMhcZky1IeJH771QdPjXw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999848",
+          "url": "/sapi/download/video?action=get&k=DBOtnX-gv_iaa4Gr9arj5VCEprRDZe-H3jhdCDXMkr2JZcYUZ7o0Y3tEpDCK2xYA9XCvAkeDbcaFp4Rrj1RV9Gvnef3mh34pSXvwLci5UdipcO6u4i7NWGzoxZv2iOUhblF_qjZ651xprendSzXxeIOUAABl5w4qHnaMgE0NNSnZExrF3DI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=LpyfBkO63YvhKLroMPE-czBtd4LElZOYff_ToXuzOD8JvA-mD5iT7Xz8e-9Mx4m03wCfvR6RpFVz7WhhhmYl_ROX07LHNYyqKcJILeEfdRFlpWuXGaOjAwhmD8fZ-Re-cchTYcGkBJOHBYz6g1ob-5SQYibaPXYxq4tcFlUbkTlHn8Aj_si2M5asr6ay6IxpHmg&node=1i220",
+          "date": 1777035893195,
+          "creationdate": 1777035559000,
+          "modificationdate": 1777035559000,
+          "uploaded": 1777035845149,
+          "size": 1359565440,
+          "name": "Gatha Vaibhava (2025) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8400038,
+            "bitrate": 1294818,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ZAu8MHSpWQ5f4uvWpCuQrcKmxKi0zyFAHLDZwpP4QQ-Cm06LWu5JyP2zBrmsIBQKoWp1-fXzIw7GIkG_5Cc_cDkWlTgKhkETlDKVAvmhcmVD7GVFQKZ6EEEd72ysAQyekNu4adb6wZjnkmcaLKUf3uFD_ppNgYIFuRpRijQSo_bXPQjrYtfoKhReW2tLDV-VmYw&node=1i220",
+              "etag": "0wZMhcZky1IeJH771QdPjXw=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=LpyfBkO63YvhKLroMPE-czBtd4LElZOYff_ToXuzOD8JvA-mD5iT7Xz8e-9Mx4m03wCfvR6RpFVz7WhhhmYl_ROX07LHNYyqKcJILeEfdRFlpWuXGaOjAwhmD8fZ-Re-cchTYcGkBJOHBYz6g1ob-5SQYibaPXYxq4tcFlUbkTlHn8Aj_si2M5asr6ay6IxpHmg&node=1i220",
+              "etag": "0wZMhcZky1IeJH771QdPjXw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "wZMhcZky1IeJH771QdPjXw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777035893256,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/NXkYRUIdSu6qcHg0cIK01DMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Gatha Vaibhava (2025)",
+  "media_kind": "movie"
+}
