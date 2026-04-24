@@ -1,0 +1,82 @@
+{
+  "name": "Hunt (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Hunt (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T13:31:03Z",
+  "remote_folder_id": 1751978,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=241999874",
+  "tmdb": {
+    "tmdb_id": 1065299,
+    "title": "Hunt",
+    "original_title": "\u0d39\u0d23\u0d4d\u0d1f\u0d4d",
+    "release_date": "2024-08-23",
+    "year": "2024",
+    "rating": 1.0,
+    "overview": "A student of forensics gets entangled in unraveling the mystery behind the disappearance and murder of a woman with help from the supernatural",
+    "poster_path": "https://image.tmdb.org/t/p/w500/bQKiVg4DrXD4mt5u17dhNEbVypm.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/aS351kDJDj3GaLebN0ZlvkXMVrf.jpg",
+    "genre_ids": [
+      27,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "241999874",
+    "status": "U",
+    "etag": "2oI2S/2B91wiBUzswwxYeg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "241999874",
+          "url": "/sapi/download/video?action=get&k=qjrFz4JL2OyGBam6eV5WcrUXR7PssqC9UEm-lmALzjhmW2uCUxpnf-AFxNQ7dwfmGAAxmYFLkZnVRWZCVSTskQJZu3YRmb__kjbEZ6Gn3X7GjP_05eDQGTgmkKvFMCr0Q-bJXVEkFuHUnAuxUgqQk1p4qFIJC5drD0f1V-YkC_JSEaI4wKQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=UA-ZEaHuksgY2BW8U6SenCYCluwLryRRvCHQB4wDvCk6DzAUipsTXV0Ow4cE2Y3sjY1RHBasic-kGlQ6_76aSY-uOF4Wrhtbe39Qhz-ISD9iDTvUQJqDgx09hMdzoBeitXGiVKN8c9OnApNIBui_AR4XwPQaY4Re3WgpUgWryVfYGCt_esZPHvMye__Kyw9iLNU&node=1i220",
+          "date": 1777037462364,
+          "creationdate": 1777037180000,
+          "modificationdate": 1777037180000,
+          "uploaded": 1777037411106,
+          "size": 1172137717,
+          "name": "Hunt (2024) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6945272,
+            "bitrate": 1350141,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=JlBwr8VZAZ4ki5wi_dvbNdiG2VUQgoaJEtBfTzUpTnDcN1euyM3tqNsfm86JlausI_yn2I3BcSFmVQnRhAOqdbz8OHUPdojku9imNbrFVTvXplr7IaJiapJjFi1iuyjB2Lp99-6mgLVMJlYq3mcQYoL5jBzsYjNxZwrFftlX1jKq3irclN5sx6dsG0W0k8gq-t4&node=1i220",
+              "etag": "02oI2S/2B91wiBUzswwxYeg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=UA-ZEaHuksgY2BW8U6SenCYCluwLryRRvCHQB4wDvCk6DzAUipsTXV0Ow4cE2Y3sjY1RHBasic-kGlQ6_76aSY-uOF4Wrhtbe39Qhz-ISD9iDTvUQJqDgx09hMdzoBeitXGiVKN8c9OnApNIBui_AR4XwPQaY4Re3WgpUgWryVfYGCt_esZPHvMye__Kyw9iLNU&node=1i220",
+              "etag": "02oI2S/2B91wiBUzswwxYeg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2oI2S/2B91wiBUzswwxYeg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777037462448,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ZnrzHPeKT0ebfIjvmiqp3zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Hunt (2024)",
+  "media_kind": "movie"
+}
