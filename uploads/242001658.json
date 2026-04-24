@@ -1,0 +1,81 @@
+{
+  "name": "Porattu Nadakam (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Porattu Nadakam (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:32:44Z",
+  "remote_folder_id": 1752238,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001658",
+  "tmdb": {
+    "tmdb_id": 1322685,
+    "title": "Porattu Nadakam",
+    "original_title": "\u0d2a\u0d4a\u0d31\u0d3e\u0d1f\u0d4d\u0d1f\u0d41 \u0d28\u0d3e\u0d1f\u0d15\u0d02",
+    "release_date": "2024-10-18",
+    "year": "2024",
+    "rating": 4.0,
+    "overview": "Porattu Nadakam, Which tells the story of a village called Gopalapura in the backdrop of North Malabar. The events unfolding in Gopalapura for 21 days are presented through satire. Art forms like Kothamuriyatam and Porattu Nadakam are the main Background.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lthUCT7QDZOmWEh6UMziJRdkk5r.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ge6AnogpGuvr1rtsOCQwe3M4QU7.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001658",
+    "status": "U",
+    "etag": "tP5N1avzihPw3mHIJAjrzw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001658",
+          "url": "/sapi/download/video?action=get&k=4frI8TzQinVp7dLA8WTFOFaFPu5nUMs81ZfgT3jPI6A8cgv-IO2z__4EEMztFZ3NW69dFQKP9iy-ZrbrKXPthfynleB9zwJr_3e8ZzmswxNG-k3agVQ3WkdlAtmzjuDiofZdi83iersZGpo4bTwNdbFRWXWyb3JpyFR9K8T3iQndss35uSo&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=s2btx80e3AGvMR44I6WdFyxj1jtoYjpHTL2rALc94Ab0PxKsHAGHfVBVCfLLaruVgruoo1EfOuIr8oR-vPExb6H3F3wVFmw_R5HAO-b_8n74lYmDBslS8DS9kBmyxjXIowT7iCDMo2p7k0nLFMuL7hACWifBfk3ZvA3AnYGC4DYSBNQyeY5mDgwaZBFfRWeijK4&node=1i220",
+          "date": 1777048363935,
+          "creationdate": 1777048106000,
+          "modificationdate": 1777048106000,
+          "uploaded": 1777048285388,
+          "size": 1460816852,
+          "name": "Porattu Nadakam (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7405664,
+            "bitrate": 1578053,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Y6lT94RUIq5Fh8MOSRaBvXuxRHgyrNGcQ_378jeO3xZrU3lkhSmHXO5yBdak55iR6mNmWGNvBpuG5oAx_MEaVz6-_8Q2Z8tSkAoFikJvEjTTilaXZE3I0fnkA77pqi9nVWZLGWsBSsDjHjanCq1DlnFb0nTO7izLxgUKCnihc5Gb7wmQfBtfJapqSkaIxuJYSls&node=1i220",
+              "etag": "0tP5N1avzihPw3mHIJAjrzw=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=s2btx80e3AGvMR44I6WdFyxj1jtoYjpHTL2rALc94Ab0PxKsHAGHfVBVCfLLaruVgruoo1EfOuIr8oR-vPExb6H3F3wVFmw_R5HAO-b_8n74lYmDBslS8DS9kBmyxjXIowT7iCDMo2p7k0nLFMuL7hACWifBfk3ZvA3AnYGC4DYSBNQyeY5mDgwaZBFfRWeijK4&node=1i220",
+              "etag": "0tP5N1avzihPw3mHIJAjrzw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tP5N1avzihPw3mHIJAjrzw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777048363999,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Pa4lMgsfSleDup384SgLBzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Porattu Nadakam (2024)",
+  "media_kind": "movie"
+}
