@@ -1,0 +1,82 @@
+{
+  "name": "Telusu Kada (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Telusu Kada (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:44:46Z",
+  "remote_folder_id": 1752311,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002198",
+  "tmdb": {
+    "tmdb_id": 1229947,
+    "title": "Telusu Kada",
+    "original_title": "\u0c24\u0c46\u0c32\u0c41\u0c38\u0c41 \u0c15\u0c26\u0c3e",
+    "release_date": "2025-10-17",
+    "year": "2025",
+    "rating": 4.8,
+    "overview": "A couple's struggle with infertility takes a complicated turn when an ex-partner offers to be their surrogate.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/up78q9ZcU4UK45rZ6VxAFvoqPWr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mlF0QicJI69zFag44JDHEqkpN2Y.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002198",
+    "status": "U",
+    "etag": "KgL9wqjJuBXqISJfT6z6ZA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002198",
+          "url": "/sapi/download/video?action=get&k=SeEbbwRQvIWsA-ro5J1jqY1RxNs1h3_-4yyWAx77w5DA7E5gmx7qoAKvXP63yQo4hIYXyW4VTmKa_9IjtVtivNyk38QCzUw5aNhYQJ1azTYidK4bMfq-uexkXQK0bE5iFPuTtgAYmrPmOMy0krAHCQ8J0eTL6So5x5fbvacwSj2Ot_KyUK8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=xeaYwNi0Y_NWwbQ_tqFNcunwIP9_yIZPpG1Jgn1MwxxT8COB13HOehk43DtvEyhtcgfatfOG5z08IzOfXFs8G9f2nF8d08dv--zgEtCEX4VxOynUoFUTZzBTzFMJYeB17SVvKFpFXRy4sPxQGyZT42dVEXoIIWdj4FYy2j4nXpe6WVXjtRHefKYPX8reVA_tHNk&node=1i220",
+          "date": 1777052685575,
+          "creationdate": 1777052539000,
+          "modificationdate": 1777052539000,
+          "uploaded": 1777052631616,
+          "size": 1390931008,
+          "name": "Telusu Kada (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7958443,
+            "bitrate": 1398194,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=5D8OHaWXelgBpk-82mxkZMctoMEOIBzojfDpVYbe-SDr2-fQYBEyC-nz70hvLZDreyQD18cY9AXUx0Gw5da4-U0IDJS8zZSpMsh1SIpbtwzy1YVBv3J15_S8ZAGMTvAWhRBXUxHRZAElz1a7Xp6cwVkRLlF8ziy_9kL3OW8HLyu1LSYMFiBlQwk9j9qqTCPFQLY&node=1i220",
+              "etag": "0KgL9wqjJuBXqISJfT6z6ZA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xeaYwNi0Y_NWwbQ_tqFNcunwIP9_yIZPpG1Jgn1MwxxT8COB13HOehk43DtvEyhtcgfatfOG5z08IzOfXFs8G9f2nF8d08dv--zgEtCEX4VxOynUoFUTZzBTzFMJYeB17SVvKFpFXRy4sPxQGyZT42dVEXoIIWdj4FYy2j4nXpe6WVXjtRHefKYPX8reVA_tHNk&node=1i220",
+              "etag": "0KgL9wqjJuBXqISJfT6z6ZA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "KgL9wqjJuBXqISJfT6z6ZA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052685658,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/bJnSDMugRtqBr_dpl299YTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Telusu Kada (2025)",
+  "media_kind": "movie"
+}
