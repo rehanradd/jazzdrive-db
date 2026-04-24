@@ -1,0 +1,82 @@
+{
+  "name": "Mirage (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mirage (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:36:08Z",
+  "remote_folder_id": 1752181,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001210",
+  "tmdb": {
+    "tmdb_id": 1404799,
+    "title": "Mirage",
+    "original_title": "\u0d2e\u0d3f\u0d31\u0d3e\u0d1c\u0d4d",
+    "release_date": "2025-09-19",
+    "year": "2025",
+    "rating": 4.8,
+    "overview": "A woman joins forces with a journalist to investigate secrets her fianc\u00e9 was keeping from her after she is informed he has died in a tragic train accident.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yLkc12tgINrE7KzSpjsFJnG0C6d.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/AwsNOpBKp1znj9UCK5AhpbQXntS.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001210",
+    "status": "U",
+    "etag": "AAslOozHPMvEsDOk5MhC7A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001210",
+          "url": "/sapi/download/video?action=get&k=RKxDO5a11O121TkxKI5aThmT49CAJ9bkLWfodnX8o2zWNswlfOyswaQdpj62w5AH444od3xwDkGlN7-m1ZWHuHvokmIRT72m-OO3KiTowSxnocpaa2olgahyWqvCinqCxKFhw-p5VV2WmMVdEaqkDy7EbDZtagP0Mfl8tb_92HMQlPY3z0U&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=mk_TWmmPpADzCBEM6yzeEWyJomGMGq3_uyl0XIo1AGAn57GIDVbrQSu_0UDnpkaUC4vKmS2j3LqdBjJ-Rv9TIfJC9rCkO1cx8JDs_FHA4T1GjchqXqB_WQUwHm1xGvrTJhnF5f365f__wAMlRq8XEA26IE-d5xyZGbLl1fL7IA7QDCOzINvYFl6NJCvuplx2TzU&node=1i220",
+          "date": 1777044967334,
+          "creationdate": 1777044707000,
+          "modificationdate": 1777044707000,
+          "uploaded": 1777044858965,
+          "size": 1519937442,
+          "name": "Mirage (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9005897,
+            "bitrate": 1350170,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=okqKSNPM_xxznq9jDLGtycZJy0u3r3ttQ8rBaBxPQlYnPoI46vSrwMbB3fg2-o81yaegq0Lzj3XjeTgge1vAGHS6sC26qyMxuJpZSSjGz5aN11Anx2klhIjffUzPdwHc_SZzLydO7VpRjlN9ak5_qCbiaNFDTJCvkUX1qTt_aMif1Ez-Qwkisd-KApwZulDasbU&node=1i220",
+              "etag": "0AAslOozHPMvEsDOk5MhC7A=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=mk_TWmmPpADzCBEM6yzeEWyJomGMGq3_uyl0XIo1AGAn57GIDVbrQSu_0UDnpkaUC4vKmS2j3LqdBjJ-Rv9TIfJC9rCkO1cx8JDs_FHA4T1GjchqXqB_WQUwHm1xGvrTJhnF5f365f__wAMlRq8XEA26IE-d5xyZGbLl1fL7IA7QDCOzINvYFl6NJCvuplx2TzU&node=1i220",
+              "etag": "0AAslOozHPMvEsDOk5MhC7A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "AAslOozHPMvEsDOk5MhC7A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044967406,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/rY6WBKFDRcC4TeUrwkZQmTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mirage (2025)",
+  "media_kind": "movie"
+}
