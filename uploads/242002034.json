@@ -1,0 +1,83 @@
+{
+  "name": "Shakthi Thirumagan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Shakthi Thirumagan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:22:39Z",
+  "remote_folder_id": 1752282,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002034",
+  "tmdb": {
+    "tmdb_id": 1425630,
+    "title": "Shakthi Thirumagan",
+    "original_title": "\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0b95\u0ba9\u0bcd",
+    "release_date": "2025-09-19",
+    "year": "2025",
+    "rating": 5.7,
+    "overview": "A tribal woman is brutally assaulted and killed. Her newborn is mercilessly abandoned in a dump yard, left to die. But fate intervenes \u2014 an old man discovers the infant and decides to raise him as his own. The child, named Kittu,After the old man\u2019s death, Kittu is left to fend for himself,determined to confront his mother\u2019s killer.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eKMNqfF6BJZ47O7OklrMgZ5r6T.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/A4IZqRHc1I8BshxP5OIpwsDQCTd.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002034",
+    "status": "U",
+    "etag": "MJguX4UDhMjdVscIEYw3+g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002034",
+          "url": "/sapi/download/video?action=get&k=PBzwhNlaTZHgr8ZkBHQUDysf4hmxvfmmWtIyyZ7sB3r2U7dc5sVeV6vu6xikBzXMSbMrYpmts9P0SVCUCcvcOZcZH79Wt3uhg95woAZ8FuAI8XkVKIjQTOjBdzeDG5gmAJ7uLaqzI2zHqgYswE3qy-PwrYW0IBSeZ147bqeSOdmak9-H5Kw&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=0MWgUgByfilLm9_QFQhtCOLqetr9Te_2RyU6aogV6DnQL81ByU__Awkx6O8vXHVcN7Od4SnSb_IorkwZxFeBtnI9Ed6UEg8jCvqJHhHdILTSejjaCBJxh7QRIYJC9491yz48_ucEMPEVK8nXV9qglyyVzPmbg_Sfo2t6sZU7jiT068xDtCx9YOnSYVrcJUGkHZo&node=1i220",
+          "date": 1777051358309,
+          "creationdate": 1777050902000,
+          "modificationdate": 1777050902000,
+          "uploaded": 1777051292590,
+          "size": 1560743382,
+          "name": "Shakthi Thirumagan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9370880,
+            "bitrate": 1332419,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=t1yTCUaPrgDuvuDRU50g5cppPkSMhXbJipdnhJmBY2Raf5vY3ttvTWVNMD--q3wBEYBHcXcN_jdwJ_kQkzUMZ6nE_wHjzncL13QaizhORSl2yoBcRrYO-t-xz0T6L8F7eEfrrM-6D7I6dsJPrg71_mceTUqzcjVC3k1V6oPeQRVWsJVZAfTRlfysFGY1Pno0BHo&node=1i220",
+              "etag": "0MJguX4UDhMjdVscIEYw3+g=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=0MWgUgByfilLm9_QFQhtCOLqetr9Te_2RyU6aogV6DnQL81ByU__Awkx6O8vXHVcN7Od4SnSb_IorkwZxFeBtnI9Ed6UEg8jCvqJHhHdILTSejjaCBJxh7QRIYJC9491yz48_ucEMPEVK8nXV9qglyyVzPmbg_Sfo2t6sZU7jiT068xDtCx9YOnSYVrcJUGkHZo&node=1i220",
+              "etag": "0MJguX4UDhMjdVscIEYw3+g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "MJguX4UDhMjdVscIEYw3+g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777051358376,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/5RjHCy1hTyWI2rWsSeS3nzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Shakthi Thirumagan (2025)",
+  "media_kind": "movie"
+}
