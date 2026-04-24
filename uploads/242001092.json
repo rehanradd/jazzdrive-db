@@ -1,0 +1,83 @@
+{
+  "name": "Mathu Vadalara 2 (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mathu Vadalara 2 (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:28:05Z",
+  "remote_folder_id": 1752173,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001092",
+  "tmdb": {
+    "tmdb_id": 1249902,
+    "title": "Mathu Vadalara 2",
+    "original_title": "\u0c2e\u0c24\u0c4d\u0c24\u0c41 \u0c35\u0c26\u0c32\u0c30\u0c3e 2",
+    "release_date": "2024-09-13",
+    "year": "2024",
+    "rating": 6.8,
+    "overview": "Babu and Yesu, former delivery agents, embark on a thrilling mission as special agents, facing extraordinary challenges with humor, surprises, and nonstop excitement.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7gDzqf5tSwnwfREEVJeTAZtK64F.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/dOcSWUrAi1FCBGNAk4BB71o7n0K.jpg",
+    "genre_ids": [
+      35,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001092",
+    "status": "U",
+    "etag": "oBYbQqGiwtiYM9tEli1NYA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001092",
+          "url": "/sapi/download/video?action=get&k=C64UdV0iCuvTpBCiVcYow97p0yjZDiiqqeNycUSKkKBbFmyR3CCGFpuMSo5Ay_N2fAIhoqQOJTJ6-723RzDUrXIuAtWm4KycX0vk6kUcAYXTT8tpNGByjQWiaYCKAW_L8cI01J8N2irpRJLatKM4wMgDUL4ts3gLuVWe8LGJm36F4RmI3w8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=5tThqiyOmY2rnGGD8cbO98c6KipyCFu94OHIM2nvFLUYwLu60uhziCShYuqBj-r-BrJDV2fWHGpJkqm7LB-rMBj2shj4Vr0oX1VRnJ9MLoo5MFRphDnsL6wXmJic9q0oaVGgZE3OQPueZ687LCGttAZzzI0EKdXpSCQW9Ez7R235BSs6nqlTECwBfoezZmuIhdY&node=1i220",
+          "date": 1777044484612,
+          "creationdate": 1777044149000,
+          "modificationdate": 1777044149000,
+          "uploaded": 1777044428217,
+          "size": 1389663511,
+          "name": "Mathu Vadalara 2 (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8344363,
+            "bitrate": 1332313,
+            "codec": "h264",
+            "height": 542,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=tUrdqs4ofRTFMId-YaLzqHV-fwmyNqVn3TRmOGkRBEuz21oZOwzkCFR4Xvtc0hLCPPpZGW8VR_dFpImDvsrkwLiav2SrtvpNxoPLWsnsXflIztW4gEwJHkxaHFMlcYZ8QUmuXD-oQDUZCZcXlbdY0ASpz_7sK5j7OfJEZM-ud4TUeVGjoXPwkhCIOgNSBVwi6BQ&node=1i220",
+              "etag": "0oBYbQqGiwtiYM9tEli1NYA=="
+            },
+            {
+              "w": 1024,
+              "h": 433,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=5tThqiyOmY2rnGGD8cbO98c6KipyCFu94OHIM2nvFLUYwLu60uhziCShYuqBj-r-BrJDV2fWHGpJkqm7LB-rMBj2shj4Vr0oX1VRnJ9MLoo5MFRphDnsL6wXmJic9q0oaVGgZE3OQPueZ687LCGttAZzzI0EKdXpSCQW9Ez7R235BSs6nqlTECwBfoezZmuIhdY&node=1i220",
+              "etag": "0oBYbQqGiwtiYM9tEli1NYA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "oBYbQqGiwtiYM9tEli1NYA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777044484665,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/u8cScISsT2mTu3xDrWxFWjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mathu Vadalara 2 (2024)",
+  "media_kind": "movie"
+}
