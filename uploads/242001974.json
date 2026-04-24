@@ -1,0 +1,79 @@
+{
+  "name": "Ravikula Raghurama (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Ravikula Raghurama (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T16:50:26Z",
+  "remote_folder_id": 1752255,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001974",
+  "tmdb": {
+    "tmdb_id": 1393508,
+    "title": "Ravikula Raghurama",
+    "original_title": "Ravikula Raghurama",
+    "release_date": "2024-03-15",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "This love story follows Gowtham and Nisha, whose contrasting personalities bring them together. Nisha, initially skeptical about genuine love, deceives Gowtham but later realizes her deep yearning for him after a chance accident. The loss of her grandmother enlightens her about the value of love. Ultimately, Nisha defies expectations as she returns to Gowtham, confessing her feelings.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/UjCSzvbTOVlSkEmZadqScEE4C7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/45XKsR2iUpHc1st7bWf2VQucQbS.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001974",
+    "status": "U",
+    "etag": "oDe8LFuonQF64YDwVJG0BA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001974",
+          "url": "/sapi/download/video?action=get&k=02xv3-4jm9wZkAUmuXWPn8h3uSHnY1-vGV-XhFlpaJTSvxEscqwjfGX0Dgxr786Y51NFTAAyIllChUuR-u4PyoxGpuTVuJDGHJqV0SEPNFL3ekAUs0qykVk_pfqpptN_zXrsKAUMX5_sRADp5qSHMBm811W-Nm-TK3TqgZC8UDiMRtdDfuo&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=GC-JboAkqF3QtV9_EWpxNRXf0LR4Almt5NDdVWsMKCzKlmnPxnLTS47BCLfWoptFpXNuwt5DT6rsKkKaY6MGPtS0m47v7ez6kZUgyj6p9lm2wUyMpA14PmDoHmwl1OrTPs4wli4K7IdkrsQjWtdWeQSZwSIYwsSE0JJf3-0B8L2s8ap7bDJODBWeH1HIxlVwVqc&node=1i220",
+          "date": 1777049425220,
+          "creationdate": 1777049075000,
+          "modificationdate": 1777049075000,
+          "uploaded": 1777049353668,
+          "size": 1300693789,
+          "name": "Ravikula Raghurama (2024) Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6494959,
+            "bitrate": 1602096,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=N2ymdO7bz9aJz3Udz662kejy_OZwFETv_5SrgzQqU7usjSo02nqCXT8unNmTG62orAJtVapq-HSGXro0wd1WqgWJjTjYbjNuZRCU-rDWfuEdxbkoC13mNUO-BcU-9N3p1_ADLgkE1KPfQ2QLYrb5Pj22lw1W6gpRD5aRrIJi48salptoPFL601JJ8wM6bQBYbvw&node=1i220",
+              "etag": "0oDe8LFuonQF64YDwVJG0BA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GC-JboAkqF3QtV9_EWpxNRXf0LR4Almt5NDdVWsMKCzKlmnPxnLTS47BCLfWoptFpXNuwt5DT6rsKkKaY6MGPtS0m47v7ez6kZUgyj6p9lm2wUyMpA14PmDoHmwl1OrTPs4wli4K7IdkrsQjWtdWeQSZwSIYwsSE0JJf3-0B8L2s8ap7bDJODBWeH1HIxlVwVqc&node=1i220",
+              "etag": "0oDe8LFuonQF64YDwVJG0BA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "oDe8LFuonQF64YDwVJG0BA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777049425279,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xJUyHeusT0m70E22rtqShDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ravikula Raghurama (2024)",
+  "media_kind": "movie"
+}
