@@ -1,0 +1,82 @@
+{
+  "name": "Locker (2023) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Locker (2023) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T15:03:25Z",
+  "remote_folder_id": 1752149,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242001038",
+  "tmdb": {
+    "tmdb_id": 1207847,
+    "title": "Locker",
+    "original_title": "\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bb0\u0bcd",
+    "release_date": "2023-11-24",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "Jana Kathir and Venkat Are Friends. They Earn Money by Deceiving People in the Town. Chakravarthy is S a Very Big Businessman. Jana Falls in Love With a Girl Named Pooja. The Story is About the Change in Jana Kathir and Venkat's Life After Pooja Arrives, What is the Relationship Between Jana Pooja and Chakravarthy.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/l86HDx0XbCi6d49HfAWcr3JUxOY.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fyMwVyVmBy8RvDlUv37nwHkmJMZ.jpg",
+    "genre_ids": [
+      10749,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242001038",
+    "status": "U",
+    "etag": "5jK7dlaKe6kxf6NJPe6pMw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242001038",
+          "url": "/sapi/download/video?action=get&k=WeuYuHTbxDMGKFXTQoCi5stnzvksjgY8KNQ-hneZZmsTjgve8-W1_8CGtl9n2lUK4XG2kf98xEY3v0UYsfjNkL1WBpGS1jgS5PzCDXof5V79fnAfHN3mSBWH4nL7M5I35JyYMsXiHcyctNTWEbuKlo125dvVmhLl5oTs28P_uvUSOo09vLs&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=CjHrWXLm_X7TQi0WYLRblXaz9TiZTqafv8DLYJRzHQRMkndG9VZNnUBqUInNpAtl2tbdXB3ZgethEWOkpGoOjxHrNaSv0g5NPiZw5tLuvGG-PDIWnPi58tEq0FboXCMHKU5noH8ApZd97GXLyhXaM5SDZUW5EzPnrW1pXPfSVMOJwSvm_bG7fQRHPZUINOL6jqw&node=1i220",
+          "date": 1777043005000,
+          "creationdate": 1777042741000,
+          "modificationdate": 1777042741000,
+          "uploaded": 1777042912864,
+          "size": 1498863644,
+          "name": "Locker (2023) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7605802,
+            "bitrate": 1576547,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=pPgNZ6rrWfCo7NGWKa9k0McOckiYi_ylnw8si0cnE7QysDHyuyNCzsC9xxnsWATntd5ooF3XqHN78QTflKR9DafEnhAi2NzkjNJuj6DDnHfPS6l4fN-8ESGoEkk0c4BWxgjBjDPoA3nj1qk8HzNXhwTxP007_jlNmbXC8ziHtmkWexE11T4Rb9UNPkosvYgSZzg&node=1i220",
+              "etag": "05jK7dlaKe6kxf6NJPe6pMw=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=CjHrWXLm_X7TQi0WYLRblXaz9TiZTqafv8DLYJRzHQRMkndG9VZNnUBqUInNpAtl2tbdXB3ZgethEWOkpGoOjxHrNaSv0g5NPiZw5tLuvGG-PDIWnPi58tEq0FboXCMHKU5noH8ApZd97GXLyhXaM5SDZUW5EzPnrW1pXPfSVMOJwSvm_bG7fQRHPZUINOL6jqw&node=1i220",
+              "etag": "05jK7dlaKe6kxf6NJPe6pMw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "5jK7dlaKe6kxf6NJPe6pMw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777043005072,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CIqdZdhISACwnvwhrfffFDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Locker (2023)",
+  "media_kind": "movie"
+}
