@@ -1,0 +1,82 @@
+{
+  "name": "Tamilarasan (2023) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Tamilarasan (2023) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-24T17:43:21Z",
+  "remote_folder_id": 1752310,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242002197",
+  "tmdb": {
+    "tmdb_id": 587471,
+    "title": "Tamilarasan",
+    "original_title": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0b9a\u0ba9\u0bcd",
+    "release_date": "2023-04-21",
+    "year": "2023",
+    "rating": 3.1,
+    "overview": "Frustrated with a greedy hospital, an honest cop takes its heart surgeon hostage to save his son. Can he succeed, especially with his corrupt superior Rana Pratap Singh already has a bone to pick with him, trying to put him down?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yxRUqbgkcoNGE21hj060wbP5snZ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4LTq2aDgfK9dZBaxxDXxtpOkVpN.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242002197",
+    "status": "U",
+    "etag": "Biggwp3v4CfRKsedJ9PvzA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242002197",
+          "url": "/sapi/download/video?action=get&k=OprNJ8DNRbnKbaCN_G6WVXV5YgKYqec7Q14UrK_Ndv_5iMUwQ4CuDoULuwBXC3n5fLZi987qMVf-nAKpt_aLVXhQfyFD1Wq51pzM9fRGQH_oXmWOXnvQNVPCrxDOctBipEZxBXDbKdDVrVAH1JVZL5dza8GWNypeHA0o2wmMWgTd4xwRJ38&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=-DhwKUjOPYQzTgi6ZkCvu3orfYMxDlV0IajXJh3c_-fmZjl24Oe7veKhcLbxk-RdwyczG1DrlLcob6-7tjAW3-q89Xd5z0RTieCHPi05CgvZCnjvMmilHd-69RQIPPeoHuRlOo_NNScpcUHzpHbYjrOrslv-zL6GeoDJDXHwrI8di-Y5Jr5eS2KYdIsdHPaziJI&node=1i220",
+          "date": 1777052600808,
+          "creationdate": 1777052464000,
+          "modificationdate": 1777052464000,
+          "uploaded": 1777052540464,
+          "size": 1110972082,
+          "name": "Tamilarasan (2023) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7521642,
+            "bitrate": 1181627,
+            "codec": "h264",
+            "height": 548,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 109,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Eia9mBQqV0__6A5YVfaKpPLIPHdqDaAwjLkpDVOxZq54NEk-zfzBBHGEyahduKJiphAvKZHgB0YhvVMV5pfjsl_V8OIHGcALue7U19YQGH0GkcpAcuGTGOraFyyW1vJ9aBcG53SS7F-wecXheuyHyrPd1k9AaOF1vkXgIv0x1u7NDcfNEc8qdjIjk4eP7MfzSJw&node=1i220",
+              "etag": "0Biggwp3v4CfRKsedJ9PvzA=="
+            },
+            {
+              "w": 1024,
+              "h": 438,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=-DhwKUjOPYQzTgi6ZkCvu3orfYMxDlV0IajXJh3c_-fmZjl24Oe7veKhcLbxk-RdwyczG1DrlLcob6-7tjAW3-q89Xd5z0RTieCHPi05CgvZCnjvMmilHd-69RQIPPeoHuRlOo_NNScpcUHzpHbYjrOrslv-zL6GeoDJDXHwrI8di-Y5Jr5eS2KYdIsdHPaziJI&node=1i220",
+              "etag": "0Biggwp3v4CfRKsedJ9PvzA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Biggwp3v4CfRKsedJ9PvzA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777052600907,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/wy2sgKhLSNiGVsY7jIMokTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Tamilarasan (2023)",
+  "media_kind": "movie"
+}
