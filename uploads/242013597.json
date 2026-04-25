@@ -1,0 +1,69 @@
+{
+  "name": "Maa (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "path": "D:\\New folder\\Maa (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "uploaded_at": "2026-04-25T19:02:34Z",
+  "remote_folder_id": 1752538,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013597",
+  "tmdb": {
+    "tmdb_id": 1389158,
+    "title": "Maa",
+    "original_title": "\u092e\u093e\u0901",
+    "release_date": "2025-06-20",
+    "year": "2025",
+    "rating": 6.733,
+    "overview": "A mother and daughter encounter a demon in a village where girls have been disappearing.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kc5n7LJUmvBsVxzAla1ONN8kouP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/u3Cfe21Cmv5cWs5VnFCz15HdfKO.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013597",
+    "status": "U",
+    "etag": "cnVVgSzUyJu4z5IObOxFJA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013597",
+          "url": "/sapi/download/video?action=get&k=G_cxLKx1oxzTUokY6ntSzSEM4IYITOYoUMxsNdREuCc_0108Koy0-V1beLDVaIQYa9o8IIS3ii0ZtSOHrcdz_ZqTs8OhjxyihEGjTeAKwvxLszZMMcHFE0iD5CnxJ5BACeGjbjHsY8JOT7RXAlO-lNW49YgfTtGpmNalLDqmT9tFx4oP9co&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ACf-hmQqTgRvWelaK-DstJ4kKR8T_agY70DLzrEge9c6UT_oMMnzzruASCr4PI712r9am7bSJbkwLs8oqWPDK86exERnJn2HHfAQY1HQwfkCe-Afk4MhJGWUmJGeXfZYEyyEItJq83fyGKmUjwnxvCaHkpZKt3LNwgns2xGJFsY0AsBiKdXyOAe9Qe_6SVRl4cE&node=1i220",
+          "date": 1777143750314,
+          "creationdate": 1777143475000,
+          "modificationdate": 1777143475000,
+          "uploaded": 1777143709605,
+          "size": 1294401680,
+          "name": "Maa (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=drc2yPZLEtq7gbmUtygSrxwLdCpuKP04vVOqbllwzKnXd6FKQWpS2lpK0TEwcKBUAFPUHfAkqcm57FFQMmzG70EsltO_cnls8qUkFE7MynYSComp2RLvcY5AQsLayXZ6zPXtRg6fciU0vgV3eEMBUzGDaJcio0n5JOkI2JmahzrImJYHyD5TzwpGRfdGLbXHhLw&node=1i220",
+              "etag": "0cnVVgSzUyJu4z5IObOxFJA=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ACf-hmQqTgRvWelaK-DstJ4kKR8T_agY70DLzrEge9c6UT_oMMnzzruASCr4PI712r9am7bSJbkwLs8oqWPDK86exERnJn2HHfAQY1HQwfkCe-Afk4MhJGWUmJGeXfZYEyyEItJq83fyGKmUjwnxvCaHkpZKt3LNwgns2xGJFsY0AsBiKdXyOAe9Qe_6SVRl4cE&node=1i220",
+              "etag": "0cnVVgSzUyJu4z5IObOxFJA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "cnVVgSzUyJu4z5IObOxFJA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777143750354,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/uwMEDdH6QhmYsUOOgiSGezMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Maa (2025)",
+  "media_kind": "movie"
+}
