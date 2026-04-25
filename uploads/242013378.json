@@ -1,0 +1,83 @@
+{
+  "name": "Amar Prem Ki Prem Kahani (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Amar Prem Ki Prem Kahani (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T16:50:04Z",
+  "remote_folder_id": 1752367,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013378",
+  "tmdb": {
+    "tmdb_id": 1315021,
+    "title": "Amar Prem Ki Prem Kahani",
+    "original_title": "\u0905\u092e\u0930 \u092a\u094d\u0930\u0947\u092e \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940",
+    "release_date": "2024-10-04",
+    "year": "2024",
+    "rating": 5.5,
+    "overview": "Follows a freshly-engaged Amar who goes on a trip to London and falls heads-over-heels with Prem, a handsome man whose charm threatens to put Amar's marriage in danger.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3CasKHr8RtkbIwK2FkYmQGlQbap.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2lqi4UDYCxxWqTHHjJfgkiixkvP.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013378",
+    "status": "U",
+    "etag": "l9kTWf+UB0OCpmkFjgKU0g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013378",
+          "url": "/sapi/download/video?action=get&k=e-tpCs8PdtfCz5LMteiGZTdJlVXEm8govpoMBoC5vcCz_DJNWgLdlJr3HkV0_z6EVhjOtQc4EOWuKH0AXxNJtNInDyf-HCD7YUIHzkN1qpGD-yyPSqLg82XaVjELNG7n-ykxqPQLWJl8mx_ISXzUhbTCH5ex3hgx2cGr5Vk4yEyzmmvJLbI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=LAdURDVszuocAcwyjhsHGoCOmVQg249d1OalRmJsP8EP-zOsXNdbRauVVnf-9wEz1l9KXooS2c63GE_0dXvblOxKOm-d9MIymtAUS5wiW7gdphyiRDmafZS8toUqipjpbCPQ1UJbc01Z8JfWpzRBI8WUK7cfO2TRY6QWVcab9Fjbc5-TyoGk4Z428v8DxKedRLE&node=1i220",
+          "date": 1777135802944,
+          "creationdate": 1777135695000,
+          "modificationdate": 1777135695000,
+          "uploaded": 1777135764957,
+          "size": 1289806524,
+          "name": "Amar Prem Ki Prem Kahani (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7057280,
+            "bitrate": 1462100,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=-phK8MKEsQLl8gaAn6bWn37Ec4dYmeHJIgidJSGjIpXMirSG_XUxbg9DmCDrfTD5X4UDm6V7-_zkRXOVOGCRYZq3SIhwJxbwKOadbMmaBSSZWNNwtDsIAWpi61H7Qp0HvY8Yg03s-f7u01kZbUX-Qbw1hHjpjIFIBhft2B7orOpchaoQr6CTDUPyklEEjoJ5qZY&node=1i220",
+              "etag": "0l9kTWf+UB0OCpmkFjgKU0g=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=LAdURDVszuocAcwyjhsHGoCOmVQg249d1OalRmJsP8EP-zOsXNdbRauVVnf-9wEz1l9KXooS2c63GE_0dXvblOxKOm-d9MIymtAUS5wiW7gdphyiRDmafZS8toUqipjpbCPQ1UJbc01Z8JfWpzRBI8WUK7cfO2TRY6QWVcab9Fjbc5-TyoGk4Z428v8DxKedRLE&node=1i220",
+              "etag": "0l9kTWf+UB0OCpmkFjgKU0g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "l9kTWf+UB0OCpmkFjgKU0g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777135803004,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Mvdjk_lIR4W_YaniQ09JxzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Amar Prem Ki Prem Kahani (2024)",
+  "media_kind": "movie"
+}
