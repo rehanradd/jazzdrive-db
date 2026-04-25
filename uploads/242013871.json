@@ -1,0 +1,83 @@
+{
+  "name": "The Mehta Boys (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\The Mehta Boys (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T20:22:29Z",
+  "remote_folder_id": 1752585,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013871",
+  "tmdb": {
+    "tmdb_id": 1262530,
+    "title": "The Mehta Boys",
+    "original_title": "\u0926 \u092e\u0947\u0939\u0924\u093e \u092c\u0949\u092f\u091c",
+    "release_date": "2024-09-20",
+    "year": "2024",
+    "rating": 6.7,
+    "overview": "After the loss of his mother, Amay, a struggling young architect is forced to live for 48 hours with the one person he cannot stand, his father. It seems like a recipe for disaster. Wrong! It's much worse. Will the young architect crumble or will this bumpy ride help him rebuild his relationship with his crabby old man?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4fDGHQLhauxRAzProug4AspfYwQ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nmQAWG0F3pmRPnHjkVAEdSuV9eI.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013871",
+    "status": "U",
+    "etag": "2hw3bNRwshV2Q4BTpVWLEg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013871",
+          "url": "/sapi/download/video?action=get&k=BOFk-l-3Ud_og3nffKgdMdjrpYKD5Zs42t1elr6nMjaX3DrhZYA3PkVBmDwWTSfoLNb6lKc1pfF40mzw-mJc6BJ6Oj9iD8HXtmTW0f72T6P6oundi5xtTOWxs_9ndxfnV0ErjGOeUDaf2D3R8Bv1bb8ZtoZFerZ2kpQLpyQhNY39fhv28fc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ij3f9x7eHWsWUManC28buJmfGp-A-7IvnY9oh7ovkKpY17yyLFbwyMLlIhFjQgTIFi3shF8Eyq3dv9tiBJ0qn3P8U6BXVCzcaIWHIdg-kHiR0dBTABVBqD-wtbtDK8eGqrmkcLUeZMjJzQgA4V4dhMgUE10M1yF0HsxKvGWgpLqxhcqUP1iV3EbzakE1EqHjn3k&node=1i220",
+          "date": 1777148548561,
+          "creationdate": 1777148309000,
+          "modificationdate": 1777148309000,
+          "uploaded": 1777148512001,
+          "size": 1129941765,
+          "name": "The Mehta Boys (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6979700,
+            "bitrate": 1295117,
+            "codec": "h264",
+            "height": 688,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 137,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=QyyDThSgm3NqwVWmvHUubmImU1KOFNkhpnKySg0hDEyikNH1VnjGPUh-R4uKiwUe0m4uZd8VvP3waAZv3GsL3cq1pm33nCOKf8mClfmy2fs1DPh4RqrtXSM97dw6OmpTk3s8ICUXnlV_EGeVymsZeXWQnZYkRFWLldahlaUV7sRd_68PDQ0-lZoclRs2k8j_agE&node=1i220",
+              "etag": "02hw3bNRwshV2Q4BTpVWLEg=="
+            },
+            {
+              "w": 1024,
+              "h": 550,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ij3f9x7eHWsWUManC28buJmfGp-A-7IvnY9oh7ovkKpY17yyLFbwyMLlIhFjQgTIFi3shF8Eyq3dv9tiBJ0qn3P8U6BXVCzcaIWHIdg-kHiR0dBTABVBqD-wtbtDK8eGqrmkcLUeZMjJzQgA4V4dhMgUE10M1yF0HsxKvGWgpLqxhcqUP1iV3EbzakE1EqHjn3k&node=1i220",
+              "etag": "02hw3bNRwshV2Q4BTpVWLEg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2hw3bNRwshV2Q4BTpVWLEg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777148548623,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/56O5x28GRGiHyoJgnQSevjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Mehta Boys (2025)",
+  "media_kind": "movie"
+}
