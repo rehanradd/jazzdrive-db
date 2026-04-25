@@ -1,0 +1,84 @@
+{
+  "name": "The Smile Man (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\The Smile Man (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T15:49:53Z",
+  "remote_folder_id": 1752345,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013343",
+  "tmdb": {
+    "tmdb_id": 942386,
+    "title": "The Smile Man",
+    "original_title": "\u0ba4\u0bbf \u0bb8\u0bcd\u0bae\u0bc8\u0bb2\u0bcd \u0bae\u0bc7\u0ba9\u0bcd",
+    "release_date": "2024-12-27",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "A police officer who is diagnosed with Alzheimer's disease must solve one last case before he loses all his memories. He must run against time to catch the notorious serial killer who he believes has a mysterious role in his own personal life.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/p8J4IroY8tzRrtEckuetnMKLc42.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/r1xx1HzUxlSozLFjlewPmMirgNc.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013343",
+    "status": "U",
+    "etag": "S8952SaryTn56zoN9zJiSA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013343",
+          "url": "/sapi/download/video?action=get&k=t6oEaDGCrugYaZHiZvjS4YuiExjM_-1m0nUmlxGWv9JgmrtjAarHRV9uFBsrzzH44I091kG8mre_KMzM-pvftvbf6AwyM08cHQt7ZxS8XcAuTEp8ZhaH4kF4t11BMhtacpSiGFTnXoDb_xxE_n-XR5-d76oaUCMOGfgV02_0xTnvOCVYy_Q&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=DcQ_IMmY9Jme_W56uqz3d14eQhSjQT9_XKP1KeT5DqFZt27jGpfHR_upqMgaBDjwy3SEj4G54emFKZDQF16gJ59Aw4WO8A2OZuJGf5gLqCYSm2nscNcJ-ByK7SFEcOtPiXbhz0uXtKnkHB8_O8DB1YA_s1CmsqjfyAY280ts-3iAzoWWsOUsO7GZmJEJoXei7Co&node=1i220",
+          "date": 1777132192920,
+          "creationdate": 1777132070000,
+          "modificationdate": 1777132070000,
+          "uploaded": 1777132155202,
+          "size": 1222323859,
+          "name": "The Smile Man (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7283712,
+            "bitrate": 1342528,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=EJbIwb0rxeL7b8-lQp-8a-yZEAxTbexyrI_yHtO8JURb3w-tvGyYdKO7fK-KA4YdraAD50AKWM57NBAa57jh2yh1VI034Qd0SeFQeDzyRJXB69NEBptICsRYv5hWxJomdaf4RRjQQr39pw3jAlP-P8Pc36qSzGVluim8_egJyDhfjcHAYCPHuzWumF9ambzjcYQ&node=1i220",
+              "etag": "0S8952SaryTn56zoN9zJiSA=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=DcQ_IMmY9Jme_W56uqz3d14eQhSjQT9_XKP1KeT5DqFZt27jGpfHR_upqMgaBDjwy3SEj4G54emFKZDQF16gJ59Aw4WO8A2OZuJGf5gLqCYSm2nscNcJ-ByK7SFEcOtPiXbhz0uXtKnkHB8_O8DB1YA_s1CmsqjfyAY280ts-3iAzoWWsOUsO7GZmJEJoXei7Co&node=1i220",
+              "etag": "0S8952SaryTn56zoN9zJiSA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "S8952SaryTn56zoN9zJiSA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777132192983,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/_Az5-C7-QPCQpGK5gjVM7DMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Smile Man (2024)",
+  "media_kind": "movie"
+}
