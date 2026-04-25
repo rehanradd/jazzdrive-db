@@ -1,0 +1,81 @@
+{
+  "name": "Khalnigranaaya (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "path": "D:\\New folder\\Khalnigranaaya (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "uploaded_at": "2026-04-25T18:47:11Z",
+  "remote_folder_id": 1752530,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013584",
+  "tmdb": {
+    "tmdb_id": 1548037,
+    "title": "Khalnigranaaya",
+    "original_title": "Khalnigranaaya",
+    "release_date": "2025-09-17",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "A committed ACP faces his toughest challenge as his newly born child is kidnapped by anonymous culprits. Racing against them, he strives to reclaim his baby safely.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/d5MDrJ2LAk9ETZwSzVgoOxYxif0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lMl12GYXsrX7Y8LDLXH5350ItEh.jpg",
+    "genre_ids": [
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013584",
+    "status": "U",
+    "etag": "MzFFo0Wk74jIGcmC20jyxQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013584",
+          "url": "/sapi/download/video?action=get&k=rR5Of1reu0StlWFC2s7GODy-_zzivx18E4M1SaNDiwjRtxvH4v7-UHz934bDELwiOyXZRWue3WhFJapgxTKjxRZxqHquqhjPRzlmDjP-k3VFAiqHLMraI2Pqs2S9K3nrMSVpd-0YEBGxIrsjw0-HLShp8E14byf4q2Ywx8zcu5LLhfQrLmg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=8ywBKNXtRr_wdf8alMoInS_JnipO-pkITC1dy4AkrtHNIjqNI7PFCAHKsa8uQYagOWUlfvieOI1yrt0HXQAzm9ZGQs030owT8EScd6XJyA4JkwKBw_PyNGlGXwmbMy5BWO6-TBuvUCqYPICS9FujKR_5KCHaUBNH2TySC0UrVm9K5lnZZhm04yLoZ-4jalwv-Yw&node=1i220",
+          "date": 1777142830679,
+          "creationdate": 1777142741000,
+          "modificationdate": 1777142741000,
+          "uploaded": 1777142805316,
+          "size": 886131070,
+          "name": "Khalnigranaaya (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5807625,
+            "bitrate": 1220645,
+            "codec": "h264",
+            "height": 546,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 109,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=O2FP60UmovoEO4BcyDvrylu-XqDjQ464AUQA-fcrFmcj6hrYqPjYDkoVJeNYETnXSDUkOXfToa3LetT54x2AXVBFE3-rMp2a46Vtj7xNFrOmtsyMdYbz6Xb3AdGjIp_Gs6ODYe16MYmhmRN-QytnHLL-iJhftJtPj6JOQcrttF6a9fIEJ7uTPqr1KyEnKs0RkWg&node=1i220",
+              "etag": "0MzFFo0Wk74jIGcmC20jyxQ=="
+            },
+            {
+              "w": 1024,
+              "h": 436,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=8ywBKNXtRr_wdf8alMoInS_JnipO-pkITC1dy4AkrtHNIjqNI7PFCAHKsa8uQYagOWUlfvieOI1yrt0HXQAzm9ZGQs030owT8EScd6XJyA4JkwKBw_PyNGlGXwmbMy5BWO6-TBuvUCqYPICS9FujKR_5KCHaUBNH2TySC0UrVm9K5lnZZhm04yLoZ-4jalwv-Yw&node=1i220",
+              "etag": "0MzFFo0Wk74jIGcmC20jyxQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "MzFFo0Wk74jIGcmC20jyxQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777142830744,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/NwDizEhzTL-tZD-0HK9UezMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Khalnigranaaya (2025)",
+  "media_kind": "movie"
+}
