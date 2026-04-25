@@ -1,0 +1,82 @@
+{
+  "name": "Chilli Chicken (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Chilli Chicken (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:30:49Z",
+  "remote_folder_id": 1752389,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013521",
+  "tmdb": {
+    "tmdb_id": 1305602,
+    "title": "Chilli Chicken",
+    "original_title": "Chilli Chicken",
+    "release_date": "2024-06-21",
+    "year": "2024",
+    "rating": 4.0,
+    "overview": "Chilli Chicken follows the lives of five Northeastern boys working at a Chinese restaurant. Based on true events, this film is written and directed by Prateek Prajosh. The cast includes BV Shrunga (known for \"19.20.21\"), Manipur actor Bijou Thaangjam (from \"Mary Kom\"), Jimpa Sangpo, alongside Harini Sundararajan, Victor Thoudam, Nityashree, Padmaja Rao, and others.  This movie promises to captivate audiences with its unique blend of social commentary, drama, and comedy.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5Aa0A7pN7IuKqen0nYuD7pIKzqf.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013521",
+    "status": "U",
+    "etag": "9w2G+SQ/aAVOTTakjG1fKg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013521",
+          "url": "/sapi/download/video?action=get&k=5L9SQUo3NPaAjJxjOpihjjgPWLzO2jQ3U4xXZTsZJBhQ-BmQa0iq0NGX4Kg7GwQoqwmkm_Hy3W0wn4ee-zldvDn0G8AfLclBt1s9qYz9AQqSOeoY2SKMBzBQNdAp0ytYqUBqP5CoN5OI7bajPxC6jW-9Q1-QbMWFTDU_7QuExIhYWndxUDU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=us7knOU66r--CyI_0vhugaRGZiNPCdOtCxmD-iUgQvlV4TalO0awa6FnFosNfnCLpn4vxs_WmAKZSA8EmYX1Inq-aCmAbIWUtfD4HXL2HbxqME1xTLCAnVyFCyYAFKsIEmR0JYt2708dV7ZgaL0YmAaCjivEkOJD-tXdMziySKR52RIB4y_t3z34PD_cuj2DyXo&node=1i220",
+          "date": 1777138248697,
+          "creationdate": 1777137892000,
+          "modificationdate": 1777137892000,
+          "uploaded": 1777138194875,
+          "size": 1478944390,
+          "name": "Chilli Chicken (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7291796,
+            "bitrate": 1622584,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=OUK_uHEY-lN3G46N0bq-t0Gw0_DuDgSQY0a7gM7UIkXaTtauV0tRP0SDJzMHRDTvs7TiwRPZapoO4y-r6cTYpRRGBu5Zt8c10Lh1-IYtfsstmfX80mLzVbbmBj54oVazzfllDAs6jqA_lOsRhZPCo2NvUwxJmc8ay_qqBiQ0atoP7ne-_q4nJk2MKg2fzdPmD0M&node=1i220",
+              "etag": "09w2G+SQ/aAVOTTakjG1fKg=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=us7knOU66r--CyI_0vhugaRGZiNPCdOtCxmD-iUgQvlV4TalO0awa6FnFosNfnCLpn4vxs_WmAKZSA8EmYX1Inq-aCmAbIWUtfD4HXL2HbxqME1xTLCAnVyFCyYAFKsIEmR0JYt2708dV7ZgaL0YmAaCjivEkOJD-tXdMziySKR52RIB4y_t3z34PD_cuj2DyXo&node=1i220",
+              "etag": "09w2G+SQ/aAVOTTakjG1fKg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "9w2G+SQ/aAVOTTakjG1fKg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777138248756,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CTzOHzrES52IC4xvsSLmUDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Chilli Chicken (2024)",
+  "media_kind": "movie"
+}
