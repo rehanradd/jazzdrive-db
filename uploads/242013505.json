@@ -1,0 +1,81 @@
+{
+  "name": "Bengal 1947 (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Bengal 1947 (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:07:41Z",
+  "remote_folder_id": 1752377,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013505",
+  "tmdb": {
+    "tmdb_id": 855677,
+    "title": "Bengal",
+    "original_title": "Bengal",
+    "release_date": "2021-05-10",
+    "year": "2021",
+    "rating": 0.0,
+    "overview": "A beautiful sunny day, bengal, little house cat gets in touch with his hunter instincts\u2026",
+    "poster_path": null,
+    "backdrop_path": null,
+    "genre_ids": [
+      16
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013505",
+    "status": "U",
+    "etag": "th/7ib7YdliwdFUBIWfpVA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013505",
+          "url": "/sapi/download/video?action=get&k=X2I-nFoUb6ocfbCDyVMuMNNxpTb0iV1P4oFxvW1lVl0mHuBH6ML1RjPdx7CZcKwVaTPhAZaoE6309Sg8cTTI6Ro8iWsN6z-Im675a-VDpPXRWRX8uv8sc4Gy5ok_HTKhtUGOm2lsFoN8UBUO0dw5Vrwdp038d5jxK1DyomzCQNtv2aFMIJs&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=qAXifTgx5QBfU7rzZTchE3FX-uKGeyWhZNPrJA7dtCwL6XOqSbBvU8Q6ImHDEYXIiPtlp0LR_JE1JJvzp5yYhRqpPpNeBElILMnhkBnwRdsXa8nvyjPO2zFqhve4JLH6S0-lAJw7E-CF5BYMD8jrrpsTgClsX1x90rSAW8uzrclkVbQsEd32SqZ6Ce5_LXaSSBU&node=1i220",
+          "date": 1777136859657,
+          "creationdate": 1777136723000,
+          "modificationdate": 1777136723000,
+          "uploaded": 1777136824489,
+          "size": 1153953689,
+          "name": "Bengal 1947 (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7629439,
+            "bitrate": 1210001,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=IVRfhogER3rvrrqUddoPQ_gW-q-imqxk1J9oe0jqI9qNXLu4W4f1GioAIlMazy4Qgs8j9zUS27fNFBjjcFVfumvSwU1eFNPYYrUb6L775q6NgApmxP5v075tAWCszuOQ-UjebGBuwbrP9luXBtQzK7t1QgZYMR_be51w_sS3NwSsub8dhbPVXWVEw1nD60aOSb8&node=1i220",
+              "etag": "0th/7ib7YdliwdFUBIWfpVA=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qAXifTgx5QBfU7rzZTchE3FX-uKGeyWhZNPrJA7dtCwL6XOqSbBvU8Q6ImHDEYXIiPtlp0LR_JE1JJvzp5yYhRqpPpNeBElILMnhkBnwRdsXa8nvyjPO2zFqhve4JLH6S0-lAJw7E-CF5BYMD8jrrpsTgClsX1x90rSAW8uzrclkVbQsEd32SqZ6Ce5_LXaSSBU&node=1i220",
+              "etag": "0th/7ib7YdliwdFUBIWfpVA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "th/7ib7YdliwdFUBIWfpVA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777136859723,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/9Y4N5GmyTXqHZ-dZHlltsjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bengal (1947)",
+  "media_kind": "movie"
+}
