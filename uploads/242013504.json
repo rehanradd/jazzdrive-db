@@ -1,0 +1,81 @@
+{
+  "name": "Benaam Rishta (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Benaam Rishta (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:05:16Z",
+  "remote_folder_id": 1752376,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013504",
+  "tmdb": {
+    "tmdb_id": 1403696,
+    "title": "Benaam Rishta",
+    "original_title": "Benaam Rishta",
+    "release_date": "2024-12-13",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "In the City of Dreams, Hema, a housemaid, dared to dream of love-unexpectedly, with her employer Shikha's husband, Rohan. Will this forbidden affair satisfy her yearning for love, or will their relationship remain undefined?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/6UyBEm7Ma28EQYrTPtaRjfeyRu7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/yLzdx3JI6DwAjMhuyNvazXwVYN3.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013504",
+    "status": "U",
+    "etag": "0v7Mgft2juQ5XHo6anHx5w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013504",
+          "url": "/sapi/download/video?action=get&k=8-wIyUqORdtM6yVZS3K9nScPAofsZn800vzaRX9hM1mVpgxfCJ5ZirybFMWP1c25J-lPujhjqi98IBQzxxnL8NP8p3vOL5cwfbd45Oyw3lS9384PcUZES--XInf1K2_V9zirceA46hEuWJHi4YOmq_FUeEkmU36N1F7ugUitKyAVoHsOmQ8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=lE4-q9Rkdgfskf5FjZbbbh7p4ARrYyjs0MHwBQ3JgtRT0nSzcO_J_4TJzEZMqxmv5rZu_FWniwZT4X3DrcY8urGztk1Hg4GFlbqbm5bs11JuF3G3F0KAc-QVH0LziYLjqhtdRW6i2jMa8W5mJvZo8PWHIFhbaFBr0mOXt-uYutpYy_gEjewbvehYaosp_aY7_C0&node=1i220",
+          "date": 1777136716062,
+          "creationdate": 1777136648000,
+          "modificationdate": 1777136648000,
+          "uploaded": 1777136692664,
+          "size": 835013451,
+          "name": "Benaam Rishta (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5433579,
+            "bitrate": 1229412,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0rqP_ab88YL3vmNoNEHv3-09v6oV80FulWAvgnrcQmdI8mDxuCSTqpHLGdhzyaePQl1ixirTNEEjXwJyRpvDHqmEmfwBJUEEJDanHVksy6spJT5E2wpavMAzAvmnmZrHW2aSJ0hIDyPf6EMrEJd2gKjuDSbobrfL_YvLZt7YrWuybEa48iCe8bFEKxQ-BZTQek4&node=1i220",
+              "etag": "00v7Mgft2juQ5XHo6anHx5w=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=lE4-q9Rkdgfskf5FjZbbbh7p4ARrYyjs0MHwBQ3JgtRT0nSzcO_J_4TJzEZMqxmv5rZu_FWniwZT4X3DrcY8urGztk1Hg4GFlbqbm5bs11JuF3G3F0KAc-QVH0LziYLjqhtdRW6i2jMa8W5mJvZo8PWHIFhbaFBr0mOXt-uYutpYy_gEjewbvehYaosp_aY7_C0&node=1i220",
+              "etag": "00v7Mgft2juQ5XHo6anHx5w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "0v7Mgft2juQ5XHo6anHx5w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777136716132,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/UlVavoWPQtCNH7mxsFndFzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Benaam Rishta (2024)",
+  "media_kind": "movie"
+}
