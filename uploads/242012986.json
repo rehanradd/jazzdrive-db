@@ -1,0 +1,83 @@
+{
+  "name": "The Door (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\The Door (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T15:36:41Z",
+  "remote_folder_id": 1752341,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242012986",
+  "tmdb": {
+    "tmdb_id": 1258057,
+    "title": "The Door",
+    "original_title": "The Door",
+    "release_date": "2024-07-08",
+    "year": "2024",
+    "rating": 6.0,
+    "overview": "A year after their daughter's disappearance, Kara and Felix struggle to move on in their own ways as their marriage falls apart around them. But when a mysterious door appears in her kitchen, Kara becomes obsessed with uncovering what lies behind it at any cost. Even as it threatens to reopen old wounds.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xCUSfHzOEK2N7oJB5tfMgUIJggk.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/q4WBYGif9t2kDtFEhsKrOQbRNqR.jpg",
+    "genre_ids": [
+      18,
+      878,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242012986",
+    "status": "U",
+    "etag": "nluB+c7Jl3ZEr0CxurWiEQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242012986",
+          "url": "/sapi/download/video?action=get&k=YWV1mUz2wGXKviDhvtp5ED3kH92Ma_uqz_TZX4NcA78YWDdFwVK0PnLvgoNIYRJknq4dCHG1-mVNiEN66i22ujHifC1zwTiIXlHRMcrZhMfx0NvMnW0QrvZgmqQeua7dkExlyMcd_BDTgV4zcxzLbi04tflNuLTqELbGoYlG9WImSIER7N8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ARAh147BB7P1p68Jr7BM9g8I-NdQ2WKFFm3d_j1PSGK9iBY_w9U-bFIPNK8IW6LCWzzKcHfulYexbxH5MIj82r3BN-tkKlGzPrNuLvcglZa_cqF5n2Ran6L3eiwhZbAsscH9gaeX8y3soSLvIOI-0KCfhCXidgYuJA4n1wn6YZBchldP2xx4MLULORW95Ee_yOM&node=1i220",
+          "date": 1777131400205,
+          "creationdate": 1777131251000,
+          "modificationdate": 1777131251000,
+          "uploaded": 1777131346652,
+          "size": 1466240907,
+          "name": "The Door (2024) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7894260,
+            "bitrate": 1485880,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=tJvLjQZ5HZBbyLsSRU_He1tIVdjyoTPHs_fUSmrKu7eiQZ9ypLrpIP8WWTPwrd_UmdBIGrgQ9KELnk6pNVLo0vqPIl1KH_cT5h5axN40m3gKNa2hG4JLERg0gyZ1Bka_d5WU1U3ygi1cfREyrOOe7V4WXaYNsLat-fVpKQjHkSzwP_4g28Cz52Y_XTxTun23X2Q&node=1i220",
+              "etag": "0nluB+c7Jl3ZEr0CxurWiEQ=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ARAh147BB7P1p68Jr7BM9g8I-NdQ2WKFFm3d_j1PSGK9iBY_w9U-bFIPNK8IW6LCWzzKcHfulYexbxH5MIj82r3BN-tkKlGzPrNuLvcglZa_cqF5n2Ran6L3eiwhZbAsscH9gaeX8y3soSLvIOI-0KCfhCXidgYuJA4n1wn6YZBchldP2xx4MLULORW95Ee_yOM&node=1i220",
+              "etag": "0nluB+c7Jl3ZEr0CxurWiEQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "nluB+c7Jl3ZEr0CxurWiEQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777131400279,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/vY6xe8PQRwGXaH8M6lOXwzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Door (2024)",
+  "media_kind": "movie"
+}
