@@ -1,0 +1,68 @@
+{
+  "name": "Kisko The Pata (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Kisko The Pata (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T18:53:49Z",
+  "remote_folder_id": 1752535,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013589",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013589",
+    "status": "U",
+    "etag": "AH86cdwgC3ZIXo27rrCZ7A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013589",
+          "url": "/sapi/download/video?action=get&k=XAq_2SanqhUvTbXgQD0uuB-oAfhI0pb8Axppdbwpt1VdNod62Hh8beLpMnc2VcIAjzJ000aPlSY-bgaAaOqlcWTKHJO-87S40-XwxZu_gAWjkjRsbvxJ0F7xNDGnOb5siILZRQ8k2veep_O-rJYlde12Fu6J5zGIpuZ4v_X5yx6lZZ-zOM0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=oIgUlJDJ0TVY-p2zqhqYtqBy-JNlemufq0gZSCp25qVv5AQasVKwrGM8vVAH6E-8mk_qi6essv4tf4ZJSSNeexu1pQ4u-zv3lxVmDyhi_a2t53cCPg_u3LBdDE3oluUYrnzNAwMHxZT084wCVnh3s3PmF1IkT_YgBec9ZPtpzLuduYFlk19311WpclHBD24iSTc&node=1i220",
+          "date": 1777143227953,
+          "creationdate": 1777143101000,
+          "modificationdate": 1777143101000,
+          "uploaded": 1777143191846,
+          "size": 1274210281,
+          "name": "Kisko The Pata (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8281145,
+            "bitrate": 1230950,
+            "codec": "h264",
+            "height": 546,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 109,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=f96SY7QFN-jduyy1OgBx5G2Md70n9VxMxrYJsluN2MFU0E2C9uTW9827fIO_dpADE4pGDXSxV2RWfYhk_NrE9fOpMnHM92n23ioM5lERdQDhFYgh4k0xN0XsYa_Wdn4BjJpIUvoGJG1Q9MZHVubWHQNrEadGSIMohJYlrMqbFO2wTVQujl8b5EOis-8Sv5vyiT0&node=1i220",
+              "etag": "0AH86cdwgC3ZIXo27rrCZ7A=="
+            },
+            {
+              "w": 1024,
+              "h": 436,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=oIgUlJDJ0TVY-p2zqhqYtqBy-JNlemufq0gZSCp25qVv5AQasVKwrGM8vVAH6E-8mk_qi6essv4tf4ZJSSNeexu1pQ4u-zv3lxVmDyhi_a2t53cCPg_u3LBdDE3oluUYrnzNAwMHxZT084wCVnh3s3PmF1IkT_YgBec9ZPtpzLuduYFlk19311WpclHBD24iSTc&node=1i220",
+              "etag": "0AH86cdwgC3ZIXo27rrCZ7A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "AH86cdwgC3ZIXo27rrCZ7A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777143228020,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CTfIZP2WQ7KUK8ViWXZm6zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kisko The Pata (2024)",
+  "media_kind": "movie"
+}
