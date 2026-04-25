@@ -1,0 +1,83 @@
+{
+  "name": "Rahu Ketu (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Rahu Ketu (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T19:36:49Z",
+  "remote_folder_id": 1752560,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013823",
+  "tmdb": {
+    "tmdb_id": 1457939,
+    "title": "Rahu Ketu",
+    "original_title": "\u0930\u093e\u0939\u0941 \u0915\u0947\u0924\u0941",
+    "release_date": "2026-01-16",
+    "year": "2026",
+    "rating": 3.5,
+    "overview": "In the magical world of writer Churu Lal Sharma, his unlucky creations Rahu and Ketu spring to life, causing hilarious chaos instead of fighting corruption. When the mischievous Meenu Taxi steals Churu's mystical notebook, the bumbling duo are dragged into absurd adventures that land them in the middle of a drug mafia.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/qTwn0p318YB4oXvQSIhSrhuTcpj.jpg",
+    "genre_ids": [
+      12,
+      35,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013823",
+    "status": "U",
+    "etag": "r1iEnp7dUvPTohPAH4MXYQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013823",
+          "url": "/sapi/download/video?action=get&k=vt4PaOd5luQPYJVfhK7YhwZngm0WuCFUfDiQiIN5m7V76A6sFcoi2egPCBsTyZwIfZPProszuTHhIZtvqnQWPIM06n-m-eP3YbVJZmCYFaUZ2CxZF-F7RohvGJNoIaa-Gzd220MTeIcEWATsp8jFZRByoYmIgrSssybvWouvlnHf_IEBl8w&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=CyWCH-2jVGcJ0x7S-C7yuaY2AkUclDDEPbnT7LwbWLjb7UnLJXF9pdLRZYJseWQ5geMPxui7Nw9DLQr1aeJF8RV3ts_4Dh6tviLdwWzobgwVSpBXl8wUe3iQF_3PtzK3z4XUNj5s6JE4b6OfTJt1F1elY1nK0IEilcPUK58b5PYtmKE8nhHfRWGDHxaVU0Jxc4o&node=1i220",
+          "date": 1777145808658,
+          "creationdate": 1777145548000,
+          "modificationdate": 1777145548000,
+          "uploaded": 1777145773222,
+          "size": 1229075657,
+          "name": "Rahu Ketu (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8255122,
+            "bitrate": 1191091,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=GnSopRWGRTd51O8XEZpRpr4BkmVqWO6YbXdnr5A_PvbJhUCuFlIeHqXkzB7lTGBiK8sRQvCCPv4P3PqzWf-MZ4wI1j55POK4tRJ4HsD3v8RZZQ-6-u9EWUOcoSWHhC1EtK5N78aThKLbRIaY-d7LsXojvH4pE4Cv4Ri925eA9QKxshHGkZS14R1EaCjHoF_tCx8&node=1i220",
+              "etag": "0r1iEnp7dUvPTohPAH4MXYQ=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=CyWCH-2jVGcJ0x7S-C7yuaY2AkUclDDEPbnT7LwbWLjb7UnLJXF9pdLRZYJseWQ5geMPxui7Nw9DLQr1aeJF8RV3ts_4Dh6tviLdwWzobgwVSpBXl8wUe3iQF_3PtzK3z4XUNj5s6JE4b6OfTJt1F1elY1nK0IEilcPUK58b5PYtmKE8nhHfRWGDHxaVU0Jxc4o&node=1i220",
+              "etag": "0r1iEnp7dUvPTohPAH4MXYQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "r1iEnp7dUvPTohPAH4MXYQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777145808717,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xZarRA_BQemNmT_bPzHmGjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Rahu Ketu (2026)",
+  "media_kind": "movie"
+}
