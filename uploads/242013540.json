@@ -1,0 +1,83 @@
+{
+  "name": "Ek Deewane Ki Deewaniyat (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Ek Deewane Ki Deewaniyat (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:57:01Z",
+  "remote_folder_id": 1752504,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013540",
+  "tmdb": {
+    "tmdb_id": 1434543,
+    "title": "Ek Deewane Ki Deewaniyat",
+    "original_title": "\u090f\u0915 \u0926\u0940\u0935\u093e\u0928\u0947 \u0915\u0940 \u0926\u0940\u0935\u093e\u0928\u093f\u092f\u0924",
+    "release_date": "2025-10-21",
+    "year": "2025",
+    "rating": 5.7,
+    "overview": "When Vikramaditya, a powerful politician falls  for a strong-willed superstar Adaa , their passionate romance quickly spirals into a dangerous game of obsession and pride. As emotions clash and tempers rise, Adaa makes a life-altering choice.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eQGzsELM0n6FOngNRGEIx9nqDwV.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jwWLS6N6hePsR9UrL67MQN9MGwY.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013540",
+    "status": "U",
+    "etag": "0IASizBgol+Zq/cIrU+VOQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013540",
+          "url": "/sapi/download/video?action=get&k=RN15jetdZ5ox4h81ocdggiwItjqwy5qinlGhsi03E6cFeCPNIol9xwC3HXnvBbVF2VAJ0rDmt51wFDkya-eAVFQUFSwn5oyWPQ9ulcPI34L4s9AGpl861wLItBnV_KwXzBOqsJ1aL2k4x44WRRFbLeX7TRjqQYabhBRtu5VFkMYS1Wj8TQQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=0JNVA2CqELpKdhp9pb8jqWxvYOo4UCa8bUKZgVTCaEX4OQIn87QtlBP5K5Xso6zRdwsLq7sNf4Q0z6trcXK-c1n8c2z1C5OmfqHxdVoWfH1pndj6E5f7zyzp9gPDf0jNdDatbv_G_dd8RJSvbLKpYu6Eu6YvpRIqtN-w0dw2kSJSMWdNeIeja-7k9taZWHQpxl8&node=1i220",
+          "date": 1777139820536,
+          "creationdate": 1777139513000,
+          "modificationdate": 1777139513000,
+          "uploaded": 1777139782694,
+          "size": 1247435138,
+          "name": "Ek Deewane Ki Deewaniyat (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8372594,
+            "bitrate": 1191922,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=T2ykk4bAsLxvBRlvghqz3yBRqklgXym704DGz5lFGB-eaHL6Dk8dX0_myQMJYJ2vaJSp6MrKf7xvtkvT2wzP9Kh3D6rPXIQgdO7Myu3Y_xALvRLd3b9T0doxA10rwb37DI1yTvPQPtlGN8xS5DhjMkqkO2Rt0zShxjxyfE0Yke7E6AqScRY4nrriNH3WTifAGvQ&node=1i220",
+              "etag": "00IASizBgol+Zq/cIrU+VOQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=0JNVA2CqELpKdhp9pb8jqWxvYOo4UCa8bUKZgVTCaEX4OQIn87QtlBP5K5Xso6zRdwsLq7sNf4Q0z6trcXK-c1n8c2z1C5OmfqHxdVoWfH1pndj6E5f7zyzp9gPDf0jNdDatbv_G_dd8RJSvbLKpYu6Eu6YvpRIqtN-w0dw2kSJSMWdNeIeja-7k9taZWHQpxl8&node=1i220",
+              "etag": "00IASizBgol+Zq/cIrU+VOQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "0IASizBgol+Zq/cIrU+VOQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777139820593,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/PHtcAKaJTbqjZWIfphLLmzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ek Deewane Ki Deewaniyat (2025)",
+  "media_kind": "movie"
+}
