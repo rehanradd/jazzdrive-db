@@ -1,0 +1,83 @@
+{
+  "name": "Housefull 5A (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Housefull 5A (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T18:17:25Z",
+  "remote_folder_id": 1752513,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013549",
+  "tmdb": {
+    "tmdb_id": 1146210,
+    "title": "Housefull 5",
+    "original_title": "\u0939\u093e\u0909\u0938\u092b\u093c\u0942\u0932 5",
+    "release_date": "2025-06-05",
+    "year": "2025",
+    "rating": 5.36,
+    "overview": "A father writes his will \u2014 his son \"Jolly\" is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the \"real\" Jolly on a cruise celebrating the father's birthday \u2014 where a murder takes place.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iGvGkVOfsooO0ZBrhN5i6zXYUCy.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iRKNWkFLG4QmbPlfNPR94fVwwsK.jpg",
+    "genre_ids": [
+      35,
+      9648,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013549",
+    "status": "U",
+    "etag": "LbqDQ7yOMhIhK6j99pndVw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013549",
+          "url": "/sapi/download/video?action=get&k=dSO8b8GwHrOLPpF-p3sH4e-5hsbO7tUuncJBK-xZI2u5Yei-sCFVD0hp8qNscW9y9Sh87uPPqToY3wdhCN6kmwUtbv1f922sn-5PidL4CB94vT-sa-KLaGDioF4wCpzKOoEdWSpKOaDQqFOCNIRf1jcVAlOJeRfpWSqUxOhcHXISTvnZeZ0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=Il4fSChIn1tpmQ05nbXC7D_gXS59J7rRVX3ZcPQo_Z461bNF7E4hpeZ0ln4WYOzsao2hB8VhQj8UiXqymyz8jRgS4crzy-DqYqpHsEsOiZs1Lu2Tzdu5gjle4_vi0nDl9HCg32TrxhnIemeHJsB_PlML7dT5ZIPo7RKkAlykgRGt-mPjApJ4ZB-fAxgoZg1eXBk&node=1i220",
+          "date": 1777141044803,
+          "creationdate": 1777140732000,
+          "modificationdate": 1777140732000,
+          "uploaded": 1777140996259,
+          "size": 1407678613,
+          "name": "Housefull 5A (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9309355,
+            "bitrate": 1209689,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=PMNOLj3sYGnsseV8jH7PSBl8dhjFkQoihcM2lz4riYordSGlLh_F9YygDi5NEaDuhtjnJdRepF_9ZjVPailXK4k1WPDbBB-fj6WQ22mQen7O-KylD5b7ThlGGbSu1YSouq6_T5slaOQ3PMVfShxyfDXjQKqQmAa8wRr_3tHv0saY0tz9_y0deYy4g00DmAfbcFw&node=1i220",
+              "etag": "0LbqDQ7yOMhIhK6j99pndVw=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Il4fSChIn1tpmQ05nbXC7D_gXS59J7rRVX3ZcPQo_Z461bNF7E4hpeZ0ln4WYOzsao2hB8VhQj8UiXqymyz8jRgS4crzy-DqYqpHsEsOiZs1Lu2Tzdu5gjle4_vi0nDl9HCg32TrxhnIemeHJsB_PlML7dT5ZIPo7RKkAlykgRGt-mPjApJ4ZB-fAxgoZg1eXBk&node=1i220",
+              "etag": "0LbqDQ7yOMhIhK6j99pndVw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "LbqDQ7yOMhIhK6j99pndVw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777141044874,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/trHU7zabRnuEZw8EG6XQOzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Housefull 5A (2025)",
+  "media_kind": "movie"
+}
