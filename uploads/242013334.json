@@ -1,0 +1,82 @@
+{
+  "name": "The Girlfriend (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\The Girlfriend (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T15:44:58Z",
+  "remote_folder_id": 1752342,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013334",
+  "tmdb": {
+    "tmdb_id": 1196348,
+    "title": "The Girlfriend",
+    "original_title": "\u0c26\u0c3f \u0c17\u0c30\u0c4d\u0c32\u0c4d\u200c\u0c2b\u0c4d\u0c30\u0c46\u0c02\u0c21\u0c4d\u200c",
+    "release_date": "2025-11-07",
+    "year": "2025",
+    "rating": 6.844,
+    "overview": "A college literature student falls for a charming man with a domineering streak, forcing her to confront the toxic truth of his desire.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8cYve5muYPeWKvSEfFdkmWDyyDa.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1U6BizPeYgC6lYTijQnNozS1vMg.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013334",
+    "status": "U",
+    "etag": "52ZBXgeYC7rUDXSfrR9mLw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013334",
+          "url": "/sapi/download/video?action=get&k=8gLu8Gm1qnOeQNRhXmoqWYYo6RBYFE_8jxYCFT4gTglM5ba_muArxMLYRVUt4jhHfC4-sC-RT-A1HhQ6Wn4NS_eG2Bg9FmNFu-XTaWXU5voXiIg_FaJ_lGHDCxEbFbxHojJR5huS-AEAedEhvM4GNKSul2LEVF4RdM6Cluwoy9WuJC40doQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=Z-oLbgWe73pfd0d27kG2vM1A6S5t6aiLbxTRkCoAtb9XgDC07kDKHLgQhAqmmQryMeucXzUMR4zcDujNub4wKLNX45Wx0xEobhxQa6pZPJbBbt6bPuA2TqkYMN4ic1ii6lXMfUXydb5195bNAe-jkOV8VswxFiZzbiE19h3xnv-YbTNEaZZ-6dd9gqKqrkqlxdI&node=1i220",
+          "date": 1777131897905,
+          "creationdate": 1777131725000,
+          "modificationdate": 1777131725000,
+          "uploaded": 1777131855829,
+          "size": 1357326413,
+          "name": "The Girlfriend (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8265214,
+            "bitrate": 1313772,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=aTPWO9DkIh6XqtLnjVZvskrsJS7IUgz41hfBrTfy5Oo-mLNhA_jSp5lB23PWD2HXKSt8iM3YNDVDVfcf8p3AvxchlPbuzj_UQ7w8CHSfsrk-T0CCpYCqPtYBDjfqIvie5O4FpEQVJVJk888Hs3MPqzOkhwpuGQbNl4vzdy7Xnc7HEop5sbwhZjt8CqDsVqEWJFc&node=1i220",
+              "etag": "052ZBXgeYC7rUDXSfrR9mLw=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Z-oLbgWe73pfd0d27kG2vM1A6S5t6aiLbxTRkCoAtb9XgDC07kDKHLgQhAqmmQryMeucXzUMR4zcDujNub4wKLNX45Wx0xEobhxQa6pZPJbBbt6bPuA2TqkYMN4ic1ii6lXMfUXydb5195bNAe-jkOV8VswxFiZzbiE19h3xnv-YbTNEaZZ-6dd9gqKqrkqlxdI&node=1i220",
+              "etag": "052ZBXgeYC7rUDXSfrR9mLw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "52ZBXgeYC7rUDXSfrR9mLw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777131897971,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/egZfbEAvR3CPNQuzSR-QNDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Girlfriend (2025)",
+  "media_kind": "movie"
+}
