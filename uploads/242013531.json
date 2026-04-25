@@ -1,0 +1,83 @@
+{
+  "name": "Dil Dosti Aur Dogs (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "path": "D:\\New folder\\Dil Dosti Aur Dogs (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:38:51Z",
+  "remote_folder_id": 1752396,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013531",
+  "tmdb": {
+    "tmdb_id": 1440754,
+    "title": "Dil Dosti Aur Dogs",
+    "original_title": "Dil Dosti Aur Dogs",
+    "release_date": "2025-02-28",
+    "year": "2025",
+    "rating": 3.8,
+    "overview": "Explore love, happiness, compassion and self-discovery through four stories in the company of man's best friend.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zVkCKohDO7Xw7Iq5aoyootDhBG7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tse3tXBNExdXOUPIOIGhHUoxZpu.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013531",
+    "status": "U",
+    "etag": "w5SyHCUD4MP+r1x8Vmf9eQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013531",
+          "url": "/sapi/download/video?action=get&k=AkeIDQhSUK5cXtVKl3yN5hnowsjQsdDI23D5DxacaMLv2qN7Lq7kXNDGkcQnLqCfWHsatxmjALeI2eydZdqP_Xh9-sySJwteC2w9_R6RwJD8qfPxuMJYuMHnhAGmImmeHcm-7T1QKomDOAsEwaTJoiVfooA4MuBEM3yFVPF7j29zP_tfqCk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=tCbC6DUDOe9y5RSK3WOOEKhSapzlFVQHl60kZLJHjdc4QHk6SYSUyLojHmQmvsMw7vPru9JVr4Ur7bkXrijhQRji1nroGBliMnCfuKZc72xUlnPBLGgyQpS7-IuP6Jik4a7C4c7He0OUelSMMsneqFv3ZuBjtiTp1C9pQ4QKGqtW01qDzfqwgj3cGEnRiDw3PYg&node=1i220",
+          "date": 1777138730496,
+          "creationdate": 1777138614000,
+          "modificationdate": 1777138614000,
+          "uploaded": 1777138696814,
+          "size": 1167142245,
+          "name": "Dil Dosti Aur Dogs (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+          "metadata": {
+            "duration": 6068501,
+            "bitrate": 1538623,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=5vQfXwY72I2depEnETFFF2TFdmJX5EzANd2E5JeDNKePmRUuptYE7GlsboYa5wLbvr4CUo6qJ1OS5eMW4REt0NShpMz9ulobAPzuyqTCkkrsFN08TFfm3zOhGigsgn0AmQV5JcuxtVckXodqn9GJVgIa7SqRyBSuxRSNftN5NngIcd3uA26t-VtX62C9iaicfBA&node=1i220",
+              "etag": "0w5SyHCUD4MP+r1x8Vmf9eQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=tCbC6DUDOe9y5RSK3WOOEKhSapzlFVQHl60kZLJHjdc4QHk6SYSUyLojHmQmvsMw7vPru9JVr4Ur7bkXrijhQRji1nroGBliMnCfuKZc72xUlnPBLGgyQpS7-IuP6Jik4a7C4c7He0OUelSMMsneqFv3ZuBjtiTp1C9pQ4QKGqtW01qDzfqwgj3cGEnRiDw3PYg&node=1i220",
+              "etag": "0w5SyHCUD4MP+r1x8Vmf9eQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "w5SyHCUD4MP+r1x8Vmf9eQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777138730561,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pEiATGHPTz6qdDLRjCY-JTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dil Dosti Aur Dogs (2025)",
+  "media_kind": "movie"
+}
