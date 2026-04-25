@@ -1,0 +1,83 @@
+{
+  "name": "Ek Chatur Naar (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Ek Chatur Naar (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:44:01Z",
+  "remote_folder_id": 1752399,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013535",
+  "tmdb": {
+    "tmdb_id": 1525484,
+    "title": "Ek Chatur Naar",
+    "original_title": "\u090f\u0915 \u091a\u0924\u0941\u0930 \u0928\u093e\u0930",
+    "release_date": "2025-09-12",
+    "year": "2025",
+    "rating": 5.1,
+    "overview": "Abhishek Verma, a fund consultant, gets trapped in a web of lies, deception and blackmail after a good-for-nothing but cunning woman, failing to make ends meet, gets her hands on his phone, which lets slip more than anyone should know, forcing him to comply.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/apMb2Oz9uvqA19dawmeglKM7THX.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/m223f5ZdF71Bui9FUpmwYNJHDAV.jpg",
+    "genre_ids": [
+      18,
+      35,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013535",
+    "status": "U",
+    "etag": "I55lqzRbcGxQjgXR0E4M7w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013535",
+          "url": "/sapi/download/video?action=get&k=EoTLFQjcTot6WrL7hCqWAb5uYn5mV-H2vc-F2wsXTwvJccWiz3HZLkkUOGNxfnWsOPkmQhAM_NLNg1seIb9xfbdqd0P3jZtKDIojHp2n4S_zbsVT8IJ34qnrdbrXqNSC-c9vkyGGLGrVk1iyvMutcPnHDlewWhoyJKAycInA_Vg3JG0nRdI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=APmXBuozTwKPkCVhO8SkQf_W9ljhUYNMadpr9lJQOKIcCqECljkuFPtex_9_e0azbBhmhzHo230qWZfty-j6DT9PIIWEv_sNtpKnU2A9xOULZW66xMiYW2MxAG0Dv29WHlrVNqGLefbb3XoDNo17xkXG81pIXCPtwdLVPMovMTSzkjR5sh6dOC5Wqs8sAzOHUtU&node=1i220",
+          "date": 1777139040738,
+          "creationdate": 1777138939000,
+          "modificationdate": 1777138939000,
+          "uploaded": 1777139007530,
+          "size": 1162748700,
+          "name": "Ek Chatur Naar (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7846570,
+            "bitrate": 1185484,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=vJzRGag7M3gUFBMiPz9717ceUkPWidSqggpjMxWvseqF4E3zbCZzFp2cRilRpZch-AGIjfLjWjffdsZ5gbN78wv2j-MR8INI9qicXmzVZ_m7a059GyIlbiESxHdbl5zRjRarAJG939Px9kJjxuR_j0zEcoghPXfb_a6X-fH34obmiZ86FSSkjFuP2G3zsbd0qs8&node=1i220",
+              "etag": "0I55lqzRbcGxQjgXR0E4M7w=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=APmXBuozTwKPkCVhO8SkQf_W9ljhUYNMadpr9lJQOKIcCqECljkuFPtex_9_e0azbBhmhzHo230qWZfty-j6DT9PIIWEv_sNtpKnU2A9xOULZW66xMiYW2MxAG0Dv29WHlrVNqGLefbb3XoDNo17xkXG81pIXCPtwdLVPMovMTSzkjR5sh6dOC5Wqs8sAzOHUtU&node=1i220",
+              "etag": "0I55lqzRbcGxQjgXR0E4M7w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "I55lqzRbcGxQjgXR0E4M7w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777139040799,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/IlTilB6bSY2LyNroMlYQ6zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ek Chatur Naar (2025)",
+  "media_kind": "movie"
+}
