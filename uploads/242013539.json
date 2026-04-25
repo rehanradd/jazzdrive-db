@@ -1,0 +1,84 @@
+{
+  "name": "Everybody Loves Sohrab Handa (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Everybody Loves Sohrab Handa (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:51:43Z",
+  "remote_folder_id": 1752503,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013539",
+  "tmdb": {
+    "tmdb_id": 1198380,
+    "title": "Everybody Loves Sohrab Handa",
+    "original_title": "\u090f\u0935\u0930\u0940\u092c\u0921\u0940 \u0932\u0935\u094d\u0938 \u0938\u094b\u0939\u0930\u093e\u092c \u0939\u093e\u0902\u0921\u093e",
+    "release_date": "2023-10-30",
+    "year": "2023",
+    "rating": 6.0,
+    "overview": "At an anniversary party, Sohrab Handa is found dead, with his throat slit in the hall. As the investigation unravels, friendships are tested, and secrets are revealed.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/A3zKx7XpXY1ykL8CLbyCN0OCsT8.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/khdLhsQqnmrN6JUaEbhlZSMkKck.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      18,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013539",
+    "status": "U",
+    "etag": "I3g/hxkgSZ0TBfhRvuH4lA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013539",
+          "url": "/sapi/download/video?action=get&k=jwrhg7RPiqWuZOUOwaoMA6W6ZUIB9DpGXCV7DbL-V0ZlrQ6OnliYAICO48r6zPJ1qXxLHNI28MQCkMuGx4EETNIxN0y5LRVBl84uc_4gXSn0hRu8pRH14g9R3KI8fXKlf61993BNcYw2oW1gdooLQs7_hsyvd127hOsn9BzVNo5oSpJ6Bj0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=fuDhRJi6XLFlo5cRk5lZlsWck7_62nv5zGLRbEX5XPv4MNaWPV0qtYDCerOvGCeqbUu1B3NIs56wDAHzgF32tHo7_7gsnMspDi8xbOufovKO4izalXKN8SPcwgkWuz_vNFaLcopptJqSaYUOUlCZslb-niAdIixmXIZAV7CJjtqGOi2zojvZacf0XOK66jZVcuo&node=1i220",
+          "date": 1777139503064,
+          "creationdate": 1777139254000,
+          "modificationdate": 1777139254000,
+          "uploaded": 1777139476998,
+          "size": 897081595,
+          "name": "Everybody Loves Sohrab Handa (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5990506,
+            "bitrate": 1198004,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VLjTVu65RKj1XCY6PVhR_yZwBmEzzwfLIGbDhx9WhGuoI3qMxpBbLi6J3mrfvhEjJQCQkCLdoSaf5YT4GFjCRHbC2Zu5cH_DSxdn6HGpnGzrELTfyBfy48PQTy3ZEyFNSEWbtELHN07t_Pze_SaaU1IhEzZbYMuCEjKb2WwGdJVH4JqVtl1xwTBcizeJOPhkq_Q&node=1i220",
+              "etag": "0I3g/hxkgSZ0TBfhRvuH4lA=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=fuDhRJi6XLFlo5cRk5lZlsWck7_62nv5zGLRbEX5XPv4MNaWPV0qtYDCerOvGCeqbUu1B3NIs56wDAHzgF32tHo7_7gsnMspDi8xbOufovKO4izalXKN8SPcwgkWuz_vNFaLcopptJqSaYUOUlCZslb-niAdIixmXIZAV7CJjtqGOi2zojvZacf0XOK66jZVcuo&node=1i220",
+              "etag": "0I3g/hxkgSZ0TBfhRvuH4lA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "I3g/hxkgSZ0TBfhRvuH4lA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777139503123,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/reK8CbfhQQKfBAY-zHR_cTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Everybody Loves Sohrab Handa (2026)",
+  "media_kind": "movie"
+}
