@@ -1,0 +1,81 @@
+{
+  "name": "Mastiii 4 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Mastiii 4 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T19:04:53Z",
+  "remote_folder_id": 1752541,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013801",
+  "tmdb": {
+    "tmdb_id": 1228827,
+    "title": "Mastiii 4",
+    "original_title": "Mastiii 4",
+    "release_date": "2025-11-21",
+    "year": "2025",
+    "rating": 6.273,
+    "overview": "Three frustrated husbands seek freedom from their dull marriages. A wild idea promises escape and excitement. But what follows is anything but expected.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/99rpDOk540UDaCMlJSonpSvQCPm.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/huXWIOCkaS91oWMyMgMfY2EVNcf.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013801",
+    "status": "U",
+    "etag": "+eFGQqMzj42ok9j1YHRs+A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013801",
+          "url": "/sapi/download/video?action=get&k=9KIVq2NBVYM_nE84L-VCOwWvuxJlCWdhAviZjDf32TXNfaYrJ_nbQV9Y0A6ChHN1PMGC9EX8uErgva8093G6HmmPtBFXoY6EQ56no2OcBZW47f6D08YnaqLtSAQffAWtAkFvsBHPPVd9VqBWrrxZgwSUO968FqNZYJphah_BclY6JY4j6PQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=IugBp0ypkSb267lXiByCY7Jz9pPSdS4LayX5F80FUoXpoRtFz9ire11OJFlLmPyxe5pGnH6TZ5N1af4h_Dxh2QHgo0f70kh4K4a9EE83fazBgLk1rUfSNbPdyMh6W1ivSG4nXC_wATEyCDN5nhxTFrkZNIMEQa9zpmHRl4pa3bcFloLYGeSd3_k8P0-irukLvKI&node=1i220",
+          "date": 1777143892917,
+          "creationdate": 1777143761000,
+          "modificationdate": 1777143761000,
+          "uploaded": 1777143856398,
+          "size": 1223745007,
+          "name": "Mastiii 4 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8234560,
+            "bitrate": 1188886,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=WBXpTpmj05t4qysge29UPCIazQ7N7k5iBj8yy-PvXXb6G4Wscp9Dvdw9nL7JLlJSlGKgPBWrlzspq2vGfFtjLsX3-UdyKI2NgfdferP5pi_zJcv3KpF59O1eWrm2qSeO7YYtNWvScO9PGTmHlUNdqko952xXIR9YRR5n4mvmI5xlfLP1bLMHQNxaUkcj6WBEvXs&node=1i220",
+              "etag": "0+eFGQqMzj42ok9j1YHRs+A=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IugBp0ypkSb267lXiByCY7Jz9pPSdS4LayX5F80FUoXpoRtFz9ire11OJFlLmPyxe5pGnH6TZ5N1af4h_Dxh2QHgo0f70kh4K4a9EE83fazBgLk1rUfSNbPdyMh6W1ivSG4nXC_wATEyCDN5nhxTFrkZNIMEQa9zpmHRl4pa3bcFloLYGeSd3_k8P0-irukLvKI&node=1i220",
+              "etag": "0+eFGQqMzj42ok9j1YHRs+A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "+eFGQqMzj42ok9j1YHRs+A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777143892978,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/QdEzpQp_RXOFbKHNFHOIYjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mastiii 4 (2025)",
+  "media_kind": "movie"
+}
