@@ -1,0 +1,82 @@
+{
+  "name": "Jolly LLB  3 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Jolly LLB  3 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T18:43:31Z",
+  "remote_folder_id": 1752527,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013581",
+  "tmdb": {
+    "tmdb_id": 1015981,
+    "title": "Jolly LLB 3",
+    "original_title": "Jolly LLB 3",
+    "release_date": "2025-09-19",
+    "year": "2025",
+    "rating": 6.265,
+    "overview": "The third part of the Jolly LLB trilogy brings back Jagdish Tyagi and Jagdishwar Mishra for the biggest face-off as penurious widow Janki Devi Solanki awaits justice against business tycoon Haribhai Khaitan in a satire on the judiciary, justice and the gulf between the privileged and the people on the other side of the spectrum.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/bwRoU9p5GvjxgPfmIgsfcJ4ydng.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/gC1kJpDPtaogbq7N543si20jC0w.jpg",
+    "genre_ids": [
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013581",
+    "status": "U",
+    "etag": "TQlyIi6lg0Dp2jBnga7z8A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013581",
+          "url": "/sapi/download/video?action=get&k=RZLh-VAqgWkWz4l_SMvvmZtqfOSazkC-p2v-F9jsmcmBxck3X-qbkhNOgbSpSRSZ4_Yak5mSVypnFXrJAEhjkBvjhRlbplHZWEHGZ1zxHAVEcCIgeTxVK4KpIUCqhTdW3ynFOPh2keyrqTOu4aMDxndZis6kGqpcDuquLMXjaz4t9FFhYRk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=bgwB3PGR7ZRkrJOXr737dcWORpJpqx8BViEFMLnCsgRHJHF5dK1BpivQDKUyFHCco_zGxN7LrbTXDrLvwYTN-DsYTU0DRay6pkWOIYv4lgYNnb0y-VccWSIsdPE_LyPojD3-fRi2YwXn6LPMZRU1HZMfgAJbHuGjQFgsEkWEgOmCY_vmfqfp9du9vkGZbEgO_pA&node=1i220",
+          "date": 1777142610867,
+          "creationdate": 1777142471000,
+          "modificationdate": 1777142471000,
+          "uploaded": 1777142569987,
+          "size": 1406727235,
+          "name": "Jolly LLB  3 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9372202,
+            "bitrate": 1200765,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6vy6FmLv_GJcU641hNlNUeEyCYU_XMFfsUOYoQY2-yCsImz7VmcDkeylCrdZLmUWQBPQIc_0vzZjQn2VHCfxb3vs9dcnpzizB6j5aBhP7v6td2qKIrX0JbaNSTuSjyNKr8wFbktsUik8i6CE5QJp7jizQrOscCLiZCudD4mczRt2bOBtAO6Pzel9RoWX4QdAuow&node=1i220",
+              "etag": "0TQlyIi6lg0Dp2jBnga7z8A=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=bgwB3PGR7ZRkrJOXr737dcWORpJpqx8BViEFMLnCsgRHJHF5dK1BpivQDKUyFHCco_zGxN7LrbTXDrLvwYTN-DsYTU0DRay6pkWOIYv4lgYNnb0y-VccWSIsdPE_LyPojD3-fRi2YwXn6LPMZRU1HZMfgAJbHuGjQFgsEkWEgOmCY_vmfqfp9du9vkGZbEgO_pA&node=1i220",
+              "etag": "0TQlyIi6lg0Dp2jBnga7z8A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "TQlyIi6lg0Dp2jBnga7z8A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777142610943,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/yAntNxCWTh-nKXxDScBYAzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jolly Llb 3 (2025)",
+  "media_kind": "movie"
+}
