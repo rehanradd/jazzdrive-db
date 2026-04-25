@@ -1,0 +1,70 @@
+{
+  "name": "Romeo S3 (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "path": "D:\\New folder\\Romeo S3 (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "uploaded_at": "2026-04-25T19:48:22Z",
+  "remote_folder_id": 1752565,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013829",
+  "tmdb": {
+    "tmdb_id": 1482085,
+    "title": "Romeo S3",
+    "original_title": "\u0930\u094b\u092e\u093f\u092f\u094b \u090f\u09383",
+    "release_date": "2025-05-16",
+    "year": "2025",
+    "rating": 8.0,
+    "overview": "DCP Sangram Singh Shekhawat is a gritty and determined police officer, hell-bent on dismantling a powerful drug cartel that has gripped the city in fear and addiction. His mission takes a sharp turn when he crosses paths with an investigative journalist chasing the same truth from the opposite side of the law.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/f3sgIwJY6xgeXKZeIXIbDtGEwXJ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xJ3qnUNB7vtldnByHHBtG44sX18.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013829",
+    "status": "U",
+    "etag": "rN9f9XQPB4eRgK27N4imLw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013829",
+          "url": "/sapi/download/video?action=get&k=tnspdJcc2KPLhLCBivPR_lrqPG7DcrpxVkmjDQOPEah_K2B4NXOg_NNH2ZiIk3-AvKTvewCxGlUNQ4l1h8TzqypOn8fzPhT450kgVDhRnyCboHOxdZeWA-p50vf8yGsJNAzUATNpeE-KpzaqnDdHmzBDiUjcz-vslTyR73JoiDVqUomb0ek&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=jmnSL738ECxSax937tw4Q-4TG015HZ7ZMiRNUJKcYP7bVlcFkHvyYyBQMg-UOH2wiwFSQBWKeIZnnPyLb1Eeey7IBzdggtseFbnO3_gmPnLKPjo04yj9tqtPLOSJixCXpwxvwyPmOMAS1OhHKazGcx9cysJtiMdbYxBsF10aIuqruCJAvaaZxi79av7Lhf6BXOk&node=1i220",
+          "date": 1777146501376,
+          "creationdate": 1777146205000,
+          "modificationdate": 1777146205000,
+          "uploaded": 1777146456933,
+          "size": 1411069256,
+          "name": "Romeo S3 (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=jp5U0MjDLJzN6R9FO7iLeMfjRHbpR80AxuT85nHFAAptHy_fwMiqh3lhmHEZVzcGLKTBnCuPPGpu5gks4GLdI06rCAUPAhdDwTAvjqEhNBnTQqk2JX7yk_z8Ft9LR9tys3Ph3l5-uCrcHvcUARHOPM7wCVEYj-aY_m4EbfMM7P-_6gr2cZ8gyiRcERFbBNgV1nY&node=1i220",
+              "etag": "0rN9f9XQPB4eRgK27N4imLw=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=jmnSL738ECxSax937tw4Q-4TG015HZ7ZMiRNUJKcYP7bVlcFkHvyYyBQMg-UOH2wiwFSQBWKeIZnnPyLb1Eeey7IBzdggtseFbnO3_gmPnLKPjo04yj9tqtPLOSJixCXpwxvwyPmOMAS1OhHKazGcx9cysJtiMdbYxBsF10aIuqruCJAvaaZxi79av7Lhf6BXOk&node=1i220",
+              "etag": "0rN9f9XQPB4eRgK27N4imLw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "rN9f9XQPB4eRgK27N4imLw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777146501419,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/zOFTkW4jSQqZtuhrwCZcTjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Romeo S3 (2025)",
+  "media_kind": "movie"
+}
