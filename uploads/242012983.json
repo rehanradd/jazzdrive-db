@@ -1,0 +1,81 @@
+{
+  "name": "Thappinchuku Thiruguvadu Dhanyudu Sumathi (2024) Telugu\u00a0720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Thappinchuku Thiruguvadu Dhanyudu Sumathi (2024) Telugu\u00a0720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T15:34:04Z",
+  "remote_folder_id": 1752323,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242012983",
+  "tmdb": {
+    "tmdb_id": 1393817,
+    "title": "Thappinchuku Thiruguvadu Dhanyudu Sumathi",
+    "original_title": "Thappinchuku Thiruguvadu Dhanyudu Sumathi",
+    "release_date": "2024-01-23",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "It is a story of 4 different characters and their lives gets entangled in a Bank robbery by one of them and what happens with the loot.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oA6FBBxFErZ2H9CRtuAFXyICDij.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hh1vLmrHN1gu99lUoK5oWdJiMTx.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242012983",
+    "status": "U",
+    "etag": "wo/d1XUxJXIpSLTPo9uxBw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242012983",
+          "url": "/sapi/download/video?action=get&k=J1SSxVKxx--6BJoLTB2r8v-ctcnhZm8U4J_gHxv0JzzkxYOyzmRiag4kynlDQRi3Ne505RZAKQAJ2Ni5SZdeVFIoOv2VPcoq_G3klBNDo0Xk8R7vZpna0P9_VNsy5C4tRcydoyKEot7pr1SHArAPj6bQcTJMuEeFsAkpDltAyqbMEp9arxQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=boRJhpFuAdgON_VXbJSl0Fe77svZt3vvYSByK_YJkeXsPmolQp23SJUPdM2UMSxDP8zkJAvZJbM4bAflGNtMV_oG4x_cNQn5pzWwnxvkZy7U0hPQvB09tXfHvfY2BVcnpdxst_HOwmm2-wNRXtg1xlR9Y5DaydBvoNfPNNNLAi3dJh0sQ_j60mZLU769NzchNds&node=1i220",
+          "date": 1777131243727,
+          "creationdate": 1777131057000,
+          "modificationdate": 1777131057000,
+          "uploaded": 1777131215332,
+          "size": 983923711,
+          "name": "Thappinchuku Thiruguvadu Dhanyudu Sumathi (2024) Telugu\u00a0720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5400128,
+            "bitrate": 1457630,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=3baub7_SdVvJodm5AQwhy5TAmH6lFLbYpKTGsaNntVj1CtEwvDAvqRNy9DXo5HYQgflYpTKTxXlc56qP-GPsVtX9E0gMxI66IykbTSl8PAZlr3viGgDZIgmaL35f9kn_4BVMPHhNhJB8aCcxzIW8Bd4aE9JZIdO1dDCtqtOJi9goHDq98aIZpGco9GNJ5wpI6Mg&node=1i220",
+              "etag": "0wo/d1XUxJXIpSLTPo9uxBw=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=boRJhpFuAdgON_VXbJSl0Fe77svZt3vvYSByK_YJkeXsPmolQp23SJUPdM2UMSxDP8zkJAvZJbM4bAflGNtMV_oG4x_cNQn5pzWwnxvkZy7U0hPQvB09tXfHvfY2BVcnpdxst_HOwmm2-wNRXtg1xlR9Y5DaydBvoNfPNNNLAi3dJh0sQ_j60mZLU769NzchNds&node=1i220",
+              "etag": "0wo/d1XUxJXIpSLTPo9uxBw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "wo/d1XUxJXIpSLTPo9uxBw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777131243786,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CEAluYkFRYSDGBHKHuJJmjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Thappinchuku Thiruguvadu Dhanyudu Sumathi (2024)",
+  "media_kind": "movie"
+}
