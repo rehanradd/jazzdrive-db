@@ -1,0 +1,71 @@
+{
+  "name": "O Romeo (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\O Romeo (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T19:32:21Z",
+  "remote_folder_id": 1752557,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013818",
+  "tmdb": {
+    "tmdb_id": 1275574,
+    "title": "O'Romeo",
+    "original_title": "\u0913 \u0930\u094b\u092e\u093f\u092f\u094b",
+    "release_date": "2026-02-13",
+    "year": "2026",
+    "rating": 5.3,
+    "overview": "What fate awaits a stonehearted gangster and bloodthirsty womaniser when true love claims him, helpless and unguarded? A gang war that shakes the entire underworld and crime syndicate to their very roots. A forbidden love; the tale of an unrequited passion.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7AypNX6eZrqyUPZl77jvwTfHgeV.jpg",
+    "genre_ids": [
+      10749,
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013818",
+    "status": "U",
+    "etag": "2DYBWR0ybd1ML2jm0jnf2Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013818",
+          "url": "/sapi/download/video?action=get&k=pV2Lf6rD0DD-UWN_EgUVon-c91YMw9nxxYpCb-pWJbgsWFjhIPbwfp_vKlbsm523bUhPtA95Ca0yfpmMHZyMkQ_32oPP4EWPZJ2XDVvgNmeP8LyFYyRBaxw07--T8G9NxjC_5aSm-rnP_0WyaAsLSNVX3v_zPFtiJuTZ7w49YunCmxGcKik&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=3dWJycp_isYKKtJKwrrUNdGR22_EttxOK9xxqU5p-2XjJFagrp9WXjtceMBb10YxBIqZj5FRLIBswNtFrlvscL0me1tLsDtU8tEZNmYN9c4krEr9D2WNbSUo41wpoEIb0Eu90_sG5uVFCYpZEYmhKQY_xXqGZ6zSmJ4WHgnIJrynMJUGNelioAtrOVQzVLi5MKg&node=1i220",
+          "date": 1777145540618,
+          "creationdate": 1777145200000,
+          "modificationdate": 1777145200000,
+          "uploaded": 1777145491613,
+          "size": 1588674577,
+          "name": "O Romeo (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=vhVDXq2iGUDUm8rhAE9dysLpbS3YCvi7M3mtqSGUjY_8fm82k-CzTFHxFQ4eZOnRLKMSdbIv8I5jN9mCZsXc4i2cz2WpH86r5xvFP0G3eDUlH89uzdxKJYiAX-6i9uQzZMtDRHL3kWY4S6JjfMsH5QoGGOvdNVK_bdUSWHjsb8Iltu9DS-E6RfiQ1jLEBsbciqU&node=1i220",
+              "etag": "02DYBWR0ybd1ML2jm0jnf2Q=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=3dWJycp_isYKKtJKwrrUNdGR22_EttxOK9xxqU5p-2XjJFagrp9WXjtceMBb10YxBIqZj5FRLIBswNtFrlvscL0me1tLsDtU8tEZNmYN9c4krEr9D2WNbSUo41wpoEIb0Eu90_sG5uVFCYpZEYmhKQY_xXqGZ6zSmJ4WHgnIJrynMJUGNelioAtrOVQzVLi5MKg&node=1i220",
+              "etag": "02DYBWR0ybd1ML2jm0jnf2Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2DYBWR0ybd1ML2jm0jnf2Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777145540663,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/8TdCI35GTPOpGLbDtKugGzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "O Romeo (2026)",
+  "media_kind": "movie"
+}
