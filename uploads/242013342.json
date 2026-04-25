@@ -1,0 +1,81 @@
+{
+  "name": "The Mind (2025) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\The Mind (2025) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T15:48:55Z",
+  "remote_folder_id": 1752344,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013342",
+  "tmdb": {
+    "tmdb_id": 1414143,
+    "title": "The Mind",
+    "original_title": "The Mind",
+    "release_date": "2025-01-29",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rOEKFSMweLK9ERIZ4Q2j8CTLQAg.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7mA4cbaLDPOqPNODMXtHR95nE5z.jpg",
+    "genre_ids": [
+      99
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013342",
+    "status": "U",
+    "etag": "19zs00OSvhs0TdHQdYEBrQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013342",
+          "url": "/sapi/download/video?action=get&k=gpVG-JerRNy5tFqS6Iu70IameTHD2-3EuvLwD_KKRNe__qMGwkpPexdXMMtDEuhWKLf98yRjRTIE0S5VnTgE-LymFju2Bi66N2mzbh326MAsINeDH4xLoRP3xLmXR0dtLCGYq6mFWcubwy3N1lVPS3rEtTDeID0RXFJS_DDykZdcKUV783Q&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=gr-wo0D3_ekTEg-va1uq6Nzw6zY28WtxdifrVJBQmGEgLdQM5_qor2dJE43yygcxWL_RhHWLpVSoWmxAGKriNjMROvNQ3YTqJIK01GNt3lrDEJioHdt-_t8jA44iB3KjTYeQALKq2LkgH1Q6yAwlfTZWqpnMr3ZEeuSzfjHscSlP5qBfF8hmZpkHzmci9DGddw0&node=1i220",
+          "date": 1777132134238,
+          "creationdate": 1777132053000,
+          "modificationdate": 1777132053000,
+          "uploaded": 1777132114350,
+          "size": 629511895,
+          "name": "The Mind (2025) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 4966826,
+            "bitrate": 1013946,
+            "codec": "h264",
+            "height": 640,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 128,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=D5q5GwDIG2-qSeGY0ziQ3khFa2nkoXe9MScG7AKeMsQwdwZIki1a6gmOHF8MtrIDU0k6t1FXkCIyxh31fkkWV-7jB0lPFneRVSgWPmXzh9qSmtQJgHbfljUY3s4aOwpuDmqsgqF7aXFcrWXmOg7JbxwYsszAdkTAq2lf67q8ArDKbwhiW20e_Qev6IrWgwoqvPE&node=1i220",
+              "etag": "019zs00OSvhs0TdHQdYEBrQ=="
+            },
+            {
+              "w": 1024,
+              "h": 512,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=gr-wo0D3_ekTEg-va1uq6Nzw6zY28WtxdifrVJBQmGEgLdQM5_qor2dJE43yygcxWL_RhHWLpVSoWmxAGKriNjMROvNQ3YTqJIK01GNt3lrDEJioHdt-_t8jA44iB3KjTYeQALKq2LkgH1Q6yAwlfTZWqpnMr3ZEeuSzfjHscSlP5qBfF8hmZpkHzmci9DGddw0&node=1i220",
+              "etag": "019zs00OSvhs0TdHQdYEBrQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "19zs00OSvhs0TdHQdYEBrQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777132134296,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/955E3g0LSX2ZL4xhh_hSJDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Mind (2025)",
+  "media_kind": "movie"
+}
