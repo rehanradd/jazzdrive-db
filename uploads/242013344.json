@@ -1,0 +1,79 @@
+{
+  "name": "Then Chennai (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Then Chennai (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T15:51:16Z",
+  "remote_folder_id": 1752346,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013344",
+  "tmdb": {
+    "tmdb_id": 1403351,
+    "title": "Then Chennai",
+    "original_title": "\u0ba4\u0bc6\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8",
+    "release_date": "2024-12-13",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Jason gets caught in a standoff between security forces and a gang. He fights to protect his loved ones while chaos consumes his life.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hVuyIPLxPK3HNabynBUgZfifIHt.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wWfIlDH2bPjhyB7r5fG9De3tT8G.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013344",
+    "status": "U",
+    "etag": "V4BOmIq9SP7HjoqSjM8C/A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013344",
+          "url": "/sapi/download/video?action=get&k=abTuflr1HRcfgtKw3k6zEnIQpecKJbjDTN1IoMCpNJnILWUu169Pb0Kbwwznik2o9h0rUPfB4greyZ5sE8Vx-hAj6qmZj8zgD4b6njsYLxKE7aGcvyA2stQLeFlh9K_5e2D2TdAAN2Lec9OojP2yyr9AGRt2gN2YlR_OYuMCyY-5WaIm1jg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=yCGBiHn9Ma1Hi0Ld31V1rRxWCFlV12ijK7dJAnqEMLVOUHWnoWe0CajxnL8lObjwnZduEJhpUTctavmmn8pY74JWU7oqm7XKxVX4HwtZdshNo8blhn6HW-zYY_ekI1b89om0s4ONAtvEhibY80qoGR19xiFvf3eWwdY6XJLl-CGET0IuzAmvv0vtsTev8B5katw&node=1i220",
+          "date": 1777132275587,
+          "creationdate": 1777132141000,
+          "modificationdate": 1777132141000,
+          "uploaded": 1777132229036,
+          "size": 1298749777,
+          "name": "Then Chennai (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7230556,
+            "bitrate": 1436957,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=dN-Fe9LPxtf4ndGt8O0DuQr2Y1A6pGPD3oufqXSZ3NcFejKz5zTHxNFiM92va1H2II17UHUSLJ50-4Qz-0ibmlMpX6gJMqHtoKdC0ZuHSc2o1VypjZ676EBGRpf3sEqGkdv4WLz2GhbtkOEqvNLUAhB0Q_58gmpte0-v95Sl69MxrM65RDnIW-xhsGXlUYRGg5A&node=1i220",
+              "etag": "0V4BOmIq9SP7HjoqSjM8C/A=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=yCGBiHn9Ma1Hi0Ld31V1rRxWCFlV12ijK7dJAnqEMLVOUHWnoWe0CajxnL8lObjwnZduEJhpUTctavmmn8pY74JWU7oqm7XKxVX4HwtZdshNo8blhn6HW-zYY_ekI1b89om0s4ONAtvEhibY80qoGR19xiFvf3eWwdY6XJLl-CGET0IuzAmvv0vtsTev8B5katw&node=1i220",
+              "etag": "0V4BOmIq9SP7HjoqSjM8C/A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "V4BOmIq9SP7HjoqSjM8C/A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777132275646,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xzCNs893QRC7yqWxit0oODMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Then Chennai (2024)",
+  "media_kind": "movie"
+}
