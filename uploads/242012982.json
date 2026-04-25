@@ -1,0 +1,79 @@
+{
+  "name": "The Birthday Boy (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\The Birthday Boy (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T15:31:27Z",
+  "remote_folder_id": 1752340,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242012982",
+  "tmdb": {
+    "tmdb_id": 1319112,
+    "title": "The Birthday Boy",
+    "original_title": "The Birthday Boy",
+    "release_date": "2024-07-19",
+    "year": "2024",
+    "rating": 6.5,
+    "overview": "It's birthday time and it's celebration time. Based on true incidents.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/plm4z0mWkS0bdJxqVaI5SU4nebi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8ojoCZ1d9GG7jRt97ucUxfWHOo8.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242012982",
+    "status": "U",
+    "etag": "kCvREYiP/MGtBsAEs0t65w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242012982",
+          "url": "/sapi/download/video?action=get&k=7Z2IeqK0enigvL37UkBGFat4X8ji8Vdk57xwlZpHl__gU_FyuZbcS7kQcSTSfwx802O8oqir-L8JXBIQMfXlrROxcVjkoEloXBXfecgqVMkM-5Qb5GtWKl1IZBXf56GgDpstmiFGDBQrwUGhTRCbthrn5cu2eT5owOZUfai2cp4raQU7M3w&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=9RdKOcSmC-mxt4JKsqI5X2i6GOhB9It3uXe9Kb9twzJlw0ye1s6FtQb8h4ebe-p6iMCQ-Zd9Vu3CmV9F4PxDxbRYtX0TP_Cd-kluuTQVKSsMxh0K1kG60GHLHTpTHcJxq6Muq03CTF9f2Ko19Voqq2_2SjVqosun8AscXa4_oeZ_K26o-Xsf7nBwJmVuQUlSpbI&node=1i220",
+          "date": 1777131085828,
+          "creationdate": 1777130976000,
+          "modificationdate": 1777130976000,
+          "uploaded": 1777131054134,
+          "size": 1092456065,
+          "name": "The Birthday Boy (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7041770,
+            "bitrate": 1241115,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=rHymv9k-4uhCYTbRfwoS0ZycvEm1jA53gCRNuOeEe_10TpO8qvLt291jo1x1u9iRzr0Eziqd7TYgwsZ4T6C4zCyiEZDwcQ11W-IOJRKpfRZNwyzD01oe7vSqpboRM7WtKlMaVGdWU1qZCq8KA42C0exCpFAfshhBZ9WTd2U9zYw4t-jqtzLxosSMsFwrQQ_LbkU&node=1i220",
+              "etag": "0kCvREYiP/MGtBsAEs0t65w=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=9RdKOcSmC-mxt4JKsqI5X2i6GOhB9It3uXe9Kb9twzJlw0ye1s6FtQb8h4ebe-p6iMCQ-Zd9Vu3CmV9F4PxDxbRYtX0TP_Cd-kluuTQVKSsMxh0K1kG60GHLHTpTHcJxq6Muq03CTF9f2Ko19Voqq2_2SjVqosun8AscXa4_oeZ_K26o-Xsf7nBwJmVuQUlSpbI&node=1i220",
+              "etag": "0kCvREYiP/MGtBsAEs0t65w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kCvREYiP/MGtBsAEs0t65w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777131085883,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/nwulhPCkTkGrUyLdOwHWKDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Birthday Boy (2024)",
+  "media_kind": "movie"
+}
