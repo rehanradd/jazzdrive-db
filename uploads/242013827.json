@@ -1,0 +1,83 @@
+{
+  "name": "Raid 2 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Raid 2 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T19:43:19Z",
+  "remote_folder_id": 1752563,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013827",
+  "tmdb": {
+    "tmdb_id": 1227128,
+    "title": "Raid 2",
+    "original_title": "\u0930\u0947\u0921 \u0968",
+    "release_date": "2025-05-01",
+    "year": "2025",
+    "rating": 6.365,
+    "overview": "Set seven years after the events of the first film, it follows the return of IRS officer Amay Patnaik, who is attempting to take down a seemingly benevolent politician.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/562SAxZP1sLuYqDDTuODu3hdGyx.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uKhBujLqYCcfU1kaxXHNCEyZnT.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013827",
+    "status": "U",
+    "etag": "e4tfbKcbRpf3AumJ//BJYg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013827",
+          "url": "/sapi/download/video?action=get&k=OuGGyQO0hVtMyfNTnKJs5WcaWr1BTuOCUXD8OF80adxVL3tifnY4QSvMEco1K21GbxY4nNb-5JTzukmm5MwI9w2R9uhIY9Nl-pcLBnCPHcoZG6zm-a-7qiq0qYH3kwLsf1wIeaC--XrTG_xenNclgk0thLYOIfr2v-26Dp2eahGYeiWmOiU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=LTA3CVkzlo_UpMTUGjB2aUD8NLug4G3d7Gx77YfL17OLsKGh_3TlLMhS4shr-4so4BlkAtJUllh1oPPnCJXvwyIveiIC7rIdhdeXMgl404DvBefYYJEhDjpN4pTygIblrqt_jJCJRd0TLgeyx5mjjwFtOuLfsF4ky36PFTpmInHgi5ZRqV3pAz_jCYg2yOiU4hw&node=1i220",
+          "date": 1777146198325,
+          "creationdate": 1777145938000,
+          "modificationdate": 1777145938000,
+          "uploaded": 1777146159819,
+          "size": 1241568242,
+          "name": "Raid 2 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8209625,
+            "bitrate": 1209865,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=__pRTu7G2sAlzFeEXGixnJAYqiha4CsnbH1JCSC5e7-zvMP51pywZZERag3LTvwxnrj3BCkXyOQ7zj29omOMqtxJPIuKokt9F5rVm4spFSMVo-36Kfs4su4JFtkDSYKanz8NumBNIFinr7y6n5BVkxH_kh61yWRG_QpYOSu3jQXGXU0lZ4jGlrZI_AbCYgmoNWg&node=1i220",
+              "etag": "0e4tfbKcbRpf3AumJ//BJYg=="
+            },
+            {
+              "w": 1280,
+              "h": 534,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=LTA3CVkzlo_UpMTUGjB2aUD8NLug4G3d7Gx77YfL17OLsKGh_3TlLMhS4shr-4so4BlkAtJUllh1oPPnCJXvwyIveiIC7rIdhdeXMgl404DvBefYYJEhDjpN4pTygIblrqt_jJCJRd0TLgeyx5mjjwFtOuLfsF4ky36PFTpmInHgi5ZRqV3pAz_jCYg2yOiU4hw&node=1i220",
+              "etag": "0e4tfbKcbRpf3AumJ//BJYg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "e4tfbKcbRpf3AumJ//BJYg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777146198390,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/04o_tRgfRB2bnfs2FXCdgzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Raid 2 (2025)",
+  "media_kind": "movie"
+}
