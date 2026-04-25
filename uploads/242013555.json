@@ -1,0 +1,81 @@
+{
+  "name": "Interrogation (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Interrogation (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T18:29:30Z",
+  "remote_folder_id": 1752519,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013555",
+  "tmdb": {
+    "tmdb_id": 1603102,
+    "title": "Interrogation (Letter from Medina)",
+    "original_title": "Interrogation (Letter from Medina)",
+    "release_date": "2024-04-23",
+    "year": "2024",
+    "rating": 10.0,
+    "overview": "Follow-up to 'Letter From Mecca'. YouTuber and content creator Sneako documents his spiritual journey in Medina, Saudi Arabia after converting to Islam. Features discussions with Islamic scholar Shaykh Uthman Ibn Farooq about faith, identity, and the Muslim experience.",
+    "poster_path": null,
+    "backdrop_path": null,
+    "genre_ids": [
+      99
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013555",
+    "status": "U",
+    "etag": "CFgnxWtU7Mx3Uv5BvPRJZg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013555",
+          "url": "/sapi/download/video?action=get&k=WdZ-JOqXYLP9TQnYtQM4vkstPa9W7BJcxdw5OURtBB47D2j4ssKayRiO3qLKUmJlhgLRvcr8MTFMD9FbaJS83mdKzMu1ZPus4BLmDkudF-hwrtYdqRw1eoGobJuiHw1oQ5QdFOjxf0Tx_S82W5xZL2r7cprlxeFUAneTc-WykkWPvoRTNqI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=LF-H8_VT1unaBS40mDguS4cOSdZKKCtLMBgYBcHUVmLUg0PqN1nBY5qRM9oDlH_qQB3XuvJdwc8xO1m3Z1iTJk9c1dhJ43iJc8zahVCv16amxdCwRrSEhDZOU42B_tn-ZRxndWAcO3rAOohjSfqZXF9iQQGltW9VWsbY8D1vOb53fHKF0XC6T9O1KI99CuNo17o&node=1i220",
+          "date": 1777141770194,
+          "creationdate": 1777141597000,
+          "modificationdate": 1777141597000,
+          "uploaded": 1777141746466,
+          "size": 845450363,
+          "name": "Interrogation (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5231987,
+            "bitrate": 1292740,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=XVuz2h7H1eh4AjCtWvgVUdAiGRTzh-y67y7gKba5XrabKAaiGu0QW700J3ey3t0Kdoo_6EwWarYxWO2DtqvQjMbiPyVFlWIE7FfH2RDwILdtYvlFS01iW4xyaVPRDyxFU2g9kf-csWD3TOgaNqr8dia3I-qExHjrnott_qDw9N9J08ETwEf2PiU8Wvci_yWQDrE&node=1i220",
+              "etag": "0CFgnxWtU7Mx3Uv5BvPRJZg=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=LF-H8_VT1unaBS40mDguS4cOSdZKKCtLMBgYBcHUVmLUg0PqN1nBY5qRM9oDlH_qQB3XuvJdwc8xO1m3Z1iTJk9c1dhJ43iJc8zahVCv16amxdCwRrSEhDZOU42B_tn-ZRxndWAcO3rAOohjSfqZXF9iQQGltW9VWsbY8D1vOb53fHKF0XC6T9O1KI99CuNo17o&node=1i220",
+              "etag": "0CFgnxWtU7Mx3Uv5BvPRJZg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "CFgnxWtU7Mx3Uv5BvPRJZg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777141770253,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/rKc2TXWqS662TVHzgHfnzTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Interrogation (2024)",
+  "media_kind": "movie"
+}
