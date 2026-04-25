@@ -1,0 +1,83 @@
+{
+  "name": "Bhool Chuk Maaf (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Bhool Chuk Maaf (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:10:50Z",
+  "remote_folder_id": 1752378,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013506",
+  "tmdb": {
+    "tmdb_id": 1301632,
+    "title": "Bhool Chuk Maaf",
+    "original_title": "\u092d\u0942\u0932 \u091a\u0942\u0915 \u092e\u093e\u092b",
+    "release_date": "2025-05-23",
+    "year": "2025",
+    "rating": 6.242,
+    "overview": "Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli, but forgets to vow to Lord Shiva, causing him to be trapped in a time loop. A tale of love, fate, and redemption unfolds, as Ranjan tries to end the loop and get married.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/plWzFq6eVXOm8vpgJG0xUGmifHS.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/c3c9qcUWA9u99RDipH3JL54FT6J.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      878
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013506",
+    "status": "U",
+    "etag": "W60l4uJkEzCEhqVGXTRQKA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013506",
+          "url": "/sapi/download/video?action=get&k=YF34QRjWEiNzkRJAMssUtu4eC0lJSwZc7i7UWbu9SKYj1FPEnOoJgQZQ96DCbgdLkt1kLmeEgQlO5OnARaWH1nvTueUJewmGMi_J6Fk2vms4Lw6IXqPYNgyhJlTtCRlroiqFeSI7k13ZR0xz-cCqPyTC2yzqqDfJkT-MZsfoj5axX1ONUtk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=UCBn-onzwYkfD867Qr0GSdFgoUK9HBfZPyKwGKIS_XDM1smTQDGYj7EyXCzu0xvGxN6FaOssr_9hBptQ0CwOnn92GcGHsaAf__Ro2csgxGwy7oHp8O06uSTLLKIaPVP8NCvVBdoHDk4sibLo120tTQ_aDt6x-P7iuMujY4zqsW-yuIQjM9E6E4MRXH7IBXt1oEY&node=1i220",
+          "date": 1777137049309,
+          "creationdate": 1777136783000,
+          "modificationdate": 1777136783000,
+          "uploaded": 1777137014177,
+          "size": 1097681331,
+          "name": "Bhool Chuk Maaf (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7255105,
+            "bitrate": 1210382,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=QjxfNnb5FcvcqZ6CvlI9CQ4f4b3GGfTxZgnqD_nLRt6OU_revSulCM0ffOA7rHPFaEgiHKI_97T5HfB2S5HBFCXQ28ljf4NZ2tzsgc05-kBpEIZR0PUIOlBDnHwmWWzvUBKD6hoGmP46p-7tUm2a5CTww9lFywAcODe_7pAEXKEC2EuDQ12S3MdNn1FWt31uBl4&node=1i220",
+              "etag": "0W60l4uJkEzCEhqVGXTRQKA=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=UCBn-onzwYkfD867Qr0GSdFgoUK9HBfZPyKwGKIS_XDM1smTQDGYj7EyXCzu0xvGxN6FaOssr_9hBptQ0CwOnn92GcGHsaAf__Ro2csgxGwy7oHp8O06uSTLLKIaPVP8NCvVBdoHDk4sibLo120tTQ_aDt6x-P7iuMujY4zqsW-yuIQjM9E6E4MRXH7IBXt1oEY&node=1i220",
+              "etag": "0W60l4uJkEzCEhqVGXTRQKA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "W60l4uJkEzCEhqVGXTRQKA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777137049395,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/_T87XGQyQU2_MG7hjfGcTDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bhool Chuk Maaf (2025)",
+  "media_kind": "movie"
+}
