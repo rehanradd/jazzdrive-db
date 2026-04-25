@@ -1,0 +1,81 @@
+{
+  "name": "Crazxy (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Crazxy (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:24:27Z",
+  "remote_folder_id": 1752388,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013516",
+  "tmdb": {
+    "tmdb_id": 1370264,
+    "title": "Crazxy",
+    "original_title": "Crazxy",
+    "release_date": "2025-02-28",
+    "year": "2025",
+    "rating": 5.5,
+    "overview": "A renowned surgeon, Abhimanyu Sood is carrying \u20b95 crores for a hush hush settlement that will save him from going to jail, when he gets a chilling phone call\u2014his 16-year-old daughter, Vedica, has been kidnapped. The ransom? The exact amount he is carrying right now. Is this even a real kidnapping\u2014or an elaborate trap?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nWxEtbryAPP7gI0TtNYejoAUJlr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iDJ0ljbQsqld29cQXxQ76qT9dgT.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013516",
+    "status": "U",
+    "etag": "OGoG3zL8Y2TyZqid3bUAuQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013516",
+          "url": "/sapi/download/video?action=get&k=-Rtf4mDXJ2dkAL-5rSbiB8gYpgSOG0Z2v7HgGM2Z7Jvru2EaT3XVm_iNBgwKLAsD2iFwwyWlgC1xa4vKQqBhL-Q4Lajzebikyl8iKKOLubrklBlaZ-XaXUzz5U8sspO932VQTXnumzMRUaKc8IRgB1eUh0PpAXzyEkPdxHl2_k-rvdW4Mi8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=xS2comJpH9ODb7HYYoliu51h9tL-oQ03wSvuw2z4cHPJ6sSBDR0yhVivLp9A32wRRPeDI4vk-ju7taMI5eMtFhxcffSuBhutRMC7uUo_TJ3_bToHYYMQZ7GDz-jjgdgXydzDPtfKqB_pAD12sPUG1dkAspXvGSy2B152Trdz1zQYg1YTnHIhCGm3V6gQLI_2OHw&node=1i220",
+          "date": 1777137866347,
+          "creationdate": 1777137734000,
+          "modificationdate": 1777137734000,
+          "uploaded": 1777137838794,
+          "size": 887720960,
+          "name": "Crazxy (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5491785,
+            "bitrate": 1293162,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=yoT07OHN6V4gDnCt_yvgBhSlzj-zGQlghZPrv5d2tYcvVPXcRY-CNt0jYiDAZbxioYuLQudRFfH4cXBd2tisDnS_ttObSP6OmCq9Oarm4XS9oOjwKP6xODixflI1eIn01hOPYgF4NWNz05Y16mLbEYUhM3MH0OLBCD4_QkWgnd6skgGa_-LKPX7rYn2UHycl2Oc&node=1i220",
+              "etag": "0OGoG3zL8Y2TyZqid3bUAuQ=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xS2comJpH9ODb7HYYoliu51h9tL-oQ03wSvuw2z4cHPJ6sSBDR0yhVivLp9A32wRRPeDI4vk-ju7taMI5eMtFhxcffSuBhutRMC7uUo_TJ3_bToHYYMQZ7GDz-jjgdgXydzDPtfKqB_pAD12sPUG1dkAspXvGSy2B152Trdz1zQYg1YTnHIhCGm3V6gQLI_2OHw&node=1i220",
+              "etag": "0OGoG3zL8Y2TyZqid3bUAuQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "OGoG3zL8Y2TyZqid3bUAuQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777137866403,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kJw61TRaSSyKwrJ9O8fPnTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Crazxy (2025)",
+  "media_kind": "movie"
+}
