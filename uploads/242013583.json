@@ -1,0 +1,82 @@
+{
+  "name": "Kesari Chapter 2 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Kesari Chapter 2 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T18:45:34Z",
+  "remote_folder_id": 1752529,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013583",
+  "tmdb": {
+    "tmdb_id": 1137339,
+    "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh",
+    "original_title": "\u0915\u0947\u0938\u0930\u0940 \u091a\u0948\u092a\u094d\u091f\u0930 2: \u091c\u0932\u093f\u092f\u093e\u0902\u0935\u093e\u0932\u093e \u092c\u093e\u0917 \u0915\u0940 \u0905\u0928\u0915\u0939\u0940 \u0915\u0939\u093e\u0928\u0940",
+    "release_date": "2025-04-17",
+    "year": "2025",
+    "rating": 7.0,
+    "overview": "A dramatization of the life story of C. Sankaran Nair, the lawyer who fought for the truth behind the Jallianwala Bagh massacre.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jgGSqe1YgSot6Y1zDVTVkbsZ46z.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7vGWPw9y9uJ8SZ17oyy2Ts3EmdD.jpg",
+    "genre_ids": [
+      18,
+      36
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013583",
+    "status": "U",
+    "etag": "datiWfVMtLUY91OWPFdKkA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013583",
+          "url": "/sapi/download/video?action=get&k=sB-h8L-xe7ByAJzQV1hi1kNZMi3pVML-d6MHkJ8ByYPIGUMkapC3xYFxXouDosJhbss4iIsxOaH_txOE84VXFy8qB6xjFUUx1W0xaGsqUrtVw9vH_bLYquMdkxRIbSdMzsextZRVm3TS5Y2hPNqpRzTCg1laap9FKqPKaqZYDavBKD_eimM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ciCOtuWIjoXHGyNT5aFik9aveHO5yIfPeABMkKEvqq8g2BW_YQ339wpa7bXhMGMdLAglCyHtlGYi9geHvr61WeSTvan4IiCu1pHGV94E_FPn123XUV_InMLOvgCGNdWiVN0VaqfBaJ17Q3FrDBeB663rORI--dN7RHDw8NDeZws4JjTK7ZvCeqf5cU67xk0y4-8&node=1i220",
+          "date": 1777142734185,
+          "creationdate": 1777142617000,
+          "modificationdate": 1777142617000,
+          "uploaded": 1777142700129,
+          "size": 1131876608,
+          "name": "Kesari Chapter 2 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7360971,
+            "bitrate": 1230138,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=CPQbOPh2pBNFgQ-j5B8VCrLA8pjlobk-x1CKhZJNOS8WJ2JH2mvLtOMe6yhPb-q6EYdofdqgAjc6spW7CBjotj8W9_nlwd7JF2Cpy_vzZXTQKldkSZZqFdKj0p2nXiyOGfN4nu0huhtQhc7c7zV2GJyqvZtegt49wkFN5TkLumaZblXCKAxEYBNUL9o94yR9NEE&node=1i220",
+              "etag": "0datiWfVMtLUY91OWPFdKkA=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ciCOtuWIjoXHGyNT5aFik9aveHO5yIfPeABMkKEvqq8g2BW_YQ339wpa7bXhMGMdLAglCyHtlGYi9geHvr61WeSTvan4IiCu1pHGV94E_FPn123XUV_InMLOvgCGNdWiVN0VaqfBaJ17Q3FrDBeB663rORI--dN7RHDw8NDeZws4JjTK7ZvCeqf5cU67xk0y4-8&node=1i220",
+              "etag": "0datiWfVMtLUY91OWPFdKkA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "datiWfVMtLUY91OWPFdKkA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777142734247,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sJqfErsbS12tnKMZ3dVW3zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kesari Chapter 2 (2025)",
+  "media_kind": "movie"
+}
