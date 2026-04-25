@@ -1,0 +1,81 @@
+{
+  "name": "Logout (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Logout (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T18:59:21Z",
+  "remote_folder_id": 1752537,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013593",
+  "tmdb": {
+    "tmdb_id": 1386801,
+    "title": "Logout",
+    "original_title": "Logout",
+    "release_date": "2025-04-18",
+    "year": "2025",
+    "rating": 6.3,
+    "overview": "Pratyush, a social media influencer who is about to reach his biggest milestone in terms of followers to land a deal with a brand, loses his phone to a fan obsessed with him. Trapped in his own house without his phone, Pratyush must find a way to reclaim his identity and his career.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iBM6DqjVbuY5y44d96mb9QVcAqr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kzbGB4aEaL7WCufApWDFX4MbNnT.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013593",
+    "status": "U",
+    "etag": "LIbmnBVLfG1/yOBko61x0w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013593",
+          "url": "/sapi/download/video?action=get&k=IBD74JgA__cIFTk38ad_jyWXj2s2Q3WUx5zb1ZcjJF8n3bRlp-_J-klyZNpmKhRgoMyAj4JRhnM_FydlJ-V3lw5f5PrSHFWjugR_7iHT-tDkGslVD-Md27cUzShW23qexqjxnjHOnRQku1Qb64JRkoiXJZ6z03gmFODvX0RZWnGPr_U8ZCI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=_thcr-sRTx7JPOCUm50ayMAPDCXL6Ft6EjM0lz8wkMBnZ5cQXmhN0-DsNRCOmLw6NAaZ5IjnqOdCFa1klnYHpLvLRhumoZP4KM4GQBC_RzWuNJYfUVTRKTVnhlKT38158-5hoz95OnO5YPdbf6VzIwAreu3QDZwHGeII23KhKYmb-3FP-wCK77z6IYN07EaM6KM&node=1i220",
+          "date": 1777143560344,
+          "creationdate": 1777143342000,
+          "modificationdate": 1777143342000,
+          "uploaded": 1777143528248,
+          "size": 1055627829,
+          "name": "Logout (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6530676,
+            "bitrate": 1293131,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=AmnLnBxnlsJE4_azky2nYppG1WRUNrteNrYXDIfgy4EDWPCcNJTEAYJ6ewzVvqgBX9_Oi8vzMGufRWpdOjbfte5F3KDTgafIelmxTVd8rV9uv30Rg4dd76lvoR3pPE5P870bazYnGuTIIAuwVepKlRnjaHrL6z7vhwTibMgK2NFRPFq_hmySdgKzmmC6VBjJx64&node=1i220",
+              "etag": "0LIbmnBVLfG1/yOBko61x0w=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_thcr-sRTx7JPOCUm50ayMAPDCXL6Ft6EjM0lz8wkMBnZ5cQXmhN0-DsNRCOmLw6NAaZ5IjnqOdCFa1klnYHpLvLRhumoZP4KM4GQBC_RzWuNJYfUVTRKTVnhlKT38158-5hoz95OnO5YPdbf6VzIwAreu3QDZwHGeII23KhKYmb-3FP-wCK77z6IYN07EaM6KM&node=1i220",
+              "etag": "0LIbmnBVLfG1/yOBko61x0w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "LIbmnBVLfG1/yOBko61x0w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777143560399,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/zi8Tfw4bRAucnffiFjCw3TMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Logout (2025)",
+  "media_kind": "movie"
+}
