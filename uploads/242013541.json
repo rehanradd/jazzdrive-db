@@ -1,0 +1,83 @@
+{
+  "name": "Fateh (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Fateh (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:59:35Z",
+  "remote_folder_id": 1752505,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013541",
+  "tmdb": {
+    "tmdb_id": 955496,
+    "title": "Fateh",
+    "original_title": "\u092b\u093c\u0924\u0947\u0939",
+    "release_date": "2025-01-10",
+    "year": "2025",
+    "rating": 5.794,
+    "overview": "Ex-Special Ops officer Fateh Singh springs back to action when a girl falls prey to a cybercrime syndicate. Racing against time, can he bring down the mafia?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/cw8DitAELYtWSD1P8yd0hzufVHj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ydFtw0hbwozGyW72kw3A0uWCiW3.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013541",
+    "status": "U",
+    "etag": "Vq6mFabIfU/OGnDja+IwXg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013541",
+          "url": "/sapi/download/video?action=get&k=DENIXSExalOffc8HQHPzmZcoWwMPdJ0ZkZRIpitiIq7p03gp2-ClC8fvHG3poGg69xgIvhqrMguGzJaOo6Z0idPvBotiwHRsgwU8oh0Hi-VLjLi9qEFl4Ouc7xYdgOqWfoyTb-wQ2XmYRycabBjwmErcHIQASoQBzgac3gOGV-2Ema1wxBo&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=qvalWstqywkU7eAtIuFoRzrMlArvsukUv2uQrn5ap8_kB-ulHJwjS6weIlJFgzjTUatMUq8tm4FsBvxcqMvlnqj7mJJQcgbNLA8gJXm7lp3ck5F97oScVSlyxm5DSAaWFtE44An-wKtL6wX8wC0XSEtDLCxQ7oKXpKrciCIkA2IM_iLAsTHeNmXBWysksdfreBw&node=1i220",
+          "date": 1777139974612,
+          "creationdate": 1777139655000,
+          "modificationdate": 1777139655000,
+          "uploaded": 1777139936865,
+          "size": 1240161655,
+          "name": "Fateh (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7670875,
+            "bitrate": 1293371,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=mLtaeu5Zig4LWQasgVbInj5Wi3pCEykOUjYtG7P45YiK4uqK0ZTcrel5MHhd0aUam2LTfmL8UfL1XI_9RIZ3Hf-GdEDi6qZNq1mg4DOxywhvj0xkjTP4pkTV-uQtgevY_prVWq_t0NnlmN4DkXH_u8FqCQPTPN66hF6ViuuJ854A64u77dK1rgPEHVFRkZWduBw&node=1i220",
+              "etag": "0Vq6mFabIfU/OGnDja+IwXg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qvalWstqywkU7eAtIuFoRzrMlArvsukUv2uQrn5ap8_kB-ulHJwjS6weIlJFgzjTUatMUq8tm4FsBvxcqMvlnqj7mJJQcgbNLA8gJXm7lp3ck5F97oScVSlyxm5DSAaWFtE44An-wKtL6wX8wC0XSEtDLCxQ7oKXpKrciCIkA2IM_iLAsTHeNmXBWysksdfreBw&node=1i220",
+              "etag": "0Vq6mFabIfU/OGnDja+IwXg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Vq6mFabIfU/OGnDja+IwXg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777139974680,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/0N3pLnfhR2mvKs-DPKxRkDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Fateh (2025)",
+  "media_kind": "movie"
+}
