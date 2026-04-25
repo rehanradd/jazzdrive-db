@@ -1,0 +1,82 @@
+{
+  "name": "De De Pyaar De 2 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\De De Pyaar De 2 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:36:31Z",
+  "remote_folder_id": 1752392,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013527",
+  "tmdb": {
+    "tmdb_id": 1214835,
+    "title": "De De Pyaar De 2",
+    "original_title": "\u0926\u0947 \u0926\u0947 \u092a\u094d\u092f\u093e\u0930 \u0926\u0947 \u0968",
+    "release_date": "2025-11-13",
+    "year": "2025",
+    "rating": 6.3,
+    "overview": "When Ashish meets his girlfriend's parents for the first time, their age difference sparks outrage and a madcap plot to drive him out of her life.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/oH6Pan7upyAPY8sGSJ1WmYmTcuL.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013527",
+    "status": "U",
+    "etag": "xvJhHnIgjTDkAlic7PKb+g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013527",
+          "url": "/sapi/download/video?action=get&k=ckw5SaaWlrkAkmHCCGepogzcvHY4Mu2Q1PhJjJM_kmTzFfdXFo1iKzDvQf3706i6sceMWyB3rchJ5ks9SjmxEQiGM9Mq_2uBKo9w_a2BZcZW6I7wNtonPlBBLoXhX2aBNGmB1zdz83HcGkJs2ZN5wQY1GyaemYdSxltUi0l-mEMDi4qDgsk&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=2xQL-XI5Cq8uMZ-AgNvKpCW5eZZueMfCKchUqu7MKegGs5E1ThE3RSRbrbv6HTGdbZw74Mc0Py2w7gDAWD1RzHWF32Vu8P3U2kz7MFtdgLp2MO-Ws0OqK3BzEhv2mHi-R06_w6lLCeCcOWAYXBM8T3Eq-0oBXEFfjHWWASmdmXSm9VDJ-Uj_6FPr8_LjEYh1-6w&node=1i220",
+          "date": 1777138590709,
+          "creationdate": 1777138256000,
+          "modificationdate": 1777138256000,
+          "uploaded": 1777138534445,
+          "size": 1317626700,
+          "name": "De De Pyaar De 2 (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8760273,
+            "bitrate": 1203274,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=gUtUyycIi2Dn9SL6SaQcRWW_L8_OnS32m0fzrSd7yJUUEdTrCSz67TeHmlZ0PSvKcOUro-AVG9Sdwqa05psHafpfRfd2yI2pHCECJziy2CJV_7UZ1PHOE5u5TqXdha3JwBnXkASBDNwmQDLzP8IOD2muBxOMmmn2hGGS4CYqjTZU1jJirRRZEcpRJhF7PvkN9Lg&node=1i220",
+              "etag": "0xvJhHnIgjTDkAlic7PKb+g=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=2xQL-XI5Cq8uMZ-AgNvKpCW5eZZueMfCKchUqu7MKegGs5E1ThE3RSRbrbv6HTGdbZw74Mc0Py2w7gDAWD1RzHWF32Vu8P3U2kz7MFtdgLp2MO-Ws0OqK3BzEhv2mHi-R06_w6lLCeCcOWAYXBM8T3Eq-0oBXEFfjHWWASmdmXSm9VDJ-Uj_6FPr8_LjEYh1-6w&node=1i220",
+              "etag": "0xvJhHnIgjTDkAlic7PKb+g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "xvJhHnIgjTDkAlic7PKb+g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777138590783,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/NR4UnyZgS4O1scNtuikgqjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "De De Pyaar De 2 (2025)",
+  "media_kind": "movie"
+}
