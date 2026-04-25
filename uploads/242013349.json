@@ -1,0 +1,82 @@
+{
+  "name": "Thiragabadara Saami (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Thiragabadara Saami (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T15:57:46Z",
+  "remote_folder_id": 1752351,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013349",
+  "tmdb": {
+    "tmdb_id": 1171732,
+    "title": "Tiragabadara Saami",
+    "original_title": "\u0c24\u0c3f\u0c30\u0c17\u0c2c\u0c21\u0c30 \u0c38\u0c3e\u0c2e\u0c40",
+    "release_date": "2024-08-02",
+    "year": "2024",
+    "rating": 3.0,
+    "overview": "Giri, dedicated to reuniting missing people with loved ones, marries Shailaja, an orphan. Discovering her pregnancy, his joy turns to shock when tasked to find a missing woman, revealed to be the real Shailaja. Will he find out his wife`s true identity?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sA5YAHQPaZQo0Ll7fC1q63SKKsN.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/3ehZNVsESdVPIXHy9WDgNC7Ixtj.jpg",
+    "genre_ids": [
+      28,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013349",
+    "status": "U",
+    "etag": "3Uxq/O5kRHlIUECL/NH6TA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013349",
+          "url": "/sapi/download/video?action=get&k=Zqw3t8dJXT1v0P7che6QQN_OEplaBp_RJvaACCHZbcj82DB3IFwHhhgOrIco19aWowz__EJ-3X0RBc8GeHh31GzNSxRJ2CeJWjP3GQy5QOJz_vIlhP1N6XwyMOQXXcrABXDFv5tiPfqBCaQ_mfPRvzZYuGs16PoIrcR1YAw4SRZZNS_7OZc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=shSSLhcXSirIB2n6ZqbmRl_zK3obrIBVxwGrnEl1PESbJjRq_-5xi3TQDGr1ehSQ-TV0bwnZHrD0YHRHElM8l91F5z-DxAu1QrKw7WPaSEgxAmTcYDcJUtifdj0iePASeysMy5afq-fYA74SP4IiEkMp_Eq8NVzqjgMpxu40zvBsd9qVHnJBaEpsCqS9rfgtHDM&node=1i220",
+          "date": 1777132665679,
+          "creationdate": 1777132547000,
+          "modificationdate": 1777132547000,
+          "uploaded": 1777132626495,
+          "size": 1251315943,
+          "name": "Thiragabadara Saami (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6738740,
+            "bitrate": 1485519,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=KvOzPPFrNSzNKMHYIhc7F-UqnES5NmX8Wc4NHeNOI27rzud09_IRk6op2Su1hj665-sa_b5ZkjFPSIsODx9Hnme1IZOWhyJqGZaAdGignhnVvr3NGydGJwUzwl3Zk0N-YCK2A0xDOQ7eX44bHXn0wuaYlA1h9bLVSxaNm_AMfHwTxg5FqsRMDROt1sxp5Vba09E&node=1i220",
+              "etag": "03Uxq/O5kRHlIUECL/NH6TA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=shSSLhcXSirIB2n6ZqbmRl_zK3obrIBVxwGrnEl1PESbJjRq_-5xi3TQDGr1ehSQ-TV0bwnZHrD0YHRHElM8l91F5z-DxAu1QrKw7WPaSEgxAmTcYDcJUtifdj0iePASeysMy5afq-fYA74SP4IiEkMp_Eq8NVzqjgMpxu40zvBsd9qVHnJBaEpsCqS9rfgtHDM&node=1i220",
+              "etag": "03Uxq/O5kRHlIUECL/NH6TA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "3Uxq/O5kRHlIUECL/NH6TA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777132665733,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/7hU_xrBdR0GHY1Ir81PvszMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Thiragabadara Saami (2024)",
+  "media_kind": "movie"
+}
