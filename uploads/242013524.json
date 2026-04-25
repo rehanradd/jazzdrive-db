@@ -1,0 +1,71 @@
+{
+  "name": "Chhaava (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "path": "D:\\New folder\\Chhaava (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:30:26Z",
+  "remote_folder_id": 1752390,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013524",
+  "tmdb": {
+    "tmdb_id": 1196943,
+    "title": "Chhaava",
+    "original_title": "\u091b\u093e\u0935\u093e",
+    "release_date": "2025-02-14",
+    "year": "2025",
+    "rating": 6.913,
+    "overview": "Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/s37s21YPqS7txyB0x0TRel24vgi.jpg",
+    "genre_ids": [
+      36,
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013524",
+    "status": "U",
+    "etag": "tI+fh9IIuy8HWqA8zLTuUw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013524",
+          "url": "/sapi/download/video?action=get&k=_35VP3pI27AD-S20dLbuaP3ZhyrWMjdDYQ3AcfiBOeNrAnvffR38wtEHjTPUX7GltAgDN02-EH-YAgKCUBlTe2s7sSbHdv6a0HEPKGt_Tta3OAJZLWI7bLdmtaE1ofoMKwb8yrzUNpwKKhd642hc7Q6PN7cI3OV7ZwQDWH17j0gspSG19Rs&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=SftsvA_pDagHQ1imTJYDce9uzwtg2Cjmtx1X_XsMBXyA8kC3MWWAsVnODMwxIt_EeI5SHP3nbvgHTeGlanO2brudiyLakR0y4dBRWONqCmUMNwABYYTRdQDHuDOR6rq_CvTP89dWc1rORYefvgmzRYpNHHjqmNvzF763UyzG4uI3gDhLZ8b9d3Q-4wjoi_5O4OQ&node=1i220",
+          "date": 1777138225206,
+          "creationdate": 1777138069000,
+          "modificationdate": 1777138069000,
+          "uploaded": 1777138170911,
+          "size": 1531720533,
+          "name": "Chhaava (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Hn3LUnYZUok1cT8LV7__iasthF-BUOJLyYClCwyCT5J-nBv_l0cG8oJI-wx5viiVScvXO-iodOAsHn0iCeXtUXUsCMExJmD1ivbQ-TsaUZgIBGfZanD3pwu5kcoBP0C__J8n8NE0qGx5jeT-VlbQkwEbUVSvnAB1Yi_h4Gdo_6KAcsUMiS4-eBVi3wEp-ZNagtA&node=1i220",
+              "etag": "0tI+fh9IIuy8HWqA8zLTuUw=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=SftsvA_pDagHQ1imTJYDce9uzwtg2Cjmtx1X_XsMBXyA8kC3MWWAsVnODMwxIt_EeI5SHP3nbvgHTeGlanO2brudiyLakR0y4dBRWONqCmUMNwABYYTRdQDHuDOR6rq_CvTP89dWc1rORYefvgmzRYpNHHjqmNvzF763UyzG4uI3gDhLZ8b9d3Q-4wjoi_5O4OQ&node=1i220",
+              "etag": "0tI+fh9IIuy8HWqA8zLTuUw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tI+fh9IIuy8HWqA8zLTuUw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777138225256,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/VrUvZo0DTUyn1xtc8l4T2TMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Chhaava (2025)",
+  "media_kind": "movie"
+}
