@@ -1,0 +1,83 @@
+{
+  "name": "Thug Life (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Thug Life (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T16:04:14Z",
+  "remote_folder_id": 1752355,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013353",
+  "tmdb": {
+    "tmdb_id": 1045021,
+    "title": "Thug Life",
+    "original_title": "\u0ba4\u0b95\u0bcd \u0bb2\u0bc8\u0b83\u0baa\u0bcd",
+    "release_date": "2025-06-04",
+    "year": "2025",
+    "rating": 5.125,
+    "overview": "In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout and raise him as their own. Years later, when an assassination attempt shakes Sakthivel's empire, suspicion turns inward. Consumed by vengeance, Sakthivel sets out to destroy the very family he once built.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/of9YQ9XE2aUVbiorECRnFCu5iIn.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013353",
+    "status": "U",
+    "etag": "K2njjqZBVmy/c6MKhxypzA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013353",
+          "url": "/sapi/download/video?action=get&k=JEPUDXjpURpdUxMj70rHoilknIcBs1myMgRMYiwx1qQQGZIB_h-abq8-MzDh6ux_0ShCFncABSveS5M0tCwCjc0jFP0rXRH-8IuFRG6r-2zJggRTXVpVtN0KOGwoDVm2R0sPajEh9WFb3tGrFj89JQXl5D9zh1e-lgKIJImKTFBBgl0EaxE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=cuySfVDkS3H9kGPLwG_tcGTliHomWFX_7toi_zOsPWIWPsYHCaa2qb5qqyUN_qvwJ9q4K4uYo1UwGAVio03dOQmnermo3NPnsDoSMzs_KeqahspaIC1zoRD0q1igwD6BzE8gQIT9fZtsqHfZtPbrYt_Tv7rCico7yJi4xroKc1_INIvH0ZBP-6ZhJbsjOX2XDKk&node=1i220",
+          "date": 1777133053614,
+          "creationdate": 1777132898000,
+          "modificationdate": 1777132898000,
+          "uploaded": 1777133002524,
+          "size": 1626465183,
+          "name": "Thug Life (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9840105,
+            "bitrate": 1322315,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VcM5sNFTpzvIT7KM2AKjmFfarvNmPP0FKfBmS_VyIA9ix_UmU2wnGQn2yYfS1mwMsPGZAVbfUooNP5idT_oLPgPGA2KHuEX1zARIrUBKf2VJ_9pCuZ28CM1de1zY5YY5cEBkfGNgnipBIgFurbgDMjvPHR0fC3DGJtxcwlQaqEPoXW2LQRB169M8Ip1di3z8sd8&node=1i220",
+              "etag": "0K2njjqZBVmy/c6MKhxypzA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=cuySfVDkS3H9kGPLwG_tcGTliHomWFX_7toi_zOsPWIWPsYHCaa2qb5qqyUN_qvwJ9q4K4uYo1UwGAVio03dOQmnermo3NPnsDoSMzs_KeqahspaIC1zoRD0q1igwD6BzE8gQIT9fZtsqHfZtPbrYt_Tv7rCico7yJi4xroKc1_INIvH0ZBP-6ZhJbsjOX2XDKk&node=1i220",
+              "etag": "0K2njjqZBVmy/c6MKhxypzA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "K2njjqZBVmy/c6MKhxypzA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777133053666,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/cskDA0HmShyksWsOFamTWDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Thug Life (2025)",
+  "media_kind": "movie"
+}
