@@ -1,0 +1,82 @@
+{
+  "name": "Stolen (2023) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Stolen (2023) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T20:07:50Z",
+  "remote_folder_id": 1752578,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013849",
+  "tmdb": {
+    "tmdb_id": 1156202,
+    "title": "Stolen",
+    "original_title": "Stolen",
+    "release_date": "2023-08-02",
+    "year": "2023",
+    "rating": 6.883,
+    "overview": "The five-month-old baby of impoverished tribal woman Jhumpa Mahato is stolen. Two brothers, Gautam and Raman, who witness the kidnapping, try to help her and become embroiled in the complexities of the investigation.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xR5Endhjm4soY6fPgXY0jrpDZvL.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/rJsHZLgwJDrhaXIePEF9a8KkaA2.jpg",
+    "genre_ids": [
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013849",
+    "status": "U",
+    "etag": "1LqCFzrH+CQVm3ZhnHsAJw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013849",
+          "url": "/sapi/download/video?action=get&k=ZD_eJObogO1dpmSHvkha52t32ovkZACG_-y7Q5SM1roDqRR6xhZ2IG0tlql9HvI45plOBsOYyXuV7yTaC967sZMXQbxCYPaTeQawWHUcXpRDqzbbmvp06kJ0P7HBiPPRViCKtGq5Q4vSiWjpvqLGUgzF0L2N8RaiLeX-bH_qeAEiY39KRpA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=fo-wKn-CIyq2cUHXYt1ngfHsI_Ao6b9ScbCzuynOzsCIR-G3AjEX7-h-9ER_g6x7zwvg__BRJmCaXRz6ZK5llcG82JP9WRh0dhy4sl9bjIUEBYcCJIPhSIUCQgM6tHk6yTSEZrSo8e9MORxz9u5-2dlI2ZMQ7eLN7ZQkhLOS8w1TkaY1Iu0WMPqHFKuZiq2jENo&node=1i220",
+          "date": 1777147669479,
+          "creationdate": 1777147578000,
+          "modificationdate": 1777147578000,
+          "uploaded": 1777147626471,
+          "size": 909564728,
+          "name": "Stolen (2023) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5637300,
+            "bitrate": 1290780,
+            "codec": "h264",
+            "height": 640,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 128,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=t130htfMnHDYSCdFkDuZmhBgHrMbcMBNZRHdrVqg-BDzjYrUrc6DgGxayJf3ebMlfWqZ7jcjzB2L1v_QH2zgUGPjVJecRVsx-ZXu8o88kfpSYWdfgo5GhGZDeY5B4-8OlVHibk-FkdkqmNg973IeBq0V3OK3v14mOZoSz9cE9-m0q8yg_GA3ZnGBR3e1UtIxRso&node=1i220",
+              "etag": "01LqCFzrH+CQVm3ZhnHsAJw=="
+            },
+            {
+              "w": 1024,
+              "h": 512,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=fo-wKn-CIyq2cUHXYt1ngfHsI_Ao6b9ScbCzuynOzsCIR-G3AjEX7-h-9ER_g6x7zwvg__BRJmCaXRz6ZK5llcG82JP9WRh0dhy4sl9bjIUEBYcCJIPhSIUCQgM6tHk6yTSEZrSo8e9MORxz9u5-2dlI2ZMQ7eLN7ZQkhLOS8w1TkaY1Iu0WMPqHFKuZiq2jENo&node=1i220",
+              "etag": "01LqCFzrH+CQVm3ZhnHsAJw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "1LqCFzrH+CQVm3ZhnHsAJw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777147669542,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xfIqFMFmSUuJo7A-mv6P3DMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Stolen (2023)",
+  "media_kind": "movie"
+}
