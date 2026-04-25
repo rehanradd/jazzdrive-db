@@ -1,0 +1,81 @@
+{
+  "name": "The Taj Story (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\The Taj Story (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T20:23:57Z",
+  "remote_folder_id": 1752587,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013874",
+  "tmdb": {
+    "tmdb_id": 1531858,
+    "title": "The Taj Story",
+    "original_title": "The Taj Story",
+    "release_date": "2025-10-31",
+    "year": "2025",
+    "rating": 6.5,
+    "overview": "Vishnu Das is a local guide who becomes driven by a curiosity to uncover the true history behind the iconic Taj Mahal monument.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2JFY1Y4vtQWtCre9qbdObKj8wyN.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013874",
+    "status": "U",
+    "etag": "6WW7s1px1fM6he/wC7wOJg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013874",
+          "url": "/sapi/download/video?action=get&k=kDboEb8EcfurD2eb4OXSum-DhbCiSmoXXP8_U6sd6Thh_gS0DOm-XnDwRM5QbNxuM1ueKhyKwocGs0XGwsDHUqV7GKCfL9iYjK-TeJLuAhmKw-sI1tKnK8FQXhFcZ2jGxkf9G9Cw-eCjUBJaQxxzr2IdoPO-hxgbMZMHv2FaM1z8c0kMP2Q&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=Zc9niPRvirfupLHovmJudEDbYLBYYsGlODgELvg0NrorttnY69japUoWQHM5YiagDTgRoAj061EXOclZGvCvMIQbRSiZL9pMztnSbkNiYDn6ZqpN5X6vNQHM6tRL0i3h5omVKRZ0ZWRHdlBBqASDUPbU92CnrUS2emIFCJDt_Nw8Tk921uz4EilXF_Mqt3PpXUg&node=1i220",
+          "date": 1777148636724,
+          "creationdate": 1777148506000,
+          "modificationdate": 1777148506000,
+          "uploaded": 1777148597549,
+          "size": 1330607613,
+          "name": "The Taj Story (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9418849,
+            "bitrate": 1130165,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=QcisnrupmtnWGelZI0oREoughYl9kGmZgBzv4GH63d7KfHpQ_PGBzUm2wG847Ld3N7KTBSDtJRkjTZmZNnMJi5ycxvTtH4ZwmlImWroLHZyidQP2KWnAhRAEvxgqty9GK3P-Lje-MChd9sBn7oPcUfpOOZHILMlijhBMfF1uWIB4MV2dUNpkaYiDCndMAKKjJ14&node=1i220",
+              "etag": "06WW7s1px1fM6he/wC7wOJg=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Zc9niPRvirfupLHovmJudEDbYLBYYsGlODgELvg0NrorttnY69japUoWQHM5YiagDTgRoAj061EXOclZGvCvMIQbRSiZL9pMztnSbkNiYDn6ZqpN5X6vNQHM6tRL0i3h5omVKRZ0ZWRHdlBBqASDUPbU92CnrUS2emIFCJDt_Nw8Tk921uz4EilXF_Mqt3PpXUg&node=1i220",
+              "etag": "06WW7s1px1fM6he/wC7wOJg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "6WW7s1px1fM6he/wC7wOJg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777148636780,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/eThhM3t0TBGileHUiIvdcDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Taj Story (2025)",
+  "media_kind": "movie"
+}
