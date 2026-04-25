@@ -1,0 +1,81 @@
+{
+  "name": "55 (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "path": "D:\\New folder\\55 (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "uploaded_at": "2026-04-25T16:41:49Z",
+  "remote_folder_id": 1752360,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013365",
+  "tmdb": {
+    "tmdb_id": 1291198,
+    "title": "55",
+    "original_title": "Harami",
+    "release_date": "2025-07-31",
+    "year": "2025",
+    "rating": 8.667,
+    "overview": "An organized pick pocketing gang names their members after numbers.  55, an orphan teenage pickpocket working in the streets of Mumbai, embarks on a life-alerting journey when he\u2019s being confronted by the daughter of one of his victims.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8Zig074jWJXLxAjgmNcKpgoPOJ7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/s70NCRKc9sdneCskBDNdZJopwIW.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013365",
+    "status": "U",
+    "etag": "Z7Evn5tZ07gvwBkMF+34EQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013365",
+          "url": "/sapi/download/video?action=get&k=9MxyMlVOu0RCssWQ4PJ_lW3FcqDsAABZgKEPnAKGav7hUhAcPqQi86TslZ7ipq-yJr7boie56potpLn1OI6MmdVTmiPvJt5nauXsJwuIFp2aHzznyRm7sPCYzUcpvNMBD4gSANK6nG39Qr0oKAuRQmSDpdrmsaF36TIxeR5vZ5BfttMxuOE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=7WirD3AYEOUycWn68knksGZmbT8eV2IhpGbSJKgDI_NfKMhgjx8BmBfeKp5-1l67XlRKpGZbAjkfavjFbkU1Sqrebu2TuZv_qmMm2RQsVJ0OQFCgh5Pe5_vNKnqyYgrEMk7ymWHqOecacmd6DRbxR8PFUQJwsJoP4xnYn2_16iFi4to3n0wHOVk0D8fuMFZT3Ek&node=1i220",
+          "date": 1777135308886,
+          "creationdate": 1777135102000,
+          "modificationdate": 1777135102000,
+          "uploaded": 1777135278134,
+          "size": 978682248,
+          "name": "55 (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+          "metadata": {
+            "duration": 6119218,
+            "bitrate": 1279486,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=3H3Ab2jiY1dSpg9Jurepcmu98hN23XIKwWEEXO2M5KOvQABl-oPOHZ6gH6T477-KVYCTrcEahfMmdZ4tDL6AzdKC3vsu4HyCjglqZqXKLDtkj4jYb7Tdf036yIqCtyUR-ng55SMTik8CZ-yWvGrGwLPs3nNbwY1zkFUe06Rop46vtzlKZoA5bD9ekG600nyGE8w&node=1i220",
+              "etag": "0Z7Evn5tZ07gvwBkMF+34EQ=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=7WirD3AYEOUycWn68knksGZmbT8eV2IhpGbSJKgDI_NfKMhgjx8BmBfeKp5-1l67XlRKpGZbAjkfavjFbkU1Sqrebu2TuZv_qmMm2RQsVJ0OQFCgh5Pe5_vNKnqyYgrEMk7ymWHqOecacmd6DRbxR8PFUQJwsJoP4xnYn2_16iFi4to3n0wHOVk0D8fuMFZT3Ek&node=1i220",
+              "etag": "0Z7Evn5tZ07gvwBkMF+34EQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Z7Evn5tZ07gvwBkMF+34EQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777135308942,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/8FKRKa0RQkCWZK2mW70GbjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "55 (2025)",
+  "media_kind": "movie"
+}
