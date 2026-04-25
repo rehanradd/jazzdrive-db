@@ -1,0 +1,82 @@
+{
+  "name": "Jo Tera Hai Woh Mera Hai (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Jo Tera Hai Woh Mera Hai (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T18:36:59Z",
+  "remote_folder_id": 1752524,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013560",
+  "tmdb": {
+    "tmdb_id": 1354920,
+    "title": "Jo Tera Hai Woh Mera Hai",
+    "original_title": "\u091c\u094b \u0924\u0947\u0930\u093e \u0939\u0948 \u0935\u094b \u092e\u0947\u0930\u093e \u0939\u0948",
+    "release_date": "2024-09-20",
+    "year": "2024",
+    "rating": 6.5,
+    "overview": "Mitesh Meghani a family man, attempts to buy back their love through a scheme of conning an old man and getting him to transfer his property in his name.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/w35SdKO67nyy51CUQqbK60Vj3Co.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hdoZXeOWZEsMi5vemv3Ulz92zzX.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013560",
+    "status": "U",
+    "etag": "EwExp4jGOB/0K/GPelNa6w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013560",
+          "url": "/sapi/download/video?action=get&k=KFwnLZrObkptMxzfKvUevndbrQKY4r5TJRPhfWwjo23IErRI08VCP1Qvvg3hK0G1NDxNuxwgaIrTiVN_7Zat2D5MrycT4ia6LtX9iOIsdNZua_Z8VdWqVooN8fjo_DXtwd5AW7X_IGm2XUwUHaYcxhtjGa-TQ9hMrw600wlcoyQOvdFbpjg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=CReW396LaW7fbV8Z4vNXF5TaIqY7cMpd_PNLvI56d8Y9BjfPbZyn1FuogdK0IvLKcf4T297QfeS_DwTvqxfliQfqZWlR0r5Cq9QGyTku08LWHjKiDGEgT_qJbn5gh3cGbFxt5-AxaCGsZVMv86CfqiQH2PiC61jn-DQFWagre5Izf1K023QfRl9_95C06NMDiFE&node=1i220",
+          "date": 1777142218226,
+          "creationdate": 1777142062000,
+          "modificationdate": 1777142062000,
+          "uploaded": 1777142195964,
+          "size": 746952491,
+          "name": "Jo Tera Hai Woh Mera Hai (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6097200,
+            "bitrate": 980059,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=IcLQkVOYijtKDDgQmKkjXV3v2lREKWyRejZOOLIpdP_ughyO6ipPB3w-xTbiOz5jrEq3chYyGzFnDscFTeQIW399xzpVPnJ16rm1JFVJuaqi2OnACxCDsQtDml8mQoHSuDFBWB96k3R04pXo9zXPmmGUbDGEXun82WUXrgingyYo_6zWsUP16olvQgwCRgduN54&node=1i220",
+              "etag": "0EwExp4jGOB/0K/GPelNa6w=="
+            },
+            {
+              "w": 1280,
+              "h": 720,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=CReW396LaW7fbV8Z4vNXF5TaIqY7cMpd_PNLvI56d8Y9BjfPbZyn1FuogdK0IvLKcf4T297QfeS_DwTvqxfliQfqZWlR0r5Cq9QGyTku08LWHjKiDGEgT_qJbn5gh3cGbFxt5-AxaCGsZVMv86CfqiQH2PiC61jn-DQFWagre5Izf1K023QfRl9_95C06NMDiFE&node=1i220",
+              "etag": "0EwExp4jGOB/0K/GPelNa6w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "EwExp4jGOB/0K/GPelNa6w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777142218308,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/5_x8HKRJSvWFT3IsjyVgsDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jo Tera Hai Woh Mera Hai (2024)",
+  "media_kind": "movie"
+}
