@@ -1,0 +1,70 @@
+{
+  "name": "Despatch (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Despatch (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:42:10Z",
+  "remote_folder_id": 1752397,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013533",
+  "tmdb": {
+    "tmdb_id": 1069910,
+    "title": "Despatch",
+    "original_title": "Despatch",
+    "release_date": "2024-10-19",
+    "year": "2024",
+    "rating": 4.7,
+    "overview": "Determined to break the next big story and refashion his complicated personal life, Joy embarks on a relentless odyssey through the heart and gut of Mumbai.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/chn341XKezmUfGO2hdin5grCZU5.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/y4eA7NRzNkQssbhdRH0WxTFQ9y5.jpg",
+    "genre_ids": [
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013533",
+    "status": "U",
+    "etag": "I+OMeLoipmZUIxPZrka7Og==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013533",
+          "url": "/sapi/download/video?action=get&k=dYHcyfLdKQXPahxUmBCzweQBSJsDyZC0xgd1IzgOFQ1MHRHnw_8pvn3DxrCPC18SoNqyv72x9yNcijOZpZmhO4WXMQIa0txZL53ECJOxCBHAWcCHskI6VZdaYNX5XymdfsFpDKebSU_UWj2cyo1fM_DpmCmGnGZuPbQGT3hUAdFkJTq-h_8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=K0v_2jJtI7YUwPUhJT3g_5rlZWyoKRgs-7EuFbkg7YCsx8C8J1Bxqrxy8qIfYURqBsXSHD0FIe_yKj_-0dTOloXV6CFMYvzTnOsAI1fJ1u5v4yBxTrVznooQpNkkn-OYlsD0-QkyFGzopJuuI8NAwgH0MW20CaQB67SwWpDC9veL-y7fEt8yEC9zjSglmwV8wEc&node=1i220",
+          "date": 1777138929567,
+          "creationdate": 1777138738000,
+          "modificationdate": 1777138738000,
+          "uploaded": 1777138885017,
+          "size": 1485931067,
+          "name": "Despatch (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=7XpeCNEUpCyAUZfkhecPr0PvpCpHvu26sL2RBQ5OFQ_n1UM2h1iItv_t2qeXJLl3S4C75EN5uZe_M25J4gnqfvkA12WgMD4kDN0Du8TeI-u_Ri2dSkcBneUTGHhhSs2r4AcbDH2grr67M8sG3P8aknJQtJ0Q-QpDteL-O1_-tU3V6HlueiTJU7aQQt3jtW4HOOg&node=1i220",
+              "etag": "0I+OMeLoipmZUIxPZrka7Og=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=K0v_2jJtI7YUwPUhJT3g_5rlZWyoKRgs-7EuFbkg7YCsx8C8J1Bxqrxy8qIfYURqBsXSHD0FIe_yKj_-0dTOloXV6CFMYvzTnOsAI1fJ1u5v4yBxTrVznooQpNkkn-OYlsD0-QkyFGzopJuuI8NAwgH0MW20CaQB67SwWpDC9veL-y7fEt8yEC9zjSglmwV8wEc&node=1i220",
+              "etag": "0I+OMeLoipmZUIxPZrka7Og=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "I+OMeLoipmZUIxPZrka7Og==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777138929606,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/5MSZZ5lbTOGPfkiIscFvOzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Despatch (2024)",
+  "media_kind": "movie"
+}
