@@ -1,0 +1,83 @@
+{
+  "name": "Assi (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Assi (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T16:55:59Z",
+  "remote_folder_id": 1752369,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013380",
+  "tmdb": {
+    "tmdb_id": 1435606,
+    "title": "Assi",
+    "original_title": "\u0905\u0938\u094d\u0938\u0940",
+    "release_date": "2026-02-20",
+    "year": "2026",
+    "rating": 5.5,
+    "overview": "When Parima, a school teacher in Delhi, is gang-raped on her way home late at night after an office party, Raavi, a prosecution lawyer, fights tooth and nail to help her get justice. But when eighty sexual assault cases are reported in India every single day, regardless of age group, ethnicity, time, or place,  and only four go to trial, what does justice really mean?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/eKjYxprU2OXSuwCNsEym8yxsM0Y.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013380",
+    "status": "U",
+    "etag": "bx/sCXn13EjHU8RYxpX3sA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013380",
+          "url": "/sapi/download/video?action=get&k=KcOptfWr2UewKBDW0f3IL6wfnPecfwlsl-edc048M4l1EwYO8ixluoVIdbBGBD4pO9G1u8IPrA4MdXYUpBG-8nLJB2F9_aErmk1XZ54h8csPMXkz0yraToRyTRiQFTDzEg5zjqdclTSEymepm4xNsN25iSZBCGRED99BzaiwiCmDZQPIq1U&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=HYsML7k3g-lxLXu7eslkZbHXHmokL86Vy8B6CQlOIMQqmaUGuIIFeDnxzrtQ3DeQZlT7OLg1OMJJtYMUOqTS-n5eKcC7RpFhtXA2yZtW4OIbUOVmuTuW8Icwz7caSOuBedrcuTVe3Y7RNjdwrqiAFo5qkT8LjAavN3IFUW2BrvA6Sdd7Okhs34are8cp8fZVFao&node=1i220",
+          "date": 1777136158148,
+          "creationdate": 1777135904000,
+          "modificationdate": 1777135904000,
+          "uploaded": 1777136122706,
+          "size": 1142406162,
+          "name": "Assi (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7640946,
+            "bitrate": 1196088,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ogU45-2kAtbuPufq70hFiljp79SiG3M-2GDVx9DDnyG97esY4FD6hu-nycilYoBnuVifT7LWWnQNMMHZb7IgVs9Cxw_o5ILc7fByrp-5uV2TzPguKYmK0dpukgkmW21MbvV3znDqMaLZ04qngNd4LbWlYBPnVPRjx9VHta-gcPpN9GCFK7WA53sQICVGbEAhNdk&node=1i220",
+              "etag": "0bx/sCXn13EjHU8RYxpX3sA=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=HYsML7k3g-lxLXu7eslkZbHXHmokL86Vy8B6CQlOIMQqmaUGuIIFeDnxzrtQ3DeQZlT7OLg1OMJJtYMUOqTS-n5eKcC7RpFhtXA2yZtW4OIbUOVmuTuW8Icwz7caSOuBedrcuTVe3Y7RNjdwrqiAFo5qkT8LjAavN3IFUW2BrvA6Sdd7Okhs34are8cp8fZVFao&node=1i220",
+              "etag": "0bx/sCXn13EjHU8RYxpX3sA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "bx/sCXn13EjHU8RYxpX3sA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777136158210,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/-pe5MoOaRzOFy82VG23JIDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Assi (2026)",
+  "media_kind": "movie"
+}
