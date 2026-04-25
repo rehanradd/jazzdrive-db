@@ -1,0 +1,70 @@
+{
+  "name": "Greater Kalesh (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Greater Kalesh (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:47:28Z",
+  "remote_folder_id": 1752501,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013537",
+  "tmdb": {
+    "tmdb_id": 1563109,
+    "title": "Greater Kalesh",
+    "original_title": "\u0917\u094d\u0930\u0947\u091f\u0930 \u0915\u0948\u0932\u093e\u0936",
+    "release_date": "2025-10-17",
+    "year": "2025",
+    "rating": 5.3,
+    "overview": "Twinkle returns home for a surprise Diwali trip, but secrets and disagreements test her family's bonds in ways she never imagined.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pGJ5NNMFENxOekN0Irrsq9Cd7PL.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/FwMMeZr9NAc1QBTdSbIVTjDNkE.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013537",
+    "status": "U",
+    "etag": "JnE6ejRNV/4sroqPwChQjg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013537",
+          "url": "/sapi/download/video?action=get&k=Kf3rx1L_WjNiz05EUZa0RzX22QpSN34DE_Ei5K_15g2c5KdgcpJWaOb003rhvc2VAJAcFxVrNdsmRM1vfr7f-jMorkO2cYl37kshEyWxZhydIXQhtFWYWUVTdlW8wMRM3nICF5X-55WziYaeqaq4DACKQLXh9cMvfpHdGtt_nQU3QnolEns&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=aVN_obunCumxsm7ApNR4C8cEJ7lsCV1fY_6efW_ggxDcEyiSpU385P8N-X2JPoga-fYS95oZVmFOHCmwMuq1My6bXJU8Cl8V6ikcTe9LTAHEuumoTDa1kcFma5JrOIa0sTaEyBMOtGR1GcJElFBkT931vXzfWVJZxvuyvOXqISwBRGNCmPUlB_Kyb5s1g_33lhk&node=1i220",
+          "date": 1777139247433,
+          "creationdate": 1777139136000,
+          "modificationdate": 1777139136000,
+          "uploaded": 1777139233088,
+          "size": 502665119,
+          "name": "Greater Kalesh (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=opnRkWKtudub5RFRXeK6sSZazTYXszak8cm7yycLWXOgEJ-kkfsAZ7vC2mZ46-GF7TvmQ1-5s5QxUE0tiOHRJOWZqm7I7qSuJ-lUaQjmkbYnZgeDlqbyDa3GoVMCWvW1hZwSrhoqlstzm1Dzo7bznqlVWtLlYuL2S4dLQdr72p19KPVUj5J--qizBM19_aICTIU&node=1i220",
+              "etag": "0JnE6ejRNV/4sroqPwChQjg=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=aVN_obunCumxsm7ApNR4C8cEJ7lsCV1fY_6efW_ggxDcEyiSpU385P8N-X2JPoga-fYS95oZVmFOHCmwMuq1My6bXJU8Cl8V6ikcTe9LTAHEuumoTDa1kcFma5JrOIa0sTaEyBMOtGR1GcJElFBkT931vXzfWVJZxvuyvOXqISwBRGNCmPUlB_Kyb5s1g_33lhk&node=1i220",
+              "etag": "0JnE6ejRNV/4sroqPwChQjg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "JnE6ejRNV/4sroqPwChQjg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777139247481,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/_nACyjHzR9yaFjd30XH9LjMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Greater Kalesh (2025)",
+  "media_kind": "movie"
+}
