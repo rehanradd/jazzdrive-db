@@ -1,0 +1,83 @@
+{
+  "name": "Baida (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Baida (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T16:57:37Z",
+  "remote_folder_id": 1752371,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013388",
+  "tmdb": {
+    "tmdb_id": 1452776,
+    "title": "Baida",
+    "original_title": "\u092c\u0948\u0926\u093e",
+    "release_date": "2025-03-21",
+    "year": "2025",
+    "rating": 3.0,
+    "overview": "A former spy gets entrapped into the dark world of a man who has defied the cycle of time and death, bearing sinister abilities",
+    "poster_path": "https://image.tmdb.org/t/p/w500/op8Edzg2xHeGiprxJDFUt1OdJfh.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/gSmoqHhKrvYqgsmC4vLSVIW27cW.jpg",
+    "genre_ids": [
+      12,
+      878,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013388",
+    "status": "U",
+    "etag": "CRCnLYfodqzza4PtafSMZQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013388",
+          "url": "/sapi/download/video?action=get&k=FNgF8Iuyg2xxuc-V4GYIYixPaZZvZKAUM7XB0FYaFLRS_NwI-mSdFMnwpyoitAuiJjerEmNQgqEmH3ssl_ZsK2llB9TgXSunJb6SNF8Om9JvM4brFb_U3hNPpU4OPrbzYy-XruGxdtfb0CnwsbWkjyypl24efvwWSlAYlUYOozCXh3CghgU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=x-4L3qcxbMg1o9-J-si5P_kRDi2hc4UBqM2YiPQGjgMF5erhPtq3eoAuufUDxc8dqcyVKma4VyXrWxJjOyAE-Q-PxbPMgjW4cSxBXDlL3ckH2Ie3FLOPrlfqXGRdoCR-KIB84MtTZb5LUu0oIlxmiI-mkeG690i_CcGyckvcac_4yvgScZ8wZzb2xeD8r7q5Sbg&node=1i220",
+          "date": 1777136256607,
+          "creationdate": 1777136166000,
+          "modificationdate": 1777136166000,
+          "uploaded": 1777136227623,
+          "size": 993093298,
+          "name": "Baida (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6459814,
+            "bitrate": 1229872,
+            "codec": "h264",
+            "height": 642,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 128,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=8D3baON9AtgAKtaRf-uQ-MbDGeH77hfJzaY2VX_y-8x3DgJsl6SiLzVFMtWUFB8CR18OraZXk6hNP0LwMIRVHpkEDc_kxWE9hhCMQVrkQhxnbBvzSfu0DfQKOLZaipefjTg2gd7Z_MtePm4sgld7lkftfooIgej7Sm8wGaA3qO1AqOPk5-Tm6Hh02-Tp1nffxTM&node=1i220",
+              "etag": "0CRCnLYfodqzza4PtafSMZQ=="
+            },
+            {
+              "w": 1024,
+              "h": 513,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=x-4L3qcxbMg1o9-J-si5P_kRDi2hc4UBqM2YiPQGjgMF5erhPtq3eoAuufUDxc8dqcyVKma4VyXrWxJjOyAE-Q-PxbPMgjW4cSxBXDlL3ckH2Ie3FLOPrlfqXGRdoCR-KIB84MtTZb5LUu0oIlxmiI-mkeG690i_CcGyckvcac_4yvgScZ8wZzb2xeD8r7q5Sbg&node=1i220",
+              "etag": "0CRCnLYfodqzza4PtafSMZQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "CRCnLYfodqzza4PtafSMZQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777136256661,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/XJgGTFMuSRah7Jo9LHSqeDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Baida (2025)",
+  "media_kind": "movie"
+}
