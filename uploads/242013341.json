@@ -1,0 +1,81 @@
+{
+  "name": "The Judgement (2024) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\The Judgement (2024) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T15:47:27Z",
+  "remote_folder_id": 1752343,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013341",
+  "tmdb": {
+    "tmdb_id": 1519583,
+    "title": "The Judgement",
+    "original_title": "The Judgement",
+    "release_date": "2024-05-24",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "A prominent lawyer grapples with ethical quandaries and intricate legal obstacles when attempting to rectify past errors, inadvertently impacting society on a larger scale.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7L0a9pzRDxJ7MoNlDrlzscI4nbE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4rIPyOAFXvuP6ZUjrImQI8btp9Q.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013341",
+    "status": "U",
+    "etag": "DH70tb0lsYCVaCaZtLCfhw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013341",
+          "url": "/sapi/download/video?action=get&k=RjDPqY81-y4Fvm5qrn4ELzgLTXIneaJDu0JsIKdVOW3cBwnmWGQgJ1C1BybpYrCv4YvRvEvBUFYVJv-gEcA9X-jy6J5rYG92gJVmYwuJhZL4m1CEosjHeTJl1yKOvvA2lUG77lEnVBMq2ytFBmj9sB1HMAq-1Kcl7sdx0aPAnAN95n035n4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=IjnbOsg4M_bkXcaOe_2f7rPagLPEYIczQ6EWtSkr3xbkIr3k7oC8T61NOiQqoWwxna_dIVgXttGqAp_6Qs88-P_rED4shzwfyt2lPZ9XJK5AdE0_vucApMZnGvKYObMeZNFrTlYv5-YLbenParTncgse7-EpuBkWYX308X7-GwvLLxR1yW5AZe0yVayEixztZ_s&node=1i220",
+          "date": 1777132046583,
+          "creationdate": 1777131906000,
+          "modificationdate": 1777131906000,
+          "uploaded": 1777131986687,
+          "size": 1498920356,
+          "name": "The Judgement (2024) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9008854,
+            "bitrate": 1331064,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=P6dhs-y8LqxOp0vRWy5R2tbE_afw5Zmn_rfr_yP_2xksPR7GMaSWsQA7qHkP-FUg4Tgb5qJWnVLXBE0Ne9RZZ3ub5PAUKYWqax6KbsTvapWTaTlXEJQPmoNHSPT7b4xmVDAMQlznn16vU7sOFMf-RO2AEttO98YGVi_m3U84Yirt9g_sYs7LYZKmJ-WlsCXw4hs&node=1i220",
+              "etag": "0DH70tb0lsYCVaCaZtLCfhw=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IjnbOsg4M_bkXcaOe_2f7rPagLPEYIczQ6EWtSkr3xbkIr3k7oC8T61NOiQqoWwxna_dIVgXttGqAp_6Qs88-P_rED4shzwfyt2lPZ9XJK5AdE0_vucApMZnGvKYObMeZNFrTlYv5-YLbenParTncgse7-EpuBkWYX308X7-GwvLLxR1yW5AZe0yVayEixztZ_s&node=1i220",
+              "etag": "0DH70tb0lsYCVaCaZtLCfhw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "DH70tb0lsYCVaCaZtLCfhw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777132046642,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/__Rt5MV1QDi4jxH4G_1k0zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Judgement (2024)",
+  "media_kind": "movie"
+}
