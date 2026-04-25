@@ -1,0 +1,83 @@
+{
+  "name": "Khwaabon Ka Jhamela (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Khwaabon Ka Jhamela (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T18:49:07Z",
+  "remote_folder_id": 1752532,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013586",
+  "tmdb": {
+    "tmdb_id": 1059268,
+    "title": "Khwaabon Ka Jhamela",
+    "original_title": "\u0916\u094d\u0935\u093e\u092c\u094b\u0902 \u0915\u093e \u091d\u092e\u0947\u0932\u093e",
+    "release_date": "2024-11-08",
+    "year": "2024",
+    "rating": 3.2,
+    "overview": "Shehnaz rejects Zubin's romantic proposal because she finds him boring. Later, Zubin gains confidence after meeting Ruby. Just as their romance blossoms, Shehnaz returns to Zubin's life. What unexpected twist awaits him?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hbty5wMoyo90C3XZdmXi5lOlxpF.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/l0UOfrABDnziaq8MgIKf6V4UcuE.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013586",
+    "status": "U",
+    "etag": "OohaKuVLRpNu8RWzGWrLrA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013586",
+          "url": "/sapi/download/video?action=get&k=SiqVH6gyABy_45Ta0YPjdFqPgzm7pvMh7zSquhxX6iLZLJ0seWl6axF_oHHEsCtNtu4AvGRfakjAU-ogfho2xEpgtefXRx_MX8m9ZGuilUXnomUILnjhVrL5y-eMZYk0Fh-bDMn1o62-T113UHHwSAmE9m835sHd8kCcV9Ft2wD4RTTDXJ4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=3Fz90Svi2W5xErnUEYeMmgL4FtmMCmZpxRkgKhSRQmjlescTxZ_Iyg5hvjQ7eO5oYEHyAzXgjAPvxEDFjpHHE3y0u-hRKtTQpBwI7YkmSExGADE4gVJhFnC2eyv74XkKE3zOXHjIE8ML-vkM8QmU9-FU-JMlhINkdTSCC-9HnB_np2WxnFDF0qeA87WEwPu_5aI&node=1i220",
+          "date": 1777142946103,
+          "creationdate": 1777142837000,
+          "modificationdate": 1777142837000,
+          "uploaded": 1777142914027,
+          "size": 1100483810,
+          "name": "Khwaabon Ka Jhamela (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6808777,
+            "bitrate": 1293017,
+            "codec": "h264",
+            "height": 672,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 134,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=oxqOm8NDGonlVtBtzVkWeHJ8OMqxX2n22NpOq0gd3-bBIJXX41kPXkdq7SNJlcWngWy6axQtfaoKU93psgrTWkid337eekRMZQD2lLqq6Pj_zyKLE8b38p-QlgCgE2oRm0DU0HJ4F_vdVdi-r5oBvHozb4nzh3POh4AUjtRwfZVJeFZ1T1rTqfn1fu3k6uKnPTU&node=1i220",
+              "etag": "0OohaKuVLRpNu8RWzGWrLrA=="
+            },
+            {
+              "w": 1024,
+              "h": 537,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=3Fz90Svi2W5xErnUEYeMmgL4FtmMCmZpxRkgKhSRQmjlescTxZ_Iyg5hvjQ7eO5oYEHyAzXgjAPvxEDFjpHHE3y0u-hRKtTQpBwI7YkmSExGADE4gVJhFnC2eyv74XkKE3zOXHjIE8ML-vkM8QmU9-FU-JMlhINkdTSCC-9HnB_np2WxnFDF0qeA87WEwPu_5aI&node=1i220",
+              "etag": "0OohaKuVLRpNu8RWzGWrLrA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "OohaKuVLRpNu8RWzGWrLrA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777142946165,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/3CpFo0KBR3e5lXImcVsO2zMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Khwaabon Ka Jhamela (2024)",
+  "media_kind": "movie"
+}
