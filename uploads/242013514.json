@@ -1,0 +1,71 @@
+{
+  "name": "Border 2 (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Border 2 (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:22:08Z",
+  "remote_folder_id": 1752386,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013514",
+  "tmdb": {
+    "tmdb_id": 1213898,
+    "title": "Border 2",
+    "original_title": "\u092c\u0949\u0930\u094d\u0921\u0930 \u0968",
+    "release_date": "2026-01-23",
+    "year": "2026",
+    "rating": 6.9,
+    "overview": "Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wUcttG71zo9deP4m9sDhYPUcvi5.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fzo85eKFEjfmJ781gubJQjpQAwF.jpg",
+    "genre_ids": [
+      28,
+      18,
+      10752
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013514",
+    "status": "U",
+    "etag": "4bNraKThMRevkWd+kZRjAA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013514",
+          "url": "/sapi/download/video?action=get&k=oymAXBnkwIC17LzH0pOUsTMKae8AwE3byQUdinCEiX-CImCHwbjRcOir-ire6hIUEJd14OrLwjqx2w1oig3wNclm6ZxpoX8YU-4Cx3UnM0xO1PuFIOZLVBAQV6PnXuKsMPDC52qQliHKJiKIO9jnWxEEzXTKcdNjODZRKkr9kuoL6FkXPEM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=yPLXjsCSwsujRAQNpUICHrzWt0kgzzos8vuEt71Od8FNYzOsW3CujphIAABoREkqy8PCVKSNpSxkZccD1CGN17flTXo_1o3FA0zwVkfzmtFS9U5Ptd7H04pGS89AyAjCvJWhRoon8lOvpiAOmUWWCtXWJTvpXykcd_2ZBK8ytooNCYOPrjE8FI_iG_a147YBhwk&node=1i220",
+          "date": 1777137727570,
+          "creationdate": 1777137526000,
+          "modificationdate": 1777137526000,
+          "uploaded": 1777137646876,
+          "size": 1815298574,
+          "name": "Border 2 (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=hO1UMDz6Kc7zF9qk5EAaDyIEDVt2V8X4h_2SuhMU_VhHu1GHSonB_nu3BU967fiq4l1xCkOmfYyeRMhnnqFou_n_f2-dPuqfoembrYAlACNp9uQNURGYb27zIvBW--LJa8YUEcdfdZOsgRV1S5Kh9qKV3aeGD7rfohWcxGeSWjdzSXB_boSYKdjMt-xDOme_yoY&node=1i220",
+              "etag": "04bNraKThMRevkWd+kZRjAA=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=yPLXjsCSwsujRAQNpUICHrzWt0kgzzos8vuEt71Od8FNYzOsW3CujphIAABoREkqy8PCVKSNpSxkZccD1CGN17flTXo_1o3FA0zwVkfzmtFS9U5Ptd7H04pGS89AyAjCvJWhRoon8lOvpiAOmUWWCtXWJTvpXykcd_2ZBK8ytooNCYOPrjE8FI_iG_a147YBhwk&node=1i220",
+              "etag": "04bNraKThMRevkWd+kZRjAA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "4bNraKThMRevkWd+kZRjAA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777137727609,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HAJGZsToTEO6tNDgsjSWtzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Border 2 (2026)",
+  "media_kind": "movie"
+}
