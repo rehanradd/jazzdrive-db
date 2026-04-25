@@ -1,0 +1,83 @@
+{
+  "name": "Badass Ravi Kumar (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "path": "D:\\New folder\\Badass Ravi Kumar (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+  "uploaded_at": "2026-04-25T16:55:11Z",
+  "remote_folder_id": 1752368,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013379",
+  "tmdb": {
+    "tmdb_id": 1043887,
+    "title": "Badass Ravi Kumar",
+    "original_title": "Badass Ravi Kumar",
+    "release_date": "2025-02-07",
+    "year": "2025",
+    "rating": 4.714,
+    "overview": "The Xpose franchise now goes to the next level  with Himesh Reshammiya doing a spin off from his iconic character Ravi Kumar.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kqdb3ffSsyRlRjddG0XPpssy5ok.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uw8XD7pck9LChp1QbNuTzMY7YuT.jpg",
+    "genre_ids": [
+      28,
+      10402,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013379",
+    "status": "U",
+    "etag": "wPggj+jztaYfoKECKz+j3w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013379",
+          "url": "/sapi/download/video?action=get&k=pSE3LHmV29IxwQ41fMZWR8ar-vrhYTmXwjMp8oGjAa7FgYC6HTDxmOacsO9Jcdp5gXEVoNzXiY5SWCqZ5FdEE1gEhHgp27trSY3PEmAujGX6lNmaccZA6rQalANdAT6ZTjwaq2pnFPG5MJogi9ztJPSoNofnmGsM1QEXRl41m5J4_eRecbY&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=TbL7vFYTVxfm-8xmDGBtqjgbP-hPEYpUfh02jiRwmEhHtwB6pRmFxi39wZyHeEC9sxIVv5Rab9D1Y1ycmEQBY7JGUavsv25NlvyQYj-aVx8DFhxOTzTn1vibiuxbxoQ9Vj4IuezfmrTQApsVlIswhkcGJpcrRDewX2dy4a4GA4-3CSNPm1HukBmlTcxiRtSOgZ4&node=1i220",
+          "date": 1777136110808,
+          "creationdate": 1777135815000,
+          "modificationdate": 1777135815000,
+          "uploaded": 1777136070573,
+          "size": 1324389147,
+          "name": "Badass Ravi Kumar (2025) Hindi 720p WEBRip x264 [DDN].mp4",
+          "metadata": {
+            "duration": 8197790,
+            "bitrate": 1292435,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Y_700ZOtl_VNAQgBT0ftobKHVLjaiijlagE3pjwFCTeW6sk3OHcSLgsP09u17mMbs6tolqFayt3gimDwk33no1bi__ku_nsQ5om_uPZMIKxm9G-NR5sKDWjFaj7ZRAvIdK3e90WJ4lQJA5hanb1zLAbtIS0WW5yd6U6lVcPkFhDFlO0xxHB_7lpKL5QaWWmPMt8&node=1i220",
+              "etag": "0wPggj+jztaYfoKECKz+j3w=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=TbL7vFYTVxfm-8xmDGBtqjgbP-hPEYpUfh02jiRwmEhHtwB6pRmFxi39wZyHeEC9sxIVv5Rab9D1Y1ycmEQBY7JGUavsv25NlvyQYj-aVx8DFhxOTzTn1vibiuxbxoQ9Vj4IuezfmrTQApsVlIswhkcGJpcrRDewX2dy4a4GA4-3CSNPm1HukBmlTcxiRtSOgZ4&node=1i220",
+              "etag": "0wPggj+jztaYfoKECKz+j3w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "wPggj+jztaYfoKECKz+j3w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777136110873,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/F2AOeLwXQdyqkuKDfn8YRzMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Badass Ravi Kumar (2025)",
+  "media_kind": "movie"
+}
