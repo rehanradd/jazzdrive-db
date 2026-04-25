@@ -1,0 +1,72 @@
+{
+  "name": "Deva (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Deva (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T17:36:47Z",
+  "remote_folder_id": 1752394,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013529",
+  "tmdb": {
+    "tmdb_id": 1195430,
+    "title": "Deva",
+    "original_title": "\u0926\u0947\u0935\u093e",
+    "release_date": "2025-01-31",
+    "year": "2025",
+    "rating": 6.016,
+    "overview": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4wKpglgZYMYpISMdThgdqS1TSQc.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
+    "genre_ids": [
+      28,
+      53,
+      9648,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013529",
+    "status": "U",
+    "etag": "RQo+K6NbW4bnrfDeELZ6lA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013529",
+          "url": "/sapi/download/video?action=get&k=bBj6Vl46Y0awzpdv3T4w_3AsaYlhelpjrFL7X41s8vCWWt4PTWY1Jo3lBTdUJPfzhxz0-sUyx5_nsdt_o9ZrRxmBulWnRRsnp8VKLNeQrXSP9jBCy5zo2KAZTx4CSi_h77EurFqWWme1Sfjsn5qMCw_Ic1-hqutaUOGM3XDJcsO5FzqeeeE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=iVnn369J0tmGfowrBoEdDK9aQ6vOtJ46fkUSsNA-OG7jL9sh15RkBcNCw7j9ZaedFcnw911KKUO145OgktCoavu572BhOV-Fn3xP8EbexBU9zU1SLq_-2HIO0idNJd5RA98g7L0meQHwZXGXbMg2_XIh4dI8T4fTHqHl3cRo4pNYMg1rqRcHipUKHdwFDeMtess&node=1i220",
+          "date": 1777138606878,
+          "creationdate": 1777138496000,
+          "modificationdate": 1777138496000,
+          "uploaded": 1777138569868,
+          "size": 1084728982,
+          "name": "Deva (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=R6lKbgP7EdPfSE69jPTjlzaIRDe0T80w5qpCQ-mk9MFrWVAt9FVOjjFIa3zUvvKSiaWZV0B7IcPHWTWdNNTooWsLW1syyFudcnGTiVjJ8r98ZPtvVcGwVjV0ZoofPORkQ-NxOZUD38oleib07OEyq35WHhWQEZoWG-XtAEvz1n9C7XBlLiAz3jPdnr2UtfYdaDU&node=1i220",
+              "etag": "0RQo+K6NbW4bnrfDeELZ6lA=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=iVnn369J0tmGfowrBoEdDK9aQ6vOtJ46fkUSsNA-OG7jL9sh15RkBcNCw7j9ZaedFcnw911KKUO145OgktCoavu572BhOV-Fn3xP8EbexBU9zU1SLq_-2HIO0idNJd5RA98g7L0meQHwZXGXbMg2_XIh4dI8T4fTHqHl3cRo4pNYMg1rqRcHipUKHdwFDeMtess&node=1i220",
+              "etag": "0RQo+K6NbW4bnrfDeELZ6lA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RQo+K6NbW4bnrfDeELZ6lA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777138606920,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/BaImfpb2Sw6XejYG3c2UaTMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Deva (2025)",
+  "media_kind": "movie"
+}
