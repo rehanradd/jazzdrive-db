@@ -1,0 +1,68 @@
+{
+  "name": "Safiasafdar (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Safiasafdar (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T19:50:00Z",
+  "remote_folder_id": 1752566,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013830",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013830",
+    "status": "U",
+    "etag": "0DYL3+2BYozeg871TiH1Og==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013830",
+          "url": "/sapi/download/video?action=get&k=D6O8Xa91QcJIBpll0txj0GsC4ck-G2Gt8A5WmU31-QMXXhYbDwUHHUviOI4i4J7DvZ7ptILgjy6xhRKAJilTYQgEYiOeYFUZ-i_qd0m1BjqNSUsATEk8-gMtLa3fgfH9Sm5bMy2ngDpHiGu_iFKNBSt2ZdR0qyWPSDqPq3OI8fhzjRIjTNI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=-xhc6x_zakHXlcOFXaiLinBaDYQCJa4j9Xe8Xxvc0C-c1t5uP1z8_-8Qf6uYznXSfv7aUNkOtYXOR0g0uX0Es9mLbojrIcYq6bONxRTCopnsuoskFIjlDu0j0GHotC-RTUj18yAql8OS-7srOXwXwD7VsKdwCfNr1bUn8TNQzLfQXQcpE8ImVmlHnjVdx07EBvU&node=1i220",
+          "date": 1777146598294,
+          "creationdate": 1777146392000,
+          "modificationdate": 1777146392000,
+          "uploaded": 1777146567436,
+          "size": 948312724,
+          "name": "Safiasafdar (2026) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6338666,
+            "bitrate": 1196860,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=tY1pLGRne_kzWoT30kcR2J0bAO9GfqhCGWjnyIuJb_o2qlVgecLYsVMSlmG9kXjJ-Sf634y95yDrbRLNswaeO9gh3VjACN8rhrwN_FT1NCTCxchlMorh6bOk3rgz78eRfxv8_3diONpItV7ynDimSdToAsLG5OaMMQLYEeWwDIUp8PBt1uvSholrCa0L6dq58E4&node=1i220",
+              "etag": "00DYL3+2BYozeg871TiH1Og=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=-xhc6x_zakHXlcOFXaiLinBaDYQCJa4j9Xe8Xxvc0C-c1t5uP1z8_-8Qf6uYznXSfv7aUNkOtYXOR0g0uX0Es9mLbojrIcYq6bONxRTCopnsuoskFIjlDu0j0GHotC-RTUj18yAql8OS-7srOXwXwD7VsKdwCfNr1bUn8TNQzLfQXQcpE8ImVmlHnjVdx07EBvU&node=1i220",
+              "etag": "00DYL3+2BYozeg871TiH1Og=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "0DYL3+2BYozeg871TiH1Og==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777146598370,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/OHp7wkHIRhmmeGr1XF1lIDMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Safiasafdar (2026)",
+  "media_kind": "movie"
+}
