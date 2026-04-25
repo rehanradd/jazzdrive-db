@@ -1,0 +1,72 @@
+{
+  "name": "Sikandar Ka Muqaddar (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Sikandar Ka Muqaddar (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-04-25T19:59:38Z",
+  "remote_folder_id": 1752570,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242013834",
+  "tmdb": {
+    "tmdb_id": 1252470,
+    "title": "Sikandar Ka Muqaddar",
+    "original_title": "\u0938\u093f\u0915\u0902\u0926\u0930 \u0915\u093e \u092e\u0941\u0915\u0926\u094d\u0926\u0930",
+    "release_date": "2024-11-29",
+    "year": "2024",
+    "rating": 5.6,
+    "overview": "After an unsolved diamond heist, a hard-nosed cop\u2019s pursuit of his key suspect turns into obsession, until they finally face each other \u2014 and the truth.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eWUh4rgxtgypgnOa6uGMnUt01ux.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
+    "genre_ids": [
+      53,
+      80,
+      9648,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242013834",
+    "status": "U",
+    "etag": "PsIBPDHlck5njCWdnK1AqA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242013834",
+          "url": "/sapi/download/video?action=get&k=xXmiyhmn_IwGpwv09XLEy20DGx4BkR3rGMvH7P296B-kZWM2YGTpSfHS_NVtdEfvesbbijWDqDMUHZ5fle6HvByevgGH08aJj7gr1mJ9wNzD_tHzZcRklSbLOWJxJM1CtIO-BCzGhy_BFuMtZuhcozROvLNXJ9KupyTYPnO88L23O9Fytc0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=c8pHqRqDvsHyV-BDbgqP8BmWSdqbuIaqvMDwbEjk6HFxyQ-iQKzkFDQbbbFS_tVDU71YexSEAwhi-MRqdnrSl2i18bx--OjcuwGQ_mqT28J7AD9VHLlz34H7IKo0URESM13my9Nre-TWj7g_-RNYxkZjL3QWH9FSJOY83wKxM_1vtOoZn_fEgGZ0pbt711gS4IM&node=1i220",
+          "date": 1777147177327,
+          "creationdate": 1777146880000,
+          "modificationdate": 1777146880000,
+          "uploaded": 1777147134224,
+          "size": 1388338180,
+          "name": "Sikandar Ka Muqaddar (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=cjaXRyYlOHWnXCGpTmL2nUkiiTAIm71XO4jZiD9fkvkgwFr2iLjpRwsrsA89DE27787DrEPelCZUzuPeV3L7EBLG4zgIbm413wrgNI0t77s0nWZuedLq8Jl_0fkm7sU7DPwsxQE2qly4odAdJ_zgWSXB76U14nMLFPObKRC7SIzL6tkSF5706luq1UFKlEFCmgk&node=1i220",
+              "etag": "0PsIBPDHlck5njCWdnK1AqA=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=c8pHqRqDvsHyV-BDbgqP8BmWSdqbuIaqvMDwbEjk6HFxyQ-iQKzkFDQbbbFS_tVDU71YexSEAwhi-MRqdnrSl2i18bx--OjcuwGQ_mqT28J7AD9VHLlz34H7IKo0URESM13my9Nre-TWj7g_-RNYxkZjL3QWH9FSJOY83wKxM_1vtOoZn_fEgGZ0pbt711gS4IM&node=1i220",
+              "etag": "0PsIBPDHlck5njCWdnK1AqA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "PsIBPDHlck5njCWdnK1AqA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777147177374,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/dZ9wh4-yR2WYRKch_WKo8jMxNTY4NDA4ODI3NzFfMjYxNDMxNQ",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sikandar Ka Muqaddar (2024)",
+  "media_kind": "movie"
+}
