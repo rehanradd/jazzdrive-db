@@ -1,0 +1,83 @@
+{
+  "name": "Caught.Stealing.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Caught.Stealing.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T13:03:37Z",
+  "remote_folder_id": 1753053,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242087356",
+  "tmdb": {
+    "tmdb_id": 1245993,
+    "title": "Caught Stealing",
+    "original_title": "Caught Stealing",
+    "release_date": "2025-08-26",
+    "year": "2025",
+    "rating": 6.888,
+    "overview": "Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled in a dangerous struggle for survival amidst the criminal underbelly of late 1990s New York City, forced to navigate a treacherous underworld he never imagined.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/41043LV7mfluH8iXEUPVseCDAv5.jpg",
+    "genre_ids": [
+      80,
+      53,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242087356",
+    "status": "U",
+    "etag": "GXj3ZDZy1yaDFeJV6sqE1g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242087356",
+          "url": "/sapi/download/video?action=get&k=OzgzrFLJgP_AzcCNHkmcIiPIHjleFGNpuyBN_JnbPjFwE5EZv-55ZP0xC2THqFnxy2QxAu6DUmiuKjcA191AzFVAQcd2ywB2ukKRwka1xa70CrdNWoSBb0EXwkdg-irLHpuTSEFZN7kOlIFhwcri5s7xHUozfFGCA-Nlg1hEhHpPbnszHq4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=meTLM6NX0gEswO2FPrbSI1BivePQTsI5Aj6U6lwYCnyekrz1UCTXeBgN92YArkJh5UFgzz5bWHK9ck5oijofalVH8fYCfNA6LrNHUyIuHSMm4-GXxMuntAjm9VOBRt08teZeISiQhS6g7zpr7QrvJuh0n15CLMeTQvDQMomB4ayD7cIG8TqQv8q4Wy-Vsy1gH-Q&node=1i204",
+          "date": 1777554216974,
+          "creationdate": 1777554028000,
+          "modificationdate": 1777554028000,
+          "uploaded": 1777554152218,
+          "size": 2111938225,
+          "name": "Caught.Stealing.2025.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 6401504,
+            "bitrate": 2639302,
+            "codec": "h264",
+            "height": 1036,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 138,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=5JbHo1g3v10bn_P3MM1WslZIg4J05TY3vd2IJQiobYvWsIosh90h_PvlmdNCxUSFpL-QnZLVAOCylX2dy-0xog3iH87XzF_CBFcsOB3RLi340uIaAfdgnpivjEmP6fqDn_b30yGr-HDiFLDyH03OIUimqF5xW3CiVk38_xbqohBrkXiCdAeDilCQE1FVn4kEnxs&node=1i204",
+              "etag": "0GXj3ZDZy1yaDFeJV6sqE1g=="
+            },
+            {
+              "w": 1024,
+              "h": 552,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=meTLM6NX0gEswO2FPrbSI1BivePQTsI5Aj6U6lwYCnyekrz1UCTXeBgN92YArkJh5UFgzz5bWHK9ck5oijofalVH8fYCfNA6LrNHUyIuHSMm4-GXxMuntAjm9VOBRt08teZeISiQhS6g7zpr7QrvJuh0n15CLMeTQvDQMomB4ayD7cIG8TqQv8q4Wy-Vsy1gH-Q&node=1i204",
+              "etag": "0GXj3ZDZy1yaDFeJV6sqE1g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "GXj3ZDZy1yaDFeJV6sqE1g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777554217044,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/3t8TVI5TQaSa8dDIBrHe8Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Caught Stealing (2025)",
+  "media_kind": "movie"
+}
