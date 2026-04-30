@@ -1,0 +1,82 @@
+{
+  "name": "Apex.2026.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Apex.2026.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T12:07:53Z",
+  "remote_folder_id": 1753031,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242086170",
+  "tmdb": {
+    "tmdb_id": 1318447,
+    "title": "Apex",
+    "original_title": "Apex",
+    "release_date": "2026-04-24",
+    "year": "2026",
+    "rating": 6.518,
+    "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242086170",
+    "status": "U",
+    "etag": "6ZVv+tkZbcPYWMUIB6C5Yg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242086170",
+          "url": "/sapi/download/video?action=get&k=pgIS3Gnh1dwyHxPn4-FKPbYCdf84f_VwG7fLShO-fp7jyOLJ38WnmOZeUAnPb6aO8pPhJQLaJI3eBfomRBOUiYmXzV00-NIvF4SEoSHvQtaB9xMzy2F0omCvGDfYmcUMt66gURknjmimNSy4xwZwY0hJRyu7RhfizXDXHcr3EYV53Dfba14&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=-tkbDHSyYIW6LRAnCPHljXVZJCTk0pU6pOw4OqPSfitWg9cFjE7eVBLHQjE5J3J_quMz36P3srKR2Xet8lOAtj27GBK22UWS5tL1VljNtY4fV-wzSqxbLYZhtANxyfJ09SIyzyuuXoKj3fj130qg1MTsZKEA3c1FZaYfKegZ1rVkjsXa8d2otzL6mzm4a7_mFZ8&node=1i204",
+          "date": 1777550872915,
+          "creationdate": 1777550346000,
+          "modificationdate": 1777550346000,
+          "uploaded": 1777550816338,
+          "size": 1888411497,
+          "name": "Apex.2026.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5725344,
+            "bitrate": 2638669,
+            "codec": "h264",
+            "height": 872,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 116,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=BunEFyeuSlQiOtucmCxjt_BEKvhekVYQAjV_Rvim5WNuINQh1iJ56QFajrHknCDR4X24_3muCRoiRXm-IXeIRtjtiXKiCn6GZ9HClxRSGIN99iFMh997qL-0ECkMUNALLZs1ZCSTn2GcmbjY4v2tUEEL1wjpJT2motdGYO-RPdUYhb7nDY33mikZxjPGh2X-SbQ&node=1i204",
+              "etag": "06ZVv+tkZbcPYWMUIB6C5Yg=="
+            },
+            {
+              "w": 1024,
+              "h": 465,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=-tkbDHSyYIW6LRAnCPHljXVZJCTk0pU6pOw4OqPSfitWg9cFjE7eVBLHQjE5J3J_quMz36P3srKR2Xet8lOAtj27GBK22UWS5tL1VljNtY4fV-wzSqxbLYZhtANxyfJ09SIyzyuuXoKj3fj130qg1MTsZKEA3c1FZaYfKegZ1rVkjsXa8d2otzL6mzm4a7_mFZ8&node=1i204",
+              "etag": "06ZVv+tkZbcPYWMUIB6C5Yg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "6ZVv+tkZbcPYWMUIB6C5Yg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777550872988,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MK3nPyDaQbmuhUT58a6QUzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Apex (2026)",
+  "media_kind": "movie"
+}
