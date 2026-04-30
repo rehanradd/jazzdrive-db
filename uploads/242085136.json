@@ -1,0 +1,82 @@
+{
+  "name": "Aileen.Queen.Of.The.Serial.Killers.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Aileen.Queen.Of.The.Serial.Killers.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T11:46:36Z",
+  "remote_folder_id": 1753004,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242085136",
+  "tmdb": {
+    "tmdb_id": 1550569,
+    "title": "Aileen: Queen of the Serial Killers",
+    "original_title": "Aileen: Queen of the Serial Killers",
+    "release_date": "2025-10-29",
+    "year": "2025",
+    "rating": 6.698,
+    "overview": "Aileen Wuornos remains a rarity: a female serial killer. From childhood abuse to death-row revelations, this documentary revisits her life and crimes.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iBCorGTwpXhIOeWwTA21HC5Rprx.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mrYoBknZhVI7jMsEe4nbbHLgLKa.jpg",
+    "genre_ids": [
+      99,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242085136",
+    "status": "U",
+    "etag": "TbWf56aiMfnnuOJSrJgQSQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242085136",
+          "url": "/sapi/download/video?action=get&k=qHwuCNdmoqRSCexFhuYzKbGT8-Lip27iRPIBbO4XrDK30f61-2GfrCaWwMSKaOEUun_fnV8kQ6GFsQU4kUFgC_FrWh-z5A8erJIdu0s2jSeFHia8CdrtN3s_8H-mg8xZhBdWptf8la2k8FaYpDZb2Ul_3SCxP8MLlcTUaGj4w79XFL3Gis4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=gHYXvqT6cDuenIArldDmbatTzisIkKO2XPTOVJXK_vBhNdj5jQ_BIbDah3_Vxj-IU8LLLOA30YuECclRuphlIzuXES2XMfpuyfQ_tRy4KCnowVgpkz9PMospXtuN4SVtmba3NY0lZD8B4abZqmnPDGKWsmno40A1-aQXaZQwpbN7l0LcvPECM5EM9gyWeyXIk9A&node=1i204",
+          "date": 1777549595042,
+          "creationdate": 1777549161000,
+          "modificationdate": 1777549161000,
+          "uploaded": 1777549524187,
+          "size": 2058398363,
+          "name": "Aileen.Queen.Of.The.Serial.Killers.2025.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 6231904,
+            "bitrate": 2642400,
+            "codec": "h264",
+            "height": 1080,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=yOjPa2kanJje5trBcDSybs1RXK8rRJqzc40CwU5N6-A_s8jjOx-GoVkCRxvVJnniYRfCiShfcQ_gWZUPC-OxdEio0k1SjTMgZr81EVuY_7VUBo8Z0Pmr0KlTSpkOrozZJGtxgQaWk0LJOiBbxOkng0RppcxoMWAZEnf9am7WTTEaRfs18vwuzQWHwdFjaW5bem4&node=1i204",
+              "etag": "0TbWf56aiMfnnuOJSrJgQSQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=gHYXvqT6cDuenIArldDmbatTzisIkKO2XPTOVJXK_vBhNdj5jQ_BIbDah3_Vxj-IU8LLLOA30YuECclRuphlIzuXES2XMfpuyfQ_tRy4KCnowVgpkz9PMospXtuN4SVtmba3NY0lZD8B4abZqmnPDGKWsmno40A1-aQXaZQwpbN7l0LcvPECM5EM9gyWeyXIk9A&node=1i204",
+              "etag": "0TbWf56aiMfnnuOJSrJgQSQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "TbWf56aiMfnnuOJSrJgQSQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777549595130,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xmE-0tt4Ra-O8LR3q7zztTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aileen Queen Of The Serial Killers (2025)",
+  "media_kind": "movie"
+}
