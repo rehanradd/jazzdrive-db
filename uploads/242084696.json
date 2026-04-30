@@ -1,0 +1,68 @@
+{
+  "name": "2073.2024.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\2073.2024.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T11:21:38Z",
+  "remote_folder_id": 1752493,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242084696",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242084696",
+    "status": "U",
+    "etag": "A8apqOPvbL9eBupTVuYsHQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242084696",
+          "url": "/sapi/download/video?action=get&k=VYfNAXdd49TAWh5bl9fKdwe2Wdv-vlawkgROXatT46Oa5ELJx_v3uuWr_uDwNn3pzikpKwXrWsBVusMkRHbphtBVmd-v9ASROlwOJXxaMtdMPRDV9wWmId1VhgxRlBsWnsVonrLUitWPSxl9-lUzTpZOS7deook3XvmF6JLCU5QdE5lwIrE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=1jbuZT37pR77HA3hDZEEewuT-a95D5-lkxFPxlqv4CBOQ_iGbXIiNYIwXXKs8FhafP6ILj0ZYHFhPMBMCo-aeXJ6S2FtCjWPWSWQwBLjZzcadDDawR0h990cwXgeR7oOioM3IBCBWVaVsD5OB_rwUthBI8SefUC2lkP1zNIEK8APrWxhCKqPY8cj2LbWLrazZOs&node=1i204",
+          "date": 1777548098239,
+          "creationdate": 1777547935000,
+          "modificationdate": 1777547935000,
+          "uploaded": 1777548051627,
+          "size": 1644458032,
+          "name": "2073.2024.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 4987107,
+            "bitrate": 2637934,
+            "codec": "h264",
+            "height": 800,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=kDIijZmJr7-SOkR-NPj1QNUepcWrkYPMv5Z7W8ErCSjVWXfveeIo4qsBWx_CRHMM-xx6xBCPQl_sC1-uCFzWb-MzkUAd6wPAgWfJtSauSiWAL8aI-fcyf8gTT5Zh3-1PxyUXPt-WPRNhmclVqH2T8CZapXM3QL49e8v0sEHHhXRFq9gLrsAW_gYy9HNuUXfnb1s&node=1i204",
+              "etag": "0A8apqOPvbL9eBupTVuYsHQ=="
+            },
+            {
+              "w": 1024,
+              "h": 426,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1jbuZT37pR77HA3hDZEEewuT-a95D5-lkxFPxlqv4CBOQ_iGbXIiNYIwXXKs8FhafP6ILj0ZYHFhPMBMCo-aeXJ6S2FtCjWPWSWQwBLjZzcadDDawR0h990cwXgeR7oOioM3IBCBWVaVsD5OB_rwUthBI8SefUC2lkP1zNIEK8APrWxhCKqPY8cj2LbWLrazZOs&node=1i204",
+              "etag": "0A8apqOPvbL9eBupTVuYsHQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "A8apqOPvbL9eBupTVuYsHQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777548098299,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/41T7R66QQ-iaDF7v4j_IATk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "2073.2024.1080p.WEBRip.x264 [DDN] (2073)",
+  "media_kind": "movie"
+}
