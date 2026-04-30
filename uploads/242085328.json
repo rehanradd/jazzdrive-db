@@ -1,0 +1,83 @@
+{
+  "name": "Alma.And.The.Wolf.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Alma.And.The.Wolf.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T11:48:16Z",
+  "remote_folder_id": 1753006,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242085328",
+  "tmdb": {
+    "tmdb_id": 1328956,
+    "title": "Alma & the Wolf",
+    "original_title": "Alma & the Wolf",
+    "release_date": "2025-06-20",
+    "year": "2025",
+    "rating": 5.274,
+    "overview": "After a violent animal attack, paranoia spreads through Spiral Creek. But when Deputy Ren Accord gets too close, his son vanishes, and reality begins to fracture.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/t4SUgmGGhMS4t9g0DJzAjRS5Hcj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/eefyPkk70H4tf7i8XX8hI2dAaNC.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242085328",
+    "status": "U",
+    "etag": "K/kzZ8XIomoX9uXEz488BA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242085328",
+          "url": "/sapi/download/video?action=get&k=3sXsqmtXOaiiZlAuh3Q2eN-XWd8sSWVE8qpzMWkM5rcG6IZH8FyYhK4FHMW-xcO3tskLZNPNxP25wrfVm3p5YFMl93OpTOH4OHQSpM1mLPg0xSjM_HAulDYcAtDEWbudpO0l2-N5XT1e3AHKvYkpaZPMEluUafoyb2rICE8lEyjw2sb-usE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=HjHMHO0rMeQwdf9vgkWoQD5pUXP0ASn2lv9erA3XcrV1HpQ1KepV37YxtppayODSBcm-L6ZXCFFk-kLmpJ9C97EYuhrSTJfKz4BBH6PKgS5gVG0YSFPErZpGE0nRIaE58TAB6omA_sdnyolAl1SntuhIht6pqvLlx1KUhu63qOkyODB3yvS360jQJJWNS9zcbCo&node=1i204",
+          "date": 1777549695697,
+          "creationdate": 1777549460000,
+          "modificationdate": 1777549460000,
+          "uploaded": 1777549643082,
+          "size": 1771124631,
+          "name": "Alma.And.The.Wolf.2025.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5368608,
+            "bitrate": 2639231,
+            "codec": "h264",
+            "height": 1040,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 138,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=sh5Ay8fiv1se2B9CghRGz0BH3bQpMfEjHpIXCxLWt_Js3rjfDT9f6687QDa1veqp2MnVuM_lmAPp9ovQm6rjaQx0zJdYf8KFnVz78tQM7ERHn6HfJIzz9rMueZ5EjgtwMOz_kXdtb9ejCpGV_VOs0SqSrKfUSCS7s0d0l5Umnbc_DpLdz6hkATdMVnbr4kdRz7g&node=1i204",
+              "etag": "0K/kzZ8XIomoX9uXEz488BA=="
+            },
+            {
+              "w": 1024,
+              "h": 554,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=HjHMHO0rMeQwdf9vgkWoQD5pUXP0ASn2lv9erA3XcrV1HpQ1KepV37YxtppayODSBcm-L6ZXCFFk-kLmpJ9C97EYuhrSTJfKz4BBH6PKgS5gVG0YSFPErZpGE0nRIaE58TAB6omA_sdnyolAl1SntuhIht6pqvLlx1KUhu63qOkyODB3yvS360jQJJWNS9zcbCo&node=1i204",
+              "etag": "0K/kzZ8XIomoX9uXEz488BA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "K/kzZ8XIomoX9uXEz488BA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777549695758,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/tiobmULtQRuwvZLqtEB-8Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Alma And The Wolf (2025)",
+  "media_kind": "movie"
+}
