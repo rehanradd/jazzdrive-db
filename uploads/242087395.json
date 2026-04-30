@@ -1,0 +1,83 @@
+{
+  "name": "Companion.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Companion.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T13:09:44Z",
+  "remote_folder_id": 1753056,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242087395",
+  "tmdb": {
+    "tmdb_id": 1084199,
+    "title": "Companion",
+    "original_title": "Companion",
+    "release_date": "2025-01-22",
+    "year": "2025",
+    "rating": 7.008,
+    "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/qA6MHDGDY0LyutjLUgFJRbPXLpW.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242087395",
+    "status": "U",
+    "etag": "9UB6pi8J6cUbFTRJaJPR0Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242087395",
+          "url": "/sapi/download/video?action=get&k=SlfzIk6p-9H2-duO9zbvTIDUUEu8VJ0ZbtqfJ6D-M4r08HhYLZoBuU4-7PxwNrJ5eDscP-fXNwV1DXu3yp24CenPcQtXdnq1RcF5uIz_KiEcagRq4Eh2LtedTQcHGoxg1VOjhlHpo9GSKtED-WgqAWHQ-D6LP43SFBHvofEemjrcgcjQpxM&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=9N4B156nzB-uPpIVmI9qS_85R7Hgu145cmz0y3TjDTTVXUTYEM-2yU5ihGGlpDhY-M2AZ7BlL2sj53-7TJjXCVzi4RQfI30qDvwlRg8KC0UayHc-T0cm_iQHej0wSZJhxVK1LexcHZNkt8NfYE2jAaQixb0v-6KDGmh5OShl-W6Ozswt1G0LS8slmNf5xozyoXI&node=1i204",
+          "date": 1777554583654,
+          "creationdate": 1777554424000,
+          "modificationdate": 1777554424000,
+          "uploaded": 1777554526397,
+          "size": 1922150470,
+          "name": "Companion.2025.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5824832,
+            "bitrate": 2639939,
+            "codec": "h264",
+            "height": 800,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=t6m0KXGzGoOZ_Rlq8XJ-mgybhj8EA3OuAL55OiqXFZ-QLDO6QJ1Iki-wCEdjQUg8OzeC3_QE9Nxt8FCrJblQ6vFkWN1n_SgWQ1Ay7lS5nGhlFAo7F9zpof7sogwKvBTfnB6c9ST1Dx7btMruA-BqOw6yErz3HayNx8V21EgOpOU7AxeMJ5JwZD1AWZZImfa4fBE&node=1i204",
+              "etag": "09UB6pi8J6cUbFTRJaJPR0Q=="
+            },
+            {
+              "w": 1024,
+              "h": 426,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=9N4B156nzB-uPpIVmI9qS_85R7Hgu145cmz0y3TjDTTVXUTYEM-2yU5ihGGlpDhY-M2AZ7BlL2sj53-7TJjXCVzi4RQfI30qDvwlRg8KC0UayHc-T0cm_iQHej0wSZJhxVK1LexcHZNkt8NfYE2jAaQixb0v-6KDGmh5OShl-W6Ozswt1G0LS8slmNf5xozyoXI&node=1i204",
+              "etag": "09UB6pi8J6cUbFTRJaJPR0Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "9UB6pi8J6cUbFTRJaJPR0Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777554583730,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/t7eVKQgbTZiRHz5TOxG1YTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Companion (2025)",
+  "media_kind": "movie"
+}
