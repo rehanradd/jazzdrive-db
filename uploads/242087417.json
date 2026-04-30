@@ -1,0 +1,81 @@
+{
+  "name": "Control.Freak.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Control.Freak.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T13:21:06Z",
+  "remote_folder_id": 1753060,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242087417",
+  "tmdb": {
+    "tmdb_id": 1286663,
+    "title": "Control Freak",
+    "original_title": "Control Freak",
+    "release_date": "2025-03-12",
+    "year": "2025",
+    "rating": 5.553,
+    "overview": "A motivational speaker, plagued by an uncontrollable itch on her head, becomes infected with a parasitic demon from her homeland.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qcOksMzsmPPA41c3DkCD47sElDU.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/AflLdFIPKGQFVWhDSyedLo6aAR6.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242087417",
+    "status": "U",
+    "etag": "+7n0n1v0H6seUdMOlZ/Reg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242087417",
+          "url": "/sapi/download/video?action=get&k=KWh2l_m0bYAgoPScK_DkYc8yuOAAiLIFjHLmw7ATg-Gcu6GMPIAEvHSljiXcXBHFLZ37g0eYWJDiNJXYUBVoeVe-SZEib2T3aBBgnxdlCg9Tpd3npQ98vnVoMI7nD4IYelhWAlsEP_DIULJaPs_Jl7BSt-8n54maHUid_8xbjuoMWD0Jjvg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=LrsdKY_9s4Ddw_Wquu49w7djcezCBaWvb9dhA7pjMolnzlEcZIlxxeOxgO8QiS01HfhOtjOHpneQl8mGgCvKgOTfDrva-zdLrCjRFX-34xCKdrOPMeq_bonqrBh1p3urq6a1rQABcuWfPvixDoa_PYzIZWGCEF2vHv-CWQPwp-_48czdr5bzYQU6wz5Tu1Nz4Go&node=1i204",
+          "date": 1777555265050,
+          "creationdate": 1777554839000,
+          "modificationdate": 1777554839000,
+          "uploaded": 1777555193812,
+          "size": 2058364359,
+          "name": "Control.Freak.2025.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 6240576,
+            "bitrate": 2638685,
+            "codec": "h264",
+            "height": 962,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 128,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=mj8gvzb8zfMmd7Zo6GERvp6br08326LZXUTBOeGu-h9vDaxtroNkTTmMl40VB29nNjkuoXMXvmBVNJngquYnOQvicbxpkff7ggd_4V5CfvyzuBEBy45nIYTqJTj36q3X_u_yOAKsqz7Mv1tKQuvc_RdisadrpE3TugdHuphRnwb_7aIiCA8QluFLgGfp7lBGmyg&node=1i204",
+              "etag": "0+7n0n1v0H6seUdMOlZ/Reg=="
+            },
+            {
+              "w": 1024,
+              "h": 513,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=LrsdKY_9s4Ddw_Wquu49w7djcezCBaWvb9dhA7pjMolnzlEcZIlxxeOxgO8QiS01HfhOtjOHpneQl8mGgCvKgOTfDrva-zdLrCjRFX-34xCKdrOPMeq_bonqrBh1p3urq6a1rQABcuWfPvixDoa_PYzIZWGCEF2vHv-CWQPwp-_48czdr5bzYQU6wz5Tu1Nz4Go&node=1i204",
+              "etag": "0+7n0n1v0H6seUdMOlZ/Reg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "+7n0n1v0H6seUdMOlZ/Reg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777555265119,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/tJzssEU-SjGN-EpOlzMx_jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Control Freak (2025)",
+  "media_kind": "movie"
+}
