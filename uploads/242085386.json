@@ -1,0 +1,83 @@
+{
+  "name": "Armor.2024.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Armor.2024.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T11:52:38Z",
+  "remote_folder_id": 1753008,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242085386",
+  "tmdb": {
+    "tmdb_id": 1182387,
+    "title": "Armor",
+    "original_title": "Armor",
+    "release_date": "2024-10-30",
+    "year": "2024",
+    "rating": 5.5,
+    "overview": "Armored truck security guard James Brody is working with his son Casey transporting millions of dollars between banks when a team of thieves led by Rook orchestrate a takeover of their truck to seize the riches. Following a violent car chase, Rook soon has the armored truck surrounded and James and Casey find themselves cornered onto a decrepit bridge.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/evFChfYeD2LqobEJf8iQsrYcGTw.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242085386",
+    "status": "U",
+    "etag": "RUV+qE9hmKmoHSaC3uDaBQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242085386",
+          "url": "/sapi/download/video?action=get&k=GehFGDKBiXaGTeqetIIGeou3wWqzShSTEkr2MnMS5Mf1BmCCuZIPBcbiPN0GQr8gRrOqFUnYP6fmQsLOYyZc1_ET_q3VD4oAo9_BPZ5miAt8UJ0aPQOFW8A6z-0-egnahr9jaGpMpJ2UvhNOUem9DiCuKm_4Gg3G271JUySyGd-sYi0VXAg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=uz6EnINacGvfibu9Sq1Oe7XnHMtL7l2H5LwPgrYql--WT4coUYcX6YaI1RB_CbxacNkQY6BsTOfU4e4yjHEoKd-8roOp_x-gl9w0dOeZUuKiHeIbtG1wZF9pZW0nJMBmIiI4yZ6eC9wLFXqgFJr17knb6OJslMjWLN46WlauvVfuPPkd-PTWDsAyws3Jd-HGGkc&node=1i204",
+          "date": 1777549957349,
+          "creationdate": 1777549704000,
+          "modificationdate": 1777549704000,
+          "uploaded": 1777549902648,
+          "size": 1751048375,
+          "name": "Armor.2024.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5309120,
+            "bitrate": 2638551,
+            "codec": "h264",
+            "height": 800,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=B6Zt0uMG3Kh3MY8VrXVdM7ttOPNBcR0-cx1n0RQS7y3MNlQwJFo1mlmJ1tXUvQJoFtRGbBAkgtIqy_xxHrqq57kOQXCyX1dLhPL24dQi4izmPhOjeorEkpNavDz6gVYGhTDIa8r9zk5yCV93h3cMK1vnvipa8FPu3mAOcvV7jkq2dZQYVjBFjMnuZUx1Dc9Hxg8&node=1i204",
+              "etag": "0RUV+qE9hmKmoHSaC3uDaBQ=="
+            },
+            {
+              "w": 1024,
+              "h": 426,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=uz6EnINacGvfibu9Sq1Oe7XnHMtL7l2H5LwPgrYql--WT4coUYcX6YaI1RB_CbxacNkQY6BsTOfU4e4yjHEoKd-8roOp_x-gl9w0dOeZUuKiHeIbtG1wZF9pZW0nJMBmIiI4yZ6eC9wLFXqgFJr17knb6OJslMjWLN46WlauvVfuPPkd-PTWDsAyws3Jd-HGGkc&node=1i204",
+              "etag": "0RUV+qE9hmKmoHSaC3uDaBQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RUV+qE9hmKmoHSaC3uDaBQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777549957408,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/stn8mS_VSOupmsZ2ZDwu3Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Armor (2024)",
+  "media_kind": "movie"
+}
