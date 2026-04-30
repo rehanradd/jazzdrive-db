@@ -1,0 +1,83 @@
+{
+  "name": "Ash.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Ash.2025.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T11:56:49Z",
+  "remote_folder_id": 1753009,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242085602",
+  "tmdb": {
+    "tmdb_id": 931349,
+    "title": "Ash",
+    "original_title": "Ash",
+    "release_date": "2025-03-20",
+    "year": "2025",
+    "rating": 5.166,
+    "overview": "On the mysterious planet of Ash, Riya awakens to find her crew slaughtered. When a man named Brion arrives to rescue her, an ordeal of psychological and physical terror ensues while Riya and Brion must decide if they can trust one another to survive.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nRa8B3tQCUK6pVwjasIyQehbvpF.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/9KSGUPHZpqhqkRXE2eebu701ONU.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242085602",
+    "status": "U",
+    "etag": "pklRvhUwr9oLJ2sPz4e9hA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242085602",
+          "url": "/sapi/download/video?action=get&k=4unA56RAdsd-icSplwp-7Hla9trObSXC4-2oNbRIBFXK-KdRNrsNvFly0RF3Eq_P9W_uUIU3cWdVjX6_v2eNPSlmDIK5ds_ZinRvrgwJWbDC4-hoSUe_DlYjkmXbqTo1rxdLgYmMpnpnRhHV8yR__00hx6zfY0rOOray6uZQZFQxKUzlh8M&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=1d-Lp_2Z9sIL_yYy8DbrIzVhMB2mhtvZauBN8E0mDg8uCR4_fDA47jslwFKmAWbnU3utqde_egZMbjtlhaZxhXw1UmcMcAJCYJoaJHyXbQOUl2PR8nD64aJvkTyBjch2tIAlDPke85XD6eTnbtuahNP2ZalB2PCipiHdPm2axnzztPTQyuvCpNDkzRF_vbuO1uM&node=1i204",
+          "date": 1777550208757,
+          "creationdate": 1777549782000,
+          "modificationdate": 1777549782000,
+          "uploaded": 1777550122555,
+          "size": 1886883933,
+          "name": "Ash.2025.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5722336,
+            "bitrate": 2637921,
+            "codec": "h264",
+            "height": 800,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=oTS92cuJKp7yZdGqg37lyU2Uhcac6PVEkEZZBZo6qJp0eSQHt90qMzf5lCOj8zMn6AzoxyzScbdU5UvCnMcpX3x1vxWDun-XsiguHMO_BZ_9a31kBGVbPZgVGtJJ12Wj5h8zpHRY8sCx_ieyfqfw79xZJB97Zw3CHUoxycC1vk7YWT-QlwmaAemuGoB_6HrICWA&node=1i204",
+              "etag": "0pklRvhUwr9oLJ2sPz4e9hA=="
+            },
+            {
+              "w": 1024,
+              "h": 426,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1d-Lp_2Z9sIL_yYy8DbrIzVhMB2mhtvZauBN8E0mDg8uCR4_fDA47jslwFKmAWbnU3utqde_egZMbjtlhaZxhXw1UmcMcAJCYJoaJHyXbQOUl2PR8nD64aJvkTyBjch2tIAlDPke85XD6eTnbtuahNP2ZalB2PCipiHdPm2axnzztPTQyuvCpNDkzRF_vbuO1uM&node=1i204",
+              "etag": "0pklRvhUwr9oLJ2sPz4e9hA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "pklRvhUwr9oLJ2sPz4e9hA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777550208838,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fCVkHGh1QkWdzvAVdM3knzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ash (2025)",
+  "media_kind": "movie"
+}
