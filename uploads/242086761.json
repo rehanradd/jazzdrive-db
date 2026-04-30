@@ -1,0 +1,83 @@
+{
+  "name": "Bone.Lake.2024.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Bone.Lake.2024.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T12:32:59Z",
+  "remote_folder_id": 1753039,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242086761",
+  "tmdb": {
+    "tmdb_id": 1330421,
+    "title": "Bone Lake",
+    "original_title": "Bone Lake",
+    "release_date": "2025-10-02",
+    "year": "2025",
+    "rating": 5.911,
+    "overview": "A couple\u2019s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242086761",
+    "status": "U",
+    "etag": "d957g5fYjFgnAUJHMN9frQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242086761",
+          "url": "/sapi/download/video?action=get&k=QO0s2_o5YQWh8jy5uBfzM6x6RwRH3z5xCRv_T8mCbnB5Hk-Vu1hanMJ_SDyobuKDQDhbYLoJ134DIU8n5J5y_XhlV595Bo-OnNgGO62diLntw7xTRa_3S4cIWMQBHP4kJldWs9Y2HviZYvuVNAKjy3UTodxlYE0dr_PrRraJ5gBBbHkmy6Y&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=Uy4pwa67Qb34CSG6GRGYPcoCkej52AolwEKxzfaVc-yJ5IySPZVFF8o4e8ONg3rtxGqMUHv7gc2W5WP2EyZrWXa_Evee81qxKN8lXM4VDTI9jiCh_PwQ6yDo9y3zyZXaf69OpWI6DJ4O8wTkrJpjaZpR3cG800LPkyeLCAk0tF0PVxn8gEfaVvB3fL0h2w43olw&node=1i204",
+          "date": 1777552378434,
+          "creationdate": 1777551983000,
+          "modificationdate": 1777551983000,
+          "uploaded": 1777552314616,
+          "size": 1868977818,
+          "name": "Bone.Lake.2024.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5667412,
+            "bitrate": 2638210,
+            "codec": "h264",
+            "height": 800,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=IxZHNf58POj8e9enWWDBxRj8CLYJWGczVv14GGQKyCw4Pfd7rdJE4HbANCgR4Vvp7JYssiEDgtGkafZg1S1Sm31vG65NxiiAlzgWT_s5UKRuP8kBVqaQrQRoEk48Ikxhj3TlqieG_IB2pqF1O68-SFTxXxflugn9VvZrN7yU-Wbef_RlMHpe9xmWiR00HFJSWVM&node=1i204",
+              "etag": "0d957g5fYjFgnAUJHMN9frQ=="
+            },
+            {
+              "w": 1024,
+              "h": 426,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Uy4pwa67Qb34CSG6GRGYPcoCkej52AolwEKxzfaVc-yJ5IySPZVFF8o4e8ONg3rtxGqMUHv7gc2W5WP2EyZrWXa_Evee81qxKN8lXM4VDTI9jiCh_PwQ6yDo9y3zyZXaf69OpWI6DJ4O8wTkrJpjaZpR3cG800LPkyeLCAk0tF0PVxn8gEfaVvB3fL0h2w43olw&node=1i204",
+              "etag": "0d957g5fYjFgnAUJHMN9frQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "d957g5fYjFgnAUJHMN9frQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777552378494,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/M-meqofpQMeZzrud-iBC7Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bone Lake (2024)",
+  "media_kind": "movie"
+}
