@@ -1,0 +1,83 @@
+{
+  "name": "Cold.Storage.2026.1080p.WEBRip.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Cold.Storage.2026.1080p.WEBRip.x264 [DDN].mp4",
+  "uploaded_at": "2026-04-30T13:07:22Z",
+  "remote_folder_id": 1753054,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242087357",
+  "tmdb": {
+    "tmdb_id": 696393,
+    "title": "Cold Storage",
+    "original_title": "Cold Storage",
+    "release_date": "2026-01-22",
+    "year": "2026",
+    "rating": 6.791,
+    "overview": "When a mutating, highly contagious fungus escapes a sealed facility, two employees \u2013 joined by a grizzled bioterror operative \u2013 must survive the wildest night shift ever to save humanity from extinction.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+    "genre_ids": [
+      27,
+      878,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242087357",
+    "status": "U",
+    "etag": "oKlqLbFtAc9QHkGb38vRzw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242087357",
+          "url": "/sapi/download/video?action=get&k=mOizNS8nkugcBpQlvR9Pv0ZK4JWtuRsmzYD90aMHjLd5pvZK2jEOIHXb0UJJyvPvLoQtWvrDDxrZ4n4s_x27y85DO9aif5v-tp11DFcl4fxSvJ5VY9We6347Uq3BWJNLtHb2F4KzlBIIw_Knm1-rkpY3sKjDI4FKe7KclvCix_F66anJGiE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=MzXUF-LYuL9ragUd29m25fPN7xOGUlj0jigGP_VHnJSzDGLvzZgiHAWxnBtb7xwkY5IoanqqxcZg8r-J7BSI-lMMe66FdcJag5MhAYGZY0uwxDepFfKacj82tf-ZqQekyIcm1mwKu1GmFB1OGoZlIMb_zI8uRmW0ft8ZwhhTdoALVfK_ahbZ1Ev-OcvVwl0bRMI&node=1i204",
+          "date": 1777554441960,
+          "creationdate": 1777554037000,
+          "modificationdate": 1777554037000,
+          "uploaded": 1777554370248,
+          "size": 1959758151,
+          "name": "Cold.Storage.2026.1080p.WEBRip.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5941728,
+            "bitrate": 2638637,
+            "codec": "h264",
+            "height": 800,
+            "width": 1920,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=xUbZDrh20UfGgq-3IN2w2ojsvskG38wHSt0QUzJkQH-I4gYaggwsuIZmw1ME9zFuLp9L6TVo5XN7FrucamrfhJzSYSwa4lbwbNgYEfnUGtsIzTjDf9puVQGKdT1zmA0BCji-__nTrqZERk2y0I1dvryX916l5CzK7S5DCVZp_C02GynVi1konlZc4R34bAc9vPw&node=1i204",
+              "etag": "0oKlqLbFtAc9QHkGb38vRzw=="
+            },
+            {
+              "w": 1024,
+              "h": 426,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=MzXUF-LYuL9ragUd29m25fPN7xOGUlj0jigGP_VHnJSzDGLvzZgiHAWxnBtb7xwkY5IoanqqxcZg8r-J7BSI-lMMe66FdcJag5MhAYGZY0uwxDepFfKacj82tf-ZqQekyIcm1mwKu1GmFB1OGoZlIMb_zI8uRmW0ft8ZwhhTdoALVfK_ahbZ1Ev-OcvVwl0bRMI&node=1i204",
+              "etag": "0oKlqLbFtAc9QHkGb38vRzw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "oKlqLbFtAc9QHkGb38vRzw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777554442023,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/mFNadb7STCy4D4kPnOh-DDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Cold Storage (2026)",
+  "media_kind": "movie"
+}
