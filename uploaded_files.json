@@ -5066,5 +5066,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "9400c891c5c83c9904dc304ad3f60cb4b3a5e1b753c65d15942598e811e15bb1": {
+    "name": "Furlow-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Furlow-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 411677820,
+    "uploaded_at": "2026-05-03T19:14:12Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124766",
+    "remote_id": "242124766",
+    "remote_folder_id": "1753687",
+    "tmdb_title": "Furlow",
+    "tmdb_year": "2025",
+    "tmdb_rating": 8.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/sWFqyadJnAUkm0c9it86Kzh4WQN.jpg",
+    "tmdb_overview": "Sumittar Singh, a tailor-turned-food inspector, enjoys the newfound power, respect, and bribes his position brings. As he starts raiding businesses and clashes with a local don, he inadvertently becomes a hero to the villagers. Will Sumittar`s rise to power end in his success or downfall?",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124766\", \"status\": \"U\", \"etag\": \"qmedOKIIiMRolnSgLpRc7A==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124766\", \"url\": \"/sapi/download/video?action=get&k=-5d376LmaG6n8X3gVjOla-jJHU0dpVanbeVj3IyG0g_P-uPCXGU_Nx1tC55_IvYuy733Sz0uJdYf3bU4tvBbiFSuGYliOfE3uIRU7wu6opWTel8CcZKvtTOh_R8eoFkSiyiE57b3zVUeak5DSTX8n1FMHcHI0HiJqUktjD39lWAeOOXV6tY&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=1fBEBntmfWmOCeuv9XLWJ7J5lnAPOzy3LP9MeWcLSOkXRNyt7OiKd62cNg2R01-cwLsAQzBKkSiWMMixWpkf5ht0TWzSwHszQZPDzBKcORxKVvxhmnbid0UstQcAgi2c2QIOKfJnumyKQRcrqQmekFH0nsmwgyNPbqMctszKjewrsoSeYmGlYCs_DN41Gwu0ZLU&node=1i204\", \"date\": 1777835651275, \"creationdate\": 1777835547000, \"modificationdate\": 1777835547000, \"uploaded\": 1777835631386, \"size\": 411677820, \"name\": \"Furlow-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 7610083, \"bitrate\": 432770, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=XXsoGxEmOGa2Y22Bs63Y4sm6xAIYBZPaOITucmXOIM4dLtwDvK7gpAv4g_ghmE69QLaTVPphVpSWlaLs2sFEnLJwen3EoW2qldsRU3B-D3JK3NX5YotkRp0_qvlrfY74tuBVzK7W_NS2qVvYvgQToG94bofsjALSOdRp4LuXSKLvoc5OqCgRg_fgpLNgvCNeZ_0&node=1i204\", \"etag\": \"0qmedOKIIiMRolnSgLpRc7A==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=1fBEBntmfWmOCeuv9XLWJ7J5lnAPOzy3LP9MeWcLSOkXRNyt7OiKd62cNg2R01-cwLsAQzBKkSiWMMixWpkf5ht0TWzSwHszQZPDzBKcORxKVvxhmnbid0UstQcAgi2c2QIOKfJnumyKQRcrqQmekFH0nsmwgyNPbqMctszKjewrsoSeYmGlYCs_DN41Gwu0ZLU&node=1i204\", \"etag\": \"0qmedOKIIiMRolnSgLpRc7A==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"qmedOKIIiMRolnSgLpRc7A==\", \"favorite\": false}]}, \"responsetime\": 1777835651361, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/6o_WGXVZSQaslUaPodxnnDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67624",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Furlow (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
