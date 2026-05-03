@@ -1,0 +1,82 @@
+{
+  "name": "Baby Girl (2026) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Baby Girl (2026) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:58:25Z",
+  "remote_folder_id": 1753460,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122714",
+  "tmdb": {
+    "tmdb_id": 1101020,
+    "title": "Baby Girl",
+    "original_title": "\u0d2c\u0d47\u0d2c\u0d3f \u0d17\u0d47\u0d7e",
+    "release_date": "2026-01-23",
+    "year": "2026",
+    "rating": 4.4,
+    "overview": "On a Christmas night, a guilt-ridden hospital attendant and a determined rookie cop race against time to recover a kidnapped newborn, unaware that the woman who took the baby is fighting a heartbreaking battle to finally call a child her own.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nEyEFVdlmUdapDl77704aR8o59D.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/q7K1z3paBMkHAPd5WgFqBboIJee.jpg",
+    "genre_ids": [
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122714",
+    "status": "U",
+    "etag": "k57ka8wMyYC01uJE5T7cvQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122714",
+          "url": "/sapi/download/video?action=get&k=IXy3SVo2MnRIwq6WUfmjQsPOeGzX_zAeCxs43pD7j2qJrEiY2NsHS5PGtcSxj3Qs28rgtHiSfc9utrJovshjTDJF8YR0B-SfZRIWsTCZD8PQZ0-jfaNzoekYpQ3yLufo_5tll2_GVtFRd0v_IpuSJjnI1DVPfbsEyFrYqFtWRMNonTbPJuU&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=Oqt4dEa_hM_fiWRrq8mTOdU2EOpurYqOs1P77fd-ONwqc6qci8YLRtsGV9ZcfgWMMCM8hsyWdTSI1M9MPv7fADOW12VAS0tbVzxjZKOLMhKWr04tNYO1iY1tmHG2e06Abqb5iJ1Uhv1tN6lN5_JvD0KpcFa13uPVfxvOYPQFc7j7-JicqRue4EkVXQi5Lr0cDYA&node=1i204",
+          "date": 1777823904286,
+          "creationdate": 1777823604000,
+          "modificationdate": 1777823604000,
+          "uploaded": 1777823865211,
+          "size": 1220215148,
+          "name": "Baby Girl (2026) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7482205,
+            "bitrate": 1304658,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_zPkW_x1TxZsESJUEN7W0dmff_Rae35bKDs3GbkGZ-wwYpKNbUKMerir69QPlcSgH4npH1wtcB7sUDCg_Z0mo3oMVErGPQmJPp6DDdnghpWj_uKi2DwMkRi56tceFNA7sShKELY2AQCmYm36TEDVV_Fx6pwB2XsI9J0JuXoTtDiPM9xcoB18PX1SgfVnpEz4Vzg&node=1i204",
+              "etag": "0k57ka8wMyYC01uJE5T7cvQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Oqt4dEa_hM_fiWRrq8mTOdU2EOpurYqOs1P77fd-ONwqc6qci8YLRtsGV9ZcfgWMMCM8hsyWdTSI1M9MPv7fADOW12VAS0tbVzxjZKOLMhKWr04tNYO1iY1tmHG2e06Abqb5iJ1Uhv1tN6lN5_JvD0KpcFa13uPVfxvOYPQFc7j7-JicqRue4EkVXQi5Lr0cDYA&node=1i204",
+              "etag": "0k57ka8wMyYC01uJE5T7cvQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "k57ka8wMyYC01uJE5T7cvQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777823904348,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/SPlm-ZvITxaTNRps-mggkTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Baby Girl (2026)",
+  "media_kind": "movie"
+}
