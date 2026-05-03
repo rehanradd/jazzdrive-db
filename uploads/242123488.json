@@ -1,0 +1,81 @@
+{
+  "name": "Rabb-Da-Radio-2-(2019)-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Rabb-Da-Radio-2-(2019)-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:25:40Z",
+  "remote_folder_id": 1753538,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123488",
+  "tmdb": {
+    "tmdb_id": 592114,
+    "title": "Rabb Da Radio 2",
+    "original_title": "\u0a30\u0a71\u0a2c \u0a26\u0a3e \u0a30\u0a47\u0a21\u0a40\u0a13 2",
+    "release_date": "2019-03-29",
+    "year": "2019",
+    "rating": 7.5,
+    "overview": "When Manjinder Singh takes his newly wedded wife Guddi to his maternal home, he is heartbroken to realize that things are not what they used to be 16 years back. Once a close-knit family of his four maternal uncles now have walls not only between their houses but within their hearts as well. Manjinder and Guddi vow to reunite the estranged brothers and their families.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1jmBM8n7onKt9RbK9yJkkr4GJIM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hxMtUMDArtq9ucuxrUTg2RcZsAA.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123488",
+    "status": "U",
+    "etag": "wsG/ARBKeLN/DUGukQiQGQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123488",
+          "url": "/sapi/download/video?action=get&k=lruJjbaCgxsDJwQ5AlP9Aod1HhaYMgmq4qse_2tlD9WQXROoLgXUeK-qQuw_G0BocBuCE_g4OPTVdFHAo_P9pBg0AEQK9yHER6WWI3Mdlv5ruuQoroBY67u-IsjbJJa8zZNg_neniOetOW1Jz0jHZ8nCeNRcC_xIf1isF36NAukc6X2ZwDw&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=IS22qOr47xbpllYNxp-gsAZ9A-BRXwX6Y3e7d_swlmZA7xfP_OdY6SuS--cH61G9F3MRXYT7de3bUdR5p6bMWa8tQGQtVySCfPPOOTjeLwufy1FvbaZ2I1RrxO-wGsKZKk7gJeWfQP0zcl03peJqt5bOjRz0UoBH0DlWoVN9niJd2zJb4M4EQZ17FqMfJ_e-IDU&node=1i204",
+          "date": 1777832739483,
+          "creationdate": 1777832671000,
+          "modificationdate": 1777832671000,
+          "uploaded": 1777832719805,
+          "size": 411213455,
+          "name": "Rabb-Da-Radio-2-(2019)-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7717543,
+            "bitrate": 426263,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=b1xZsi5T5m5zfOvRsSg42DnvbMIf_xwgFE8DJ8gkUZnXKigUQwUWciM2cnxzlGHBJODSdZy02kqxffIfB_hRqZwDJDuNeWI7QI8E7uMEwdRNtOSHCq3EV2K9x8MGuilcRAdr76tZxMPW2ud-qMKj5-WvFitmP6wjQwq8giKfwomVhVj4XTWXx3jueAA3xpThL4s&node=1i204",
+              "etag": "0wsG/ARBKeLN/DUGukQiQGQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IS22qOr47xbpllYNxp-gsAZ9A-BRXwX6Y3e7d_swlmZA7xfP_OdY6SuS--cH61G9F3MRXYT7de3bUdR5p6bMWa8tQGQtVySCfPPOOTjeLwufy1FvbaZ2I1RrxO-wGsKZKk7gJeWfQP0zcl03peJqt5bOjRz0UoBH0DlWoVN9niJd2zJb4M4EQZ17FqMfJ_e-IDU&node=1i204",
+              "etag": "0wsG/ARBKeLN/DUGukQiQGQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "wsG/ARBKeLN/DUGukQiQGQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832739563,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HB_yc_36TE6-88gkhpi9tTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Rabb Da Radio 2 (2019)",
+  "media_kind": "movie"
+}
