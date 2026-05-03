@@ -1,0 +1,79 @@
+{
+  "name": "Sargi-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Sargi-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:45:01Z",
+  "remote_folder_id": 1753596,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124559",
+  "tmdb": {
+    "tmdb_id": 443611,
+    "title": "Sargi",
+    "original_title": "Sargi",
+    "release_date": "2017-02-24",
+    "year": "2017",
+    "rating": 6.0,
+    "overview": "A poor village girl is married off to a foreigner, leaving the boy who loves her behind.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tpVdO1mcoz9zlLsDzR9rda59pbM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6ucN8pURamSSifbILww8OzWhCP9.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124559",
+    "status": "U",
+    "etag": "KqIxuUJqxCS1j8jwrPJd/w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124559",
+          "url": "/sapi/download/video?action=get&k=WyHdU_IoDdU2Vu76V5y5BqMDHGt_qJFOaxN1wZtXCvyko2dOLeHNDvVw7U5SpX4IxgAwypxGloRASZen-kF8bO4ALV5GnglRxMzYTd8hIA1BgAPbQzcuoisb_4DY804ogZnESn9Bl6hC_tD8iOKHP5M8WExVjJ3WPZ3at1oC1Ft0z6O_mUo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=1WJ2yMHXM4T5bT8Rsed3uD514uQCv8OSnjX_SH636tck1UwGlDB2sQAMENdxdpf9rD8BVKGrxeW8QcWvwIREjYtZDWCIicMQyno5NO9eIuyUdVoY4X8JKkXAB88hkh7gRP_oSWPEMU1gAnlE2jGt5DKfy-kvltmQBEWJyxRJLqLAEhDpm2qq_23VX-TnNoIrPWc&node=1i204",
+          "date": 1777833899956,
+          "creationdate": 1777833837000,
+          "modificationdate": 1777833837000,
+          "uploaded": 1777833883372,
+          "size": 374140554,
+          "name": "Sargi-2017-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7099640,
+            "bitrate": 421588,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ccaJg-1WGqSBTw1HoXoRXiSsgdSNM3l2dFPlZfGYGXcqmruQEgLVN8zUxyQ7ssIReBCRs4vuYaBLL445sZJYOEUxUjau8BdTs4PzHEl2A5VuKDMHrzz0FsZJkDBQKuOliJZG0-XUtkbO2n0fahxHOPttAofkbEdjrPwHSiaZVxS7ySgsUxMLW_8F0QKMolEqIzo&node=1i204",
+              "etag": "0KqIxuUJqxCS1j8jwrPJd/w=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1WJ2yMHXM4T5bT8Rsed3uD514uQCv8OSnjX_SH636tck1UwGlDB2sQAMENdxdpf9rD8BVKGrxeW8QcWvwIREjYtZDWCIicMQyno5NO9eIuyUdVoY4X8JKkXAB88hkh7gRP_oSWPEMU1gAnlE2jGt5DKfy-kvltmQBEWJyxRJLqLAEhDpm2qq_23VX-TnNoIrPWc&node=1i204",
+              "etag": "0KqIxuUJqxCS1j8jwrPJd/w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "KqIxuUJqxCS1j8jwrPJd/w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833900278,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/87ie33I7TGeIz3U9xHk4JTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sargi (2017)",
+  "media_kind": "movie"
+}
