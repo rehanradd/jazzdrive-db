@@ -1,0 +1,82 @@
+{
+  "name": "Buddy (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Buddy (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:42:19Z",
+  "remote_folder_id": 1753487,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122774",
+  "tmdb": {
+    "tmdb_id": 1230407,
+    "title": "Buddy",
+    "original_title": "\u0c2c\u0c21\u0c4d\u0c21\u0c40",
+    "release_date": "2024-08-02",
+    "year": "2024",
+    "rating": 3.5,
+    "overview": "Pallavi is an Air Traffic Control officer who suffers a major accident. The doctor along with his crew sends Pallavi into a coma so that he can sell her body parts in Hong Kong. While all this happens, Pallavi's soul enters a teddy bear and reaches the home of a pilot Aditya Ram who shares a past with Pallavi. The rest of the story is as to how the teddy bear and Aditya head to Hong Kong to save the body of Pallavi.  The film is an adaptation of the Tamil film \"Teddy\".",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4kBQXF9Yxkqje4Ss43vHDwqDHtu.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/j74UZblhKQpXDs08whxdTSSCQeC.jpg",
+    "genre_ids": [
+      28,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122774",
+    "status": "U",
+    "etag": "4mzd77ei/5GAyb70W4Ctiw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122774",
+          "url": "/sapi/download/video?action=get&k=y_QFCC8hrLrw6MXLinGPj2REN545rl8zp5FvLnX1mwUJajSP4ctyss2w6AGX_n-AtfsHNRVTfYtoQ2YFSIbW3VijV6iQqsJq-DTDiCM3KLIxTKo_vDhFfN5PC4142WmaNXnxfd-dixq5LxyB-U_x8bQjtYbfUiKW7KVwH7JZJ744MxSNGYU&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=fy44RNhIpIDHFP2uEcmWw5fmZ3hH6NS9IHwPUf6H_6Bexet6QSibE9OnR_i4U0El92Zwgy8PhoGj9eEv4PCjlkL2oKZVJdj4FWWHlNlxp3TsqvDpK5Tm9-Y-74pHUIdHEejzshg5RLtqHOVn2zWwcSuFBjJDa6tcC0kr49K0WR4C2l_VcOK8-YI31aEpnA02wqo&node=1i204",
+          "date": 1777826538511,
+          "creationdate": 1777826236000,
+          "modificationdate": 1777826236000,
+          "uploaded": 1777826489419,
+          "size": 1112606480,
+          "name": "Buddy (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7878634,
+            "bitrate": 1129745,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=DTQ4wNsXhKY5YaMGsRgsv9NrS2zzLxWOFrmXo00ocJ68Le3cbFE8GfGKnipTIJAwqxN5XiMG3NyXBIM7ujApGjfkBRZ59bqetU_bOjV4XXEjJ_bKHhvHmjFjq0tjz5GoOu_94hco2muX1QEFp1wt1-jV8_ldKIxltygCjD_F9IfvXGt8JfBCtcfwk16ProN-aLM&node=1i204",
+              "etag": "04mzd77ei/5GAyb70W4Ctiw=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=fy44RNhIpIDHFP2uEcmWw5fmZ3hH6NS9IHwPUf6H_6Bexet6QSibE9OnR_i4U0El92Zwgy8PhoGj9eEv4PCjlkL2oKZVJdj4FWWHlNlxp3TsqvDpK5Tm9-Y-74pHUIdHEejzshg5RLtqHOVn2zWwcSuFBjJDa6tcC0kr49K0WR4C2l_VcOK8-YI31aEpnA02wqo&node=1i204",
+              "etag": "04mzd77ei/5GAyb70W4Ctiw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "4mzd77ei/5GAyb70W4Ctiw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777826538568,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/WSHxNvgYSJOy2LQNF5acQzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Buddy (2024)",
+  "media_kind": "movie"
+}
