@@ -1,0 +1,79 @@
+{
+  "name": "Haweli-Wale-(2021)-S01-Punjabi-Web-Series-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Haweli-Wale-(2021)-S01-Punjabi-Web-Series-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:07:16Z",
+  "remote_folder_id": 1753666,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124743",
+  "tmdb": {
+    "tmdb_id": 984239,
+    "title": "Haweli Wale",
+    "original_title": "Haweli Wale",
+    "release_date": "2021-08-01",
+    "year": "2021",
+    "rating": 0.0,
+    "overview": "The main characters in the plot of 'Haweli Wale' are traditionally known for their richness and to maintain the dignity and inheritance of their ancestral property.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8MLh1mpzwvtiUo2nv9aWG8jNze0.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124743",
+    "status": "U",
+    "etag": "k22lkOo8hokNg5aX5Ii9Vg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124743",
+          "url": "/sapi/download/video?action=get&k=jKHVhqhdP24hm8J3Ukpb2uB5bOE1it5h8ERT2aS5j8B6HusD3w8AdBTVKmHAP6rMALSAsm_JV4wEkwPpbIoNNXHBSDhGhI9N5CiqZEYU5kfh-2B3ykikMjJ5_ndPGFFIaOFZyec-RKmEa_mSK0mKawbqpAXSB0nuMyFWu3jz8wXdLmCsQOc&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=SECnkrx2RiMrfVqnaYWYw9igpDkBAIgL2wqvjnh9Deo9ZhvOES_CEbNEEBtr0FmHSho5TCF9NNpr3npIwB99Mm2YeKi9BPvYF2YgZYYTKypuG1QHk6k2wN2rxUHfq7Whhh9WdC5w9mor_ASk02JN49K8gTzv-fFiwEdTxNDuvPLrGzUv0xS6-b7LhjButzH8IvE&node=1i204",
+          "date": 1777835235204,
+          "creationdate": 1777835165000,
+          "modificationdate": 1777835165000,
+          "uploaded": 1777835222331,
+          "size": 394985244,
+          "name": "Haweli-Wale-(2021)-S01-Punjabi-Web-Series-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7414040,
+            "bitrate": 426202,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=O5UbQIVsqI1b-91QkIkL_LRoq_asdyIp8L--LoBPWL6kevw4ScgK5IrLpQf2yhoR3enMhedhu5evVsyxOuFuzyflJAJGDJplNctJSPrb67E1Hxo8mGr4gVzrjaxRkeVLUHed0cQCxURbF6xf6-cW7GtzvN8EuINZVydODaZcYgal5I7TxA63JmjWL7VnlYnFv6U&node=1i204",
+              "etag": "0k22lkOo8hokNg5aX5Ii9Vg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=SECnkrx2RiMrfVqnaYWYw9igpDkBAIgL2wqvjnh9Deo9ZhvOES_CEbNEEBtr0FmHSho5TCF9NNpr3npIwB99Mm2YeKi9BPvYF2YgZYYTKypuG1QHk6k2wN2rxUHfq7Whhh9WdC5w9mor_ASk02JN49K8gTzv-fFiwEdTxNDuvPLrGzUv0xS6-b7LhjButzH8IvE&node=1i204",
+              "etag": "0k22lkOo8hokNg5aX5Ii9Vg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "k22lkOo8hokNg5aX5Ii9Vg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835235269,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/mNhDITIRTmm0fLW9QOEM7zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Haweli Wale (2021)",
+  "media_kind": "movie"
+}
