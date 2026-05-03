@@ -1,0 +1,68 @@
+{
+  "name": "Mainu-Pyar-Kardie-Parjaat-Kudiye-(2020)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Mainu-Pyar-Kardie-Parjaat-Kudiye-(2020)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:01:18Z",
+  "remote_folder_id": 1753649,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124719",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124719",
+    "status": "U",
+    "etag": "WEIkCjqXgvE0hmrjtxXK/Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124719",
+          "url": "/sapi/download/video?action=get&k=qwNhaOUtMdmJFE9-HDmNGHe-7VDY6hXMlLzIk2EM8PqCDI9ymJV-Mb4Gk_2oXnkosCOb-pIs4Lmo7bRQDKNNrI1fAl2udvqn0cSmF9BijDS1lNr5LSO420Q_IjZHk17I9oOxkGPGwGIpJtdI-J5cxzbDzjq_4LUKVilIC3Bjc8VMq9tS57E&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=75v2Ibst3wKTCMkYUFG1MrL0szo3MbpshiYKcnS4TiLKXL3QKSwB-ahcKccWyZ6l8mgznP7U4CHjFAoY7m4POZkoNY1uihtFYAJQYa_5UClR3X5HF1fy-zdCSdqLjbDYITl_QSiexzM8bKDp9YnO7H46yBNuZsUoBcJqCNq0wsB3_II2DQreNxYaShI6KJfDE1U&node=1i204",
+          "date": 1777834876258,
+          "creationdate": 1777834796000,
+          "modificationdate": 1777834796000,
+          "uploaded": 1777834855135,
+          "size": 418989893,
+          "name": "Mainu-Pyar-Kardie-Parjaat-Kudiye-(2020)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7851968,
+            "bitrate": 426889,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=e7lAaMFw_l58JzOHEPBQP7qqB-nY1SHK2CdWuTPCcRWTQD3uoZSIXmkrqxFojAfsWRNv1g9fvTUOLUhlej0jt6DTqHKH20Cyi1Q9qi7S_z7BcQpzUBkPyDJgZFlMwCjxFiLrUTl5wpWfOzUaOajgoiOSqf2CFkiEHM55kf10_dXxkHHDwliLSL_3u1lBE1YopuQ&node=1i204",
+              "etag": "0WEIkCjqXgvE0hmrjtxXK/Q=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=75v2Ibst3wKTCMkYUFG1MrL0szo3MbpshiYKcnS4TiLKXL3QKSwB-ahcKccWyZ6l8mgznP7U4CHjFAoY7m4POZkoNY1uihtFYAJQYa_5UClR3X5HF1fy-zdCSdqLjbDYITl_QSiexzM8bKDp9YnO7H46yBNuZsUoBcJqCNq0wsB3_II2DQreNxYaShI6KJfDE1U&node=1i204",
+              "etag": "0WEIkCjqXgvE0hmrjtxXK/Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "WEIkCjqXgvE0hmrjtxXK/Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834876323,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/jTCtEECuRKac5-WaSl_5mjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mainu Pyar Kardie Parjaat Kudiye (2020)",
+  "media_kind": "movie"
+}
