@@ -1,0 +1,79 @@
+{
+  "name": "Dhruvathaare (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Dhruvathaare (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:19:23Z",
+  "remote_folder_id": 1753521,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123438",
+  "tmdb": {
+    "tmdb_id": 1413230,
+    "title": "Dhruvathaare",
+    "original_title": "Dhruvathaare",
+    "release_date": "2025-01-04",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "Parivartan, a heartbroken young man, struggles to heal from a painful breakup, while Apoorva tries to move forward from her past relationship. Their lives intersect on social media, sparking a beautiful romance. However, their newfound love soon faces an unexpected and formidable challenge.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/aJMC7vzvfE4ttvfLTR5haXwwl93.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uCUD8QqLzmFzzTmZv15satNufXr.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123438",
+    "status": "U",
+    "etag": "+9ID2WDWDKK/2xiAXxtHKg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123438",
+          "url": "/sapi/download/video?action=get&k=DjlCAaBil4LuJMj4FtfF43e5vIPZn_QpZWYs8BbvwyU2q1ed5M9LN4gTgGzwW1S6zdqU_g7f-cK8jSh5QPYX02mnqMiHJOkrSKreD0uyH4f5e37MzQK53iFvFJbOjjq9ukx1zv8v9-RtbrWgJ5zogcJ7Mu1aweUGnut0EQIPy7U-LG2gJBA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=Yg6pU7CNibG3AleXJMjjzbZNw8jCfToRoUd3Rrr7jYsxGmV3hdb8nvRNLoFF2pXOmTLhcj3oJ3rqIvAKF-jLAn7THndSDLSxqpeR5ELLwjD-YwvQxaYUG39t_-5F5Bzf3NJJxjB-i5ctT72lZBNVZ5xUjHYLR7MOMEr1ZHV8E8TgQRtXdcuKz8GlFsrJ71VD_t8&node=1i204",
+          "date": 1777828762224,
+          "creationdate": 1777828386000,
+          "modificationdate": 1777828386000,
+          "uploaded": 1777828669840,
+          "size": 1591607333,
+          "name": "Dhruvathaare (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9758752,
+            "bitrate": 1304763,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=2y1mbggKRuE7trWRKoqjubAVLwCwpSCnZpu2ya2cNYAvJ36gxkDUpqwbhCNEhjyZL17dg0puLDvg6wFk0j7CgQJ9RjLNWNGhXd7WkJJl7eh3KZj5lZQCf0uwtyf6Txh0d4wHHfcFCZNZPWhEWmx0RAqTzeb2Z9IZFKyxt4NefuoA8HkSRFY8IlD5VgsCo_rHLUk&node=1i204",
+              "etag": "0+9ID2WDWDKK/2xiAXxtHKg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Yg6pU7CNibG3AleXJMjjzbZNw8jCfToRoUd3Rrr7jYsxGmV3hdb8nvRNLoFF2pXOmTLhcj3oJ3rqIvAKF-jLAn7THndSDLSxqpeR5ELLwjD-YwvQxaYUG39t_-5F5Bzf3NJJxjB-i5ctT72lZBNVZ5xUjHYLR7MOMEr1ZHV8E8TgQRtXdcuKz8GlFsrJ71VD_t8&node=1i204",
+              "etag": "0+9ID2WDWDKK/2xiAXxtHKg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "+9ID2WDWDKK/2xiAXxtHKg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828762295,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CiRorLuKT8eAz8YghEC75jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dhruvathaare (2024)",
+  "media_kind": "movie"
+}
