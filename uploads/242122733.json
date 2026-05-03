@@ -1,0 +1,70 @@
+{
+  "name": "Bakasura Restaurant (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Bakasura Restaurant (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:11:57Z",
+  "remote_folder_id": 1753467,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122733",
+  "tmdb": {
+    "tmdb_id": 1529088,
+    "title": "Bakasura Restaurant",
+    "original_title": "\u0c2c\u0c15\u0c3e\u0c38\u0c41\u0c30 \u0c30\u0c46\u0c38\u0c4d\u0c1f\u0c3e\u0c30\u0c46\u0c02\u0c1f\u0c4d",
+    "release_date": "2025-08-08",
+    "year": "2025",
+    "rating": 6.333,
+    "overview": "A group of five youngsters decides to make a wish, but it backfires as it leads them to unveil a supernatural force around them.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pyznPP82WBdWOYvKHbQq9bDv4Ng.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6tDhr9CRWQ1xWm4LbS7fIVzNFSs.jpg",
+    "genre_ids": [
+      35,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122733",
+    "status": "U",
+    "etag": "XCwUXgU5dvYMymuXX1sflw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122733",
+          "url": "/sapi/download/video?action=get&k=Dioqr9F-9LOIgZ1cUc1YBUPMhf5Qr0gLC3mhth9yksEefyt2dgvyM82Jq6F_om5ERPDu263QNEW2Wnfl2n4yctnu3fQx4bTtc_0xF9TKR3wksbIlBop4CSrPcI1rL8_OkDFO57AEWL40xO6lwziCzZPQ2yoOFOrSQ-kUhxpeM2gnY5dXjnM&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=OyHAOmzEKxDUrFOsEddDcXqQnxoO7ZOKO8q2P_codwcMgKvo3AzHStOPVZZGTomm98fFoX281W_dkxx19cIsrm1_ZuwuGQZfKBL-s7FUioLbszGdLTBWiSiPjpFVvXw67gJiC9ar9e4VjP694bnxlzpkdyMNTFM4wisSxV_ZhaxcxlN30AytxoLM4WxdbWWgjKU&node=1i204",
+          "date": 1777824716460,
+          "creationdate": 1777824153000,
+          "modificationdate": 1777824153000,
+          "uploaded": 1777824609387,
+          "size": 1738765578,
+          "name": "Bakasura Restaurant (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=gvBTaAPW-cwX6cfazHIQx8ZBS-yp5-SF3nAcy-4QKheSa1CxDXqGbBe1jfvEuH3srTy5xhuTZjc6_cBiBH1D9nHnoSJoSKn7GFVwG-7CA6lDmP3pdmRYi1G6Y0T92_0JZ2w8KWBw5EulMCwOMVIFUge8EXiqOz-sKXCf7hJt797PrJIj04aLQ6mR4oH6loWeTo0&node=1i204",
+              "etag": "0XCwUXgU5dvYMymuXX1sflw=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=OyHAOmzEKxDUrFOsEddDcXqQnxoO7ZOKO8q2P_codwcMgKvo3AzHStOPVZZGTomm98fFoX281W_dkxx19cIsrm1_ZuwuGQZfKBL-s7FUioLbszGdLTBWiSiPjpFVvXw67gJiC9ar9e4VjP694bnxlzpkdyMNTFM4wisSxV_ZhaxcxlN30AytxoLM4WxdbWWgjKU&node=1i204",
+              "etag": "0XCwUXgU5dvYMymuXX1sflw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "XCwUXgU5dvYMymuXX1sflw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777824716512,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/bOrE5h58Q-yjJmegXyLiDDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bakasura Restaurant (2025)",
+  "media_kind": "movie"
+}
