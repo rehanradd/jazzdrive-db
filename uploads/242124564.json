@@ -1,0 +1,82 @@
+{
+  "name": "Jora-10-Numbaria-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Jora-10-Numbaria-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:46:25Z",
+  "remote_folder_id": 1753601,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124564",
+  "tmdb": {
+    "tmdb_id": 491811,
+    "title": "Jora 10 Numbaria",
+    "original_title": "\u0a1c\u0a4b\u0a30\u0a3e 10 \u0a28\u0a70\u0a2c\u0a30\u0a40\u0a06",
+    "release_date": "2017-09-01",
+    "year": "2017",
+    "rating": 8.2,
+    "overview": "A man takes revenge on corrupt officials.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oGkibWXsOlS1q9aL8xE7ZYZh9h.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xXLwg1ZD6pmPZJzHYR2VvfKWEcH.jpg",
+    "genre_ids": [
+      18,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124564",
+    "status": "U",
+    "etag": "44cAW9SLa3YcWjSjofoVvg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124564",
+          "url": "/sapi/download/video?action=get&k=4llg8raFIyS4XTclYESR20NnqfXUcDKyujB8cTclHHFJykQxiourQy-_CWjMZeSR1e9MJRZo8AePj9-EBPyEm2LpwdfTOHWmUdfEWnjwGLHbqWn6Mn2JM8HO0L7hbqLNnny0ivOratuVovK8WNV8FaHPPGXEV628J2N_Njx8z4XX5zTleFg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=H4-08oHYGLwSEYIRlXzqiWENQ8kcUO4YNI9Cc1fioOeoBqSn1Rytv3wzJEb8V634I7L4U899zT1ODTsTr4StAnZBiBc4OmAE2u9FSD8pt4G_Sw9QQTRApbX4Ad57uloxDwrNV9HAATAN6gM21VLgYfhduIyHHjC9cuz0oLhSwCxfwM2aaLAhHBJNLAg2NQNQcPg&node=1i204",
+          "date": 1777833984549,
+          "creationdate": 1777833913000,
+          "modificationdate": 1777833913000,
+          "uploaded": 1777833959127,
+          "size": 427680869,
+          "name": "Jora-10-Numbaria-2017-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8089319,
+            "bitrate": 422958,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=mXwvoKlKHZBWy8nmGr1raHzuyf8gZWZEXyLf36c45SIQkcEfzV0PJeqT1OoOIGJBGy3JeWCAmur785Slth4JJj3ItM9LdKIcHB9g2J7Kn2l67dcl-ndTIRKlm6LKredoe0Qlq1u2DBEuHE4DsxeVEHDUUAOlPCbjdHezj05-HdqHsTy8c8t6uvr0OikQtb8WurA&node=1i204",
+              "etag": "044cAW9SLa3YcWjSjofoVvg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=H4-08oHYGLwSEYIRlXzqiWENQ8kcUO4YNI9Cc1fioOeoBqSn1Rytv3wzJEb8V634I7L4U899zT1ODTsTr4StAnZBiBc4OmAE2u9FSD8pt4G_Sw9QQTRApbX4Ad57uloxDwrNV9HAATAN6gM21VLgYfhduIyHHjC9cuz0oLhSwCxfwM2aaLAhHBJNLAg2NQNQcPg&node=1i204",
+              "etag": "044cAW9SLa3YcWjSjofoVvg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "44cAW9SLa3YcWjSjofoVvg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833984629,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/C7KOdcSFSMSOj9C6BSC2Kjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jora 10 Numbaria (2017)",
+  "media_kind": "movie"
+}
