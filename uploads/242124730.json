@@ -1,0 +1,79 @@
+{
+  "name": "Marjaney-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Marjaney-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:04:05Z",
+  "remote_folder_id": 1753658,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124730",
+  "tmdb": {
+    "tmdb_id": 927268,
+    "title": "Marjaney",
+    "original_title": "Marjaney",
+    "release_date": "2021-12-10",
+    "year": "2021",
+    "rating": 0.0,
+    "overview": "Film is a story of Gagandeep Singh and his friends. Local drug dealers put them into a dangerous web which results into unreturned ways to their homes.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2qE6wHHi8AxdwwRJ1uoOm8Lut0L.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sagv7GMCHuF3m8tCA2EPQiR8KHa.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124730",
+    "status": "U",
+    "etag": "tlVtPnk4DN1vjYUfFh4H5w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124730",
+          "url": "/sapi/download/video?action=get&k=FnMwMRGLyxQ1UEklQoH_WWwvD4mWnOROO8YmoCCGZ6nih4tp2M9JCdhbDYU7my4ZlnxnLn0iWGE55eEEOdqmzZrNd8ZIjdIcSNxRWXQYNuY1kqaS1Rx0PeuvigeP34HymZn92_XDugZsbz_KG2vvx-0nRxWuXuxNZprbY8FMsx6kjEaHf3w&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=lTLgGOK43bNBVLFl-I_74V_iYn7sHRWAodcBPKK9kq1llRxU9-yvK7WVUlyrhrijm4dZulhOsIKRC5a6OuECRAdd-xzEXCYm0kJeW37rfA-exUXjrZb4SrRWDBXz02xSbsbDZvIRB4I4ntPimErH56pHZPkFA_U1z0rYAeL_nM2JQ0vf7FOWICmxHvWqNb3HeMU&node=1i204",
+          "date": 1777835044737,
+          "creationdate": 1777834986000,
+          "modificationdate": 1777834986000,
+          "uploaded": 1777835031702,
+          "size": 397409341,
+          "name": "Marjaney-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7531524,
+            "bitrate": 422129,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=YdmgwqYPvbQ3m6JC7gLFLsOA3lTMkQXgAnmEqp2V4nJGiarC6ihVSRDdW4T3RSWfmUzQLS8iIn9mw1iGsdWbuTCXwUHg0wCbtMOG2cjrFCdaUSaEXEWjMTfaDz3lAn3UIGegwe4Y-9WcuJLeNIxSKNLBaoUQwUwhnQao99uCAbvdx4ImDZJ986komaliaFPiXXI&node=1i204",
+              "etag": "0tlVtPnk4DN1vjYUfFh4H5w=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=lTLgGOK43bNBVLFl-I_74V_iYn7sHRWAodcBPKK9kq1llRxU9-yvK7WVUlyrhrijm4dZulhOsIKRC5a6OuECRAdd-xzEXCYm0kJeW37rfA-exUXjrZb4SrRWDBXz02xSbsbDZvIRB4I4ntPimErH56pHZPkFA_U1z0rYAeL_nM2JQ0vf7FOWICmxHvWqNb3HeMU&node=1i204",
+              "etag": "0tlVtPnk4DN1vjYUfFh4H5w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tlVtPnk4DN1vjYUfFh4H5w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835044814,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/g-FCzVEuR4-YvE2_qjrIxzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Marjaney (2021)",
+  "media_kind": "movie"
+}
