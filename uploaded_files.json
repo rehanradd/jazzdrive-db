@@ -1090,5 +1090,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "21f3e43d2d23c19438f2c1804b3fee7286255321713cab4cf4233403f6b5d61a": {
+    "name": "Saggi-Phull-(2018)-WEB-DL--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Saggi-Phull-(2018)-WEB-DL--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 364143542,
+    "uploaded_at": "2026-05-03T18:34:05Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124521",
+    "remote_id": "242124521",
+    "remote_folder_id": "1753563",
+    "tmdb_title": "Saggi Phull",
+    "tmdb_year": "2018",
+    "tmdb_rating": 0.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/w7AUSvJOra0yXgw2tCugs7HnANE.jpg",
+    "tmdb_overview": "Separated after their mother's death, two brothers struggle while bringing up their children.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124521\", \"status\": \"U\", \"etag\": \"CnULGqn0TaizedkAGKAqUw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124521\", \"url\": \"/sapi/download/video?action=get&k=8pq4qoV4H1DIHt5nVIBs3PLr7O__T11fvI5sbdIYrBIYjis5GtfCq0wcWGhW_WvBeblQt8FqXc4K0C-G2sBTGCMbNn2mKNAOhdSJ0Mb2Ku_mKZuxbrFXO4_IEzmYq1PyfQFAGZ4FxjlTcrxfSMCietLPm6v6PU-dW9782as7oelODOBXlmA&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=2YLtkCBEIJUHUKPvPBPTf49e5tUgmDmEEmoXA4wdEoAd5AOiZr1h1m3GPP9q--xMM_B2gp-I9636qEWELtxqTsxzOTD2BEMPiYeUhW_7NfZqH-JfSox8DaH2YpUkx7FIyhkKXztI0GvPngkzawQyOgITp8_aknlOBjDvbxfav0oPzkBv1Ad69jJmms6_TuVJ04Q&node=1i204\", \"date\": 1777833244920, \"creationdate\": 1777833188000, \"modificationdate\": 1777833188000, \"uploaded\": 1777833221985, \"size\": 364143542, \"name\": \"Saggi-Phull-(2018)-WEB-DL--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 6955198, \"bitrate\": 418844, \"codec\": \"h264\", \"height\": 400, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 142, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=58mGzg0tfNPZjQfhGa1M0xPTnrMFeO_DVDJzOeWebE7X1MOqe0OrQpF6-WnKK6ltT4yUOvZHwHkynzrVbLlN2vtDzeSfHWoa3xRCwMy9UiS0S2Rj98iZmEhssyQbqJC8tzNBooFghQgPScJeWquS-cRuwJkl-91Vys4jQ9JxE21PRoZXJbeunV9SgXVeVWqILgo&node=1i204\", \"etag\": \"0CnULGqn0TaizedkAGKAqUw==\"}, {\"w\": 720, \"h\": 400, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=2YLtkCBEIJUHUKPvPBPTf49e5tUgmDmEEmoXA4wdEoAd5AOiZr1h1m3GPP9q--xMM_B2gp-I9636qEWELtxqTsxzOTD2BEMPiYeUhW_7NfZqH-JfSox8DaH2YpUkx7FIyhkKXztI0GvPngkzawQyOgITp8_aknlOBjDvbxfav0oPzkBv1Ad69jJmms6_TuVJ04Q&node=1i204\", \"etag\": \"0CnULGqn0TaizedkAGKAqUw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"CnULGqn0TaizedkAGKAqUw==\", \"favorite\": false}]}, \"responsetime\": 1777833244982, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/sVB_8KeZQamp0_UsgGJgZjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67494",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Saggi Phull (2018)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
