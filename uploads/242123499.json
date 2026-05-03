@@ -1,0 +1,79 @@
+{
+  "name": "Gunga-Pehalwan-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Gunga-Pehalwan-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:29:09Z",
+  "remote_folder_id": 1753547,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123499",
+  "tmdb": {
+    "tmdb_id": 1017230,
+    "title": "Gunga Pehalwan",
+    "original_title": "Gunga Pehalwan",
+    "release_date": "2022-08-26",
+    "year": "2022",
+    "rating": 9.0,
+    "overview": "The story is of the times when Pehalwani (Indian Wrestling Sport) was at its peak. A deaf and dumb child became a famous wrestler.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3x4Jd8L5tMV5je3mzi5G8MQHwJZ.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123499",
+    "status": "U",
+    "etag": "WfwMu36ofD9NhWL2XRjbBQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123499",
+          "url": "/sapi/download/video?action=get&k=C5Y4aF8IyVaNIcMDuviGE01lbLlU8A3133WVg9ruiNUGhgrFPvzef1KRlh5o6izulPFHZyrbihqOOxgEe3PeR__b0lDpPk0r7-N-zeJAxbrFU8w0W-KCv6EOXk439TBjXnT4CaELuW3dhHHird_CL4iJWAknbcQXAwErMae703_FHjJC_Yo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=kAw25TQEnwlmvKkdvO0-nSC5MYU8jDt9tR_-K4MoSq-ZzUAHgh6pFxEZninEMtNii40-ITAG7r9bGVk25SQuIWxpOxYRzcoQp5LteTiWvn7vLepQwVH5r0zjqtOkMKksE10iaIyZjx862ljnHbgqMfndgSirV53qNAdnBG87tSAHbTkKWV0EUAXtA8XjjJ1Q8ck&node=1i204",
+          "date": 1777832946473,
+          "creationdate": 1777832886000,
+          "modificationdate": 1777832886000,
+          "uploaded": 1777832924392,
+          "size": 329631698,
+          "name": "Gunga-Pehalwan-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6116902,
+            "bitrate": 431109,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ng7DuDKwCD3OhaWiFnBgUDtihtAHKtokEFmq3l3VnjATporB_wOsA-JyFCaP8LBamJvgfMzjNnGF_hvgWNctHlehGVvNj4v7tJMCCpQFkJ3QqV65g4JG8yZ7TiPQ_xvWya9w8V21ScK-DtW8XWnxZpxjEm2UVFqKyM9i6QZ6kszozxI5Z_hgkr_YKVZkQeHOLjA&node=1i204",
+              "etag": "0WfwMu36ofD9NhWL2XRjbBQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=kAw25TQEnwlmvKkdvO0-nSC5MYU8jDt9tR_-K4MoSq-ZzUAHgh6pFxEZninEMtNii40-ITAG7r9bGVk25SQuIWxpOxYRzcoQp5LteTiWvn7vLepQwVH5r0zjqtOkMKksE10iaIyZjx862ljnHbgqMfndgSirV53qNAdnBG87tSAHbTkKWV0EUAXtA8XjjJ1Q8ck&node=1i204",
+              "etag": "0WfwMu36ofD9NhWL2XRjbBQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "WfwMu36ofD9NhWL2XRjbBQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832946550,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fL5YybDIRvq0i5LuoYnvrzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Gunga Pehalwan (2022)",
+  "media_kind": "movie"
+}
