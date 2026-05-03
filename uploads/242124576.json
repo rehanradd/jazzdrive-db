@@ -1,0 +1,81 @@
+{
+  "name": "Lock-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Lock-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:49:34Z",
+  "remote_folder_id": 1753612,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124576",
+  "tmdb": {
+    "tmdb_id": 416730,
+    "title": "Lock",
+    "original_title": "\u0a32\u0a4c\u0a15",
+    "release_date": "2016-10-14",
+    "year": "2016",
+    "rating": 3.3,
+    "overview": "A screenwriter loses a script in the back of a rickshaw, and complications in the driver's life make it difficult to return to its rightful owner.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eeknSAMEAnM8X7YqJPHHNetdxpC.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/5GOcnDyeKDW5h9CN6cUqibEOCfI.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124576",
+    "status": "U",
+    "etag": "tUiJ0gHb6VaHMecO6vjbdA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124576",
+          "url": "/sapi/download/video?action=get&k=X150WRJzYkPSeBVJ-6HtaW6P9vxw-WdmQSfmkgxI8Khq_-bZU3XLZ059ohJKP0P7KjZnaKdzf_15exleW4emMgR1Vq3iiphVS9JrWXyvKsySUyckFWb8PCFPxPz-umZu2qOaNSj8J6_FOMmNndoh5IwCoHjMvbMHbxgoK8Q35-j7HYkK3P0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=ZfYMnJYBw-oSyNLGU8jZ9f33rgZegm3lVLQ4xg0mQ5yLYpkPjjggaPfk0-JYhRKWhnNLC5iSL7CmQMWnBVT2p1VgpoPWYeiQ4fBJX3kVXcgSHFWEYg4JNl66H-WSUB1upbmTchpKRbiuJgkGDTQVxX0xThLU6Svikmv_apKsfDbb4rJpoA899QPt61umzbTgjhY&node=1i204",
+          "date": 1777834173591,
+          "creationdate": 1777834129000,
+          "modificationdate": 1777834129000,
+          "uploaded": 1777834164299,
+          "size": 292887582,
+          "name": "Lock-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5444938,
+            "bitrate": 430326,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=pTbVnACFNoOFj_JnITZFZwE5t8sDzP4mMLq0fGYP_47ZjO3SqSq_xpYLhwMeROiraYP-gvIKuxgAGFMhf7QNBejT0efxiPZfqvs7PVmcuomZ6yqQBk-TIe19F6tKK6fuS7NmyQs30jZ7Mh5yyyK72TMzoxOvw1JEPA-MOzpwAKyZSrO6sx_XPDv3kq4YftUOXDQ&node=1i204",
+              "etag": "0tUiJ0gHb6VaHMecO6vjbdA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ZfYMnJYBw-oSyNLGU8jZ9f33rgZegm3lVLQ4xg0mQ5yLYpkPjjggaPfk0-JYhRKWhnNLC5iSL7CmQMWnBVT2p1VgpoPWYeiQ4fBJX3kVXcgSHFWEYg4JNl66H-WSUB1upbmTchpKRbiuJgkGDTQVxX0xThLU6Svikmv_apKsfDbb4rJpoA899QPt61umzbTgjhY&node=1i204",
+              "etag": "0tUiJ0gHb6VaHMecO6vjbdA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tUiJ0gHb6VaHMecO6vjbdA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834173655,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xdn5VxV7TcuQFFXEw-qwRDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Lock (2016)",
+  "media_kind": "movie"
+}
