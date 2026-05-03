@@ -1,0 +1,82 @@
+{
+  "name": "Dominic and the Ladies' Purse (2025) Malayalam HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Dominic and the Ladies' Purse (2025) Malayalam HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:22:34Z",
+  "remote_folder_id": 1753523,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123445",
+  "tmdb": {
+    "tmdb_id": 1303576,
+    "title": "Dominic and the Ladies' Purse",
+    "original_title": "\u0d21\u0d4a\u0d2e\u0d3f\u0d28\u0d3f\u0d15\u0d4d \u0d06\u0d7b\u0d21\u0d4d \u0d32\u0d47\u0d21\u0d40\u0d38\u0d4d \u0d2a\u0d47\u0d34\u0d4d\u0d38\u0d4d",
+    "release_date": "2025-01-23",
+    "year": "2025",
+    "rating": 5.944,
+    "overview": "Dominic, a disgraced ex-cop turned detective, takes on a seemingly simple case to locate a purse's owner, which unveils a dark web of missing persons, murder, a stalker and the mysterious dancer Nandhita.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kbydhHW7IYMcdvn9jO9BdW4eUwk.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/c8mmkd2qteMN5Bt3rbMquuwji8t.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123445",
+    "status": "U",
+    "etag": "Pk8FRmotXal7bzKp0ES/ow==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123445",
+          "url": "/sapi/download/video?action=get&k=duJRA66WfFdoJFBAIsdXGCWpauU7BLtu-GkBrBs46SwFtcZEqwhVhHbHRNqdkOK_CN3zvMvW38Hn1v6t0d2zwCINf-WE0LbBwqcboosBCsl8X7XCxsddwgB0w54046cV6y4NdxePUga4LuhC-0P7G7fvioZDs3TC_VO6uBT58hqNWdB40lE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=YMkCz7Nl7dNSH_2OwyrO8x1XFE9_T17NWnQT4zoP2gWbySqPSKlAfg0Jt6N9zrZMfRZPytarjqHCqU8IUjKJk7zxBGpNcvcpjRrun6nTzjmHxAsQcin0lAhJPCgbjRcnfMcRIxXRvnUIyUT1oDjvCLeNXRvj7Tf_9MWwZoVNRb6rSj0ctZdEUJjQ0UPNSdKyQBo&node=1i204",
+          "date": 1777828953956,
+          "creationdate": 1777828716000,
+          "modificationdate": 1777828716000,
+          "uploaded": 1777828898765,
+          "size": 1041271968,
+          "name": "Dominic and the Ladies' Purse (2025) Malayalam HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 8654334,
+            "bitrate": 962543,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Dfy4Vm1lpJDu3lSb8Ayg0IiRoZU1KHJsYsqNasxXnSt3urKo8gt2UvZLzV_lrCuExwXJeC_JjCqyKBLki0Gisl_-tA2i07LUkloRmsrmbWqHXZ3oOTVTYH87i_MBJ3dxUG8AwBbfP9wyoSXmIkgaAtJtupyxRX4ame2lQh0AO3YUyBOxnlBf4JeCCfg_psJmEyM&node=1i204",
+              "etag": "0Pk8FRmotXal7bzKp0ES/ow=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=YMkCz7Nl7dNSH_2OwyrO8x1XFE9_T17NWnQT4zoP2gWbySqPSKlAfg0Jt6N9zrZMfRZPytarjqHCqU8IUjKJk7zxBGpNcvcpjRrun6nTzjmHxAsQcin0lAhJPCgbjRcnfMcRIxXRvnUIyUT1oDjvCLeNXRvj7Tf_9MWwZoVNRb6rSj0ctZdEUJjQ0UPNSdKyQBo&node=1i204",
+              "etag": "0Pk8FRmotXal7bzKp0ES/ow=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Pk8FRmotXal7bzKp0ES/ow==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828954026,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/OSoTwtN2QOCSJ33x0kpuhDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dominic And The Ladies Purse (2025)",
+  "media_kind": "movie"
+}
