@@ -1,0 +1,81 @@
+{
+  "name": "Dhonima (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Dhonima (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:18:28Z",
+  "remote_folder_id": 1753520,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123437",
+  "tmdb": {
+    "tmdb_id": 1355466,
+    "title": "Dhonima",
+    "original_title": "\u0ba4\u0bcb\u0ba9\u0bbf\u0bae\u0bbe",
+    "release_date": "2024-09-20",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Dhanam, a middle aged house maid, finds a puppy on her way back from work. She decides to keep the puppy as a companion for her son Dravid, an eight year old child who suffers from partial deafness. Dhanam is working hard to do surgery for Dravid\u2019s illness. Dhanam\u2019s husband Kotti is a construction worker and a drunkard never bothers about the family well-being. So how the dog\u2019s presence in their life makes life changing moments is the crux of the film",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oeBf0jXniJaeZaHVdpTggYfFlJe.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iaN8QfiH9olv2nXKUoQOJ0OJUq3.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123437",
+    "status": "U",
+    "etag": "VCcpdotdxiLoZLCKddlacQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123437",
+          "url": "/sapi/download/video?action=get&k=L8iImJoBvMe8Y1Kf5jVi5r2HXA8jNmsCyszqFZ3aC3ENZSvrVS3zfIXXbx_nP9tDwiXRTZsLOUXKcaMaPZAr6S5C6bA9MBkBwqQvpPx_e4IRwDCAQ7XV9nfFodbAi_-BVvvY9Fz_ZIT1i3TZVex0uF-oHhp_zODXDuRxAq0Ijb5LrbATGGE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=FUQsIER3jc-RmSstExjzLujU7gUiJZu_8qu3jxjoOoAFr22afmfrwkfMWodJgaV-a4-d-D-MgPazm4LstwFCtqD5Dgv6LekgTDVGy9BTgP6VAYQOiC5DsTl3dkRMkwak3aImRS-9isyI4xLso_vwMpHiCcd5hOYmE5AsFlUIoZHXVAEKT5ZJhno82dG0XfEZY2s&node=1i204",
+          "date": 1777828708086,
+          "creationdate": 1777828374000,
+          "modificationdate": 1777828374000,
+          "uploaded": 1777828635966,
+          "size": 1491490940,
+          "name": "Dhonima (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6376576,
+            "bitrate": 1871212,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=x0aZSt5b7OIDq8yKlCkKos4_GevjmHSlO8Z8vchXOkAzQZtngU2Tik8NnlY1Dvsf0_l0z5WY7-9KQKNQW1t-jzZQdJmrxSiqWAqYbJFeAwkrClFi7lHwapHAWtQPTaoJqh54HhR-OrUvQzoxcDNAvzyja-vA77AcGgLkeYBfWtZMmwyf2SYX9Nr276pZm0FiG3I&node=1i204",
+              "etag": "0VCcpdotdxiLoZLCKddlacQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=FUQsIER3jc-RmSstExjzLujU7gUiJZu_8qu3jxjoOoAFr22afmfrwkfMWodJgaV-a4-d-D-MgPazm4LstwFCtqD5Dgv6LekgTDVGy9BTgP6VAYQOiC5DsTl3dkRMkwak3aImRS-9isyI4xLso_vwMpHiCcd5hOYmE5AsFlUIoZHXVAEKT5ZJhno82dG0XfEZY2s&node=1i204",
+              "etag": "0VCcpdotdxiLoZLCKddlacQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "VCcpdotdxiLoZLCKddlacQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828708145,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pioRxXglSNGg0tild-dnmzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dhonima (2024)",
+  "media_kind": "movie"
+}
