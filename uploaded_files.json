@@ -4842,5 +4842,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "b7b42fa117e7451c25a4d707720de9775d6dc4aef6d94a0472a62af3c9c06419": {
+    "name": "Maa-Jaye-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Maa-Jaye-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 336599415,
+    "uploaded_at": "2026-05-03T19:12:21Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124763",
+    "remote_id": "242124763",
+    "remote_folder_id": "1753684",
+    "tmdb_title": "Maa Jaye",
+    "tmdb_year": "2025",
+    "tmdb_rating": 7.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/zw2snDOakQLbvEg0sVlDs3sdJij.jpg",
+    "tmdb_overview": "An emotional story of two brothers; the biography of Dr. Amarjit Singh, an Indian American immigrant who walked through The First Kashmir War as a child, forced from his home with his severely disabled brother and a family in fear for their lives.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124763\", \"status\": \"U\", \"etag\": \"HvlKcRqvpO+izEJ+dhpqLA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124763\", \"url\": \"/sapi/download/video?action=get&k=E1-PeR8sAV7mUAUleaqbx7m_3EQXpT9lqwz2LbQrEdyd6Aag4jdFiwlhmkMXno6liZBHzQeSu8Bm1TH2W3EnyrTpHqVrpPhCijkVADioPA1o6l29J2irlWUP3ov2Zt242U20C3QmNNyEqO4snseI8fczAYvzdOI132JyDoe7dFVWCC3PAzc&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=tmDelD7RU6islXe-j8BKTFGlRUI89eM7aGInY2JPwqgF5g_0je_5nrppSLEWngqJqMJz_S1XGMbkUuH_44tKR9b-XMficZNkcxBUuQ_jjJshFIwnWC76arcufc4OiO-4e4gEoXOqG3opJmYKKXct8y4BkOw8BxUuIZcuOYfZZxGPMngrNkhsmqAxbs0eNbLDukc&node=1i204\", \"date\": 1777835541041, \"creationdate\": 1777835465000, \"modificationdate\": 1777835465000, \"uploaded\": 1777835526202, \"size\": 336599415, \"name\": \"Maa-Jaye-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 6363240, \"bitrate\": 423179, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=M74jJPnpHLPpJu-NScKBpuypCTxxmosNaD_igb8lk2Mp122L0DPERFQ-julDxM1AMkFkEZ4ofmrk9cIkTUUgg7v81NT1PTpO85DE6UgSR-rUjzOlgt4WhgY7Ivw-GztznHGxwrw16vCyfJ1x57OdDzdMBcv6Wt9l1kPTEA0r38C4ukE15rZgOYrt5YRk3V9BhZc&node=1i204\", \"etag\": \"0HvlKcRqvpO+izEJ+dhpqLA==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=tmDelD7RU6islXe-j8BKTFGlRUI89eM7aGInY2JPwqgF5g_0je_5nrppSLEWngqJqMJz_S1XGMbkUuH_44tKR9b-XMficZNkcxBUuQ_jjJshFIwnWC76arcufc4OiO-4e4gEoXOqG3opJmYKKXct8y4BkOw8BxUuIZcuOYfZZxGPMngrNkhsmqAxbs0eNbLDukc&node=1i204\", \"etag\": \"0HvlKcRqvpO+izEJ+dhpqLA==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"HvlKcRqvpO+izEJ+dhpqLA==\", \"favorite\": false}]}, \"responsetime\": 1777835541110, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/tqJcUYp7SoK1f4qC3ck95zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67616",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Maa Jaye (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
