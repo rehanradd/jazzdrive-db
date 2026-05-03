@@ -1,0 +1,82 @@
+{
+  "name": "Bloody Beggar (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Bloody Beggar (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:36:56Z",
+  "remote_folder_id": 1753476,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122768",
+  "tmdb": {
+    "tmdb_id": 1311073,
+    "title": "Bloody Beggar",
+    "original_title": "\u0baa\u0bcd\u0bb3\u0b9f\u0bbf \u0baa\u0bc6\u0b95\u0bcd\u0b95\u0bb0\u0bcd",
+    "release_date": "2024-10-31",
+    "year": "2024",
+    "rating": 6.2,
+    "overview": "A beggar's life takes an unexpected turn when a misadventure upends his daily routine. Can he navigate the bizarre, witty situations that follow?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qimSmwXBFQpei25T3FBSTFeN31A.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/gGGRr6sTwVjrdJXcXYgrTfvTMhG.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122768",
+    "status": "U",
+    "etag": "v4EBCHT2Ztj0LizpDp+X/Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122768",
+          "url": "/sapi/download/video?action=get&k=3lcYZZoyi8GVvbksgf-NF5g6gxNMto9ZtdEsJJyPXY4n3J38dSSixK-ceZJJlMimkXq0syOcdt6boz1jdrLRVY34vLdC-vEj0z08GfB3D72r8KGGHuLRz62uIcyGuxpTtSd-Ccyvyef9WxShzyJRd7suxyPlhTUew2jJRRNSCUMdtAW2DMs&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=3ggEbCSr1F_6u-I648jhGaF7NwGCd7TqbGAMNm_hX1nVi0LjWYj4fDpcywEe5t1S2CUOn99LGt1oQ5WWddwl-vU_ixdLduL1n0Yx-dQYAlklvAXqX_75L9VtYjcwIhJLUsPTHKUdco5SIYh4qUZxbI41fUN0QzZi2ozs99DGoVzaaOnYjlYy2QW4JSAZHPsolVI&node=1i204",
+          "date": 1777826215642,
+          "creationdate": 1777825791000,
+          "modificationdate": 1777825791000,
+          "uploaded": 1777826147927,
+          "size": 1505424190,
+          "name": "Bloody Beggar (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 7877060,
+            "bitrate": 1528919,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=YzT6t7dyEEJJv8g5hZLlJfu3hZ6VlRc8t7qI4k_80oSnQE6VDFS-1tRn3-b3nO8IVZD9svgZ1SP6k9feSW4pQe26qSaP-USg68mebSp0SJ93NrOS6z33FuYvu9ocyZ2P3uEEgF8Thiki_7qY7WZJgAZNx3CZKvMdM627aNwuwT2DujFI32fyINQ1gLJXWacrI8E&node=1i204",
+              "etag": "0v4EBCHT2Ztj0LizpDp+X/Q=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=3ggEbCSr1F_6u-I648jhGaF7NwGCd7TqbGAMNm_hX1nVi0LjWYj4fDpcywEe5t1S2CUOn99LGt1oQ5WWddwl-vU_ixdLduL1n0Yx-dQYAlklvAXqX_75L9VtYjcwIhJLUsPTHKUdco5SIYh4qUZxbI41fUN0QzZi2ozs99DGoVzaaOnYjlYy2QW4JSAZHPsolVI&node=1i204",
+              "etag": "0v4EBCHT2Ztj0LizpDp+X/Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "v4EBCHT2Ztj0LizpDp+X/Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777826215707,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/1Nzh_j2wTJ6NRdt7Z3i-Qjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bloody Beggar (2024)",
+  "media_kind": "movie"
+}
