@@ -1,0 +1,82 @@
+{
+  "name": "Main-Viyah-Nahi-Karona-Tere-Naal-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Main-Viyah-Nahi-Karona-Tere-Naal-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:32:45Z",
+  "remote_folder_id": 1753556,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124513",
+  "tmdb": {
+    "tmdb_id": 942393,
+    "title": "Main Viyah Nahi Karona Tere Naal",
+    "original_title": "Main Viyah Nahi Karona Tere Naal",
+    "release_date": "2022-03-04",
+    "year": "2022",
+    "rating": 7.0,
+    "overview": "A Canadian YouTuber visits Punjab for the first time and falls in love with a traditional Punjabi girl who eventually helps him discover his roots.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jeVLOaRgVgOHohqJoqjoS9q0NMU.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ntGzo9lNetur0nUtVjJj39qn7a.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124513",
+    "status": "U",
+    "etag": "Eu263stQkvPg852dvm5Ieg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124513",
+          "url": "/sapi/download/video?action=get&k=4-U7-8cHSvRsPeJM5HvryXiJPpq-1sePKaUyrci0sVsUASZFAPRbZR0phbVFXXiPfIdZPYrGVILS5lsFF-354qKWK2WXkXLmf3EEtKE2YfqQ-JEfF1oh2ummawRT6Nank8R9Z5wXMpMKbicLBCJGFEbcIRY50MSvQPkgndrHsM4lvSM9fT4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=B4-kJhKy0MCCsPuczWpnDqi7X61uTtoyc_JQ7aH8tNfMA3Jb3p-cWm59MZ6Rq33kk8vwyxf21aWQn0XadLjckUKDofgEHcsszddRpNxpmPRs1SezArobRG5SP6E1jbqh8ZpONhYD_pAwdR7TyYamWErTISUwbKpZQN8Dg_InyIt2pf4c6_G3DltKi7KICukYvtM&node=1i204",
+          "date": 1777833162644,
+          "creationdate": 1777833075000,
+          "modificationdate": 1777833075000,
+          "uploaded": 1777833148622,
+          "size": 366751691,
+          "name": "Main-Viyah-Nahi-Karona-Tere-Naal-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6816441,
+            "bitrate": 430431,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=nhZgKgeiW58MwFs8sWEZPwDQxNzXJdUPA9uDa05jiyHC4_imCNC0-eXOkC-nA8G4RAN1-t3wATTvfi__vndTL9YaNK_OX_WSwVdkfT52BXRqBhz7hLg_CsXTvN-qt9yhInlazh7s-u0WpEeBJ89D1pNE0Ir1RRNpnuWRW7kONoLRRmyBtdlTVL4UI0vLmHiAjBA&node=1i204",
+              "etag": "0Eu263stQkvPg852dvm5Ieg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=B4-kJhKy0MCCsPuczWpnDqi7X61uTtoyc_JQ7aH8tNfMA3Jb3p-cWm59MZ6Rq33kk8vwyxf21aWQn0XadLjckUKDofgEHcsszddRpNxpmPRs1SezArobRG5SP6E1jbqh8ZpONhYD_pAwdR7TyYamWErTISUwbKpZQN8Dg_InyIt2pf4c6_G3DltKi7KICukYvtM&node=1i204",
+              "etag": "0Eu263stQkvPg852dvm5Ieg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Eu263stQkvPg852dvm5Ieg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833162708,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/wiLqxtSNScCGViaf8gNsmjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Main Viyah Nahi Karona Tere Naal (2022)",
+  "media_kind": "movie"
+}
