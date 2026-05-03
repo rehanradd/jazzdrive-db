@@ -1,0 +1,82 @@
+{
+  "name": "Nikka-Zaildar-2016-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Nikka-Zaildar-2016-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:51:38Z",
+  "remote_folder_id": 1753617,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124582",
+  "tmdb": {
+    "tmdb_id": 419823,
+    "title": "Nikka Zaildar",
+    "original_title": "Nikka Zaildar",
+    "release_date": "2016-09-30",
+    "year": "2016",
+    "rating": 7.1,
+    "overview": "A young man concocts a scheme to marry a reluctant fellow student, but finds the task more difficult than it first appeared.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/dtz8GJTffTscT6Ere4que4tylhk.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2LiigF2wUlEw38RXQwGHlCXS22U.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124582",
+    "status": "U",
+    "etag": "2bLWJGkfVgPV6+bTV8o/nA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124582",
+          "url": "/sapi/download/video?action=get&k=_EdcDMnyofJBocMCKTAnT2I1IE98qtgbwR7DygJDunVDeGa_FCNjZf0sKKkqRXkcDNsJEwMtey6hVqXxVLSoyIVB26jO6_x4wNhmuuMN6qbYedTEZ1j5UrgSMgsD5P5G6s8FYpcnBGYKeO5DGidJAJBKa4DhaTLu6pXVJpZgRqZTF1VhERE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=VsDjqloORDd1SQbCg5_fZA8Ls8xhX-zFyP-JfjVRWpxuE_yhcQWDav-7BgpyjED_LlIcOUZVvvD6jcKDVDIfXTyZ0TNkrIjcsmCg4bJzPGCF3cXba4OyJWansTXSnu1qRgQ2GihcWJYUJAQrY7JSYwVjvnU_xxMAwDSVPCLK8mzsN3xPy0XEQqrr2cHoOEtEB4g&node=1i204",
+          "date": 1777834297215,
+          "creationdate": 1777834239000,
+          "modificationdate": 1777834239000,
+          "uploaded": 1777834282419,
+          "size": 426861586,
+          "name": "Nikka-Zaildar-2016-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8035984,
+            "bitrate": 424950,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=-ka7dpndqPeQRt8umXmceqULIyLsIc2xsPKb1wCaibtcBw1GmhGVqZUERUoYZW5S50XYR_eOBLFdvQVRv6CNKYdaxf_sZIEWVEFFoUf3HHt1ObA19zLJjpdpwKs2ZNVSmuEVXD_ofVJwzke7DqqFBDT4kNxnwDQW8IBCqoqjpUUiFsE08eWb5YU4IGN1_z6HGUs&node=1i204",
+              "etag": "02bLWJGkfVgPV6+bTV8o/nA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=VsDjqloORDd1SQbCg5_fZA8Ls8xhX-zFyP-JfjVRWpxuE_yhcQWDav-7BgpyjED_LlIcOUZVvvD6jcKDVDIfXTyZ0TNkrIjcsmCg4bJzPGCF3cXba4OyJWansTXSnu1qRgQ2GihcWJYUJAQrY7JSYwVjvnU_xxMAwDSVPCLK8mzsN3xPy0XEQqrr2cHoOEtEB4g&node=1i204",
+              "etag": "02bLWJGkfVgPV6+bTV8o/nA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2bLWJGkfVgPV6+bTV8o/nA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834297304,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ZbxM6ZlrRzeWxwdqM_F-3Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Nikka Zaildar (2016)",
+  "media_kind": "movie"
+}
