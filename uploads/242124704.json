@@ -1,0 +1,83 @@
+{
+  "name": "Kirpaan-The-Sword-of-Honour-2014-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Kirpaan-The-Sword-of-Honour-2014-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:56:52Z",
+  "remote_folder_id": 1753634,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124704",
+  "tmdb": {
+    "tmdb_id": 254112,
+    "title": "Kirpaan",
+    "original_title": "Kirpaan",
+    "release_date": "2014-02-07",
+    "year": "2014",
+    "rating": 0.0,
+    "overview": "A Punjabi college student tries to regain his sense of purpose after disappointing his parents and losing the love of his life due to his carefree attitude.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/fKYsNOsXwUAhX90GaGAIy8TUpEV.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8mrUdRexZW1LO4TTgl35FTW9TKN.jpg",
+    "genre_ids": [
+      28,
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124704",
+    "status": "U",
+    "etag": "bVeJcicfOkGv2xcYGMl5zQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124704",
+          "url": "/sapi/download/video?action=get&k=B6Hiuf8qpBWufBTiY61CotV_1bCOzHgWs0ncJkX1cCWQEOr7SQRIuiW0OlYhuxmQdBnn_UQ3rudLcGg3Xo2eY5rN2jjoboQB8Z6Aqfe2hISlla4gKJ8SAdw7oJtF8w3RBHhwllSUFiKHhWi8aIUx7H-YwA11sgGLd9D7cBE9nyqfHaAuZSs&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=5aV-BILe362r5MMj29L5zJqnTm54C9NUJbKEeveI7CH-FZL7U9VDA2yaryQmx1e1VG77pFW9BJjr0v51rPi2-MTYtLWSOpxeNvV-Ki3oAVxinheR8Hy6vSqX8Gnd6B-T8cL_WXZD9GEzVYHz94xKEvlzchS5dB-dcvFN86aLJpUeRoKUuwVsCwqh1trtX1I_5go&node=1i204",
+          "date": 1777834611139,
+          "creationdate": 1777834539000,
+          "modificationdate": 1777834539000,
+          "uploaded": 1777834591538,
+          "size": 423827728,
+          "name": "Kirpaan-The-Sword-of-Honour-2014-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7936603,
+            "bitrate": 427213,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=vPzM8d8K2-8U1WS_Lu1TGpFh0atBKvX2AOFib4NB0ZW_pAQIsL1rRB5lCg4K8RDx_Ic7bc79FRs5Pybbef1eav9cFHPQkjeZmSU6aVbPjLmnsnDmLN722hHxvyURUYaqk7fdoDCg0JEs1uVl3x4cTDYXCbSozBmgsT2I-BdCGjLwp4WqFS_S0dfztS8mjydDPHk&node=1i204",
+              "etag": "0bVeJcicfOkGv2xcYGMl5zQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=5aV-BILe362r5MMj29L5zJqnTm54C9NUJbKEeveI7CH-FZL7U9VDA2yaryQmx1e1VG77pFW9BJjr0v51rPi2-MTYtLWSOpxeNvV-Ki3oAVxinheR8Hy6vSqX8Gnd6B-T8cL_WXZD9GEzVYHz94xKEvlzchS5dB-dcvFN86aLJpUeRoKUuwVsCwqh1trtX1I_5go&node=1i204",
+              "etag": "0bVeJcicfOkGv2xcYGMl5zQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "bVeJcicfOkGv2xcYGMl5zQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834611204,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/c26GrtztRJOM6p4CZDWzATk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kirpaan The Sword Of Honour (2014)",
+  "media_kind": "movie"
+}
