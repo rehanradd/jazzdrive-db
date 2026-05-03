@@ -1,0 +1,84 @@
+{
+  "name": "Toofan-Singh-2017-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Toofan-Singh-2017-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:43:47Z",
+  "remote_folder_id": 1753592,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124555",
+  "tmdb": {
+    "tmdb_id": 391765,
+    "title": "Toofan Singh",
+    "original_title": "Toofan Singh",
+    "release_date": "2017-08-04",
+    "year": "2017",
+    "rating": 8.5,
+    "overview": "The journey of a Punjabi Sikh boy who grew up during the chaotic, violent 1980s revolving around his chase for survival, equality and justice in order to protect and shield society and fight against brutality, crime and corruption.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hP4NKNk80w3fbu70OjZ2Rb8cPCO.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/peuhGLCzGqCCjwpLn7dIpY2Z53N.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      36
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124555",
+    "status": "U",
+    "etag": "nyivHzLcH+CIzFNwWQcovw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124555",
+          "url": "/sapi/download/video?action=get&k=LAznakzOrd0EWHSmIwGCUDaWkNrEUnUJDpE45Ia7LSFzHB0kpPg1ZcoOqT3dOVGQno7FzmCgeeH0ubBcnmqUOeAKFGfIkPkoBgvjUOLvwJqnSAFYS-z-Jm7xqdf1Y4OYxP43y72m83ZglqVQhtSLpE3By1DfIWM6KV3yyOuseojN3gT0VjY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=YGAGYxCDP68zSug-8K9fHc2B8PfQXheRykexvCuZyMw6KPpTImLTXlWlNtDMVUGQAGB9ua4YdBBwDWOSSh_KtUQayHhtBSgGrd1uyN2WvKj55irhMHN1Gx9QyRnTPGPWhXUGvuksW4BuVagL5CDd34z77jBv7WyF_R_DLt148FTUP79KtDCyY25srJlv_kgiNHk&node=1i204",
+          "date": 1777833826294,
+          "creationdate": 1777833764000,
+          "modificationdate": 1777833764000,
+          "uploaded": 1777833811929,
+          "size": 453065608,
+          "name": "Toofan-Singh-2017-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8552085,
+            "bitrate": 423817,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0viModzEKZwxrrypasQLCwPXTetOMd0WfxY6oa5WcbKyp8Jn4lV9x6dCLN4dYNSSj4fvmoipxg0UreMfuL55JgMXuczv4zyNt_jsyZz7nu9fXRmZ7gDQhygsi9rsQDWBOhRDH4FtriU-Fp74rBqv_NOC5eqkX3DkAzlxM2_sHh9vmMCcFHkhIXahBDckZwylOHo&node=1i204",
+              "etag": "0nyivHzLcH+CIzFNwWQcovw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=YGAGYxCDP68zSug-8K9fHc2B8PfQXheRykexvCuZyMw6KPpTImLTXlWlNtDMVUGQAGB9ua4YdBBwDWOSSh_KtUQayHhtBSgGrd1uyN2WvKj55irhMHN1Gx9QyRnTPGPWhXUGvuksW4BuVagL5CDd34z77jBv7WyF_R_DLt148FTUP79KtDCyY25srJlv_kgiNHk&node=1i204",
+              "etag": "0nyivHzLcH+CIzFNwWQcovw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "nyivHzLcH+CIzFNwWQcovw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833826351,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/TWA8qgvSTTCd270iQgBBdzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Toofan Singh (2017)",
+  "media_kind": "movie"
+}
