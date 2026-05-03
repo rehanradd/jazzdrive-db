@@ -1,0 +1,83 @@
+{
+  "name": "Singh-vs-Kaur-2013-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Singh-vs-Kaur-2013-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:56:04Z",
+  "remote_folder_id": 1753631,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124701",
+  "tmdb": {
+    "tmdb_id": 168111,
+    "title": "Singh vs Kaur",
+    "original_title": "Singh vs Kaur",
+    "release_date": "2013-02-15",
+    "year": "2013",
+    "rating": 5.6,
+    "overview": "Nihal Singh is a young man from a village in Nabha, who in an attempt to get rid of an unwanted marriage proposal, ends up lying to his entire village that he loves somebody named 'Jasneet Kaur' (Surveen Chawla) from Vancouver. In reality, Jasneet is a girl, who Nihal and his friend and partner in crime, Taari (Binnu Dhillon) find on the web and keep a picture of her to show as proof to the village. Coaxed by his mother and a nagging village 'Taayi', Nihal Singh sets out for Canada to stay with Taari's Chacha (B.N. Sharma) and get his help in finding the whereabouts of Jasneet. There he also meets a girl named, Simrat (Japji Khaira) who informs him that Jasneet belongs to one of the wealthiest family in Vancouver and that it would be very difficult for him to reach her.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kehFC22iHDE09bA2FxwI9axmhVK.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nzVr4s5iH2ztAxucA0KsAJUkBRx.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124701",
+    "status": "U",
+    "etag": "VEWQgU5ZefhBV2eBtCLI8g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124701",
+          "url": "/sapi/download/video?action=get&k=bxj6xe9T-5MCsBYILWvXByc9f9rbnKWlMC85HKUTE08IZlQ7bPo5OEojtqGheZmP5aJG6c3ZT-HShjELL-LEiZ5KxFvl5Ujk03q80aqHWbAvgcVXsafCwyhhDFnxUaV4OILE_AuoiDxUfGkXmtQMPgjBo8hvZAYAdfXgjPqLwDJdkSk7NAQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=qXTVpTSzGLpXvdH2SzRkPhJ_jQLnetGid8x16zSXuQ0y7k6VRjP3EgS_0gj8BWuRrLbjPggUdjUsJmyYtPNGsvIYZZzQDqV_6iXQ8bUsrYWIETP3cW7ist-4TWt0UxzSKmLXeVzg3_Psm8VZjv8xpZ7YOeWrRFydT3TsUcxQ9XSjLniIjYfI4irV-37nDqf_f8w&node=1i204",
+          "date": 1777834563903,
+          "creationdate": 1777834488000,
+          "modificationdate": 1777834488000,
+          "uploaded": 1777834546022,
+          "size": 476911506,
+          "name": "Singh-vs-Kaur-2013-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8957873,
+            "bitrate": 425914,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=JOGA2Nxo-JwvklPuESqA4beeBbyh3bbq7pmG4p-2r75sDZfBYZ2kaS2l4PCijnMQki6EhPD6lgEuWUPy6i4veZf_Al09_J5LQs2yAweLaHWQXqExC2sB1MlMLNw5WTiFwqRAjh_3UJ-6nr_y7utheMGzXzBklKkw8U4GNClTG00q84lPB7ZnAzZv4rXO7MXyefw&node=1i204",
+              "etag": "0VEWQgU5ZefhBV2eBtCLI8g=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qXTVpTSzGLpXvdH2SzRkPhJ_jQLnetGid8x16zSXuQ0y7k6VRjP3EgS_0gj8BWuRrLbjPggUdjUsJmyYtPNGsvIYZZzQDqV_6iXQ8bUsrYWIETP3cW7ist-4TWt0UxzSKmLXeVzg3_Psm8VZjv8xpZ7YOeWrRFydT3TsUcxQ9XSjLniIjYfI4irV-37nDqf_f8w&node=1i204",
+              "etag": "0VEWQgU5ZefhBV2eBtCLI8g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "VEWQgU5ZefhBV2eBtCLI8g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834563998,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/tlEsYeewR6aBcgOusWHDuDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Singh Vs Kaur (2013)",
+  "media_kind": "movie"
+}
