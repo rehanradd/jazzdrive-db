@@ -1,0 +1,83 @@
+{
+  "name": "Born-to-Be-King-2016-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Born-to-Be-King-2016-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:52:34Z",
+  "remote_folder_id": 1753619,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124586",
+  "tmdb": {
+    "tmdb_id": 48944,
+    "title": "Born to Be King",
+    "original_title": "\u52dd\u8005\u70ba\u738b",
+    "release_date": "2000-07-21",
+    "year": "2000",
+    "rating": 6.33,
+    "overview": "Triad member Chicken is designated by Taiwan's San Luen Gang to marry Nanako, the daughter of the fifth generation leader of the Yamada Gang in Japan. Later, the leader of the triad group gets murdered. Actually, all the San Luen Gang members suspect Chicken attacked their leader Liu, in order to make a chance for him to rule the Gang and thus have adopted an extremely hostile attitude towards him.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9g2e0hMlh2TpFCiB1SqoBRUcbfa.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/x2CSMxt5DhiwDIH3TGLZIQxyjG6.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124586",
+    "status": "U",
+    "etag": "tJMtYh3Fp50YQ712DmQBaA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124586",
+          "url": "/sapi/download/video?action=get&k=cj7cFYrWeq9e3hYDxORDKc47MVTivs9uTy2ki06CJTLofNtLGMW_GTs4J9_CCk0no-k7bX63qO3OUg5GY_OynKDU3vQcK3lLTFQlJ0gs9aluFot81tzKjlQIVGCuNDwJixCLg2U1D3Fd7qlcKyc0MWw9u3I4gJ5E1EwoDnIFxICvavNUmLA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=vj-NSHmIoQAer9phc4OaEFyQhl3lPzP7Fws8LosyaDEDrynmLqzICdTGroUsgqjeD4Q4ISP1AYewd2pqGFFF2OEyBAFspySqxVIamqmUClTlL59deJsuv2zn84KtZJn2yrmdJ3q_97KzXUrh69-IcQqKjSew0oltmfgl06enlc4DvxfmuU5nT1VyOM6QJWeB2X0&node=1i204",
+          "date": 1777834352282,
+          "creationdate": 1777834274000,
+          "modificationdate": 1777834274000,
+          "uploaded": 1777834332869,
+          "size": 412029415,
+          "name": "Born-to-Be-King-2016-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7737051,
+            "bitrate": 426032,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=qHNaI3_pNYFWxFbUPf4laWduo5Rp8Y5DMXnp7vsEcINcwfe0QQmaQH4C4cr0buU3GcnPNnKAajqagP5sVWCVzPwyz9AYUvJZwZspsMemmZQJ8ST1x4Rvwx9TwTQBDPeOQHZMydr-fR__GJQdQ9zRNMGUDckKvlANbXrkMR3pheJ26zUlFTuhUPnzMORUdkw6aWs&node=1i204",
+              "etag": "0tJMtYh3Fp50YQ712DmQBaA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=vj-NSHmIoQAer9phc4OaEFyQhl3lPzP7Fws8LosyaDEDrynmLqzICdTGroUsgqjeD4Q4ISP1AYewd2pqGFFF2OEyBAFspySqxVIamqmUClTlL59deJsuv2zn84KtZJn2yrmdJ3q_97KzXUrh69-IcQqKjSew0oltmfgl06enlc4DvxfmuU5nT1VyOM6QJWeB2X0&node=1i204",
+              "etag": "0tJMtYh3Fp50YQ712DmQBaA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tJMtYh3Fp50YQ712DmQBaA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834352353,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ITpzdJeUQTeC9afWInbgazk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Born To Be King (2016)",
+  "media_kind": "movie"
+}
