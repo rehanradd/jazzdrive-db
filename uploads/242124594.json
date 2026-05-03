@@ -1,0 +1,82 @@
+{
+  "name": "Mukhtiar-Chadha-2015-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Mukhtiar-Chadha-2015-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:54:23Z",
+  "remote_folder_id": 1753625,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124594",
+  "tmdb": {
+    "tmdb_id": 369957,
+    "title": "Mukhtiar Chadha",
+    "original_title": "Mukhtiar Chadha",
+    "release_date": "2015-11-27",
+    "year": "2015",
+    "rating": 6.7,
+    "overview": "A successful and beloved businessman runs afoul of gangsters.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kn6rLAX0rr9WuGAlFz0p0QQHpAT.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      10749,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124594",
+    "status": "U",
+    "etag": "Dni82r8P/3O8hg7LSCLc1Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124594",
+          "url": "/sapi/download/video?action=get&k=LUZ6PE78rUIg_EZ9ekNJqfdjK5_VBxCnoDXIvkLP8kBJkz2Vjkmdqq-xMSTLwsgIY5wRRx1JrvOxaTJ_eCbfkboSCOAtYpuvrAtghHgmed1luAP8JET8EO83SFyrc4jOcViHR-_KMgjn-gpMk0N7nL7TuMjlZ2X641doq-KomlkgRVoLiNI&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=yOJ-sQq8IUlrk_wEh5Dha-HmX-bHFmAQbs0GZiGT9JYXUqkw3rqgozxLEv15Aaao-Qah_-UYOgkvVTF1ttUeCXyJ3RBZCnVigC2VGUklKmLsLAO8MqC2FlxFvmSOsfvTxa4H7G8KcabPyPGGDm2-DXCH9vyzl95xc5hnduZvecnzoI1ldcxDWiZNWa35OI6zqMA&node=1i204",
+          "date": 1777834462434,
+          "creationdate": 1777834384000,
+          "modificationdate": 1777834384000,
+          "uploaded": 1777834451046,
+          "size": 364079459,
+          "name": "Mukhtiar-Chadha-2015-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6895597,
+            "bitrate": 422390,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=sWJL5ff6EFEAdrUKmsnuticM_9Uv885quFWGfQI6mqb7XaFaB1djKFuu3S7XMQz6-LiVjOsEMymSwrzEuamOQ4DmyhHASnFcaITS7CtpVpNWi_iB9DlWQlporjLLDq-1l2XCSpTB9QaiK3GrUsL2tGWOennQNZImsdHSUqxgFzNoMqLtNeSv46l70k7rqErwkUo&node=1i204",
+              "etag": "0Dni82r8P/3O8hg7LSCLc1Q=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=yOJ-sQq8IUlrk_wEh5Dha-HmX-bHFmAQbs0GZiGT9JYXUqkw3rqgozxLEv15Aaao-Qah_-UYOgkvVTF1ttUeCXyJ3RBZCnVigC2VGUklKmLsLAO8MqC2FlxFvmSOsfvTxa4H7G8KcabPyPGGDm2-DXCH9vyzl95xc5hnduZvecnzoI1ldcxDWiZNWa35OI6zqMA&node=1i204",
+              "etag": "0Dni82r8P/3O8hg7LSCLc1Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Dni82r8P/3O8hg7LSCLc1Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834462510,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/-z2gq1vVQguCjre4bctXAjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mukhtiar Chadha (2015)",
+  "media_kind": "movie"
+}
