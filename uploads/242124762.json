@@ -1,0 +1,82 @@
+{
+  "name": "Soohe-Ve-Cheere-Waleya-(2025)-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Soohe-Ve-Cheere-Waleya-(2025)-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:12:46Z",
+  "remote_folder_id": 1753683,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124762",
+  "tmdb": {
+    "tmdb_id": 1557889,
+    "title": "Soohe Ve Cheere Waleya",
+    "original_title": "Soohe Ve Cheere Waleya",
+    "release_date": "2025-10-10",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "Set in 1990s Punjab, near the India-Pakistan border, Sooba is a well-educated young man who runs a telephone shop yet feels incomplete without his ancestral land.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xs574v4F6OPysyfzmwBh6AbPdN.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124762",
+    "status": "U",
+    "etag": "OoRJTmZ6WTBEYPaNlTNE0g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124762",
+          "url": "/sapi/download/video?action=get&k=kQw7R7eJVUdJKKNs2C1W_Qpu_FuHK5Rii2nD_t0fvY3Ke7s9WpDsGB43MWI8qDdVkNXCiMQyEW-X59oUHr85p5l5bj-f1xiubELVxRRIRSnE3JduHCU33kPYJSL8r0rk7g1Qw1x_2Jq_HcNO71a4T7w6cgUkJ-Wek5r6hbe_QPVvVxzZEoA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=38W_4bN8Vz9hZ4ZRKWGO3ghB1gA0QuXleDCsVsaMoJFExfwuEhLMprqQLmZGG9M5diDay_bZ4cLXjGZvlmIQGhlHTIitP_XiTRTaLTiEGUOIemomkgSvKLN2CXFgXBVpwASd-W0XOfukFllfjzpqC_45zrKUjy2SRxtObpWd6u7J8GIpDpRRtQX8z5or1uUIZj0&node=1i204",
+          "date": 1777835565434,
+          "creationdate": 1777835461000,
+          "modificationdate": 1777835461000,
+          "uploaded": 1777835551906,
+          "size": 439955464,
+          "name": "Soohe-Ve-Cheere-Waleya-(2025)-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8224250,
+            "bitrate": 427959,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=OwK_UUXMeQ-zjnPGlf5Dqc6U2KwJ450hWI5Vmu2WCU49GxaulOwK2goZC3xg8M5s2P3-T4JPbucJcGPOsQZGi927mJaoJaxGvssf5YAaDdz6jAiATeWzgNhKlr_fvtM4ggoCtlcEtWHpFvfa21Wh3-HeTVdLmt5kWzRYVxDxd9nB-IUHS-y0IZx3-ELSEj2A_yA&node=1i204",
+              "etag": "0OoRJTmZ6WTBEYPaNlTNE0g=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=38W_4bN8Vz9hZ4ZRKWGO3ghB1gA0QuXleDCsVsaMoJFExfwuEhLMprqQLmZGG9M5diDay_bZ4cLXjGZvlmIQGhlHTIitP_XiTRTaLTiEGUOIemomkgSvKLN2CXFgXBVpwASd-W0XOfukFllfjzpqC_45zrKUjy2SRxtObpWd6u7J8GIpDpRRtQX8z5or1uUIZj0&node=1i204",
+              "etag": "0OoRJTmZ6WTBEYPaNlTNE0g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "OoRJTmZ6WTBEYPaNlTNE0g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835565498,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/rX-ZuU2jTiWjb7YNNwOlLzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Soohe Ve Cheere Waleya (2025)",
+  "media_kind": "movie"
+}
