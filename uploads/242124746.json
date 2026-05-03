@@ -1,0 +1,82 @@
+{
+  "name": "Junior-(2023)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Junior-(2023)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:08:07Z",
+  "remote_folder_id": 1753669,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124746",
+  "tmdb": {
+    "tmdb_id": 1166984,
+    "title": "Junior",
+    "original_title": "Junior",
+    "release_date": "2023-08-18",
+    "year": "2023",
+    "rating": 5.5,
+    "overview": "A cold blooded assassin comes out of six years of hiding when his daughter becomes prey to a heinous plan executed by mafia. The incident stirs up a storm inside Junior and he rampages through the worlds of all culprits to avenge his daughter.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/n9aEFdp3LNzU9MOTPsmY4hUttM9.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124746",
+    "status": "U",
+    "etag": "uN/EhnzDzl++UAgwwC9cUA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124746",
+          "url": "/sapi/download/video?action=get&k=RCmiVSjziohT_MbMkFpGPQcGbi0wVHsO0uLUJArBC_2sUV4PiWyggEEKTN5h6eO5Kx5JX88quh2i4ZY91fZG1lYdQSj9FmvOL8EjIV4D5T3br2TsDGHlsO5zBFIcokCgBgW-zzhcHyon-grq8vVeOn50GPdiZHZk9mybB9DZuUERjEQP2Q0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=bDX7M0rWkZByFtEi43AHteVEIh2qOPBofOWtmrKzFTL6C3pja0twWPwPjz-Q85mptPulsAba75Bc1gvSS7a62a_Mdrpc8HTr-Dy5D-8rbkj6LZWZB6cQttOd3tAYQmdwxS0c-cjk-g1Lnqw5caKoh8xeEeQ0vHRLaJiq9NuydR_Joxk5pIkq1xpt_9Y4QcNvKic&node=1i204",
+          "date": 1777835286528,
+          "creationdate": 1777835203000,
+          "modificationdate": 1777835203000,
+          "uploaded": 1777835272918,
+          "size": 389242490,
+          "name": "Junior-(2023)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7368864,
+            "bitrate": 422580,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=My10SbwFOqrg5IFMKKpOXj2MSacNzSCgO8ggL61_J9QnxJuUqKpI-wIL2w-pez4leg6B3s8xL0nMTM3WE8sR9uhwBGdAXTEk6E6ukCcq-eG9zGeDPSwVE1wvqqGh1vOdmghPsWJ1SN-yyrk4E3-7nqfURSvcqmOvOLvVcAiiWKuQF2Z6Y5ihASJD0KyZC8hwOsc&node=1i204",
+              "etag": "0uN/EhnzDzl++UAgwwC9cUA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=bDX7M0rWkZByFtEi43AHteVEIh2qOPBofOWtmrKzFTL6C3pja0twWPwPjz-Q85mptPulsAba75Bc1gvSS7a62a_Mdrpc8HTr-Dy5D-8rbkj6LZWZB6cQttOd3tAYQmdwxS0c-cjk-g1Lnqw5caKoh8xeEeQ0vHRLaJiq9NuydR_Joxk5pIkq1xpt_9Y4QcNvKic&node=1i204",
+              "etag": "0uN/EhnzDzl++UAgwwC9cUA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "uN/EhnzDzl++UAgwwC9cUA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835286585,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Yw850jStT52m0HKrMMn0OTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Junior (2023)",
+  "media_kind": "movie"
+}
