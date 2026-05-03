@@ -1,0 +1,79 @@
+{
+  "name": "Ishq-Brandy-(2014)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Ishq-Brandy-(2014)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:54:38Z",
+  "remote_folder_id": 1753627,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124597",
+  "tmdb": {
+    "tmdb_id": 256405,
+    "title": "Ishq Brandy",
+    "original_title": "Ishq Brandy",
+    "release_date": "2014-02-21",
+    "year": "2014",
+    "rating": 0.0,
+    "overview": "Three friends comedically compete for the same woman.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vSn4mFvsCrkkbCwQNKo8efN87xi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/dqXux6WJcImfgxGpSD5Qeo3Gd7z.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124597",
+    "status": "U",
+    "etag": "3zogtMag+OH2FOrYiO9FmA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124597",
+          "url": "/sapi/download/video?action=get&k=bpJ0sRUjIT6EHtRSqfQDwrSVxATi6ewiQf0aU_8OoAXOKrcMFGf7K3ar2j7wkkFJi45Alhu5zC0RKpZfnJVm2ontvAaHOB89SZkoqiO8EwXyaE90BO23aKxLzjOrz6esmFDfXioD4CgeH-G8fHNfHnENPLR4s3yX68ecH6x3F-jjUFLfJTE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=B7i_BhZabNANFKCHEqgNwjjWt2oYhKTC-sryP4PYs93_HwW5ynKBXGsFP6YPxXOBmsNMMTpoeuUSa_zZvcAKETzWXcJZ__WTICikx3l6E1uyo-lZk9byleJ4Own_24w9lbl3FQakSGr2nt8tbFBTxVaeLurUqsHN2HBRupG0Ka63lRfg6BT5yYQ9LAZjCu8quZ4&node=1i204",
+          "date": 1777834477530,
+          "creationdate": 1777834407000,
+          "modificationdate": 1777834407000,
+          "uploaded": 1777834464621,
+          "size": 397691273,
+          "name": "Ishq-Brandy-(2014)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7487487,
+            "bitrate": 424912,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=wOSi5MPJDoUmD8l8CzLMq6bdkR4G8U-9c5p4wIFHwJt86G1l6lmgkvcwv538EM4jX1iPR-QqAjIUSGXPnH9kcBSpvd_nuGxBGjka1tWpmeIba36VDcMX56fzfeLqjLt5IJFAPFEHc7m-1NVHnlpwyZfGvBCfeKUOzCxiCAp5W7NauAGSgqYF-9Ut5lPDBEWVMR8&node=1i204",
+              "etag": "03zogtMag+OH2FOrYiO9FmA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=B7i_BhZabNANFKCHEqgNwjjWt2oYhKTC-sryP4PYs93_HwW5ynKBXGsFP6YPxXOBmsNMMTpoeuUSa_zZvcAKETzWXcJZ__WTICikx3l6E1uyo-lZk9byleJ4Own_24w9lbl3FQakSGr2nt8tbFBTxVaeLurUqsHN2HBRupG0Ka63lRfg6BT5yYQ9LAZjCu8quZ4&node=1i204",
+              "etag": "03zogtMag+OH2FOrYiO9FmA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "3zogtMag+OH2FOrYiO9FmA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834477601,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/9nYP3OJ6QPSeI0e0Jo-rCTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ishq Brandy (2014)",
+  "media_kind": "movie"
+}
