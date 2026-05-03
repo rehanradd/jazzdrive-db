@@ -1,0 +1,82 @@
+{
+  "name": "Gandhi-Fer-Aa-Gea-(2020)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Gandhi-Fer-Aa-Gea-(2020)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:01:53Z",
+  "remote_folder_id": 1753651,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124721",
+  "tmdb": {
+    "tmdb_id": 729112,
+    "title": "Gandhi Fer Aa Gea",
+    "original_title": "\u0a17\u0a3e\u0a02\u0a27\u0a40 \u0a2b\u0a47\u0a30 \u0a06 \u0a17\u0a3f\u0a06",
+    "release_date": "2020-01-31",
+    "year": "2020",
+    "rating": 10.0,
+    "overview": "After serving his prison sentence, Gandhi returns to save his family as well as his village which is being plagued by criminals, drug dealers, caste-ism, poverty, and dirty politics.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gtbYKCXapiM5RkQ4JL1pCiIdoYV.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/izz9rVrAV4hAcpwHERWXPHW7eGU.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124721",
+    "status": "U",
+    "etag": "//TFmvxSZ6k030+Kql+0pQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124721",
+          "url": "/sapi/download/video?action=get&k=6F5WEIZOQwhG90yD-a7bWjg2yblufvalKtdjLHA2gTFp3Fi1seZHFQzaT_nyT2eR5qJxCuTJls1EKddrlCTnCZsqPLtNHXswRF7obais7MrJd6MJGFbKlygQeAxBDc3tdxFVyT2dLoMaQG-qUqBURKt66laZPyTlghMinQyA-Zl3kjBGrBk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=tpGM5o4KO68wqB_BKRSwX4afPtv0uZGXRYFEuUxmhsfa0T7yPCH_q7Zefrcq47oFg6p2UbP3p64XolnjrXJ48qdKUpc0TxeKSSRjgjR84sJqskYgx5DBgq7FP6E_0AqnDLh2zlXB0WWcZTfBD70-9AWJfTNEJ5spOd_KwUpl6zJX0-1_wGeG1JW2x6ObUchp454&node=1i204",
+          "date": 1777834912730,
+          "creationdate": 1777834824000,
+          "modificationdate": 1777834824000,
+          "uploaded": 1777834898977,
+          "size": 423039216,
+          "name": "Gandhi-Fer-Aa-Gea-(2020)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7956815,
+            "bitrate": 425335,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=yIKAHm4RXSD8M1mgq0NV5-VC3MtmOYc3ZUUW6Ciy5ccey7YvrfEYBMpMuPqQcF_J_ntPjrnZiI6kTc4vGsfT6ysSN_GPIwqmNxRmNvsxVXpBZG-Q_4iSZlHRb9gZDdLEZBSCn1IcmAIwXdEzSyZdv4vRFv-T0Z5S-7h1HfSOZKJ0rBQntqawq9_n2HsGGJwQOFQ&node=1i204",
+              "etag": "0//TFmvxSZ6k030+Kql+0pQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=tpGM5o4KO68wqB_BKRSwX4afPtv0uZGXRYFEuUxmhsfa0T7yPCH_q7Zefrcq47oFg6p2UbP3p64XolnjrXJ48qdKUpc0TxeKSSRjgjR84sJqskYgx5DBgq7FP6E_0AqnDLh2zlXB0WWcZTfBD70-9AWJfTNEJ5spOd_KwUpl6zJX0-1_wGeG1JW2x6ObUchp454&node=1i204",
+              "etag": "0//TFmvxSZ6k030+Kql+0pQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "//TFmvxSZ6k030+Kql+0pQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834912790,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/C0uKERyyQpGyXLBQEbQZyzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Gandhi Fer Aa Gea (2020)",
+  "media_kind": "movie"
+}
