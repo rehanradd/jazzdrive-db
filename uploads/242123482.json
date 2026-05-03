@@ -1,0 +1,82 @@
+{
+  "name": "Honeymoon-(2022)-Punjabi-HDCAM--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Honeymoon-(2022)-Punjabi-HDCAM--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:23:53Z",
+  "remote_folder_id": 1753531,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123482",
+  "tmdb": {
+    "tmdb_id": 1033884,
+    "title": "Honeymoon",
+    "original_title": "Honeymoon",
+    "release_date": "2022-10-25",
+    "year": "2022",
+    "rating": 7.0,
+    "overview": "A newlywed couple's honeymoon in London turns into a hilariously chaotic trip when the pair's clueless family crashes the romantic getaway.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zshh1Td7DA2vUAZppborLqVeoAH.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/AlVn3M0sTLa0WuU9Cc8cpfnOsOr.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123482",
+    "status": "U",
+    "etag": "4AeOB2MReZwnFx8EOeMEjQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123482",
+          "url": "/sapi/download/video?action=get&k=vgYr8gBq-ruZ17LCY1uKEAinu0S2OhevM6HNmyLN50AHay8QAelqVR6dz5ZKs1W3EDF5Ruw2STdEHLPuths8dfIqhutpRYb7abGz3B_bfKPXO-fY3tOIbQQgcuUnKcGUdRsFfix7BwvjBj7TiM1PrtFgqw2vV54GJLisGsi8wb6C9xXi7Y8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=6B82R74f5wdM01ppRKUnnMrhJAjgSxxXNya0a9OMgFA-Qn6oTb_pGovCk-97Ih1J4ThVXDLIIwVWbKe5Ky2UqWeECt3scdW3IjJ5n_We0H6zpN6pNpbEszy_Tkv8xoTeB6g0V3QuGv2RgUEOlNZwWKdB0EQbg2pZPm2CGxtCIjO2xOB0_ZqHgUllTOsYZDziYDc&node=1i204",
+          "date": 1777832632890,
+          "creationdate": 1777832531000,
+          "modificationdate": 1777832531000,
+          "uploaded": 1777832611760,
+          "size": 398652108,
+          "name": "Honeymoon-(2022)-Punjabi-HDCAM--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7489343,
+            "bitrate": 425833,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=WmjGbeBSwDMzHTTWlQR7d_hyPciyB15NCstf4Lu3fa-2BYK0imZK-dVqZQqf8fdcp7NcdeqVs2GcIEeclr2UxZCibQ-AOev4g24ZQQWpBOrCElLAl4YFX_AEXl1_EmEKv6Oippr6WJTGDgyAwQ-v5GwkrxGaAbEdExx1HffpwNkibJbCW1_O8I-9WqkY1XA1tEg&node=1i204",
+              "etag": "04AeOB2MReZwnFx8EOeMEjQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=6B82R74f5wdM01ppRKUnnMrhJAjgSxxXNya0a9OMgFA-Qn6oTb_pGovCk-97Ih1J4ThVXDLIIwVWbKe5Ky2UqWeECt3scdW3IjJ5n_We0H6zpN6pNpbEszy_Tkv8xoTeB6g0V3QuGv2RgUEOlNZwWKdB0EQbg2pZPm2CGxtCIjO2xOB0_ZqHgUllTOsYZDziYDc&node=1i204",
+              "etag": "04AeOB2MReZwnFx8EOeMEjQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "4AeOB2MReZwnFx8EOeMEjQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832632956,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/2U0lgdIvT6-9DHU_xIksOzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Honeymoon (2022)",
+  "media_kind": "movie"
+}
