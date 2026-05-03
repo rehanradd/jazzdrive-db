@@ -1,0 +1,81 @@
+{
+  "name": "Kala-Shah-Kala-2019-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Kala-Shah-Kala-2019-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:01:01Z",
+  "remote_folder_id": 1753648,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124718",
+  "tmdb": {
+    "tmdb_id": 582315,
+    "title": "Kala Shah Kala",
+    "original_title": "Kala Shah Kala",
+    "release_date": "2019-02-14",
+    "year": "2019",
+    "rating": 8.1,
+    "overview": "This Valentine's, Naag & Pammi will redefine romance for you in Kala Shah Kala, an upcoming Indian-Punjabi romedy film which celebrates the much maligned and universal butt of jokes the colour black. Lovely (Binnu Dhillon) a happy go lucky & charming guy struggles to find the love of his life because of his dark complexion. Pammi (Sargun Mehta) is everything he dreamt of, and for a while it sure seems like a match made in heaven, but alas Lovely will have to prove yet again that it's not the colour of the skin that matters but your heart and soul that matter and always wins!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qeN6oSKUrE3pYOskulMIhvk3a9z.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4uJnCuZ9ML1V1XyfsithdpZ1VbB.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124718",
+    "status": "U",
+    "etag": "2ZSmgcXYSYdEfVqSYIJTPQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124718",
+          "url": "/sapi/download/video?action=get&k=hzHQdAqImgjItv_a2U6_ldBgfCbhAe0TiJ1XXCg5iaJG5ygzx60CioaW6LzVTGSD1G0mKfwbOKCWZ0lIH1LkEYUqPUb_T_RkNSlmbUXHg1vVga115BnsKfuxW5yZC2v82VJzQ9UcOajnw1ZhUIOxITQlZczL2cqFluM_zTjFSl5k6cRn2YY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=8NBhoHxkv99LwPiGzV59kv9H8Z7UYaPX-Wy4TSNmkES5ZR71oR35r7Nfh27-P25875txsTQ9KqDLapaLoRfM5wGqJaWaUcjb6CdhYBGdjAHmxScGhFCeSH-zUk3tmHBfGVZiBZtV8oxEEGE-rEfGinSszUp8wh0C6eRF1aNuCzuYJlveVmrxgCYB85aYUOZ8jns&node=1i204",
+          "date": 1777834859878,
+          "creationdate": 1777834792000,
+          "modificationdate": 1777834792000,
+          "uploaded": 1777834846101,
+          "size": 424569050,
+          "name": "Kala-Shah-Kala-2019-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7967484,
+            "bitrate": 426301,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Xrba1jc8CcCQHXCmCRFhqar-oMHuSO2881AKfmJaSWntAVsIu2tYh_LJ9DeeVxGjuiheEelfRAApT6v4q29jQ4nJNJhMPPabCc5VogxKIYYcZBrswfTncjgu-eLdAHOPC3DLkG8pN0MicFJCb1xO9vvFcVICCzHu6-3M8-Psqu4uJ94yc3caCbc9t4SmdYjTAYo&node=1i204",
+              "etag": "02ZSmgcXYSYdEfVqSYIJTPQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=8NBhoHxkv99LwPiGzV59kv9H8Z7UYaPX-Wy4TSNmkES5ZR71oR35r7Nfh27-P25875txsTQ9KqDLapaLoRfM5wGqJaWaUcjb6CdhYBGdjAHmxScGhFCeSH-zUk3tmHBfGVZiBZtV8oxEEGE-rEfGinSszUp8wh0C6eRF1aNuCzuYJlveVmrxgCYB85aYUOZ8jns&node=1i204",
+              "etag": "02ZSmgcXYSYdEfVqSYIJTPQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2ZSmgcXYSYdEfVqSYIJTPQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834859957,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/aJvCbcoJS_aATw8ZpNWj-jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kala Shah Kala (2019)",
+  "media_kind": "movie"
+}
