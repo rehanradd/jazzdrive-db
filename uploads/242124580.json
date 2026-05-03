@@ -1,0 +1,81 @@
+{
+  "name": "Tiger-2016-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Tiger-2016-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:50:45Z",
+  "remote_folder_id": 1753615,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124580",
+  "tmdb": {
+    "tmdb_id": 414957,
+    "title": "Tiger",
+    "original_title": "Tiger",
+    "release_date": "2016-09-09",
+    "year": "2016",
+    "rating": 4.0,
+    "overview": "A young man tries to redeem his life spent in the drug underworld by fighting the forces of evil in his native village.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/j7d6RPPSjg1cZDZKnKMFN4fhiur.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/oQ8ZPFgpCgRoQdzfLgQmk41Oc3J.jpg",
+    "genre_ids": [
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124580",
+    "status": "U",
+    "etag": "QdwRUE04Y1TQbHVL/1iyGw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124580",
+          "url": "/sapi/download/video?action=get&k=ITywBjlzKyLuKY94d7V2vQajCyPsr0gNU7QFHRH_suo_PP0edm_tWM8jpzJKYsexPbSp6vOHA90yMUo-aOu7zWIY6703OaWCSfqd8_eVK5sLFGvpFRuMqVoVjvP_p5wrt1XWvNg3SzyL1CGyRoOSLkVshy1szFHQybqGWm8vovkL1ujBk0I&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=3_B577DvAt1r3jJc10-U9_3yRb8jGYgtsTx4cryX3IUpFbGIVmCyrr2pYFZUiY05WONDzp-GyDKPEBeo9CuK_O5JYYltgSE8C0RrdLVDQ_xeC7PrPxVqwzLUUZOu5JLk9xsOJDkSUgnOyftA0jgI6MiICNkB1V4yZ5W5eezXAXvavoiyyoFRVJeR_ogtwLjJJ0s&node=1i204",
+          "date": 1777834244620,
+          "creationdate": 1777834183000,
+          "modificationdate": 1777834183000,
+          "uploaded": 1777834230565,
+          "size": 414721483,
+          "name": "Tiger-2016-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7812553,
+            "bitrate": 424671,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=eUvmrJEaAYvdVdTN1qTSVjaTeBNQwYUmjt_C90tmCCT4okC3-PzjtbUuE4twBJ6y0TLWzoMWUNNuK6OLcrR3Qh5iCtim4re9aHFjE94weyQqkabIoB2aBG1cKD0NrKlBMxcSgRVKGUtEfBaTQpqgvW7Z1wicTyzTXf34hKPOfOOFswEStA5jWNsjWSFug-ZK8FY&node=1i204",
+              "etag": "0QdwRUE04Y1TQbHVL/1iyGw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=3_B577DvAt1r3jJc10-U9_3yRb8jGYgtsTx4cryX3IUpFbGIVmCyrr2pYFZUiY05WONDzp-GyDKPEBeo9CuK_O5JYYltgSE8C0RrdLVDQ_xeC7PrPxVqwzLUUZOu5JLk9xsOJDkSUgnOyftA0jgI6MiICNkB1V4yZ5W5eezXAXvavoiyyoFRVJeR_ogtwLjJJ0s&node=1i204",
+              "etag": "0QdwRUE04Y1TQbHVL/1iyGw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "QdwRUE04Y1TQbHVL/1iyGw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834244693,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/JLvwO8ZZSd69rTupy6IRZTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Tiger (2016)",
+  "media_kind": "movie"
+}
