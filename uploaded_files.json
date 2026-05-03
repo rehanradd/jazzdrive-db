@@ -1118,5 +1118,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "c45609b49d15ed8d65f36f0af12a1b40c9c375c5d9200dc63be1c2cd284a8381": {
+    "name": "Laal-Zameen-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Laal-Zameen-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 483380446,
+    "uploaded_at": "2026-05-03T18:34:06Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124515",
+    "remote_id": "242124515",
+    "remote_folder_id": "1753558",
+    "tmdb_title": "Laal Zameen",
+    "tmdb_year": "2022",
+    "tmdb_rating": 0.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/6WUQIXLYug680cmx8mIOQ43Z0f3.jpg",
+    "tmdb_overview": "Protagonist Ajit fights against Vikram & Bablu, sons of land mafia Thakur Amarpal & Thakur Samarpal. Shiva helps Ajit to take avenge against casteism. Antagonist Bablu & Vikram leaves no chance to expand their empire by hook or crook. Tragedy, betrayal & lust of power fuels Thakurain Pushpa to prepare a fierce battle against her husband. But revenge comes at great costs,so as everyone pays for it.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124515\", \"status\": \"U\", \"etag\": \"0x5G9xcERw/E63O65+v5XQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124515\", \"url\": \"/sapi/download/video?action=get&k=tzQXu9x6mmw5gg5Flq-jMm2pksxKAdfJumhIAPNnY0XzK6WTvQ0RmphE5JVctNJTbgALvExWroGynDz_sn05HkgIZEKUMY5rCiqmr7lLg9488d8oShltKEpe4CTGLZNgvpd3APPwbDHdjuoMJMhY7kIAJckEq7SOHrbJZIQRPUxFIohxRt8&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=h7QuEqwTTocEhBkEeqGo4w-NDraCl-VU3htP1Qqw3mgJUd0Mw12ZnMshaZGw2bHB8Wb2pMDuW4XGIalfLPDH_CxjExHRlv6sEbJLxCXdPiuceHUHiHhtkjKuEIrsP0W4KeXUHXNHTSk0z4xPd9ZDPemlYyzkJ54jD_WM98-qGC818EPxA3kz5lqXMtXwo3t7gFE&node=1i204\", \"date\": 1777833245527, \"creationdate\": 1777833115000, \"modificationdate\": 1777833115000, \"uploaded\": 1777833215278, \"size\": 483380446, \"name\": \"Laal-Zameen-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 9125584, \"bitrate\": 423758, \"codec\": \"h264\", \"height\": 400, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 142, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=NzC4xD-PIkdFUL0TSAGg4ybo5RTmU0h0hRUHPQ41atwODl4ZGfOkmOpCz303AxhjlRBWLLVaiuPXiGaX3M8-Jlc7JB3naDMDjaBSrXjymgbUjnRGErd9cB4bkW4nA6HBqWg3F5CMHdeVpmAkVO6ge2bk_Mkl5QfJEl8iGdz6lSGl1-PRsDuQoa0AouNw1n2iUUE&node=1i204\", \"etag\": \"00x5G9xcERw/E63O65+v5XQ==\"}, {\"w\": 720, \"h\": 400, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=h7QuEqwTTocEhBkEeqGo4w-NDraCl-VU3htP1Qqw3mgJUd0Mw12ZnMshaZGw2bHB8Wb2pMDuW4XGIalfLPDH_CxjExHRlv6sEbJLxCXdPiuceHUHiHhtkjKuEIrsP0W4KeXUHXNHTSk0z4xPd9ZDPemlYyzkJ54jD_WM98-qGC818EPxA3kz5lqXMtXwo3t7gFE&node=1i204\", \"etag\": \"00x5G9xcERw/E63O65+v5XQ==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"0x5G9xcERw/E63O65+v5XQ==\", \"favorite\": false}]}, \"responsetime\": 1777833245591, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/wMsVxPE3RSixeHDboKss0zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67495",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Laal Zameen (2022)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
