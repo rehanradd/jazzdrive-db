@@ -1,0 +1,81 @@
+{
+  "name": "7G (2024) Telugu\u00a0720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\7G (2024) Telugu\u00a0720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:07:40Z",
+  "remote_folder_id": 1753424,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122024",
+  "tmdb": {
+    "tmdb_id": 1311247,
+    "title": "7/G",
+    "original_title": "7/\u0b9c\u0bbf",
+    "release_date": "2024-07-05",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Rajiv and Varsha, a couple with a five-year-old son, Rahul, moves to a new flat where Varsha faces paranormal activities. Can Varsha fight against supernatural forces to save their dream house, or she decides to leave her house to save her family?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/us7y8JTKNBs15JrVPntrcLVMyQg.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zoS9GzQdUnv8EWRgEJ2M9T10LLB.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122024",
+    "status": "U",
+    "etag": "RapBsEr5fhhdPvtYoTpOXw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122024",
+          "url": "/sapi/download/video?action=get&k=tl9bhmHxxoT8OkL0-kzYue6rqZ_M1oK2pqnNJ08kkfx1dUzF7-z5iCW7yBUeGaEgouEG65LKT0u0ZbeezqsLPsX3O2ZfnPyp-01dl4Nkkyo9b7ASnZCJYbu1c3nv1dGxwLH4s7Ix_EClBOEEYa3KjewVgqG2C5hiMovPbl37098dbws4_zg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=Gz35xHamJP7OvNgMPFdEnJUVgXKp7jf3lOPjJozp__s7Tb48l98T_PZOikM1zPx6GIKqHuKOaP5AkJy_tErj_16gp-Y2plXZCUYyqAQCV0ygGpG9fFBKp1J3QbprNwEi6M9cUvnL3DxA-wIPkOcJTDuZ8eVfmi392rPF6Iinys-NDlLmvJwkmzI4DQEJBFEboZ8&node=1i204",
+          "date": 1777820859890,
+          "creationdate": 1777820485000,
+          "modificationdate": 1777820485000,
+          "uploaded": 1777820801188,
+          "size": 1207962443,
+          "name": "7G (2024) Telugu\u00a0720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8283178,
+            "bitrate": 1166665,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Q7of4yZA7rBuPKaQATCZfc4F_sjK5y4OvTHl-1SP2n3JgbuJKoRy8M2phamtAkExQrIlZPqiskVRvUxBa4Yc25AxquQO1NtEQW74faagVK19G7CUGOqyx5cknhVv7Z3IRYUG9ZmK_Tt9ny9efupwGRjXATKBtFcxnoNE3AIp4XrWu-rEA5Fnk_OdwtO8ica1X5s&node=1i204",
+              "etag": "0RapBsEr5fhhdPvtYoTpOXw=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Gz35xHamJP7OvNgMPFdEnJUVgXKp7jf3lOPjJozp__s7Tb48l98T_PZOikM1zPx6GIKqHuKOaP5AkJy_tErj_16gp-Y2plXZCUYyqAQCV0ygGpG9fFBKp1J3QbprNwEi6M9cUvnL3DxA-wIPkOcJTDuZ8eVfmi392rPF6Iinys-NDlLmvJwkmzI4DQEJBFEboZ8&node=1i204",
+              "etag": "0RapBsEr5fhhdPvtYoTpOXw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RapBsEr5fhhdPvtYoTpOXw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777820859963,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/2hu2x3zZT3ilKvowBtwKBDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "7G (2024)",
+  "media_kind": "movie"
+}
