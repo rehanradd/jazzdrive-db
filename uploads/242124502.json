@@ -1,0 +1,79 @@
+{
+  "name": "Thappa-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Thappa-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:30:22Z",
+  "remote_folder_id": 1753550,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124502",
+  "tmdb": {
+    "tmdb_id": 1014740,
+    "title": "Thappa",
+    "original_title": "Thappa",
+    "release_date": "2022-07-19",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "Harjit is compelled to cover a scoop, exclusive enough to save his job and love. What follows is a hilarious ghost hunt that gets a little too real. Will he succeed?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oLuHtQYudAcM8uGEpJoYPnUOB3C.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124502",
+    "status": "U",
+    "etag": "9tvnv1f0hgDymB5k3/LdRQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124502",
+          "url": "/sapi/download/video?action=get&k=0yhksHqAZq4xpQSLqWcNfAhBvXJmiAVzjUzJChPm3K9ypA2TVZjRaNoBYdOajMsiT4f-95GAZB4swKWuPgtnE0im51brsH4z2oM3h5MDzx4_Ybjo1L7N21ABvL4oCyF8-6thD2FF5s9JBpZ6IknPHfNMz4zX9PiGeFuexki2InoG1PXZt1g&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=KhPc6dj1dCrl_f6DKdPTVEJ7w2nAXJ_UnHvwklphpDsJK8use_Wq8uCmFq408d2F0kiuYkX7kfZ_lWm6Q6AEC2naHD7bICfy0UJNVwVd14JVwuiV7L4eV-IgDW8pfUna1BDPhdMO9P94AgX1E7fQjd_i1qn7gxgBOZ3hLxHxQ8jrzxy9G_aQvKDBQPQfvjkjsG4&node=1i204",
+          "date": 1777833017834,
+          "creationdate": 1777832962000,
+          "modificationdate": 1777832962000,
+          "uploaded": 1777833001402,
+          "size": 374388951,
+          "name": "Thappa-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7085794,
+            "bitrate": 422692,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=44rzOYEEZnWKuEyKWBT2qdvixMGz7I7uza4SK4ZPgdM9Zr6RvpItyGy5ajtAiqDm6HnTS1zHsFQPcw_9NBNw6cZSKzqzBfK0K-cNCccgWSPdIesHm0Ku7_qjxVnGMc8CzrXnO0vXf9FSTnBOLTElkGqqz2kIo3kevdrQAm3zvRri7DlS5OqT_8JggYaMfnqewec&node=1i204",
+              "etag": "09tvnv1f0hgDymB5k3/LdRQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=KhPc6dj1dCrl_f6DKdPTVEJ7w2nAXJ_UnHvwklphpDsJK8use_Wq8uCmFq408d2F0kiuYkX7kfZ_lWm6Q6AEC2naHD7bICfy0UJNVwVd14JVwuiV7L4eV-IgDW8pfUna1BDPhdMO9P94AgX1E7fQjd_i1qn7gxgBOZ3hLxHxQ8jrzxy9G_aQvKDBQPQfvjkjsG4&node=1i204",
+              "etag": "09tvnv1f0hgDymB5k3/LdRQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "9tvnv1f0hgDymB5k3/LdRQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833017900,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/VChbzuQWQ6O_8NIMesRxWzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Thappa (2022)",
+  "media_kind": "movie"
+}
