@@ -1,0 +1,68 @@
+{
+  "name": "Jagta-Bhagta-(2022)-S01-Complete-Punjabi-Web-Series-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Jagta-Bhagta-(2022)-S01-Complete-Punjabi-Web-Series-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:24:42Z",
+  "remote_folder_id": 1753533,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123483",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123483",
+    "status": "U",
+    "etag": "y9P8NR3pPfNWmQraDGQiFA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123483",
+          "url": "/sapi/download/video?action=get&k=jehZ0aFn8r4gv6fUEU3nnYr-z1sRkEefBd1NyfwP3y-7t5mmB59fmEaPlLo-OeRFSYvCnn9cLnO2bxL6hH3Bac-ZR_wt_D5DyYyRQuFtff8jm3f50C4oNt8RJUu-3wGCLDXwy1ivpVJvlRkBCtLYaLlraBQ1uP6xsKGyI92XTLjb4xJaeGs&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=IAlNDcHcMchqK74LKSfBT_nxdmhDJ6s_4tHG3xf7qGPiAfLkoJKmNUCCi8_UxkwsaX1W9opkvz4hPxgGQvMM1qu9CMIj5n6DX9U2_qXpQI8XcstAd1nrkpMl_2yNF7wpCuvzfsOqGCfCsJSxQF_pFJ-x3llxnjSq3U9p3-atIQhfVCl6zNYiTQk2OMpB5i9R-dA&node=1i204",
+          "date": 1777832680831,
+          "creationdate": 1777832602000,
+          "modificationdate": 1777832602000,
+          "uploaded": 1777832665395,
+          "size": 479326566,
+          "name": "Jagta-Bhagta-(2022)-S01-Complete-Punjabi-Web-Series-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8993691,
+            "bitrate": 426366,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=NATGEBdbLf2RO3X17bJ0CTVU535vzWZiejM4_tjPFUqdjV4vfkSY8Ky-K3yM9SSpt65MIS4P1vVU1LmC5IHzlE1Lz5cCEfsk1TbIggTnXyN1JnMUdg3ngBZjlnQ1y9rQUyV5OW7xJb4c-fJDuUzXKq28aBrPYlrsBasV92Pu3ZQgyxi3fn8k8Yedq5e4HFqjnb4&node=1i204",
+              "etag": "0y9P8NR3pPfNWmQraDGQiFA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IAlNDcHcMchqK74LKSfBT_nxdmhDJ6s_4tHG3xf7qGPiAfLkoJKmNUCCi8_UxkwsaX1W9opkvz4hPxgGQvMM1qu9CMIj5n6DX9U2_qXpQI8XcstAd1nrkpMl_2yNF7wpCuvzfsOqGCfCsJSxQF_pFJ-x3llxnjSq3U9p3-atIQhfVCl6zNYiTQk2OMpB5i9R-dA&node=1i204",
+              "etag": "0y9P8NR3pPfNWmQraDGQiFA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "y9P8NR3pPfNWmQraDGQiFA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832680889,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/BpVI99fvSeiaPJTrFMSLhTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jagta Bhagta (2022)",
+  "media_kind": "movie"
+}
