@@ -1,0 +1,83 @@
+{
+  "name": "Dacoit (2026) Hindi 720p HDTS x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Dacoit (2026) Hindi 720p HDTS x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:02:12Z",
+  "remote_folder_id": 1753506,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123406",
+  "tmdb": {
+    "tmdb_id": 1220522,
+    "title": "Dacoit",
+    "original_title": "\u0c21\u0c46\u0c15\u0c3e\u0c2f\u0c3f\u0c1f\u0c4d",
+    "release_date": "2026-04-10",
+    "year": "2026",
+    "rating": 6.3,
+    "overview": "Betrayed by his better half, a man is convicted for a crime he didn't commit. Once free, he hunts her down in pursuit of vengeance, as their stories intertwine with a series of robberies.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
+    "genre_ids": [
+      28,
+      10749,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123406",
+    "status": "U",
+    "etag": "4/OsttuvH51VFLygqnXXUA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123406",
+          "url": "/sapi/download/video?action=get&k=rW3N8gcZnEFrGs0DHjg6HSrD48XqWwThGRDJRrI9tljsuYZteoOXzVqLnOdAEO3zMEowZzWc6QBTYaXqlu5sqS58n3daBd-a5PjDWbG3WmOIKabbM_iWQg3Ljk4PwXy7W1EZOy_Gg-QcMuJDoxjE_OUw8BMPN2stV0D0ouofBem2YhwFnNQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=8xiLxM3K_R_Ml3G7E6zGVviai_uOefm3LmJxJu_3ciE505IKCSh1-WFxVV6heAAktjVZ684AvktBCBS8lo4lD5KbjvuTJ6b5EbNWxXgEVXzQ0Q1gVzgvB3519hFcgd6p2_Z-8WTOmKvGqeUgUwCgxoE3yX99pFzrOS57Ipr7De1aOyuaPdRAJMxrKjP5OQyCmO8&node=1i204",
+          "date": 1777827731946,
+          "creationdate": 1777827436000,
+          "modificationdate": 1777827436000,
+          "uploaded": 1777827663542,
+          "size": 1278455144,
+          "name": "Dacoit (2026) Hindi 720p HDTS x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8340832,
+            "bitrate": 1226213,
+            "codec": "h264",
+            "height": 570,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 114,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ecS-WTCHqqyL-Z6Q2WVdTWTzyJH6xONuvOaA2ESzXHLPbo39XcwrXcacTtBoL7Q0akDeuw8uvqHD_Keea6MTWrjLCiWh6C-eXEDh_Ov8Ee7n8XxCv6AisOOFzZoATM1vDV0RKgbdHiyVhUQdQ6H-Mo_hoDa1JDASHYKsgmj9naIC4OOtDmPlwcCsaxfJRdLMyOE&node=1i204",
+              "etag": "04/OsttuvH51VFLygqnXXUA=="
+            },
+            {
+              "w": 1024,
+              "h": 456,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=8xiLxM3K_R_Ml3G7E6zGVviai_uOefm3LmJxJu_3ciE505IKCSh1-WFxVV6heAAktjVZ684AvktBCBS8lo4lD5KbjvuTJ6b5EbNWxXgEVXzQ0Q1gVzgvB3519hFcgd6p2_Z-8WTOmKvGqeUgUwCgxoE3yX99pFzrOS57Ipr7De1aOyuaPdRAJMxrKjP5OQyCmO8&node=1i204",
+              "etag": "04/OsttuvH51VFLygqnXXUA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "4/OsttuvH51VFLygqnXXUA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777827732016,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/7iUhg_KPTxiVQs07ME0j9zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dacoit (2026)",
+  "media_kind": "movie"
+}
