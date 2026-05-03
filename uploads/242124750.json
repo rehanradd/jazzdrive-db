@@ -1,0 +1,81 @@
+{
+  "name": "Youth-Festival-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Youth-Festival-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:08:41Z",
+  "remote_folder_id": 1753673,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124750",
+  "tmdb": {
+    "tmdb_id": 1142092,
+    "title": "Youth Festival",
+    "original_title": "Youth Festival",
+    "release_date": "2023-05-26",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "Two rival colleges and their tussle to win the Youth Festival. Is winning everything? Or are some values still left in our society?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/svSqe2TmUQcVliXBuegkAWhQPx6.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124750",
+    "status": "U",
+    "etag": "Dop8aqfJ8+RgfzP6DHNm0A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124750",
+          "url": "/sapi/download/video?action=get&k=S-BE7XZxQhp1cpTJ8gXHt0tcoMoKMtVt_xmkxDKpN0u9fNWLvvjE2zGKrMnQ0p_GIE-VIOK5P9POolw4TpX31c3eqR6ND339opMO6YfzJDruUxpReOLvkSwmQ9uQLhOXX8qm5QpLIymV1UwZ7g5cad3CgOszdHvx_pdLFALvy_0anD9Te9A&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=XTDaCRyVyZO5lfUu3DBGl48g74-5AoodiFhxH2EXN4S-XdHnUwgewU_m5N9mfc4xIGD-CgFU8v5ElwZ_8BIM7UmDH1X1tRUDsdLPPfMbJZwdio0wwTQAGZHRBH0muCTCC7q8SCCb0nOFzwq1Rb9KsyOvJloZYfcgUTQesj2JlptKXSHrwQSftQl0Nr0XDfD_GiQ&node=1i204",
+          "date": 1777835319975,
+          "creationdate": 1777835245000,
+          "modificationdate": 1777835245000,
+          "uploaded": 1777835306966,
+          "size": 372823868,
+          "name": "Youth-Festival-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7015708,
+            "bitrate": 425130,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_FruG6zJbzUGbWVjl3t6Z3C6BGUQ9rahzBaI4CXYinRE6JuJnoGKQNtji3XwbOhoASukIO0V8w0G9EerJCwTKwNKHRyGO2h7TNQU3KI-sVyXCFYmEsZgtfEAefVw-ly0Nh5qflFUQhB-8ssrwMYWFeG5G-kLSCyfFifweSuJEESG6RTrKq6r0E2Qf2U9xvKlTLI&node=1i204",
+              "etag": "0Dop8aqfJ8+RgfzP6DHNm0A=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=XTDaCRyVyZO5lfUu3DBGl48g74-5AoodiFhxH2EXN4S-XdHnUwgewU_m5N9mfc4xIGD-CgFU8v5ElwZ_8BIM7UmDH1X1tRUDsdLPPfMbJZwdio0wwTQAGZHRBH0muCTCC7q8SCCb0nOFzwq1Rb9KsyOvJloZYfcgUTQesj2JlptKXSHrwQSftQl0Nr0XDfD_GiQ&node=1i204",
+              "etag": "0Dop8aqfJ8+RgfzP6DHNm0A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Dop8aqfJ8+RgfzP6DHNm0A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835320053,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/tKHQBHJcTDyvwgsg9v_QyTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Youth Festival (2023)",
+  "media_kind": "movie"
+}
