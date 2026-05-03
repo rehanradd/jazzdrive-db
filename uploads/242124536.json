@@ -1,0 +1,83 @@
+{
+  "name": "Aate-di-chidi-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Aate-di-chidi-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:38:53Z",
+  "remote_folder_id": 1753575,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124536",
+  "tmdb": {
+    "tmdb_id": 564354,
+    "title": "Aate Di Chidi",
+    "original_title": "Aate Di Chidi",
+    "release_date": "2018-10-19",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "An expatriate Punjabi family heads to India after years of being away from their homeland. While the elders long to return to their roots, the young ones in the family are not too keen on this homecoming and hope to return to Canada soon. As both the generations vie to prove their point to one another, a hilarious series of events ensues.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/bRLbp9WcCShF071fWxiHdmFT3HD.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1xV3WVBEbwY6fSPksceHJLnG7TF.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124536",
+    "status": "U",
+    "etag": "1Fq7XXEdOci1ewGa7268NA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124536",
+          "url": "/sapi/download/video?action=get&k=vjZd-o3efoaoamgwePQDQdF2EW7EYvbfZyx_cmH33klF0lKhsI9Jz5MRCiJL0oeD2FPQxO7XAf4r8HChIKUvpbPiaqjlvITAVb7wXngW8s4NjIlx8z4UQp8KP4clb4HJZKMX8HRa7wbYj91XnajOLGiAocdS5mP5T3GbJ8zXQkHTQfIrMPQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=BE63PcuHJjaohbuHFgb3qRjox5lreAZ3X90gz2_6W4a3nGk9FS5AkM71emDMwpUq7oGVv7oxgQtA4iuXCmrD5gsNVctnCzpDiUQ_T1jW1A_iJpRB_P-GO2C7RcyQw-02C1wzJ4bd-U0vkzpYHtu8C6TcbRmx5oZKp3lgmAILBzAEVyFQYTI5JqJczFQ2nqTRqGQ&node=1i204",
+          "date": 1777833533011,
+          "creationdate": 1777833418000,
+          "modificationdate": 1777833418000,
+          "uploaded": 1777833519431,
+          "size": 435114097,
+          "name": "Aate-di-chidi-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8202111,
+            "bitrate": 424392,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=FJdhUIlqTEE-4xoVxDpSowMbsAxITiGi5NQTZXgJT3ZUpfiTY8pmlJ_oFkHpGc3z0c1K8MoiLzpkyKkaPlUGQ5PIHOwAtSQ7jTZdRinZnp52KQqIrHq2L-wFagel_T9nUx3QubQfguSC4uMziXYglVB5guMcwoD-L60YCZBduUtjDjnE_6BDPN4Ck5UcWaPJGSQ&node=1i204",
+              "etag": "01Fq7XXEdOci1ewGa7268NA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=BE63PcuHJjaohbuHFgb3qRjox5lreAZ3X90gz2_6W4a3nGk9FS5AkM71emDMwpUq7oGVv7oxgQtA4iuXCmrD5gsNVctnCzpDiUQ_T1jW1A_iJpRB_P-GO2C7RcyQw-02C1wzJ4bd-U0vkzpYHtu8C6TcbRmx5oZKp3lgmAILBzAEVyFQYTI5JqJczFQ2nqTRqGQ&node=1i204",
+              "etag": "01Fq7XXEdOci1ewGa7268NA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "1Fq7XXEdOci1ewGa7268NA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833533068,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/IFcVSV9DQxmlO91JnyuPRTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aate Di Chidi (2018)",
+  "media_kind": "movie"
+}
