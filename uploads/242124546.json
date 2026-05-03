@@ -1,0 +1,82 @@
+{
+  "name": "Khido-Khundi-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Khido-Khundi-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:41:34Z",
+  "remote_folder_id": 1753583,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124546",
+  "tmdb": {
+    "tmdb_id": 539142,
+    "title": "Khido Khundi",
+    "original_title": "\u0a16\u0a3f\u0a21\u0a4b \u0a16\u0a41\u0a70\u0a21\u0a40",
+    "release_date": "2018-04-20",
+    "year": "2018",
+    "rating": 7.0,
+    "overview": "Khido Khundi is an inspiring story of 2 brothers and narrates the love for hockey in Punjab.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rvxqoT6qEKRPPx1SqA6OpDXcB23.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ryNSgoyeNCVqIJazc9fulxbk6lo.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124546",
+    "status": "U",
+    "etag": "2nEzs9ZJeH7Zxdv2pEULDA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124546",
+          "url": "/sapi/download/video?action=get&k=VvToBf5InmgPznaOW-kS-qlxAf9pfAbJkUMfm3aNLRlYZYgaq6mF_RvqAPHP_vk39zcDFrhrXcZ3FC8sayJAfDO6TbKYFBfuEKqLnrH3ZUtX_LSMyhtCZ_FScMorFa1Izr_WY1L9lXMAh6Vwi8fFaCvmjV13UhWV3Vjvv0xuxNduxyiT-xU&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=d7r2hf6dIIBp-VwNfcmRurqKkXy397DI7DEiaF0UPOW-c-9IayOGSABw8_YhOFoZCiIbMQVRw047oHwE2kcgf88mbXH5z8GaX0e59VfYvgWF7hh-hWw3jKshUW-mn2Cv_ontvjyoiqfohXbsY_Pi9ewWLGL0pLTrwAdHZ8nn40pvmGP6SYBSl5YLU9eihHBQ9Ug&node=1i204",
+          "date": 1777833693571,
+          "creationdate": 1777833624000,
+          "modificationdate": 1777833624000,
+          "uploaded": 1777833676862,
+          "size": 481152777,
+          "name": "Khido-Khundi-2018-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 9030480,
+            "bitrate": 426247,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=SDgtj2U7NWJfxadul0OuHU46GsOehjN91m2ybYiouN8wSvmX0iyBZQSHMhbTxTYszDGjZQZ7vli0sl4souWRI_EpJNaumoZ3QYwWZb0WdvXJokSeYCPysmTrphf47HkZBCLRUfjh5BNVzCvy3X4LJ6R6JJPap74e9GfDVkA3bLUYSSAPBh_1v0Ukt1zHMB5K_zM&node=1i204",
+              "etag": "02nEzs9ZJeH7Zxdv2pEULDA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=d7r2hf6dIIBp-VwNfcmRurqKkXy397DI7DEiaF0UPOW-c-9IayOGSABw8_YhOFoZCiIbMQVRw047oHwE2kcgf88mbXH5z8GaX0e59VfYvgWF7hh-hWw3jKshUW-mn2Cv_ontvjyoiqfohXbsY_Pi9ewWLGL0pLTrwAdHZ8nn40pvmGP6SYBSl5YLU9eihHBQ9Ug&node=1i204",
+              "etag": "02nEzs9ZJeH7Zxdv2pEULDA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2nEzs9ZJeH7Zxdv2pEULDA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833693638,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Bk9qHVqDQQen5wNGHkSfMDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Khido Khundi (2018)",
+  "media_kind": "movie"
+}
