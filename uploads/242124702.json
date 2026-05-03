@@ -1,0 +1,82 @@
+{
+  "name": "Munde-UK-De-2009-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Munde-UK-De-2009-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:56:30Z",
+  "remote_folder_id": 1753632,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124702",
+  "tmdb": {
+    "tmdb_id": 17601,
+    "title": "Munde U.K. De",
+    "original_title": "Munde U.K. De",
+    "release_date": "2009-05-08",
+    "year": "2009",
+    "rating": 6.2,
+    "overview": "This is the story of two British born Punjabi boys who visit Punjab for the first time and fall in love. They find it very difficult to win over the girls here because of their typical British attitude. It is very interesting to see how they adopt themselves to Punjabi traditions and win over the hearts of everybody. Their interaction with Punjabi youth is very entertaining as humor comes out.....",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tsdg6hoRAKtNxaX6IxL5lXcHeRl.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kMyWrO8fDfmviPDiEw8Ol4wdVrg.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124702",
+    "status": "U",
+    "etag": "tI+MGuMiRtCikoBLTyjH0A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124702",
+          "url": "/sapi/download/video?action=get&k=EuajLb7DcgrTAEhUNN8MzyXEHDKZCnfcgWKM8eWWnd_f_vQt_GXsdq9A33txmu6sJufySZvzzCgS0pDp8kKB5ABQbbQPaRpghc9X2swz9HKx62UKaKeRaA2v6qt8MP3nQ0hY_FwsWfNphyNEhMcNlPUbmm7q_BzsVU9ge_WVYYcxfifIKN0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=xKa1LYlOgpTLgrELk32p0xxv3EFw5w5e1WrU-F-GvKcJzG_gVibBKQCW83zaX9yHlK58Nd3pIh1iNC7bjPTFX1a4cV1YAJEOHScqm-62SZVEWw__SOYM0b2kybnjalUzxcUjPBR3hypjoJPSIE3MWZC5VHporlLdoMdl33BIZlGcSDLKMyUTnDxuQZp4O14SkCo&node=1i204",
+          "date": 1777834589253,
+          "creationdate": 1777834504000,
+          "modificationdate": 1777834504000,
+          "uploaded": 1777834572417,
+          "size": 459231139,
+          "name": "Munde-UK-De-2009-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8590450,
+            "bitrate": 427666,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=u6BpH8kmpsf16N6k4TDi3DHwYALFNWSR2ccrwgfF66xRd0oH6RE-CFvl9fiEDHBAtEeQT78r7QSLGN_opcR0ALTbzV1nKjhEVvOzE_NkTPYsM8UnLZBfhd7kPJW9Nev0sAqLZV2lFz4TSkGuZziOrXSyTAGQ2tjWlY-F1C1engEGZu7R0As6cOYTHoCm1Mv2f8w&node=1i204",
+              "etag": "0tI+MGuMiRtCikoBLTyjH0A=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xKa1LYlOgpTLgrELk32p0xxv3EFw5w5e1WrU-F-GvKcJzG_gVibBKQCW83zaX9yHlK58Nd3pIh1iNC7bjPTFX1a4cV1YAJEOHScqm-62SZVEWw__SOYM0b2kybnjalUzxcUjPBR3hypjoJPSIE3MWZC5VHporlLdoMdl33BIZlGcSDLKMyUTnDxuQZp4O14SkCo&node=1i204",
+              "etag": "0tI+MGuMiRtCikoBLTyjH0A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tI+MGuMiRtCikoBLTyjH0A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834589315,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/w9FmvL41SByfHVj2nhKU8zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Munde Uk De (2009)",
+  "media_kind": "movie"
+}
