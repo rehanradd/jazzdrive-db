@@ -1,0 +1,83 @@
+{
+  "name": "Honsla-Rakh-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Honsla-Rakh-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:06:12Z",
+  "remote_folder_id": 1753661,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124734",
+  "tmdb": {
+    "tmdb_id": 879337,
+    "title": "Honsla Rakh",
+    "original_title": "\u0a39\u0a4c\u0a02\u0a38\u0a32\u0a3e \u0a30\u0a71\u0a16",
+    "release_date": "2021-10-15",
+    "year": "2021",
+    "rating": 6.3,
+    "overview": "A single father attempts to find love and a mom for his 7-year-old son but crosses paths with his ex who returns to the city after a long gap.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2qyTW8y0GR2LNgSbPUZfbbxXPyy.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1BN7dEPtyX4HH8sNDyY6t1Y3ApB.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124734",
+    "status": "U",
+    "etag": "EURuP93FpyVkxUgUoBmDdw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124734",
+          "url": "/sapi/download/video?action=get&k=RxSl4BcZhbodsEjdMQMxtz60F7_5gLp-utwms7iCC_fJp14-FJZ5bZV4yjglrMon3v29RPDaeihObpm0MBvlJMBna5Wx2m1eshFi3JStxw_tJkcw5F_dO078fN5z06h0n-unv9jQkozvGvT_gLsKq4acsmaJ6Ea0GK0o5KjXjSSTkMF7Yos&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=JOKKTEVylX4DdZqn23diduTb0tuUASSFB-te5GKapE0Jaxlwfhl3Ws1Nd4bDygVKvKR3G15FTj-BHiFPvQ0pGYmT4e82Yj0YH-lsQz5hI2UpspRSsmJ4Zn94_z9hu3oShjK4fyPUwpYDM6VLbP2wHPQWQUOL9_vLK3UFFP7mH9w_MoWVL2EhUbORbSW-MX-8-7E&node=1i204",
+          "date": 1777835171506,
+          "creationdate": 1777835063000,
+          "modificationdate": 1777835063000,
+          "uploaded": 1777835156480,
+          "size": 460040234,
+          "name": "Honsla-Rakh-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8700117,
+            "bitrate": 423019,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=s152ebLMWcdOoxgBSVCTKzqi5qIPJroiCoRvhP23RD1liMckDtdxPGTfM3zeQYFmRK19Ad3crP3hto-8zcq6NMUSSHsrWpxSnn7to8J7vKS2y5VtuUyen8ys0ufx2QXZASaRrwdnUzpkHPmExO_0796Vsw00qqwxHIZ_jE92gVmju2BxmgwhQTcLz4bE0StegDE&node=1i204",
+              "etag": "0EURuP93FpyVkxUgUoBmDdw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=JOKKTEVylX4DdZqn23diduTb0tuUASSFB-te5GKapE0Jaxlwfhl3Ws1Nd4bDygVKvKR3G15FTj-BHiFPvQ0pGYmT4e82Yj0YH-lsQz5hI2UpspRSsmJ4Zn94_z9hu3oShjK4fyPUwpYDM6VLbP2wHPQWQUOL9_vLK3UFFP7mH9w_MoWVL2EhUbORbSW-MX-8-7E&node=1i204",
+              "etag": "0EURuP93FpyVkxUgUoBmDdw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "EURuP93FpyVkxUgUoBmDdw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835171569,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/6FKEaBt_SdmbPGhKbtsqNDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Honsla Rakh (2021)",
+  "media_kind": "movie"
+}
