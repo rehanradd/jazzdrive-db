@@ -1,0 +1,82 @@
+{
+  "name": "Saadey-CM-Saab-2016-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Saadey-CM-Saab-2016-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:52:58Z",
+  "remote_folder_id": 1753620,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124587",
+  "tmdb": {
+    "tmdb_id": 391756,
+    "title": "Saadey CM Saab",
+    "original_title": "\u0a38\u0a3e\u0a21\u0a47 \u0a38\u0a40.\u0a10\u0a2e. \u0a38\u0a3e\u0a2c",
+    "release_date": "2016-05-27",
+    "year": "2016",
+    "rating": 5.5,
+    "overview": "The film centers on three friends who dislike politics, and the problems when one (Harbhajan Mann) becomes chief minister.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wIa3XLbqBc4a9BkTMPp0nMkoXKh.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124587",
+    "status": "U",
+    "etag": "DBRnN4UaYq6cpvxw+USOPw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124587",
+          "url": "/sapi/download/video?action=get&k=3cYR1wTPiJ95M_nBTww_ytbgglF9hKk5sIeZdcqmGZ4BfwLN3h-IEzS9PqjKeOxz8GXI9RjkWLMBs5uXkjvXfvevmiodxhCoKcYgGY2aMT5IpPl3_lMH7A27_EE9Z25eq0v0StI0iI-K9Remj4ianYEsY9LMcMS7opm0MRWIMMLhY5JcjvE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=4yuffJwe6cNe144sUVkdb-m83ACTpcYT87hPcJeK6LKW3g-U3CFx2qymAwHv2vudysA2werLyUHuKjnKzF8wPv9YcdnrALHKdhrm4LKt5W34fWRFGj2tIudiycTMfJjLJdJg-3PXMeWfJtZ3GlruLs1opGIqbrRPkjLBVplR7GlJPYDM2i5UBXo-OdecDrUW4iE&node=1i204",
+          "date": 1777834377039,
+          "creationdate": 1777834280000,
+          "modificationdate": 1777834280000,
+          "uploaded": 1777834353978,
+          "size": 417913734,
+          "name": "Saadey-CM-Saab-2016-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7911352,
+            "bitrate": 422596,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=sKb9aSTQOWwFSljoEYhilPnwFv7lXmRB8RYzkLwGzxiqTZrbGV2dSqv6D93GO8BwP8yX6UBShmO4erXacf0z9o8ySe6Emms1gtF74HN2J2R9YRKf2rLgxxxoHHuruQNC-OyAOu2_4RIcbX17ybTnFQVlAIsN6dneBGvFNV9ubeZ-sHv0IEjl16Fp9Djdyldt928&node=1i204",
+              "etag": "0DBRnN4UaYq6cpvxw+USOPw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=4yuffJwe6cNe144sUVkdb-m83ACTpcYT87hPcJeK6LKW3g-U3CFx2qymAwHv2vudysA2werLyUHuKjnKzF8wPv9YcdnrALHKdhrm4LKt5W34fWRFGj2tIudiycTMfJjLJdJg-3PXMeWfJtZ3GlruLs1opGIqbrRPkjLBVplR7GlJPYDM2i5UBXo-OdecDrUW4iE&node=1i204",
+              "etag": "0DBRnN4UaYq6cpvxw+USOPw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "DBRnN4UaYq6cpvxw+USOPw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834377109,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MC5Ij3LTRtae6FGzL_hTTDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Saadey Cm Saab (2016)",
+  "media_kind": "movie"
+}
