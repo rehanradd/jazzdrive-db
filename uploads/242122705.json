@@ -1,0 +1,82 @@
+{
+  "name": "Anaganaga Oka Raju (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Anaganaga Oka Raju (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:48:15Z",
+  "remote_folder_id": 1753452,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122705",
+  "tmdb": {
+    "tmdb_id": 1407432,
+    "title": "Anaganaga Oka Raju",
+    "original_title": "\u0c05\u0c28\u0c17\u0c28\u0c17\u0c3e \u0c12\u0c15 \u0c30\u0c3e\u0c1c\u0c41",
+    "release_date": "2026-01-14",
+    "year": "2026",
+    "rating": 7.333,
+    "overview": "A lazy, entitled brat who wants to lead an easy life is in for a rude shock that changes the course of his life.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iCzGY1JD4DXqAjDKhsesKzs9vdK.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sqmkeZ3bdfIrnYV6azaNdIyTS9w.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122705",
+    "status": "U",
+    "etag": "GFXdnzsDQPT94IXEBYEvjQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122705",
+          "url": "/sapi/download/video?action=get&k=YhHzcW_PlnsnwJLt0k3dhNfQU5NESUqscPJ5qwzJoydNfSjb3U_YUj2UoD_PK60vcDm9Oin0R6bMltiCxU4R476DkXpaKbIhgCl4VEWLZcDT3lO0tWJWPDg_D6OV_vnOc951qTe3tE1EPN1YJla0NhQuLyH2W1iDuosYuheRS8hsxE-SAfI&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=1D4xwfuablN2vbYkg44rnCnTon4vE1CBmo8hqNN5JzLhrt8pB2QuBm6HwMorN3xSoc02cIQp2je3HG5GqJvz7zE8xrSdcCC23tjhEpZLuaTw9tCzDwSgWYU9-HufaVmajfdy62nZI9hkfby3al-e-wKCoxGz4jFEdYEXkvaughtjSbgODg4vy-_76lgymseljCc&node=1i204",
+          "date": 1777823294772,
+          "creationdate": 1777822903000,
+          "modificationdate": 1777822903000,
+          "uploaded": 1777823243633,
+          "size": 1446738376,
+          "name": "Anaganaga Oka Raju (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8784382,
+            "bitrate": 1317555,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=KmZuw6hdRzvFoWrRJxl178JcnD-HElcFSgOziPJpLKAM-c4_mn3Khj4npZviQOvyqO8hajr3YPM_1cestHwkHbKEhqhyLEnOW_t5gv-7aozIrrxyQzikhyQsTY_tpaWPxW0xViqI4ImLY8hnK1KoWpQfg--0fhiOGDbFnHExFTW8PzH_70L65HJUdyYmpBJLBg8&node=1i204",
+              "etag": "0GFXdnzsDQPT94IXEBYEvjQ=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1D4xwfuablN2vbYkg44rnCnTon4vE1CBmo8hqNN5JzLhrt8pB2QuBm6HwMorN3xSoc02cIQp2je3HG5GqJvz7zE8xrSdcCC23tjhEpZLuaTw9tCzDwSgWYU9-HufaVmajfdy62nZI9hkfby3al-e-wKCoxGz4jFEdYEXkvaughtjSbgODg4vy-_76lgymseljCc&node=1i204",
+              "etag": "0GFXdnzsDQPT94IXEBYEvjQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "GFXdnzsDQPT94IXEBYEvjQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777823294833,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/0WPonEY7RziWZBpjV9QWZTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Anaganaga Oka Raju (2026)",
+  "media_kind": "movie"
+}
