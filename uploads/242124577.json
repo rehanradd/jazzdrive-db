@@ -1,0 +1,79 @@
+{
+  "name": "Motor-Mitraan-Di-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Motor-Mitraan-Di-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:49:37Z",
+  "remote_folder_id": 1753613,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124577",
+  "tmdb": {
+    "tmdb_id": 466391,
+    "title": "Motor Mitraan Di",
+    "original_title": "Motor Mitraan Di",
+    "release_date": "2016-12-30",
+    "year": "2016",
+    "rating": 7.0,
+    "overview": "This is a comedy portraying the antics of three brothers - Paaji, Rajveer and Ravi who get involved in a situation which exposes the truth of Dera Babas and the events happening in their ashrams in Punjab.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xVjNTw4XAPkNAnnRMGtAiKg6xni.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124577",
+    "status": "U",
+    "etag": "/a3CF1o9tTVKZ/RHPUr08w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124577",
+          "url": "/sapi/download/video?action=get&k=4aNNNH2tmBlxrrq1_SqElIVyAgMb834uTKnMUJAjPaMwCX0bVKYx-Dh-_uHa2bG5P9Q7wz0WQIldtlt8SzWZsigBt1fD2IQXqVZfGbW5Fgk4T6nkYe1LQIWsWUxfjY-Kk_Wv9y0uG37VOjWxspZUT0t2oPQL47pRcfFL0AdTA-y8mVZ7GX8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=dMTXIjkv0bHBmrgv3FVOV7yUI2dKHj6FhND9OdhCtbwRLuBRw19T9pM7ytcR17aFDId9-RzxsXDtkHLVXJ4SKD0fa4Ki-SpLrYCW_H61FHQgg43EcZxBUUdk2nuF7X-VzklY0i8Leq8xnks-kiKS99xXU38TNbYHA43CJ6MVNsx2-m4Cms_AtP4RVvsfoZax6_4&node=1i204",
+          "date": 1777834176550,
+          "creationdate": 1777834138000,
+          "modificationdate": 1777834138000,
+          "uploaded": 1777834164487,
+          "size": 378759269,
+          "name": "Motor-Mitraan-Di-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7026728,
+            "bitrate": 431221,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=7rXxnwudPRJb2ZDc_QPpLuBncVi-gFEYhxpXO5KHkQ9DSxFoNlM0-3rZ4U85CJY86nunl9VgVQTyoeN2YYdcHCJeKr9vsh3-Kyei5__s8Z3QomqBU8TpzIiRa8Cp2GU00PD7Pde2v5hgGRwskt8mkmnG04odVWcqV2m8pDwl1ffUCn1AXZaOb2a2p29IRLJia7E&node=1i204",
+              "etag": "0/a3CF1o9tTVKZ/RHPUr08w=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dMTXIjkv0bHBmrgv3FVOV7yUI2dKHj6FhND9OdhCtbwRLuBRw19T9pM7ytcR17aFDId9-RzxsXDtkHLVXJ4SKD0fa4Ki-SpLrYCW_H61FHQgg43EcZxBUUdk2nuF7X-VzklY0i8Leq8xnks-kiKS99xXU38TNbYHA43CJ6MVNsx2-m4Cms_AtP4RVvsfoZax6_4&node=1i204",
+              "etag": "0/a3CF1o9tTVKZ/RHPUr08w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "/a3CF1o9tTVKZ/RHPUr08w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834176611,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Pffa3fEHR32YLxm8Io-m6zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Motor Mitraan Di (2016)",
+  "media_kind": "movie"
+}
