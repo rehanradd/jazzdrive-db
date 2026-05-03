@@ -1,0 +1,68 @@
+{
+  "name": "Dheeth-Jawaai-Te-7-Salian-2-Rano-Da-Viaah-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Dheeth-Jawaai-Te-7-Salian-2-Rano-Da-Viaah-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:05:55Z",
+  "remote_folder_id": 1753664,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124741",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124741",
+    "status": "U",
+    "etag": "zI0bGsYoViWGRBQZ9/aS7w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124741",
+          "url": "/sapi/download/video?action=get&k=wwsIi6bkHHf9ndbaO-PupGaQo8HB0OtUqnJ_70oHuHE0d0gmkvW5ZN8fntrpj4AhmXvnqbur4U_NXHMeDqkhKws-z8_Z04GPL-VM2E2tySzLg5s1LY6bPyWBEvYg6d-7DZOjwBkW687X9hjXudKX7it0vR4I_EwSvM7rbfTfMgYf57sSV7U&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=Xe1COQvnfXgg0smUj4xf-B46Yqcy2WqZM6l-pwg3F0rgmZKEhNE2r1BjaP8ireG9D_dOlHcllWcZ60yfNV-MzFc3yVvgBzr-fG9iA8QP3eArz7TEOeooufMru5ojbKGL1UX9NJ2r-y7ANK_-M1jBBbuF5nGtkm96fsDLJAWadxVbXPlMF9a7AjdXcgqO7W_q4H0&node=1i204",
+          "date": 1777835153242,
+          "creationdate": 1777835125000,
+          "modificationdate": 1777835125000,
+          "uploaded": 1777835146859,
+          "size": 186248820,
+          "name": "Dheeth-Jawaai-Te-7-Salian-2-Rano-Da-Viaah-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 3527360,
+            "bitrate": 422409,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=CyofPW_aOBSFkWy3G_1nouKUHTXoGE-bkWF0Q36crbMJz09nWUQ7wT9EAslLipVnX0HxiJGr6InIap9lzvFrpsBMZF404H-1cloGfagtlHvPt8zHlZkX2cSAvsvmx7DNDkwpZ2iLuzP8cBLJla76TVVrdL1H4kstSRiYpZzV8kyKl67vPc5Sw2kKP6OVfYNfa30&node=1i204",
+              "etag": "0zI0bGsYoViWGRBQZ9/aS7w=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Xe1COQvnfXgg0smUj4xf-B46Yqcy2WqZM6l-pwg3F0rgmZKEhNE2r1BjaP8ireG9D_dOlHcllWcZ60yfNV-MzFc3yVvgBzr-fG9iA8QP3eArz7TEOeooufMru5ojbKGL1UX9NJ2r-y7ANK_-M1jBBbuF5nGtkm96fsDLJAWadxVbXPlMF9a7AjdXcgqO7W_q4H0&node=1i204",
+              "etag": "0zI0bGsYoViWGRBQZ9/aS7w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "zI0bGsYoViWGRBQZ9/aS7w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835153301,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ZzsUHWhoTJe-YdseIObhtTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dheeth Jawaai Te 7 Salian 2 Rano Da Viaah (2021)",
+  "media_kind": "movie"
+}
