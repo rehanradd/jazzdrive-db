@@ -1,0 +1,82 @@
+{
+  "name": "Yaar-Annmulle-2-2017-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Yaar-Annmulle-2-2017-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:42:41Z",
+  "remote_folder_id": 1753589,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124552",
+  "tmdb": {
+    "tmdb_id": 435592,
+    "title": "Yaar Annmulle 2",
+    "original_title": "Yaar Annmulle 2",
+    "release_date": "2016-12-23",
+    "year": "2016",
+    "rating": 10.0,
+    "overview": "The college capers of a hilarious trio drive the story.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jnYZVYtGHlPIfrRdjZFdzTfzopJ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/byOAnX6ehsrRdE05OVGKC7jjxa9.jpg",
+    "genre_ids": [
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124552",
+    "status": "U",
+    "etag": "Sl8z/6rqcnRmij2Fn0BA5w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124552",
+          "url": "/sapi/download/video?action=get&k=hl8UhlTKILUEg6W4Pi_U_K4p0ZtifZcEsMXO6ytdkfqZmnTpYCnIIrLtffWDQT9R_HdfFY8y0MMeeECLPsW_PyoFGKK6fZOP73Rr8lt7P-Cd0VRW-SH020n7KOg0rLX6AVr8OybkCXTqQGMGzpqTIuNPHnZudAH_zqEv9rifEeTdDy1zcHQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=3Gx8duuS51U9ojjYe217oawgFX1lh0L0O4EiwYbnMadnrZv6mri0szOvQ9YSSDxQOAZDVlbRdzjXaDe00xWkv0QBNw-hC746tk-ZOD1JKiQvY3IsxpH9lqUzulF-FQ3PlFfL4L021myh46WTNNErnjLlqYCY1evK1oksCKqySguhIND9f-kI5IFg3P-zTaW_sBg&node=1i204",
+          "date": 1777833758684,
+          "creationdate": 1777833715000,
+          "modificationdate": 1777833715000,
+          "uploaded": 1777833745465,
+          "size": 376654756,
+          "name": "Yaar-Annmulle-2-2017-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7084812,
+            "bitrate": 425309,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=HxPg_854Gm-JMAbb9Kr4l-NeiDLIhy3d9A7jxUnVYHO7ARNheA-nr9CB7BN6nH9f2Hkj77VTJNdH_JDf8Ark2nhpb-maLmtlDFBbaL0s_vUWL91M0Yi1WnwSMSab5daTk8Vp4IERcXGk97bTXlP2Mwi703ixKVpfy-hktSkSJnZM0QDk0g7TnTK-s09yO1ezqUw&node=1i204",
+              "etag": "0Sl8z/6rqcnRmij2Fn0BA5w=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=3Gx8duuS51U9ojjYe217oawgFX1lh0L0O4EiwYbnMadnrZv6mri0szOvQ9YSSDxQOAZDVlbRdzjXaDe00xWkv0QBNw-hC746tk-ZOD1JKiQvY3IsxpH9lqUzulF-FQ3PlFfL4L021myh46WTNNErnjLlqYCY1evK1oksCKqySguhIND9f-kI5IFg3P-zTaW_sBg&node=1i204",
+              "etag": "0Sl8z/6rqcnRmij2Fn0BA5w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Sl8z/6rqcnRmij2Fn0BA5w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833758770,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/XBrHZRPlSIK0LaggZpSRvDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Yaar Annmulle 2 (2017)",
+  "media_kind": "movie"
+}
