@@ -1,0 +1,81 @@
+{
+  "name": "Butta-American-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Butta-American-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:04:10Z",
+  "remote_folder_id": 1753656,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124727",
+  "tmdb": {
+    "tmdb_id": 865346,
+    "title": "Butta American",
+    "original_title": "Butta American",
+    "release_date": "2021-09-25",
+    "year": "2021",
+    "rating": 0.0,
+    "overview": "Punjabi Romantic Comedy",
+    "poster_path": "https://image.tmdb.org/t/p/w500/cRHwpz4XdiNubku44ba1Jtivb1T.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124727",
+    "status": "U",
+    "etag": "iMxIMTdQlePW/4J6qqIeUQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124727",
+          "url": "/sapi/download/video?action=get&k=5aITjlxhEg_lDGUSKVQ5SO_-KXUY51DuVsFmvqd7bGgCnZya93_j84w4GApZSI731uLZ4ozPQzNuEP8Z5swSLGSrAtMOtVp0R-V2jjL5KopUlo4k-ej6DGDDczOpCTOr-OgnfEJr3czaGsVFrl8oo7fvVI386iVgYovrpfB_Y7Nv9_5cmeA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=-fQI8hJFceGlXK2vajqyJvrjO-t0zCKhjAVjzF_WAusT2XsGxjtd6tBBAE5_a4-cHYw5z_1u-fwRGncMDTFOB6mQYqKPRQIHxoC2rb6QqvUNvqtiJJsDtp940Fi70qzMSvnuV8RhoHoqX_5yRMBt34LrJmeqgKYHhDvxTRc6yGBioHZdbHeUtpoTyvHthXVN5Wk&node=1i204",
+          "date": 1777835035409,
+          "creationdate": 1777834978000,
+          "modificationdate": 1777834978000,
+          "uploaded": 1777835020143,
+          "size": 341004065,
+          "name": "Butta-American-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6458744,
+            "bitrate": 422378,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Iochm9BfWNgdqV0Lc_JF2QrR8tkw9vwK7NLeVAaNpBW-It-beYpwSEwSKMTErkXJlJKR11__D9iyHPMmsstsJk_X1ULihAK4O8OUAYfkIu1CPZ2yyzcPki0x8Iaxac4FXyXUP-6Rn3ekoIo7nYhxr6LARV1WLeTtcdCnQPly7W_ln8y3AlV0gmyTuC_w1VNw1uI&node=1i204",
+              "etag": "0iMxIMTdQlePW/4J6qqIeUQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=-fQI8hJFceGlXK2vajqyJvrjO-t0zCKhjAVjzF_WAusT2XsGxjtd6tBBAE5_a4-cHYw5z_1u-fwRGncMDTFOB6mQYqKPRQIHxoC2rb6QqvUNvqtiJJsDtp940Fi70qzMSvnuV8RhoHoqX_5yRMBt34LrJmeqgKYHhDvxTRc6yGBioHZdbHeUtpoTyvHthXVN5Wk&node=1i204",
+              "etag": "0iMxIMTdQlePW/4J6qqIeUQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "iMxIMTdQlePW/4J6qqIeUQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835035518,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/SAGmHyJOTwOu_19pMa6Rwjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Butta American (2021)",
+  "media_kind": "movie"
+}
