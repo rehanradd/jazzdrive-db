@@ -1,0 +1,81 @@
+{
+  "name": "Yaar-Anmulle-Returns-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Yaar-Anmulle-Returns-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:03:25Z",
+  "remote_folder_id": 1753655,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124726",
+  "tmdb": {
+    "tmdb_id": 680978,
+    "title": "Yaar Anmulle Returns",
+    "original_title": "Yaar Anmulle Returns",
+    "release_date": "2021-09-10",
+    "year": "2021",
+    "rating": 0.0,
+    "overview": "Deep returns to India to get married and meets his friend Guri. Guri reveals to Deep the truth about their friend Tinka, who separated from them three years ago. Will the three friends reunite?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kRtFTeB0uPbmh5PVlG2fl9MeXOU.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uWyF7B6IwzMl05geEhQtum2OLpT.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124726",
+    "status": "U",
+    "etag": "qWZU7YaZuGmOJJJUw13dug==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124726",
+          "url": "/sapi/download/video?action=get&k=NpB6kvBII_f2HnufrIqJnLY3J9my_1yxh_Ex2VUw2H5DA8gpTNZ2PMKS37_VkOhRMbLS1Je9trgOrkfoI8UAKy1K-9NPXEfCLHE6f2h0SrhNv9RN0jss8acGS6ngvQFaRJ-mpSTEjfPAA5AfTRQbDsUqHkyJlhRWhWJBUoX0zUsHfZ79U_w&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=wpd7G56Duy_IuH4Hpn_u4km_Av59FeEK1wwLpbM_zmJVsUZiZ9NLHuOPRh4n4IeC3OydTxBo9dl6XbHv7DoBaZCSYdXKxkuyU-aTdYTPunHru5pyncd-ZJD-U2CfpJQEjtCbpCiLnJoBei08b9UXuXkbQoMVfaKgzrQduGNXtGVi-gIJGaXNY2qtvKHfZ8RS4W8&node=1i204",
+          "date": 1777835004070,
+          "creationdate": 1777834944000,
+          "modificationdate": 1777834944000,
+          "uploaded": 1777834990072,
+          "size": 443500867,
+          "name": "Yaar-Anmulle-Returns-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8278122,
+            "bitrate": 428600,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=OFlV1PDk8DKzulWJ5b157fgRXFd1cKQ1Tkf5KYGxSsp0RHJe9s47tagHo0Ox68V12DxS4k3IsK3vflXxzm3kcCY__Gr3YSZdqI-TaAv4WYxCrJzmBG_JpHSFzvaWhXfuCx4q7Kd5LOOaLQ732pf2mRiuezeMG1a66D3bfO3sjjc3kaQlqD3GtMCeggrKB585QJQ&node=1i204",
+              "etag": "0qWZU7YaZuGmOJJJUw13dug=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=wpd7G56Duy_IuH4Hpn_u4km_Av59FeEK1wwLpbM_zmJVsUZiZ9NLHuOPRh4n4IeC3OydTxBo9dl6XbHv7DoBaZCSYdXKxkuyU-aTdYTPunHru5pyncd-ZJD-U2CfpJQEjtCbpCiLnJoBei08b9UXuXkbQoMVfaKgzrQduGNXtGVi-gIJGaXNY2qtvKHfZ8RS4W8&node=1i204",
+              "etag": "0qWZU7YaZuGmOJJJUw13dug=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "qWZU7YaZuGmOJJJUw13dug==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835004134,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/E7mRd1AcTcqFxVjmHBb5CTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Yaar Anmulle Returns (2021)",
+  "media_kind": "movie"
+}
