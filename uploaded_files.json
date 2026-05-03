@@ -1314,5 +1314,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "df8ccee0aa45f7ce92ef756253f0dd16033671c1641ca6f11073539a4ac6ab57": {
+    "name": "Arjun-Son.Of.Vyjayanthi.2025.720p.WEB-DL.Hindi..x264 [DDN].mp4",
+    "path": "D:\\New folder\\Arjun-Son.Of.Vyjayanthi.2025.720p.WEB-DL.Hindi..x264 [DDN].mp4",
+    "mediatype": "video",
+    "size_bytes": 1238925945,
+    "uploaded_at": "2026-05-03T15:55:52Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122711",
+    "remote_id": "242122711",
+    "remote_folder_id": "1753458",
+    "tmdb_title": "Arjun S/O Vyjayanthi",
+    "tmdb_year": "2025",
+    "tmdb_rating": 7.3,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/3AvCdsmYx6gZ83Bitd9n9ejDLyO.jpg",
+    "tmdb_overview": "Arjun, an IPS aspirant turned kind-hearted gangster, learns that Pathaan, a notorious terrorist, wants to exact revenge on his principled mother Vyjayanthi, an honest IPS officer, and sets out to protect Vyjayanthi and their bond is put to the test.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242122711\", \"status\": \"U\", \"etag\": \"p6TA1TfdhhNFF5yR5zk/fw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242122711\", \"url\": \"/sapi/download/video?action=get&k=MC8KpkhEPDlrzoT4rVm0mA5XCA3rwDI0P2lSXnJTjQtmd0jAZLIy_X3T2CZq8TDg7dMwtSIc3jasnQtuCWhzSA7cKv6gRqX6XQCQX_R82mdobsZ9sah-5tNZ8cDPpPdKCZGSHscFH90z-GlfIYw0U1zlxAY2eAUElLUBREIs51zgBlUwDlo&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=t7Xev0AeiDKG3J_dioyC03QySo6uLRajsr4Hij6--4iRVI12j83jYgCOEL9caNwydVWZkNRCMuRNwqbErcpU_H3-1b1uzMh4tSCN3vGGyAySfk_4lHRD63wEFoERXUpUEsTWSYUtT9KQumREBeVNdqWfwkIGFg0pLO-Tckk3lFvpCW6g0qH-qqynBcIn7cIx76M&node=1i204\", \"date\": 1777823751482, \"creationdate\": 1777823368000, \"modificationdate\": 1777823368000, \"uploaded\": 1777823689780, \"size\": 1238925945, \"name\": \"Arjun-Son.Of.Vyjayanthi.2025.720p.WEB-DL.Hindi..x264 [DDN].mp4\", \"metadata\": {\"duration\": 8192814, \"bitrate\": 1209768, \"codec\": \"h264\", \"height\": 534, \"width\": 1280, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 106, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=WogU_3ihYrNCacQFDaMAe9xFC_ID2GJ7Zy8lhtB4IpN5H-qE9EeaDAv3faBZ8hw4M42pbnp7UdZxqeEDi85-RuoWRsez0X9unQ-Y1wQDYK1Dqkmq7mRjqItVGDy7F5SRaUL5ZEOoX4adNjUglTmsigVRN0rbI38O-9EEM7XPNG7bC7xeop9NygseTavZD__a0Z4&node=1i204\", \"etag\": \"0p6TA1TfdhhNFF5yR5zk/fw==\"}, {\"w\": 1024, \"h\": 427, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=t7Xev0AeiDKG3J_dioyC03QySo6uLRajsr4Hij6--4iRVI12j83jYgCOEL9caNwydVWZkNRCMuRNwqbErcpU_H3-1b1uzMh4tSCN3vGGyAySfk_4lHRD63wEFoERXUpUEsTWSYUtT9KQumREBeVNdqWfwkIGFg0pLO-Tckk3lFvpCW6g0qH-qqynBcIn7cIx76M&node=1i204\", \"etag\": \"0p6TA1TfdhhNFF5yR5zk/fw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"p6TA1TfdhhNFF5yR5zk/fw==\", \"favorite\": false}]}, \"responsetime\": 1777823751542, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/6qp739VRQPWxOjBibbC__Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "66795",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Arjun Son Of Vyjayanthi (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
