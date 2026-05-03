@@ -1,0 +1,83 @@
+{
+  "name": "Kande-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Kande-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:39:49Z",
+  "remote_folder_id": 1753577,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124539",
+  "tmdb": {
+    "tmdb_id": 524158,
+    "title": "Kande",
+    "original_title": "Kande",
+    "release_date": "2018-05-11",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "Mehar is the village kabaddi champion that children idolize as a role model. With everything going in the right direction there is a chain of events that evolve to turn the tables for the worse. A feud that started between Jind Kaur and Chandu Pehlwan has put a target on Mehar's back to bear fruits.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5rgdryT5KOC6sLIzX9guRZJqGLs.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      35,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124539",
+    "status": "U",
+    "etag": "5RKrb5PkFElY0I9SItus/w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124539",
+          "url": "/sapi/download/video?action=get&k=LWkaLMhXrzlREmV9qn-rY9B8VpeNoteEXWpscm-Tx41kE2I-qIT3iaY657ei2gswVvklktts8qqVbW3XRoVwIsCe5o_vYlODv11bp3zU-d87vGXJLZLFFkBKTgn0KOEdDYTs7l2DMp1Rr6p1VD3c77-fOo1M5lao5f2qgUPDsjNSPC1ROsE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=_WgFX_w-xUwxoGXZ3UqRAAA3uAE1ioeaHdFdT3r8L1Xr1NNP5q6P7RU2LjEwcK8mNXbKpRCVsdh3olSCAaNudb4_wNQSEypRGG6rVPEl4WmwL0VAnd4D_eEo_SyRcdX2bJlyQ0isDYvBtDQ-MADDCYdwPAeGlsoTxsqm5Fh9WKlJGgyiy_ZhsC4a68B41IdOoEQ&node=1i204",
+          "date": 1777833588981,
+          "creationdate": 1777833505000,
+          "modificationdate": 1777833505000,
+          "uploaded": 1777833577553,
+          "size": 368635033,
+          "name": "Kande-2018-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6882488,
+            "bitrate": 428490,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=nJ09d4eQI7NSrDQBwH5-Y88BUrDbmqSw_HsE2TX1T5GO8l9ezH9zcGJb2BAmsnnR-HHjEUikaU6nfVdpqA-M4A38jQS7RfH5kJ2e3YAP7oPAT0L3BaLx9h6AY9C865m6SzlxADL5WqBjAJWohgLUSZUDyWPCz-UA6FjD1z3-j6s5fmH8HZvfKYGNOLajtt8XtX4&node=1i204",
+              "etag": "05RKrb5PkFElY0I9SItus/w=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_WgFX_w-xUwxoGXZ3UqRAAA3uAE1ioeaHdFdT3r8L1Xr1NNP5q6P7RU2LjEwcK8mNXbKpRCVsdh3olSCAaNudb4_wNQSEypRGG6rVPEl4WmwL0VAnd4D_eEo_SyRcdX2bJlyQ0isDYvBtDQ-MADDCYdwPAeGlsoTxsqm5Fh9WKlJGgyiy_ZhsC4a68B41IdOoEQ&node=1i204",
+              "etag": "05RKrb5PkFElY0I9SItus/w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "5RKrb5PkFElY0I9SItus/w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833589041,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/3jMu2-eiRSW-EbI4jhMZ8Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kande (2018)",
+  "media_kind": "movie"
+}
