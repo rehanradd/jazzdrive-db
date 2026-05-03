@@ -1,0 +1,79 @@
+{
+  "name": "The-Rule-2021-Punjabi-Full-Movie-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\The-Rule-2021-Punjabi-Full-Movie-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:07:11Z",
+  "remote_folder_id": 1753668,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124745",
+  "tmdb": {
+    "tmdb_id": 794992,
+    "title": "The Rule",
+    "original_title": "The Rule",
+    "release_date": "2021-01-01",
+    "year": "2021",
+    "rating": 0.0,
+    "overview": "Movie is regarding the working of policed of Punjab. This reveals the anex between the Police global level and politicians.Law and order position of the Punjab deteriorated due to disanexses. Second plot of the movie is regarding the owner killing intercaste love story overall the central agency CBI reveals all the hidden truth of the murder of a dalit boy and his finance girls from uppercaste.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7rUjsNTwVp2fOkDPajZW7IAVI2a.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124745",
+    "status": "U",
+    "etag": "HXdENiV3I0JWb1lR7dw4Wg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124745",
+          "url": "/sapi/download/video?action=get&k=9fHJym4Npdse1k0UagEK1gzN6kJq2yBlBfmVc4ym4h9cuNRpLFhhhkO77j91DlaB788CbtV7BYv8jSb9muoV9EyGqiQJ5E03q8X__5cod0ahMtv5JdNEr_SMgmQQK31oK4Fxq9kczpoYM5F3LWpTXfzZ40snnaU5E2yTzOKa3BJAmKKLrhg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=PZJLcexNB9w914ZldrcYOusxw42PIwlIKPcgpqqV73qJmoAvf8L5llLX2GX8l9w1IuDwpVGuz02YvpOtwQAHcnc7F9z6dbE9Dkv-Az3oXuF_FBAF7ZUNQChYZb5SGBnAB6oA_0OTiOEkwHuIthaDqstIkVCg7TW8S3fClKY7wRr0QGtKrfuutP8lO0ycRSAFeec&node=1i204",
+          "date": 1777835230126,
+          "creationdate": 1777835199000,
+          "modificationdate": 1777835199000,
+          "uploaded": 1777835222941,
+          "size": 207061475,
+          "name": "The-Rule-2021-Punjabi-Full-Movie-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 3906782,
+            "bitrate": 424004,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=MK1fAT6dXecidfqK80ikOr6rg0n3EzyvMq7SYvlSkY9efeEGj7JfNV47vgzR4Ir6ecIuiYq1U9B5pXMxMoKSYTw9peNiW_woFddBKO8iah0KctXFYykjefMHeZK7Ee0oV3CjFUDqOPjqtCrFLNryB3Qwi6B-YtUR_KdmHRaxBFBlyY8gxwKkUq-7YlpHCvlEGkc&node=1i204",
+              "etag": "0HXdENiV3I0JWb1lR7dw4Wg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=PZJLcexNB9w914ZldrcYOusxw42PIwlIKPcgpqqV73qJmoAvf8L5llLX2GX8l9w1IuDwpVGuz02YvpOtwQAHcnc7F9z6dbE9Dkv-Az3oXuF_FBAF7ZUNQChYZb5SGBnAB6oA_0OTiOEkwHuIthaDqstIkVCg7TW8S3fClKY7wRr0QGtKrfuutP8lO0ycRSAFeec&node=1i204",
+              "etag": "0HXdENiV3I0JWb1lR7dw4Wg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "HXdENiV3I0JWb1lR7dw4Wg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835230192,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MwOj0sFaRAKbvD_TGIoR-Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Rule (2021)",
+  "media_kind": "movie"
+}
