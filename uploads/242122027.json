@@ -1,0 +1,83 @@
+{
+  "name": "Aadi Shambhala (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Aadi Shambhala (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:09:56Z",
+  "remote_folder_id": 1753427,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122027",
+  "tmdb": {
+    "tmdb_id": 1558468,
+    "title": "Shambhala",
+    "original_title": "\u0c36\u0c02\u0c2d\u0c3e\u0c32\u0c3e",
+    "release_date": "2025-12-25",
+    "year": "2025",
+    "rating": 6.0,
+    "overview": "When a meteor crashes into the highly superstitious village of Shambhala in the 1980s, strange supernatural events unfold, forcing an atheist scientist to face an ancient horror-one that science can't explain or escape.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/toCKv7aKlAzYh0vyrrBZjuWGIMD.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1zo8aW25goAHkFB9DaWHp0aYb2v.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122027",
+    "status": "U",
+    "etag": "GLBpHOb1xrDukc60EVzxjQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122027",
+          "url": "/sapi/download/video?action=get&k=1zmdGU60G4MNCNHgNbTll_15b8tLfyskIpt62FylWJGtwyDVlWehshFOYCOAfLCYU12_7QeysBGHnuxm4GCvdjxu_xXV9jec1ICTZtPIE589xON2J5xgBD_BYWDV_wFqQEnUU1C4HgHt5k5YlbjRUCDde0sGjwE6Ho2hD98iwHW_RjL4JiU&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=C2G6yESFq_Y8_-Bw3XcGcojNkPhZjSbfxexNFIigizEg5WVpHO7-192yS1JDooiaq9ylUyydtYZBzP-fjF_iCVQ6x129DQaUTGIf13QrEs8uCEF8WIGsJsf-UMOm6FL_TE_5RLEy0X6vtE92r3UfB01TWyVHFsGy4lzydPO5g8W-zajbaFs5sSmpc57SykZmyV4&node=1i204",
+          "date": 1777820995521,
+          "creationdate": 1777820617000,
+          "modificationdate": 1777820617000,
+          "uploaded": 1777820906454,
+          "size": 1424188728,
+          "name": "Aadi Shambhala (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8663530,
+            "bitrate": 1315111,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=gWqiJ7e3DxEpHy0QUvg4aBMNWBeJkvdzvn-RfvMdRxtTbQnzxFzbMgKOsPJVi2vm6tRalxSOsmT3FCyyjd2Nif23arasbRogrTVReThMLbLiiZobLzWQbVd_twFfgx7uiu-A6NuNrM89IVe5R4XMHwAj9KdeXyNGQxUHlXbxVxCe9bFi4oidML6PGkLuA9HoMkU&node=1i204",
+              "etag": "0GLBpHOb1xrDukc60EVzxjQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=C2G6yESFq_Y8_-Bw3XcGcojNkPhZjSbfxexNFIigizEg5WVpHO7-192yS1JDooiaq9ylUyydtYZBzP-fjF_iCVQ6x129DQaUTGIf13QrEs8uCEF8WIGsJsf-UMOm6FL_TE_5RLEy0X6vtE92r3UfB01TWyVHFsGy4lzydPO5g8W-zajbaFs5sSmpc57SykZmyV4&node=1i204",
+              "etag": "0GLBpHOb1xrDukc60EVzxjQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "GLBpHOb1xrDukc60EVzxjQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777820995580,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/cU23cXzJROiv5M0G-8uIPzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aadi Shambhala (2025)",
+  "media_kind": "movie"
+}
