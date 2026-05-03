@@ -1,0 +1,81 @@
+{
+  "name": "Bullet Diaries (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Bullet Diaries (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:43:14Z",
+  "remote_folder_id": 1753489,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122776",
+  "tmdb": {
+    "tmdb_id": 938552,
+    "title": "Bullet Diaries",
+    "original_title": "Bullet Diaries",
+    "release_date": "2023-12-01",
+    "year": "2023",
+    "rating": 2.0,
+    "overview": "A Bullet motorcycle lover loses his bike and goes to find it.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rbe48zWn0ojleFnVP03xNjel03h.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nXMb91ZancqaLaphW23uhw9K9yz.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122776",
+    "status": "U",
+    "etag": "yDHXnBFLwO4uroymnjWUnw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122776",
+          "url": "/sapi/download/video?action=get&k=njfOiRpi2FWGKv2fsduriR8Ru9yRYpELS7bPk3j5XYA1SRqG31fQrEpK9XHi47XpilvUJurnUhlRLgsVcOlLkR79qprT5d0Iic_wmAxvueSJoMTd_rseHrSH9rUGNFu9SGR3INz7g1LB1L2sZ5FBTPoWYU6cD9MVY9TtT7tk_vwQCPTpafQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=XUTgQtRodlgZkS3XkS3drqdmWDXDm9ajTVKg8Rol0OV_OPOMCbHnfHn7s9i4ax3mUzo4OFVjboSk0qGRt2DrJpq3KJCCRKxgQsh7S3jGqRvCKJOF3wEDF6YOPfneLpUwevxjoiKdknjEl5zwBTsjoTG4MaMnyO6rm9hWbfvVQR7qxHk07DiOyYs1CfYMpO_juFI&node=1i204",
+          "date": 1777826593245,
+          "creationdate": 1777826365000,
+          "modificationdate": 1777826365000,
+          "uploaded": 1777826559279,
+          "size": 775089065,
+          "name": "Bullet Diaries (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6497834,
+            "bitrate": 954273,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=JNmNjMrROscZtVjg4iXHlUHo5v2Fwo5oj3br0bGHSOrhNbWeOwLYITs78yay43f83Tfk1U3ARvlIj7JgPw0N6k-Mp2RGizXNE_TI6iuiDL6qrabZULVX8V2iHRDqsgnFPEwzBEKA6d0nN3cL82fpFPPChxeGlOsxJBXxVfKvzbp7a_wUbRwTRzFz9wBlTo9L8Z8&node=1i204",
+              "etag": "0yDHXnBFLwO4uroymnjWUnw=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=XUTgQtRodlgZkS3XkS3drqdmWDXDm9ajTVKg8Rol0OV_OPOMCbHnfHn7s9i4ax3mUzo4OFVjboSk0qGRt2DrJpq3KJCCRKxgQsh7S3jGqRvCKJOF3wEDF6YOPfneLpUwevxjoiKdknjEl5zwBTsjoTG4MaMnyO6rm9hWbfvVQR7qxHk07DiOyYs1CfYMpO_juFI&node=1i204",
+              "etag": "0yDHXnBFLwO4uroymnjWUnw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "yDHXnBFLwO4uroymnjWUnw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777826593310,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pH-lkA3ARoCtGhABB_cR7jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bullet Diaries (2024)",
+  "media_kind": "movie"
+}
