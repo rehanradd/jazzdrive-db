@@ -1,0 +1,82 @@
+{
+  "name": "Nikka-Zaildar-2-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Nikka-Zaildar-2-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:45:01Z",
+  "remote_folder_id": 1753595,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124558",
+  "tmdb": {
+    "tmdb_id": 491821,
+    "title": "Nikka Zaildar 2",
+    "original_title": "Nikka Zaildar 2",
+    "release_date": "2017-09-22",
+    "year": "2017",
+    "rating": 8.0,
+    "overview": "It is a sequel to the 2016 film Nikka Zaildar. Set in the 80s, A man has an affair with his nephews teacher, but just before the wedding he gets married to another girl",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vdlCP4XQJ2S0E6q5r2OZ9TBXFvr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bH37I8FAgcRY9ZBoyVOJwG7k19Q.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124558",
+    "status": "U",
+    "etag": "NKr5jigFQm460XOOJd5Nvg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124558",
+          "url": "/sapi/download/video?action=get&k=LsY_zFbENHqZ6KfoKD-I4UtC0xoht9iShD1WiR-Cr769fUu901J91i5xg0QHgoZfbEpM1bWZMjZ1wqj--DTe_FXLQc3WAbJ9PcrJMkot059BxZankJohGrWzW0iiek8ot63uSogo27IcmQ2G7SYWDwzS3kBdod-VBgpNbwOewG2fB7n66sA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=JsoCsOY_2Vif5qTgsdPN8W_ZLRP1JjJHi4d-EVCDAKm5c-BmUqR8-ncqt1DaD-PaSa5RHS85o6_EnNfomqSU6GkJd-R8h7zVthjHOH-u2fYdBSf9Jkfyktd6rzBBmZCI5NyzQtzH67FeyVrUCoo1g8KUlsXz83USH8NC9r6eHKEPSfEKsq9e-CyyheTeFLXp1zQ&node=1i204",
+          "date": 1777833900617,
+          "creationdate": 1777833823000,
+          "modificationdate": 1777833823000,
+          "uploaded": 1777833880701,
+          "size": 432811114,
+          "name": "Nikka-Zaildar-2-2017-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8189967,
+            "bitrate": 422772,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=TBBeQkZEHsIzcpngOaYnqZez3R2iQiYbXA7cjEGi-2DZ7WJzJw7VsRZQWciq9PwVJu4Oh1d7rSm1L_jvnlkUk8qfCJPUNh1mDVC61d0BQKxM5RXI6oU6z1Kovk8RBu2Jd5Cia7hADCE-6nYok7T464wyQni1bnxdzzco8CmqrI2pwyesZoG5i_0ce4t3wIbaPTo&node=1i204",
+              "etag": "0NKr5jigFQm460XOOJd5Nvg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=JsoCsOY_2Vif5qTgsdPN8W_ZLRP1JjJHi4d-EVCDAKm5c-BmUqR8-ncqt1DaD-PaSa5RHS85o6_EnNfomqSU6GkJd-R8h7zVthjHOH-u2fYdBSf9Jkfyktd6rzBBmZCI5NyzQtzH67FeyVrUCoo1g8KUlsXz83USH8NC9r6eHKEPSfEKsq9e-CyyheTeFLXp1zQ&node=1i204",
+              "etag": "0NKr5jigFQm460XOOJd5Nvg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "NKr5jigFQm460XOOJd5Nvg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833900704,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/9SfsJ5x_REyj1c71jbsAOTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Nikka Zaildar 2 (2017)",
+  "media_kind": "movie"
+}
