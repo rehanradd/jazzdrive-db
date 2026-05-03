@@ -1,0 +1,83 @@
+{
+  "name": "Devaki Nandana Vasudeva (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Devaki Nandana Vasudeva (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:07:04Z",
+  "remote_folder_id": 1753511,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123419",
+  "tmdb": {
+    "tmdb_id": 1390695,
+    "title": "Devaki Nandana Vasudeva",
+    "original_title": "\u0c26\u0c47\u0c35\u0c15\u0c40 \u0c28\u0c02\u0c26\u0c28 \u0c35\u0c3e\u0c38\u0c41\u0c26\u0c47\u0c35",
+    "release_date": "2024-11-22",
+    "year": "2024",
+    "rating": 7.0,
+    "overview": "Haunted by an astrological prophecy, Kamsaraja relentlessly torments his sister's family, believing her child will be his doom. Even in imprisonment, Krishna protects the family from Kamsaraja's evil plans.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2mXXuHkXfZrMjdCzbo2fo8E3bkn.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/9GoB8QJsKaP8RLJ9NPuDziQ1IVq.jpg",
+    "genre_ids": [
+      28,
+      10751,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123419",
+    "status": "U",
+    "etag": "ZVFLL5jIITQXauqaXIVJHA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123419",
+          "url": "/sapi/download/video?action=get&k=rEpMNsqcLnX7nZjisgJR994lOSxxR0AQaVjEbzTIl_pgs9k5uotaeTj5arph4ThC6l9B1VyY8UjelvpHS5-Ft7OZqyglHGY6R9_s7rnCIY0OxD7TK_0FypCMYbibwl0hskbjgxjVuT70RxCUoMtoWN0LqLKMxQ1wcwGlG39xC65khbjET0A&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=ubvkaDUzOy0m-edAFmHpguDC83eYchh7DveG03kiuBMEKvV1fHxLcm623MlOheN0O11-a92UoNmC09gengIvVjcpTcqP4SaR_jFbCxv-hjpCwLlZhmzF-V5ktxzr3J6wHcF7ir88POTyvAkkSjPuvSZnPetXRQGponAueGv6B9UDgZRSQty021OXB0GTi18HKsA&node=1i204",
+          "date": 1777828023791,
+          "creationdate": 1777827762000,
+          "modificationdate": 1777827762000,
+          "uploaded": 1777827952508,
+          "size": 1095126584,
+          "name": "Devaki Nandana Vasudeva (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6774281,
+            "bitrate": 1293275,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=B0NqYv7teXY0DZI5AnSpB45QgiqcobZATcC4Ai3fmnL-GIWJ7Zl_es2euLjNfPCfC6sdpKZsydTfk355xy5SM8PrnzmrLQ716dBe6btfpYIWEMIxHQSE6r1XHno-URqLn7dpb3tQen74t71TpLL9eJPu8y_Uf9T6WXdfOwOM1HV-B_gi5eDxd1SLKBXmO3XBF8k&node=1i204",
+              "etag": "0ZVFLL5jIITQXauqaXIVJHA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ubvkaDUzOy0m-edAFmHpguDC83eYchh7DveG03kiuBMEKvV1fHxLcm623MlOheN0O11-a92UoNmC09gengIvVjcpTcqP4SaR_jFbCxv-hjpCwLlZhmzF-V5ktxzr3J6wHcF7ir88POTyvAkkSjPuvSZnPetXRQGponAueGv6B9UDgZRSQty021OXB0GTi18HKsA&node=1i204",
+              "etag": "0ZVFLL5jIITQXauqaXIVJHA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ZVFLL5jIITQXauqaXIVJHA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828023858,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pUY5bLxmT9edcQ1x3Yn1ljk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Devaki Nandana Vasudeva (2024)",
+  "media_kind": "movie"
+}
