@@ -1,0 +1,83 @@
+{
+  "name": "Super-Singh-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Super-Singh-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:45:54Z",
+  "remote_folder_id": 1753597,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124560",
+  "tmdb": {
+    "tmdb_id": 460738,
+    "title": "Super Singh",
+    "original_title": "Super Singh",
+    "release_date": "2017-06-16",
+    "year": "2017",
+    "rating": 6.833,
+    "overview": "A man's life changes after he unknowingly gets super powers and then embarks on a journey that helps him discover the true meaning of love, life, courage, sacrifice, and his role in the world.  Balaji Motion Pictures presents a Brat Films production 'Super Singh'- \"Ikk Te Assi Singh, Utton Super' punjabi cinema's 1st superhero film. Directed by national award winning and blockbuster punjabi film director Anurag Singh (Jatt and Juliet 1 & 2 and Punjab 1984).",
+    "poster_path": "https://image.tmdb.org/t/p/w500/snfij4mPoyGvBB20fg4KtS2DwyJ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wtlXzNL1DFXJbpOAimSv2whFDaB.jpg",
+    "genre_ids": [
+      28,
+      35,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124560",
+    "status": "U",
+    "etag": "0epRdoK4iVvpqltVBDd6Rw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124560",
+          "url": "/sapi/download/video?action=get&k=8LwNNrrPChsokKgDdX67w2k18VX_PcM0-nc9gN7UzVmMjKVDRAHIIjZAkumAjNGPkObZUPToEzd8IPxvAclayimvmr95dqMnKDD44ENnxQSE9FpvHr2E2DOUTZ_n1WF_Rujp7CiPps2U-hLYa4tjF6Qn0eVfqIrrx0dENdO5w0ORg6MYHtk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=AsW9M0nIfZ_ao4fSaSvb6rz6cbplitj8XlawfUH46e9KOAkr5Tr60rfSbuyTM0eJXkdCQbOTbrY7f7SSAgqZRQSeWUP02haouCmrwNCzzkEL_3vfAaEdOSlCFu_3W8NZCsmlAJvAJ3GCYX4X7tKqPeNMsO_WtfY3aAEQSawuA6pGxO3jJ84Co8mRE8bVFIWBRgg&node=1i204",
+          "date": 1777833953428,
+          "creationdate": 1777833849000,
+          "modificationdate": 1777833849000,
+          "uploaded": 1777833934743,
+          "size": 477897695,
+          "name": "Super-Singh-2017-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8929003,
+            "bitrate": 428175,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=1aZnVTjg-mfEHUHYtXT0wreQvvSebbB-3lYEGhA5BNsH3DvEDAC9umzcbWLyCYRw2giTt6227dCi6n2zHwL0CaEksVxeIjefqkEd_VNiaVHBhp80AGdIueDPkUyr1op1fDmtJolI6E62ab1Ec5QcByZG-QMiIFqjDlohfzMrdy6WgIAZcKYL2sfXKcEep6EbZOI&node=1i204",
+              "etag": "00epRdoK4iVvpqltVBDd6Rw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=AsW9M0nIfZ_ao4fSaSvb6rz6cbplitj8XlawfUH46e9KOAkr5Tr60rfSbuyTM0eJXkdCQbOTbrY7f7SSAgqZRQSeWUP02haouCmrwNCzzkEL_3vfAaEdOSlCFu_3W8NZCsmlAJvAJ3GCYX4X7tKqPeNMsO_WtfY3aAEQSawuA6pGxO3jJ84Co8mRE8bVFIWBRgg&node=1i204",
+              "etag": "00epRdoK4iVvpqltVBDd6Rw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "0epRdoK4iVvpqltVBDd6Rw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833953495,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/XjDTNeLVRoqWHr_BB71d_Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Super Singh (2017)",
+  "media_kind": "movie"
+}
