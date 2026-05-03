@@ -1,0 +1,83 @@
+{
+  "name": "Nadhoo-Khan-(2019)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Nadhoo-Khan-(2019)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:58:52Z",
+  "remote_folder_id": 1753641,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124711",
+  "tmdb": {
+    "tmdb_id": 598255,
+    "title": "Nadhoo Khan",
+    "original_title": "\u0a28\u0a3e\u0a22\u0a42 \u0a16\u0a3e\u0a28",
+    "release_date": "2019-04-26",
+    "year": "2019",
+    "rating": 8.0,
+    "overview": "Set in pre-independent India, Nadhoo Khan follows the story of Chanan, who aspires to become a wrestler despite his physical limitations. His grandfather agrees to coach him under one condition: that he stay away from women and focus solely on his training. Things take an interesting turn when Chanan falls for a girl, and is subsequently pitted against her brother in a wrestling competition.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/c4i9DNzCFF4d3PnLxZDahQPTvCx.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mfonmVqcyHYpZf0rJMC4QO3yoNj.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124711",
+    "status": "U",
+    "etag": "gjix0f6xebYh0Dde4Tamaw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124711",
+          "url": "/sapi/download/video?action=get&k=5C9hUKJHWKkubh_xsez89c3J32MSzVrdP6LiKVOQkioP-efzoGLbQfT_WEf_bMVartx1buQUbl9lsFmtp6uMwQ0xhFJ5yyjruzOzhAamOni91kNS5rGW8BXnkXqJB-4f5ce-W7Nyfwl8_97PjV5bzJIm_mijtRdIcBWozf1JkC2su_8GF3g&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=6Kfx7zaDqIPowR_l4lMe1B4iRIGUsZ438eQQPkVBzZMuw_7TH5KRlVj9AYEHx62zHTMcH0YNA6wFCpFydKDMbiuQ5i3SnTKJmPhq1uSf2InsyhOK38rsky_iDjjS9iccNGrIJ7GjaC08NgQrfFMI06L0sPYYPrVrnkZAQvsMNP_QU73OisdVgL3YAjWqBAGU390&node=1i204",
+          "date": 1777834731163,
+          "creationdate": 1777834672000,
+          "modificationdate": 1777834672000,
+          "uploaded": 1777834718969,
+          "size": 434336370,
+          "name": "Nadhoo-Khan-(2019)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8113022,
+            "bitrate": 428285,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=wTzQJb9sHf2Qzrfr6AxMZwXOZ1TCcke9GPQ5GMiW9HCE8So6ANf9dcVnFhDI2bastqwxIy90Xe1QcNVJUP_7OveMNYk_phAKwqP_7omVYB2kgplLtxZYUwPni0xESkX_o-61FMLsi9C0E9e-9UDKf7NEnhR1wO6S64b7EJWZpkLYaxGALEjUHPVNMn8LttyACu8&node=1i204",
+              "etag": "0gjix0f6xebYh0Dde4Tamaw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=6Kfx7zaDqIPowR_l4lMe1B4iRIGUsZ438eQQPkVBzZMuw_7TH5KRlVj9AYEHx62zHTMcH0YNA6wFCpFydKDMbiuQ5i3SnTKJmPhq1uSf2InsyhOK38rsky_iDjjS9iccNGrIJ7GjaC08NgQrfFMI06L0sPYYPrVrnkZAQvsMNP_QU73OisdVgL3YAjWqBAGU390&node=1i204",
+              "etag": "0gjix0f6xebYh0Dde4Tamaw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "gjix0f6xebYh0Dde4Tamaw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834731225,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/RiszwShAQKyLOYX16WNwDjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Nadhoo Khan (2019)",
+  "media_kind": "movie"
+}
