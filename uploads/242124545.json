@@ -1,0 +1,79 @@
+{
+  "name": "Raduaa-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Raduaa-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:41:11Z",
+  "remote_folder_id": 1753582,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124545",
+  "tmdb": {
+    "tmdb_id": 524246,
+    "title": "Raduaa",
+    "original_title": "Raduaa",
+    "release_date": "2018-05-11",
+    "year": "2018",
+    "rating": 5.5,
+    "overview": "Raduaa is an upcoming Indian Punjabi science fiction film directed by and starring Nav Bajwa with Gurpreet Ghuggi and Satinder Satti. The film's plot is based upon how a scientific experiment unexpectedly results in time travel from the present day to 1955. The film is set to release on 11 May 2018",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zpRWmdfHkMIBdPOTGrV7Oyin0OI.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/85k9Y702rqleHPgMqAMRgDimA5P.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124545",
+    "status": "U",
+    "etag": "JdrpZTMXO5mp/cCiOEx5jA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124545",
+          "url": "/sapi/download/video?action=get&k=31BV2jPngRPnnVMZ4POpEgIIBX0kNkM9VQpp_CyBECd7YKK2tPXYbpJ9SozNsDcPphVX6ZoHascRmh49BJSLAsndUd16iT3lADiLK5xSXskFvnMwuE4r2i8uOCvdY4imN4hN8-V06AtfR6Rn_r3cMy4ep42vlSNALt0Sxxch0CP7IE7X_48&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=Vd98qTzdACuaTvD06wkXZ62tcmCP-I5XpzlporAeJfPzSQ4LPzFmdtURHvjBiC-rkPHIl7r2NiVUDfSvRkDR_HAyS685dyAHLVuFr8ZlZCPE4XUDUVFqFBNVsjh8UlMUwQxxj3VJ1jRrubp-BU8oqdJIugx4PtA2ipANCwrOiRjjCU6EyxST0ftQVVWWTFSxtbk&node=1i204",
+          "date": 1777833670636,
+          "creationdate": 1777833599000,
+          "modificationdate": 1777833599000,
+          "uploaded": 1777833655885,
+          "size": 419185339,
+          "name": "Raduaa-2018-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7933175,
+            "bitrate": 422716,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=SLMZ2foUhqTvN5YlNBX05eltx46XLqoC9gFJRhwKGB7TK5QPvaCIVuU9DUYcvzqmA8nkXlwvv_rGwL51lheYXVLxLCSDxEGACO_Jp4CasJ86cV-NnV8n5j_ziO2jPbc8fZfYRjOQhQfKR_imKL42fIPun2LkzGimiqjY6k1CYslgi3XY7xVT8pghGXEBYeqoiOo&node=1i204",
+              "etag": "0JdrpZTMXO5mp/cCiOEx5jA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Vd98qTzdACuaTvD06wkXZ62tcmCP-I5XpzlporAeJfPzSQ4LPzFmdtURHvjBiC-rkPHIl7r2NiVUDfSvRkDR_HAyS685dyAHLVuFr8ZlZCPE4XUDUVFqFBNVsjh8UlMUwQxxj3VJ1jRrubp-BU8oqdJIugx4PtA2ipANCwrOiRjjCU6EyxST0ftQVVWWTFSxtbk&node=1i204",
+              "etag": "0JdrpZTMXO5mp/cCiOEx5jA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "JdrpZTMXO5mp/cCiOEx5jA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833670695,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/SI9vF4bfROqp_MTfz6GGAzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Raduaa (2018)",
+  "media_kind": "movie"
+}
