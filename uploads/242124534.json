@@ -1,0 +1,82 @@
+{
+  "name": "Dakuaan-Da-Munda-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Dakuaan-Da-Munda-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:38:24Z",
+  "remote_folder_id": 1753573,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124534",
+  "tmdb": {
+    "tmdb_id": 541757,
+    "title": "Dakuaan Da Munda",
+    "original_title": "\u0a21\u0a3e\u0a15\u0a41\u0a06\u0a28 \u0a26\u0a3e \u0a2e\u0a41\u0a70\u0a21\u0a3e",
+    "release_date": "2018-08-10",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "Famous writer and journalist Mintu Gurusariya became a drug addict when he was a young Kabbadi player. Exposure to drugs also introduced him to the crime market. But today, he is an inspiration for the youth and their families as he managed to come out of his shell and break his ties with drugs and crime.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/f8hS7PeaDefxFAUdBh6r75rYQN4.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/cKldkMrRg338DQh8dPx5HQfqrmQ.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124534",
+    "status": "U",
+    "etag": "uCA4oG3UpLo47tIAkA+guw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124534",
+          "url": "/sapi/download/video?action=get&k=wEsbHEKg4pkTqEkvyXgHkd8mgwld894tAY4H5clZ0d8yaMZsZaCU_GG2VYASvhp3P4FjjvA6Eiww7R3xdoiX9DVXM_sHYf92mR2mBaRwX_YmlZP01ZfKkBAjR5v7crp61BHr_FtNd1D95dKx2l5efNjIXZyzRXk1vFlzMNkc_WyxVe4kVEo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=AG4jUtwdu1aloD0ZrHlxlrDFHhPBFpXWOLhgfLZuLJIaneICxLc4QzPsqtbHWA3XLFLUaZ41K_VTOmXspSlLULHsFitcaRDXoQrHDgMSSPJNx9EAXQCO2Gs9p3qfe650R6aITm4Uyk4zvfZLFsMRv5gs91uiTSE_PNc3Fhq4hR0rKqOh0fWHdiGLV6Ka8U0I8wE&node=1i204",
+          "date": 1777833503647,
+          "creationdate": 1777833408000,
+          "modificationdate": 1777833408000,
+          "uploaded": 1777833484560,
+          "size": 444129093,
+          "name": "Dakuaan-Da-Munda-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8453528,
+            "bitrate": 420301,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=8WsAA48eihVpFQHRskN517cslPbqeT0h0wiYjv8vk6Jy723LDORzDfITpV4DpbTzf8DCdTebFJaQm0y6UevYmPbAwNZ801N4qP4VOCCZtxjh2VhxFF4nVhU0JaHxTVr4JkKBMKydMggm6CVm_0xvyjAAp-_0QhLXC3AujJjjBXV8UC7Jg2QknWF799tRFlEZxug&node=1i204",
+              "etag": "0uCA4oG3UpLo47tIAkA+guw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=AG4jUtwdu1aloD0ZrHlxlrDFHhPBFpXWOLhgfLZuLJIaneICxLc4QzPsqtbHWA3XLFLUaZ41K_VTOmXspSlLULHsFitcaRDXoQrHDgMSSPJNx9EAXQCO2Gs9p3qfe650R6aITm4Uyk4zvfZLFsMRv5gs91uiTSE_PNc3Fhq4hR0rKqOh0fWHdiGLV6Ka8U0I8wE&node=1i204",
+              "etag": "0uCA4oG3UpLo47tIAkA+guw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "uCA4oG3UpLo47tIAkA+guw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833503719,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/x1Kev36fQlysRRX7zy6z3Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dakuaan Da Munda (2018)",
+  "media_kind": "movie"
+}
