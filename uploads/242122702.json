@@ -1,0 +1,83 @@
+{
+  "name": "Anand Sreebala (2024) Malayalam HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Anand Sreebala (2024) Malayalam HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:40:50Z",
+  "remote_folder_id": 1753451,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122702",
+  "tmdb": {
+    "tmdb_id": 1243975,
+    "title": "Anand Sreebala",
+    "original_title": "\u0d06\u0d28\u0d28\u0d4d\u0d26\u0d4d \u0d36\u0d4d\u0d30\u0d40\u0d2c\u0d3e\u0d32",
+    "release_date": "2024-11-15",
+    "year": "2024",
+    "rating": 6.3,
+    "overview": "Follows the missing person case of Merin Joy and how an ordinary man with a tragic past gets wrapped in the investigation.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gnt2GVTgwbiY63HQtIE5VsFQNxU.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fcJO190JXVfFQaF04RWYqugLDrm.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122702",
+    "status": "U",
+    "etag": "5TZsVg/VzEkuMKsTSPx51A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122702",
+          "url": "/sapi/download/video?action=get&k=fvzen01zIg1pcCbo4jL3gr7mrEZ_8ithTPufZM87JfvF8DoabAvgFvAP4kLlcwekNxr-8aePURFg0fwLRAXD30sNfEWt3TirFcoZL9jSSVMLIINQkuA7gtbL5cSZGV9UpShDgnns71ldoD65JkImTcYaIBPFfyvlFknYzg5nw_-demrHZZg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=NlFkdzXpPmfFvS4GFiWrKb4UttSpd7q08MbL3dbyZGXEVc7hkQUEWGzwotU1TSBxcyq-6ULJWw_KhC_rtKDRFgkxDYMrcnEE-Ydg4KACIE2_NDLZ7F7emEr44WONC25pzZiSa5aW-gXFLbADvpx_CEYPpZYuuDF4U3iygBiNsGcgVQPUBoalTvn7L1kbes0nELE&node=1i204",
+          "date": 1777822849187,
+          "creationdate": 1777822619000,
+          "modificationdate": 1777822619000,
+          "uploaded": 1777822815299,
+          "size": 1022263103,
+          "name": "Anand Sreebala (2024) Malayalam HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 7770280,
+            "bitrate": 1052485,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=aBwg03DZBXHu57fz2YzpZxTAqK1jaL8iQWKCxioydXL6mtPCXi5ufvtvgpnV2jHusD1N4W7XqYg_EEr1TNqweMGogFrCJyvQkbPPRvi6xDtYqFND2JdeNflyDKTPhWWmTMsXMucn7YFTHbienkrjUST08wb45BYXLJJI3EE1GqEfqOai7szMFQythym9Jq5ZCQ0&node=1i204",
+              "etag": "05TZsVg/VzEkuMKsTSPx51A=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=NlFkdzXpPmfFvS4GFiWrKb4UttSpd7q08MbL3dbyZGXEVc7hkQUEWGzwotU1TSBxcyq-6ULJWw_KhC_rtKDRFgkxDYMrcnEE-Ydg4KACIE2_NDLZ7F7emEr44WONC25pzZiSa5aW-gXFLbADvpx_CEYPpZYuuDF4U3iygBiNsGcgVQPUBoalTvn7L1kbes0nELE&node=1i204",
+              "etag": "05TZsVg/VzEkuMKsTSPx51A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "5TZsVg/VzEkuMKsTSPx51A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822849258,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kjZ_LmH7RQqRBBd3aXHopDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Anand Sreebala (2024)",
+  "media_kind": "movie"
+}
