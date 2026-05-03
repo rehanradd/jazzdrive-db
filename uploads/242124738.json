@@ -1,0 +1,79 @@
+{
+  "name": "Pinky-Moge-Wali-2-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Pinky-Moge-Wali-2-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:06:29Z",
+  "remote_folder_id": 1753662,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124738",
+  "tmdb": {
+    "tmdb_id": 880533,
+    "title": "Pinky Moge Wali 2",
+    "original_title": "Pinky Moge Wali 2",
+    "release_date": "2021-09-03",
+    "year": "2021",
+    "rating": 6.5,
+    "overview": "A complicated love story between Fateh, Pinky and Roger. While Fateh is a pure Punjabi local guy, Pinky goes to Canada for further studies. She returns after 5 years with a boyfriend, Roger. After she is back there is a drama and lots of romance between the 3, Who will she choose in the end?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/z09XMGTAifEjKrEQjog4A8QcoIY.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124738",
+    "status": "U",
+    "etag": "tqg6RzzrdrbsOVmqcac8eQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124738",
+          "url": "/sapi/download/video?action=get&k=OVBM-Enkesvxp5TlEZv_o7n1BIBjr9eXwoE7t-qclfROWceK19cMns3xFCz9Gx0APaagCcGjRuvIFofNwJ6EKlQ5HCMQfQnB77QLzBJ94YrYu5JMpfr-2utEaLEIKty50ahqaQEf8uNPvT-mHMTbf0Lmxmf0fwulgE5ooWLipq34BbxqeiI&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=E5KkNpO_ldL7qWo5lrVbCct1OBEEHDApG95PGqlN2fkuWmQJuyCJR99VhT-yDTDf7yT0wtQ8jmoboDnj4WItWMhwJRKlBhw6yoMLH-Z53Q0qXlos9RHTSA1NZAFHXgjaCdAe9ZZqlcevC6aWog6VxQL4NLxtfSu59lvhHtmmgH8ig9Bqp7gY7SVaExTp69v3PuA&node=1i204",
+          "date": 1777835187961,
+          "creationdate": 1777835097000,
+          "modificationdate": 1777835097000,
+          "uploaded": 1777835176026,
+          "size": 385890841,
+          "name": "Pinky-Moge-Wali-2-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7262679,
+            "bitrate": 425067,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=LmX7m---M0tMBnpwqo3oSsLcjroUZXW7ph6YW0qrFIhzM2qtBqRjwQzwAHdQLkT6f6g3XB4ekEBBFu1dNy4O3-bZqqpUpIwwFeLJJ2AtoIXaDb09fA1KIY7McLnpTBJtUXsBecQqxRc5sgf8fpWJwJrNHavhIdhxmZwax13c7BiFYb1fNr1-mzrJJbDtNX12zl8&node=1i204",
+              "etag": "0tqg6RzzrdrbsOVmqcac8eQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=E5KkNpO_ldL7qWo5lrVbCct1OBEEHDApG95PGqlN2fkuWmQJuyCJR99VhT-yDTDf7yT0wtQ8jmoboDnj4WItWMhwJRKlBhw6yoMLH-Z53Q0qXlos9RHTSA1NZAFHXgjaCdAe9ZZqlcevC6aWog6VxQL4NLxtfSu59lvhHtmmgH8ig9Bqp7gY7SVaExTp69v3PuA&node=1i204",
+              "etag": "0tqg6RzzrdrbsOVmqcac8eQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tqg6RzzrdrbsOVmqcac8eQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835188033,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/q2jmm_aKSm2FM6eLfSt60Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Pinky Moge Wali 2 (2021)",
+  "media_kind": "movie"
+}
