@@ -1,0 +1,82 @@
+{
+  "name": "Alangu (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Alangu (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:36:02Z",
+  "remote_folder_id": 1753445,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122096",
+  "tmdb": {
+    "tmdb_id": 1384671,
+    "title": "Alangu",
+    "original_title": "\u0b85\u0bb2\u0b99\u0bcd\u0b95\u0bc1",
+    "release_date": "2024-12-27",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Centres around the clashes between Kerala's political group and Tamil Nadu's tribal youths.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/Rmovt5T8GD3gX8Y6rvWmw6b0Yl.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/vtHPTu4oS6jZCETuSrXbWXXwNl5.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122096",
+    "status": "U",
+    "etag": "ezP2OVDC9pKff2TgW3wzNA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122096",
+          "url": "/sapi/download/video?action=get&k=xxDG7OmIfY6kCQFXmWGVGebsKShg8yiRM-ZPuXhas4tbjLZm3dvxOD1Vdmlw72tQGRAhCgE3GxECJhzQPQB6thAx0OZtYRLEWKtXovrrf2wVaFxe41LVPMyuTMnARvqIO9jdIF9AtA9Qu3pHwVXb6rz7HEC4oLF1SKu_YcFpFWOxgUHwH0U&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=gJcBlLuDlDZ_3jDCyesGkYClFQQ81cOmxC0Ulx7Pnyl66L6g6ixscXpGH-uS85KVb-8do1i0TLjP_f06_SW0YfH6pGxtAiPHUHVLK84DWOnOCUVM6rhVn_CphcdCJW1cMfT0PQy0SutDw_LxwvRPEcxbDFosSruPPqvbpDG4SaMk4eyMUVM6CSjqdgGs7W_ZPv0&node=1i204",
+          "date": 1777822561914,
+          "creationdate": 1777822127000,
+          "modificationdate": 1777822127000,
+          "uploaded": 1777822468154,
+          "size": 1373050060,
+          "name": "Alangu (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 7700902,
+            "bitrate": 1426378,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=jAYa-H49qaDEFKOSr6QrMv5rkMtTBdTAR44w6wszaudXUx4oIBOKWtNGE9VGW84e_YTgYue87ElJu2tWYF3ysbSIgsiu6cct8TlRlbR-NP2CtbB_IibCjR3kntTpjLBuBYiw0WR6mLIud-XhaarUjSfxmGtvPKeg-092QYEHelGsPGYI67xvYtQ-jspPws8hKac&node=1i204",
+              "etag": "0ezP2OVDC9pKff2TgW3wzNA=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=gJcBlLuDlDZ_3jDCyesGkYClFQQ81cOmxC0Ulx7Pnyl66L6g6ixscXpGH-uS85KVb-8do1i0TLjP_f06_SW0YfH6pGxtAiPHUHVLK84DWOnOCUVM6rhVn_CphcdCJW1cMfT0PQy0SutDw_LxwvRPEcxbDFosSruPPqvbpDG4SaMk4eyMUVM6CSjqdgGs7W_ZPv0&node=1i204",
+              "etag": "0ezP2OVDC9pKff2TgW3wzNA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ezP2OVDC9pKff2TgW3wzNA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822561986,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/YrPVLr6AR1ef8qDAIrg2bjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Alangu (2024)",
+  "media_kind": "movie"
+}
