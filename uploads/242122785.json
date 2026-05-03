@@ -1,0 +1,81 @@
+{
+  "name": "Cheekatilo (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Cheekatilo (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:51:34Z",
+  "remote_folder_id": 1753497,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122785",
+  "tmdb": {
+    "tmdb_id": 1263037,
+    "title": "Cheekatilo",
+    "original_title": "\u0c1a\u0c40\u0c15\u0c1f\u0c3f\u0c32\u0c4b",
+    "release_date": "2026-01-23",
+    "year": "2026",
+    "rating": 4.5,
+    "overview": "When crime anchor Sandhya\u2019s best friend is found dead under suspicious circumstances, she embarks on a dangerous investigation that collides with a dark past. As secrets unravel, Sandhya must face her trauma and rise as a fearless voice for the silenced.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pO86EjZb7QyGYk5RW4Xm4UWe5Uv.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iHT55IAd2qErJKhH8vCGKbZSniU.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122785",
+    "status": "U",
+    "etag": "n5M37QDCcfkweAebMBM99w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122785",
+          "url": "/sapi/download/video?action=get&k=6QvlppNWdWq82cSRaSY43YZ9n2LvjWLBRKVxSbdRG9ULhKb1NyChoTfmHetySFc8sNPhQAkqQeUZd0SjVD1F9h9eMSLx3tef03-BRoqXk2su3fDBpFRiqTCqO2vWAlIXBnadWWCP21dRu7dsxzNIeBeqHcAKYt30SF97JizeqkQHHYuyBP8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=szdk0Sng85-nydBQ7BWgshHEhxsQf9rbv82U8sCzI_6T8e7SZKDftL77PFnK4wlL1OkS_GxDlLxtjFBnK7aBWhSm84xObjBpwWvZJGPB8R0G11uDnzbdyyLbULtL8oBs1I2z7zDeSwtcs0wR4wSZx5IBgaLXAOi5CBP_3r00kg1mntYya4m-mIyRtErY5_vbuYY&node=1i204",
+          "date": 1777827093759,
+          "creationdate": 1777826766000,
+          "modificationdate": 1777826766000,
+          "uploaded": 1777827045767,
+          "size": 1228922179,
+          "name": "Cheekatilo (2026) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7586434,
+            "bitrate": 1295915,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=LnCEh_w8ltH5FgEW8pqlECbTTx0uyOr3D0QjtssIcgznUsw5nJm-ubhR3HY_2DcuvYGMgZrMFUYgcIcpuxHIrR35ciHTiUIzJRFiUbN1t3ka2LtZoiSC_Ft7aUKQucIb20BM8Nalmr5BRa-e7ZFzr9g4fcHBfFd-EgGLerGv5hJOPzzDXUyBSDnaYom2vbxiF1s&node=1i204",
+              "etag": "0n5M37QDCcfkweAebMBM99w=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=szdk0Sng85-nydBQ7BWgshHEhxsQf9rbv82U8sCzI_6T8e7SZKDftL77PFnK4wlL1OkS_GxDlLxtjFBnK7aBWhSm84xObjBpwWvZJGPB8R0G11uDnzbdyyLbULtL8oBs1I2z7zDeSwtcs0wR4wSZx5IBgaLXAOi5CBP_3r00kg1mntYya4m-mIyRtErY5_vbuYY&node=1i204",
+              "etag": "0n5M37QDCcfkweAebMBM99w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "n5M37QDCcfkweAebMBM99w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777827093818,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ujITcuHYQSqqCUMgOVbeuDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Cheekatilo (2026)",
+  "media_kind": "movie"
+}
