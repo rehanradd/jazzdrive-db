@@ -1,0 +1,68 @@
+{
+  "name": "Jannataan-(2023)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Jannataan-(2023)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:07:54Z",
+  "remote_folder_id": 1753670,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124747",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124747",
+    "status": "U",
+    "etag": "MyOgUKaUZR6jFgSLoOxVXA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124747",
+          "url": "/sapi/download/video?action=get&k=wBXEApasEfX_SgEB7GiA-cUATuaPZwA4dHYJXk6PyazSLX3PHgS3UWLY1vcFdwZzjzut7hwzeXNbdP2O7uxBezjri60cwdrZh9R1Vh_BUVkIAOemik7KvnsMsAQeJEW37UWtm8rrTE8Mp5IfcbNabLYaC715v_h1FaOdvb08CwNAcTcoUZ8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=x0YPWmk2fwjngmvl78crxLOWrkEBW3ddgDzad3UaHTKUwex0aZwNygdMt4bhTMyCZCB0IPq-eLh-TbdYzdZzFreJJVNv6H-0pUxrbPtGtgMcJkVQgNknZTu2XGCXnvUuMsMD78SJxCYwU2w9rqm51UNQrr9BgeX4o3n_L-kJWTRtarHI701qZHhFFUfKfsGTxWU&node=1i204",
+          "date": 1777835272786,
+          "creationdate": 1777835208000,
+          "modificationdate": 1777835208000,
+          "uploaded": 1777835262672,
+          "size": 289043752,
+          "name": "Jannataan-(2023)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5418000,
+            "bitrate": 426790,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=AME5O6uZ2TgTAlqdrRSgugbITNL2wjDK0xvIfLCa36rjFhOEXP__XsrwEdz7hMV-uyu7ZYDyulKGh6uX_17BxjmDQUU7SwUykPVk6obvXMZdGZCgoLdVgXw4-NvlOZp43TjtqOCE-lc10B3NUYyYwnPY54jBUUlAehDcUaO0Ld66Ttvkb5rzQBVVue1dHkXkyO4&node=1i204",
+              "etag": "0MyOgUKaUZR6jFgSLoOxVXA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=x0YPWmk2fwjngmvl78crxLOWrkEBW3ddgDzad3UaHTKUwex0aZwNygdMt4bhTMyCZCB0IPq-eLh-TbdYzdZzFreJJVNv6H-0pUxrbPtGtgMcJkVQgNknZTu2XGCXnvUuMsMD78SJxCYwU2w9rqm51UNQrr9BgeX4o3n_L-kJWTRtarHI701qZHhFFUfKfsGTxWU&node=1i204",
+              "etag": "0MyOgUKaUZR6jFgSLoOxVXA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "MyOgUKaUZR6jFgSLoOxVXA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835272845,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Kf5BA8Z5QVmmyW0ZbYRU_Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jannataan (2023)",
+  "media_kind": "movie"
+}
