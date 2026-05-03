@@ -1,0 +1,81 @@
+{
+  "name": "Dhol-Ratti-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Dhol-Ratti-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:36:49Z",
+  "remote_folder_id": 1753570,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124531",
+  "tmdb": {
+    "tmdb_id": 568818,
+    "title": "Dhol Ratti",
+    "original_title": "Dhol Ratti",
+    "release_date": "2018-07-20",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "Dhol Ratti is a period film set in the Punjab of 1970's. The theme of the movie encapsulates an emergency situation on the Punjab - Pakistan Border and how people live through it. The movie highlights the importance of family relations and moral values, with an important message for today's youth.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/6t0Vqkj5VPpkQ95B73K7F338f7f.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124531",
+    "status": "U",
+    "etag": "uTnxsMY79vw2atG5khrRug==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124531",
+          "url": "/sapi/download/video?action=get&k=gzgZIHv4rujy8jMUxI9DorYBLduxtA--CEwfz3aQsRxsGKZ3NTOfQYk9SbVReFGpE9qcp9c3VMaK9H0VRffYUjaDaM_mQ0vuwsVV3U2zGVI5RGhbhlblFQPEJqNCP6df9wXsKTFL6MPjbmArtvWJX_wqNuefNkPP3rk2z0jrTpNwK-4p3W0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=IZ18fr1NUJgcYOOpJvDWl4-SY3v7fN6tzy2BbJvs_tqufa6fItT5YRS2-qr5o4gO24bT0qxFmDmFPyRT0eXnJIG34V9NTuMNNTVWKH3aPxQYtkJGSesvW09pSalLaqFat4TnTBnOo4rDiOqh_GO4-IBiabVF2IcFao6sJqxdQ3B8AuBUv0rPzjDqcMO6ZNqj5I4&node=1i204",
+          "date": 1777833408234,
+          "creationdate": 1777833340000,
+          "modificationdate": 1777833340000,
+          "uploaded": 1777833391739,
+          "size": 383161781,
+          "name": "Dhol-Ratti-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7235833,
+            "bitrate": 423626,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=51aj8zTTUl7iuYuMtTf5eGrZgMtWSFzxD5_worNo_EgNjs6QbxuEfKgHnPKiRkyjXmped7k2PNY8o-QtsYZADoxq2o0EeDV6aVWTHcvzxo7EZt1kTVhoBfrq7xhADY9zoXFgr6R3OwJ-DcxJ0TdJ97-AzG3axRHZwSmQ5sfy8Jn1riRnTHVgQJ6GhnS5yKAlCCs&node=1i204",
+              "etag": "0uTnxsMY79vw2atG5khrRug=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IZ18fr1NUJgcYOOpJvDWl4-SY3v7fN6tzy2BbJvs_tqufa6fItT5YRS2-qr5o4gO24bT0qxFmDmFPyRT0eXnJIG34V9NTuMNNTVWKH3aPxQYtkJGSesvW09pSalLaqFat4TnTBnOo4rDiOqh_GO4-IBiabVF2IcFao6sJqxdQ3B8AuBUv0rPzjDqcMO6ZNqj5I4&node=1i204",
+              "etag": "0uTnxsMY79vw2atG5khrRug=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "uTnxsMY79vw2atG5khrRug==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833408291,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/n2z70H5PS1qie2hwypdrMjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dhol Ratti (2018)",
+  "media_kind": "movie"
+}
