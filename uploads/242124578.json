@@ -1,0 +1,83 @@
+{
+  "name": "Once-Upon-a-Time-in-Amritsar-2016-Punjabi-Full-Movie--480p-[Orgmovies]_2.mp4",
+  "path": "D:\\Punjabi\\Once-Upon-a-Time-in-Amritsar-2016-Punjabi-Full-Movie--480p-[Orgmovies]_2.mp4",
+  "uploaded_at": "2026-05-03T18:50:29Z",
+  "remote_folder_id": 1753605,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124578",
+  "tmdb": {
+    "tmdb_id": 391749,
+    "title": "Once Upon a Time in Amritsar",
+    "original_title": "Once Upon a Time in Amritsar",
+    "release_date": "2016-06-10",
+    "year": "2016",
+    "rating": 6.0,
+    "overview": "Once Upon a Time in Amritsar is an upcoming punjabi action drama film,directed By Harjit Singh Ricky,The star cast of the Film Dilpreet Dhillon, Gurjind Maan, Farida Jalaal, Pavan Malhotra, B.N. Sharma, Shivendra Mahal, Asish Duggal, Prince Kanwaljit Singh, Sonia Kaur, Vishakha Thakur",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lEYJCpqB019OJj0U8VElbTbF0q0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hOHqvqarN8oSepOBziFSAWi2CL9.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124578",
+    "status": "U",
+    "etag": "yl+zDEC4BJZ06qSYd295EA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124578",
+          "url": "/sapi/download/video?action=get&k=ygoP_nztHnaEVjj8pfO5WW4O2P2Oh9fYm63khAgoOxrT3vxFvRctWleKZdj7N9ojZXUNz4U5SWJcIo66NhCl8Bdm6KT-AVjAPw1P_X7z-Rfw8jmdx2IYPU7CZqEki65jvVasrO-bvsy8g3jnwFsXHQL6I6sVRPg7SvpWkuiJqv5Db2jMCQY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=3d5UaxwdbNRJHlyC8yFuApsBN2NRAUSrj1v5VwUhMAIHD_am6CfVSy0Ucq39Fc4SbSzaKIqYCXyCJEwq79lD4xCPidm7Q-I0RQ6_WRiZGlQe6Ay-xy3LfQ_PbYN0M6n42yqTBVkEPZB3wZ62TRu6XSXRiLSz_udtZZtSMd0lviBAllXeTwrYikZ82ve3lKdgJ_k&node=1i204",
+          "date": 1777834229009,
+          "creationdate": 1777834149000,
+          "modificationdate": 1777834149000,
+          "uploaded": 1777834216075,
+          "size": 349206637,
+          "name": "Once-Upon-a-Time-in-Amritsar-2016-Punjabi-Full-Movie--480p-[Orgmovies]_2.mp4",
+          "metadata": {
+            "duration": 6614066,
+            "bitrate": 422380,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=PEsbc7awv0oixAqvDqTWpByBM2GplAnURUvJ_tvQPPI7fb-NgKvHzYLo7O-_H_3Q_A1NQGbfZH1oyHzwG7TxdgWmbjH7ObfDfcnpWd81-VkB2Fl8aw76wLpBhkRBrXAC32-tnLIWOaBX8bh80Popd_gNXEi_VQWPKQO6_U8lIj34FQiSig42HVLdQ_il-V7B14Y&node=1i204",
+              "etag": "0yl+zDEC4BJZ06qSYd295EA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=3d5UaxwdbNRJHlyC8yFuApsBN2NRAUSrj1v5VwUhMAIHD_am6CfVSy0Ucq39Fc4SbSzaKIqYCXyCJEwq79lD4xCPidm7Q-I0RQ6_WRiZGlQe6Ay-xy3LfQ_PbYN0M6n42yqTBVkEPZB3wZ62TRu6XSXRiLSz_udtZZtSMd0lviBAllXeTwrYikZ82ve3lKdgJ_k&node=1i204",
+              "etag": "0yl+zDEC4BJZ06qSYd295EA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "yl+zDEC4BJZ06qSYd295EA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834229096,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/u4sqFxcQSIK3GdQ5wWaTJjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Once Upon A Time In Amritsar (2016)",
+  "media_kind": "movie"
+}
