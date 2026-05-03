@@ -1,0 +1,84 @@
+{
+  "name": "Amaran (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Amaran (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:43:31Z",
+  "remote_folder_id": 1753449,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122700",
+  "tmdb": {
+    "tmdb_id": 927342,
+    "title": "Amaran",
+    "original_title": "\u0b85\u0bae\u0bb0\u0ba9\u0bcd",
+    "release_date": "2024-10-31",
+    "year": "2024",
+    "rating": 7.356,
+    "overview": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir\u2019s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eCB06m1KUGilEOlIzb40nkQhVY0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
+    "genre_ids": [
+      28,
+      18,
+      12,
+      10752
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122700",
+    "status": "U",
+    "etag": "DnwNZckftQgmTAkvqD7Ofg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122700",
+          "url": "/sapi/download/video?action=get&k=ZWJUHVVE7Mxk2A3GLDEZKjlUqYFIqHg-A8WMjxjxbovy9Y6ueWZIGiOaUXxb1uNlV2y2YbI8LDssWhhzWWW33dLb0F91mbUGNpOnYVG1Z_e-p_UAM4HHOzP3BX1DljzZqMd9jXRpg2bH348y6yDGlOLaOBUvV8KpUHcBxxxgvkaphMxwiSQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=evvnhqjwOrnvJ75E01pm0tahCfMu3d--kIands6_tp83mEDXFrpStBCmQunRNY2bBqkpmFGBgNmqIaXcZh2Q9Hb9xPOb5SJsBWRiugaX9tEX3-Ljv8wqSF-TVLeIxKEwxRJE2N4SLLlbwYTcbpMQes5hdsEPuzzYqQLCgC9qzzn0l0CxD-qhEHItkT2DZqJDap8&node=1i204",
+          "date": 1777823010268,
+          "creationdate": 1777822576000,
+          "modificationdate": 1777822576000,
+          "uploaded": 1777822932462,
+          "size": 1700632941,
+          "name": "Amaran (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 10047135,
+            "bitrate": 1354123,
+            "codec": "h264",
+            "height": 508,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 101,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=bbUb344Q9WZyaYUW6D7VWV5Gtj34bxfTZ7wN5TklkXNFi1Xqs5-vby9U_wgsb_Ims5JHc8IPSvEutJV5rmrwb90t5w4ygc8JVND4vkaoE34q_pJQha9JDOj0X-_Jknz8NEvkbzkYLdWpxZLSEqTgL18ePfPygjnMeFT4TFbzBlDB7hFXbYodOYNUpxZTMX4Rqsw&node=1i204",
+              "etag": "0DnwNZckftQgmTAkvqD7Ofg=="
+            },
+            {
+              "w": 1024,
+              "h": 406,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=evvnhqjwOrnvJ75E01pm0tahCfMu3d--kIands6_tp83mEDXFrpStBCmQunRNY2bBqkpmFGBgNmqIaXcZh2Q9Hb9xPOb5SJsBWRiugaX9tEX3-Ljv8wqSF-TVLeIxKEwxRJE2N4SLLlbwYTcbpMQes5hdsEPuzzYqQLCgC9qzzn0l0CxD-qhEHItkT2DZqJDap8&node=1i204",
+              "etag": "0DnwNZckftQgmTAkvqD7Ofg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "DnwNZckftQgmTAkvqD7Ofg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777823010331,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/TTtUB2sCR6u5VtenUGGFCDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Amaran (2024)",
+  "media_kind": "movie"
+}
