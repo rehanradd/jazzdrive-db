@@ -1,0 +1,82 @@
+{
+  "name": "Mar-Gaye-Oye-Loko-(2018)-Punjabi-HDTVRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Mar-Gaye-Oye-Loko-(2018)-Punjabi-HDTVRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:35:13Z",
+  "remote_folder_id": 1753567,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124526",
+  "tmdb": {
+    "tmdb_id": 536212,
+    "title": "Mar Gaye Oye Loko",
+    "original_title": "\u0a2e\u0a30 \u0a17\u0a0f \u0a13\u0a0f \u0a32\u0a4b\u0a15\u0a4b",
+    "release_date": "2018-08-31",
+    "year": "2018",
+    "rating": 8.0,
+    "overview": "Mar Gaye Oye Loko is an upcoming Indian-Punjabi film directed by Simerjit Singh starring Gippy Grewal, Binnu Dhillon & Sapna Pabbi. Film is releasing worldwide on 31st August 2018.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wxdSRcRI2rJaFwgoaERkaznm7KK.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xb5bj4mgpeeYPenTP6Yi9dukvTu.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124526",
+    "status": "U",
+    "etag": "zw+LON3/daVRvGHKbxw89g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124526",
+          "url": "/sapi/download/video?action=get&k=Q095HjwgGN6mgqR-ZC-v_oX9SBGw_XqpkLh-U-Tq1GwTwItCWlQ5NNrckY4CMsCIhAog-NwxigK2XqylCTMsP09ud4FyxnrsozUkcz5XpDfvTHeh9T29567wqIdd4CpZMCl3lUNlnmzSmna0Mt_odkORIdB61AoocPHt7RngIagtexy1k4w&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=r9uhLv383ivQ7lmmr3VYHlgFF1kGSqz_dA8wVn3ghwPGRdJiePonXZ8zpNUrfiH1O4DEO1VnVpK70XRACD-4WIURQvO8ow858ENDhc5rnSk4JLKBIaJfMfAXmdYbjhHpP6qvdcVSgSOU1aGgyEwf9nGl-cOM_ZaqP3PCkEMd3hO4ioThVw4nUrdK48C16Jh9X4I&node=1i204",
+          "date": 1777833311875,
+          "creationdate": 1777833261000,
+          "modificationdate": 1777833261000,
+          "uploaded": 1777833297750,
+          "size": 360539078,
+          "name": "Mar-Gaye-Oye-Loko-(2018)-Punjabi-HDTVRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6794880,
+            "bitrate": 424483,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6tGdfYDHZXJnDW65yB8zn0puaCTJMuR8r2r5T4ymOp_bBRGXfvRF8SOJ97_6jMY9dCk1fpGVjXzSeG8VKqbTL_gNwRYqX8oGntb0jOlp77Du0mhRY1j3i2XRqKNPDpUTp96a5xqJqkTPlBdrtnqRflOV3FCxgxL2FDNFngzTaYVdJvGzvqulerp0dHC2G0jUl3c&node=1i204",
+              "etag": "0zw+LON3/daVRvGHKbxw89g=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=r9uhLv383ivQ7lmmr3VYHlgFF1kGSqz_dA8wVn3ghwPGRdJiePonXZ8zpNUrfiH1O4DEO1VnVpK70XRACD-4WIURQvO8ow858ENDhc5rnSk4JLKBIaJfMfAXmdYbjhHpP6qvdcVSgSOU1aGgyEwf9nGl-cOM_ZaqP3PCkEMd3hO4ioThVw4nUrdK48C16Jh9X4I&node=1i204",
+              "etag": "0zw+LON3/daVRvGHKbxw89g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "zw+LON3/daVRvGHKbxw89g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833311932,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Xm3tC9E-Siqkt4drrt5peTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mar Gaye Oye Loko (2018)",
+  "media_kind": "movie"
+}
