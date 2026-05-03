@@ -1,0 +1,81 @@
+{
+  "name": "Ardaas-Karaan-(2019)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Ardaas-Karaan-(2019)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:58:30Z",
+  "remote_folder_id": 1753638,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124708",
+  "tmdb": {
+    "tmdb_id": 603552,
+    "title": "Ardaas Karaan",
+    "original_title": "\u0a05\u0a30\u0a26\u0a3e\u0a38 \u0a15\u0a30\u0a28",
+    "release_date": "2019-07-19",
+    "year": "2019",
+    "rating": 6.0,
+    "overview": "During times of conflict, three elderly men try to instill values in their families.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1AyQxB4IObBjQkRcA0ttnSGs5rA.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/siGTsYaWgZDRp20DX5A4fqaTA0E.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124708",
+    "status": "U",
+    "etag": "uOQkquuiSSSS0+XdTA/I1A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124708",
+          "url": "/sapi/download/video?action=get&k=d-ZcD79o0CfZZKRLG--aO8VAHKE9cq9wzu14cibjPPolmP1cyg4ez47Y8a2M8zM4gr2l4y-6_i6HR0x2BpVAmBgs0zYEA_JbPYk4XwbVRcX9uLLun6GHQx_xfVdMjcRFW5TqqhRroaGdqpKjpGOTkzqVzrcJKu8N6GolvfhdmXsCiss3seM&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=lZGoMV0Oqb-hQfn29N4mfyHY9nPcl3FUX1WbahmgXpiWa8c66qBiwuwKK2wHUQ5Xcs9HnIYsW6nKIqwwGC8uqzdtX0zXyusoS7R8FBJoglJvn_ju2ltzMAvRPOkDb8oUnbKtmWCbtUun20oAptt6D_uEVIIHh6hoqSiwJsQqlGVbQsYzx4aiUPLU4KO_XXpusEU&node=1i204",
+          "date": 1777834709666,
+          "creationdate": 1777834622000,
+          "modificationdate": 1777834622000,
+          "uploaded": 1777834669097,
+          "size": 448142503,
+          "name": "Ardaas-Karaan-(2019)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8390840,
+            "bitrate": 427268,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=2JIGRrcUtWOoQsNjOSmKcXGFAk4Hlzf5oO_hbzy3O0e8ijxZ-wPWJf_nGWnPrSdfSALtl6au_6CvEdKSykc0K8Y9aCC0TbpPV6Xmgrx9knTgGpeyO8TasL6FRFRuAgFuQjlIAnmlNYAE40r4JYgQsoHaf1TH63Ys_farg59wUe4i3hXAbVqnKE2PvhBJgG_pbrE&node=1i204",
+              "etag": "0uOQkquuiSSSS0+XdTA/I1A=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=lZGoMV0Oqb-hQfn29N4mfyHY9nPcl3FUX1WbahmgXpiWa8c66qBiwuwKK2wHUQ5Xcs9HnIYsW6nKIqwwGC8uqzdtX0zXyusoS7R8FBJoglJvn_ju2ltzMAvRPOkDb8oUnbKtmWCbtUun20oAptt6D_uEVIIHh6hoqSiwJsQqlGVbQsYzx4aiUPLU4KO_XXpusEU&node=1i204",
+              "etag": "0uOQkquuiSSSS0+XdTA/I1A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "uOQkquuiSSSS0+XdTA/I1A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834709725,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/PYygRr_iSaSaj-17-wxPBTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ardaas Karaan (2019)",
+  "media_kind": "movie"
+}
