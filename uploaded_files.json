@@ -3582,5 +3582,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "79aa79b8f50d9fd79ff10ae8a16dd2fc37fdecfa3eb15510d6fbd544a4d063b2": {
+    "name": "Dream-USA-(2019)-Full-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Dream-USA-(2019)-Full-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 346462782,
+    "uploaded_at": "2026-05-03T18:59:45Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124716",
+    "remote_id": "242124716",
+    "remote_folder_id": "1753646",
+    "tmdb_title": "Towards a Dream in the USA",
+    "tmdb_year": "2022",
+    "tmdb_rating": 6.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/obwjwC7Hu1uNhPCiVO3RdVo3BIe.jpg",
+    "tmdb_overview": "Towards a Dream. As part of an enduring journey exploring dreamlike landscapes around the globe, Louis Vuitton lands in the USA for the latest chapter of its ongoing campaign.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124716\", \"status\": \"U\", \"etag\": \"A8Se5K4wUju/jKQIcaw1uA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124716\", \"url\": \"/sapi/download/video?action=get&k=FEpC01bDnGv359o5a5BC5qkHEbyrFe1baCTdPjLM7GJUisy0UObENthffI3_0ckChcxOPDSd5tGkJ4TIwUtX8-tFjXjG6jtPOpBOuAHeFM8JvR70v-x__mdmNMHUecJTiYwIoZrVs9BhxMPoEXTMbmJWDLvpQghIBazTxDFNhIhzcMuWCew&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=AJIg-tMK6a7zEAcCDF7OPaoYw9enk3j5P9z240ZeHl_ftPNNsHk0HWYZEfHk86gzxgGzSZpmeYdw8RxfyKj2-ccwlKj21yx_0z832aOjrZbesqlt2XbDoBPjoSMP_oFUzAlNQCuaY88VdFLiJoQT9Y-DgX66WbfblbBdacAhYpw34R0GN3T_bRreKvIkD9JiJmw&node=1i204\", \"date\": 1777834783641, \"creationdate\": 1777834741000, \"modificationdate\": 1777834741000, \"uploaded\": 1777834770771, \"size\": 346462782, \"name\": \"Dream-USA-(2019)-Full-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 6624541, \"bitrate\": 418399, \"codec\": \"h264\", \"height\": 400, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 142, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=FaREvbc-a74mjiJlBeC3K9OQ6Alr7TpVtsQluA4NRSqOymJikRWlRlBTjIDa8alKJknQ5QsUoryCo_PmEm0OAYoio9WNOSakG92ttBrLWwHpy_JLiGJzwcyo7CgPVb2lRHAk8E67BMJ_SkDHGm3UkIcgQbscafKdfDP2_Y9T3GD5BagxmVP0LMFR4-rAVRLxKdw&node=1i204\", \"etag\": \"0A8Se5K4wUju/jKQIcaw1uA==\"}, {\"w\": 720, \"h\": 400, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=AJIg-tMK6a7zEAcCDF7OPaoYw9enk3j5P9z240ZeHl_ftPNNsHk0HWYZEfHk86gzxgGzSZpmeYdw8RxfyKj2-ccwlKj21yx_0z832aOjrZbesqlt2XbDoBPjoSMP_oFUzAlNQCuaY88VdFLiJoQT9Y-DgX66WbfblbBdacAhYpw34R0GN3T_bRreKvIkD9JiJmw&node=1i204\", \"etag\": \"0A8Se5K4wUju/jKQIcaw1uA==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"A8Se5K4wUju/jKQIcaw1uA==\", \"favorite\": false}]}, \"responsetime\": 1777834783704, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/lZqPkm5UTamZJxvTk-aogTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67577",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Dream Usa (2019)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
