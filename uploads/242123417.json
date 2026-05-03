@@ -1,0 +1,81 @@
+{
+  "name": "Dappankuthu (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Dappankuthu (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:07:32Z",
+  "remote_folder_id": 1753509,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123417",
+  "tmdb": {
+    "tmdb_id": 1393972,
+    "title": "Dappankuthu",
+    "original_title": "\u0b9f\u0baa\u0bcd\u0baa\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1",
+    "release_date": "2024-12-06",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Pandi is a dancer from Madurai who performs folk dances. He and his troupe go to towns around Madurai to perform folk dances. His maternal uncle, Dharmalingam, is a broker who books actors for performances. Dhanam, a native of the same town, decides to go and perform in Pandi's performances. But Dharmalingam opposes Dhanam from joining Pandi's troupe. This leads to a conflict between Pandi and Dharmalingam. e. What is Dhanam 's background? Why Dharmalingam opposed she should not perform dance. The plot is based on these question",
+    "poster_path": "https://image.tmdb.org/t/p/w500/AbR2VhIFynbmEnhfHG9Fx5dLaSi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lavd64gWSz06g1DVGjhtGES0KXb.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123417",
+    "status": "U",
+    "etag": "IpXqGiQ4seSulAWCI9kY1g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123417",
+          "url": "/sapi/download/video?action=get&k=QuVBJkB4CnTvflswS-elcCb7QrA-mdj0JST8yA5ozA89hAI_wXoCPJVmxPNTkCmaHg3fO8N6IaQtmdLCM0FGEHehoAslU52fKIwWMvyLl_AdT5qnelgYrsQC2lM6B0q6a9KxacsoCi_o6d9pGoScL_WN9bsPYBgBUyLnZjUqaP18G3t7O5M&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=dsBDho96MuWppb9B_VcFEh3-8QdxXVYlgPxwuXjhQmUU7cWTu-thP4BqLEF86Qu78-PWhj5yndxlzKSiSj52Hz4Nn9mrB3sE9P6rJM35ADxmGJJrwUgZLDbLFBT7i-xoSgfsx5kfyaqbmIy1zj7S5JGA1Y9_V86Ctn2dCueaNuh7j_0HDZI4wfo2w6Orzhar6tE&node=1i204",
+          "date": 1777828051506,
+          "creationdate": 1777827692000,
+          "modificationdate": 1777827692000,
+          "uploaded": 1777827955677,
+          "size": 1517703192,
+          "name": "Dappankuthu (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 8223674,
+            "bitrate": 1476423,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=jCRs169Hm3nAx8yPfugP341DySP0g3VP8ainopJzoW2RIfzO6dMK2cDtsSAMY8pg58KQXhyXfe-Zepd6apfnTbdJpH2X9qysOciRPQypGd9MYct7zEF3De4WJTfOaa4vS7kyYGcpK9Z1f0WAW24y0Fvzb2YhIbE6P6zJBHWBqXT3s4N4ejVhQF_3msRJi3i4eH4&node=1i204",
+              "etag": "0IpXqGiQ4seSulAWCI9kY1g=="
+            },
+            {
+              "w": 1280,
+              "h": 528,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dsBDho96MuWppb9B_VcFEh3-8QdxXVYlgPxwuXjhQmUU7cWTu-thP4BqLEF86Qu78-PWhj5yndxlzKSiSj52Hz4Nn9mrB3sE9P6rJM35ADxmGJJrwUgZLDbLFBT7i-xoSgfsx5kfyaqbmIy1zj7S5JGA1Y9_V86Ctn2dCueaNuh7j_0HDZI4wfo2w6Orzhar6tE&node=1i204",
+              "etag": "0IpXqGiQ4seSulAWCI9kY1g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "IpXqGiQ4seSulAWCI9kY1g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828051567,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/zqx-kskzTZmihM4Ywn1L_zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dappankuthu (2024)",
+  "media_kind": "movie"
+}
