@@ -1,0 +1,82 @@
+{
+  "name": "Joyland-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Joyland-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:26:08Z",
+  "remote_folder_id": 1753535,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123485",
+  "tmdb": {
+    "tmdb_id": 962571,
+    "title": "Joyland",
+    "original_title": "\u062c\u0648\u0627\u0626\u06d2 \u0644\u06cc\u0646\u0688",
+    "release_date": "2022-11-18",
+    "year": "2022",
+    "rating": 7.365,
+    "overview": "As a patriarchal family yearns for the birth of a son to continue their family line, their youngest son secretly joins an erotic dance theatre and falls for its transgender starlet.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7InKwVFgvIgfwuPKd0C3R9OeoN7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/aO4DsNW3YwldPl9CyChkWFLbFV8.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123485",
+    "status": "U",
+    "etag": "+YptfTlOhUIEGYON6CpvgQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123485",
+          "url": "/sapi/download/video?action=get&k=24Wdsno8G7YIZDvI0nSO5Qk3uj6bL-MvRT-C1K6H_WMVhKDejtqMNalZdMZY41WNH2NYZ6xcJPcVqqaqTvMEi7FmuTtak4x8hi0mw7NdkIbqO_Q3gVX3cx9Vj_iK0GNkmh0bC0mpL_y1WjqItHPwMNFPWLGdU4eePbOcIex1SE3vQ_Fo1uA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=lhGn4KQhoB9fsw1RCKhGxA2H9UUq4mp_AqQq_a1xJeYKRhyX_PWIJ9vk0lDuvQSFFukr2zDfw6EX4f52i-beW6WKD1G_dBgJU7rNj3fTZmYsq8c4jVARjESM6Dn-9RrpFrHYgE_FIfDY4OMXN_Tjw1EW6wanuPptjzv-eXIMXV__I0SchnGYMlnoRwbxbeyWWRo&node=1i204",
+          "date": 1777832768066,
+          "creationdate": 1777832644000,
+          "modificationdate": 1777832644000,
+          "uploaded": 1777832744403,
+          "size": 407172506,
+          "name": "Joyland-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7610000,
+            "bitrate": 428039,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=RR4AbJ0gWtz7fZCZTWrd1_ikecHVnpyonzMJalfMhIBViaIGAqkUWsXtNXKGs21Jad4TdrubFHz_N4cXJj_kXdwakUw7snSGNOBLyg9ztbUcABAsZLMeAC-qvTSCsw3212xGjTmPn-BO-QIjs8_7A9Racv-5YI3DwrhZlIh6uHqstuRbZqEOW96feLBgAj4Eybg&node=1i204",
+              "etag": "0+YptfTlOhUIEGYON6CpvgQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=lhGn4KQhoB9fsw1RCKhGxA2H9UUq4mp_AqQq_a1xJeYKRhyX_PWIJ9vk0lDuvQSFFukr2zDfw6EX4f52i-beW6WKD1G_dBgJU7rNj3fTZmYsq8c4jVARjESM6Dn-9RrpFrHYgE_FIfDY4OMXN_Tjw1EW6wanuPptjzv-eXIMXV__I0SchnGYMlnoRwbxbeyWWRo&node=1i204",
+              "etag": "0+YptfTlOhUIEGYON6CpvgQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "+YptfTlOhUIEGYON6CpvgQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832768129,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/VBzQDy9rSIKU30TNNaUtxzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Joyland (2022)",
+  "media_kind": "movie"
+}
