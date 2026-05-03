@@ -1,0 +1,81 @@
+{
+  "name": "Dharam-Yudh-Morcha-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Dharam-Yudh-Morcha-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:49:25Z",
+  "remote_folder_id": 1753610,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124574",
+  "tmdb": {
+    "tmdb_id": 433016,
+    "title": "Dharam Yudh Morcha",
+    "original_title": "Dharam Yudh Morcha",
+    "release_date": "2016-09-16",
+    "year": "2016",
+    "rating": 0.0,
+    "overview": "During a family visit, a devout man tells his grandson about significant events from the history of Sikhs in India.",
+    "poster_path": null,
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6Di7jyCcbVtXD592Wu8xFlJWQ3C.jpg",
+    "genre_ids": [
+      36
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124574",
+    "status": "U",
+    "etag": "9FPfpVJ+Ld9KWKggxc/QbA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124574",
+          "url": "/sapi/download/video?action=get&k=oZi5KkSXEwXJrYCIHg6TzKiRXBuEOy3oM5lfcz4W9-5mqX1BPyJTL4Um3B2H2fyJmn7alNHz07g4JvXfideOG6aI7D71-SWgGw5s_y7GnEO-xf4riDP2ctMY7fb8hZSd888rBg34Fjh4TKUqAbBix8cBt4eE0F7aNNSscN_VCWf5BoEcQH0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=xZmj1YfN9OESsMhbSm034LWN_ItNx11iLm2woyHDLwaHr0vYK8U01zpQE2KN6O5Dg1NA39eQB2qiDXbGMxrlfYnYOP_FyzDEDhcfGlJeJL6SYxQLet-H7hpxLyyJELKJn62D5n1m137DQb37lXrnP_sXxe6-1KkH8pqkcPCuOclkh1zFMXEFOc4SQD372DxSU5k&node=1i204",
+          "date": 1777834164394,
+          "creationdate": 1777834097000,
+          "modificationdate": 1777834097000,
+          "uploaded": 1777834151995,
+          "size": 383899108,
+          "name": "Dharam-Yudh-Morcha-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7310708,
+            "bitrate": 420095,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=98BHDY-dB8QWjLQe1_i8HYiIuejiDfySSo4W_I361a48foWatOE-iQDvP9p89UxSp38s2OWCBZ1vcBCtwLgObO0Ij3ZoTeLueWmhdA68Ly7Y5Hbe8WRDyjiWmpUTvES26AtuyTpaSp5DmaSdcmKzHd0F4_Nv7XVeAB9PJVzRuppDA8M0U5aQJBSJpbqzXxN5PFA&node=1i204",
+              "etag": "09FPfpVJ+Ld9KWKggxc/QbA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xZmj1YfN9OESsMhbSm034LWN_ItNx11iLm2woyHDLwaHr0vYK8U01zpQE2KN6O5Dg1NA39eQB2qiDXbGMxrlfYnYOP_FyzDEDhcfGlJeJL6SYxQLet-H7hpxLyyJELKJn62D5n1m137DQb37lXrnP_sXxe6-1KkH8pqkcPCuOclkh1zFMXEFOc4SQD372DxSU5k&node=1i204",
+              "etag": "09FPfpVJ+Ld9KWKggxc/QbA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "9FPfpVJ+Ld9KWKggxc/QbA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834164462,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pFpoheuJQce_t-YmqmvhdTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dharam Yudh Morcha (2016)",
+  "media_kind": "movie"
+}
