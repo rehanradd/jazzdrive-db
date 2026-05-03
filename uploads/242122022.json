@@ -1,0 +1,82 @@
+{
+  "name": "45 (2026) Hindi 720p HDTS x264 [DDN].mp4",
+  "path": "D:\\New folder\\45 (2026) Hindi 720p HDTS x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:03:24Z",
+  "remote_folder_id": 1753423,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122022",
+  "tmdb": {
+    "tmdb_id": 1664938,
+    "title": "Strand 45",
+    "original_title": "Strand 45",
+    "release_date": "2026-03-28",
+    "year": "2026",
+    "rating": 0.0,
+    "overview": "A young woman with a painful past discovers her DNA holds the cure to cancer, instantly making her the most valuable secret on earth. As powerful interests close in, and her past haunts her, she must choose between her own safety and well-being, or risking everything to share her secret with the world.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7bjTOBRGgfI1eRlkJEvICWDQzAB.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122022",
+    "status": "U",
+    "etag": "bfC6FHBpwCqDxjwC+ZPRGw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122022",
+          "url": "/sapi/download/video?action=get&k=FEI-pbZfYFu1BcwPZSCTjbXsW7giPhIuqNybtxD-THDuDC7v_i9rGJg5rf4RjgwcYA5wlQstKDjvBVDqFhzAOpuV-vMze17B3w_KJlPrLNEkveIFNsBzOyO0s3aTVUytgxTC4_BLsNjW5OYgUC8LiNuNJeewOMdId1RRR5HjXSf-jnZKRac&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=C1g2s3j7PLGhatjeH741uDx298pjhwecNyaGsiBVtl6nQLl9mU3pbdHEwRmqoBvGIBiu-vWtuV2_5QZo1HoGxmTtry_PQNmEduq6zTP6h0SANYxYE0LqMOlTrph0dWvWV8xhRQ8TPYH1AWalqIGTDgnQyRT5lK3_mqEIkn7ks_C6S4hs6KEJs8zHd1uZnWoR0JI&node=1i204",
+          "date": 1777820604170,
+          "creationdate": 1777820246000,
+          "modificationdate": 1777820246000,
+          "uploaded": 1777820508172,
+          "size": 1371399542,
+          "name": "45 (2026) Hindi 720p HDTS x264 [DDN].mp4",
+          "metadata": {
+            "duration": 8499723,
+            "bitrate": 1290771,
+            "codec": "h264",
+            "height": 524,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 104,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=RGtXIdXnPq1t_oaAdyzmH6EBBr7ZMvl-2A3N15rgG3PceYaNb7Dri9d8O32W5c4BGPYcjEmywDPRcyxLhEAM14yz7KJP_5WYCDrI2P-cciHUQMHOdf_IFjVyAKA2M3W_tRkaCVIIIuVpP2nZLwOzL2gEPz7mdHgRHikgYk4SVeylPUsdqW7UXuX7TqinTH49JH8&node=1i204",
+              "etag": "0bfC6FHBpwCqDxjwC+ZPRGw=="
+            },
+            {
+              "w": 1280,
+              "h": 524,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=C1g2s3j7PLGhatjeH741uDx298pjhwecNyaGsiBVtl6nQLl9mU3pbdHEwRmqoBvGIBiu-vWtuV2_5QZo1HoGxmTtry_PQNmEduq6zTP6h0SANYxYE0LqMOlTrph0dWvWV8xhRQ8TPYH1AWalqIGTDgnQyRT5lK3_mqEIkn7ks_C6S4hs6KEJs8zHd1uZnWoR0JI&node=1i204",
+              "etag": "0bfC6FHBpwCqDxjwC+ZPRGw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "bfC6FHBpwCqDxjwC+ZPRGw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777820604234,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/9grZqx0jTr65TSFtSBvxzjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "45 (2026)",
+  "media_kind": "movie"
+}
