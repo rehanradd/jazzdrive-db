@@ -1,0 +1,82 @@
+{
+  "name": "Haterz-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Haterz-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:32:56Z",
+  "remote_folder_id": 1753560,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124517",
+  "tmdb": {
+    "tmdb_id": 939388,
+    "title": "Haterz",
+    "original_title": "Haterz",
+    "release_date": "2022-01-07",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "Relationships formed to deceive someone does not last long. The movie theme shows friends cheating on each other in friendship. Each friend has their own reasons for cheating on the other friend. Jimmy, Makhan, Pali were friends for a long time but what will be the reason that all friends become enemies to each other.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9edkcUFjhormiIyJuPPOSHIvSde.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/osFPTf1xROVdAbssB1U7j9G0Hcj.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124517",
+    "status": "U",
+    "etag": "Rv/KA1+srLIIp0uXEkQKqg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124517",
+          "url": "/sapi/download/video?action=get&k=BIQsq-BBEUQRd7XgGgiziDGtvgB5NYycCpYZbqg_dhovf0kdeSNSfu3YP7FTtTR9u-YAksjBShiFRmmAm-DGGWeWxfgGNlrLr4dTNJPVPlKeI_uEtWM3mpdVkoYr5NGH11xg4sqbrJtuOqxz3wlRveaLAuE0nxvdubPuzwD0D_KjFeOZUro&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=HPL6htVmIBe_E01FCgNqzn1ZYzcsZdd9_-fsi7VkK5vun2dRU3gmWq_rkuNYis0ulDWGteAWK5TDpiY4Yd_sfFWV74HnVRrZ-8EM0qSuDnXzenyEX8mTBAQ5nIN9LwrRLgP2umEu_1TxKnWZYsVazVcUZSizKBw6SmHJyIDSC6IhpVbcVewKhpLN7B5X4PY00QA&node=1i204",
+          "date": 1777833172266,
+          "creationdate": 1777833124000,
+          "modificationdate": 1777833124000,
+          "uploaded": 1777833156571,
+          "size": 319031832,
+          "name": "Haterz-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6029856,
+            "bitrate": 423269,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=dgMhb8S8_zVzpJYz1LypZdJINAOMQks5Iy6fnA6UXtAOKEgUl66vSostVh7Q6Rz36IIjwgDMPkfsdRi3zGJ1SBhWIotoivV5RDFirNPP-VuBAKu1YvPnDHfGlf9_PU8oOyg9Xy81eIGWNwsq7yvSdoFYdJsdFHtPI99nAdqgtRkAfoCyiMFWWrLjsvd7ZDCHdXU&node=1i204",
+              "etag": "0Rv/KA1+srLIIp0uXEkQKqg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=HPL6htVmIBe_E01FCgNqzn1ZYzcsZdd9_-fsi7VkK5vun2dRU3gmWq_rkuNYis0ulDWGteAWK5TDpiY4Yd_sfFWV74HnVRrZ-8EM0qSuDnXzenyEX8mTBAQ5nIN9LwrRLgP2umEu_1TxKnWZYsVazVcUZSizKBw6SmHJyIDSC6IhpVbcVewKhpLN7B5X4PY00QA&node=1i204",
+              "etag": "0Rv/KA1+srLIIp0uXEkQKqg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Rv/KA1+srLIIp0uXEkQKqg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833172333,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/AoRV9PuVQqGdMsv1xPC4CTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Haterz (2022)",
+  "media_kind": "movie"
+}
