@@ -1,0 +1,81 @@
+{
+  "name": "Jagga-Jiunda-E-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Jagga-Jiunda-E-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:37:08Z",
+  "remote_folder_id": 1753572,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124533",
+  "tmdb": {
+    "tmdb_id": 577210,
+    "title": "Jagga Jiunda E",
+    "original_title": "Jagga Jiunda E",
+    "release_date": "2018-08-03",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "On reaching Yamlok after his untimely death, Jagga finds out that he was called back a little too early because of a mistake made by yamraj. Soon, Jagga is sent back to the world of the living in the body of a corrupt cop, where he takes it upon himself to right the wrongs of the former police officer.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xfLbDAaNklE3eGNwMrEg4TO1taz.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124533",
+    "status": "U",
+    "etag": "laDy21BczEQcMmfKLy4t+w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124533",
+          "url": "/sapi/download/video?action=get&k=sg6HxwXtL1ypxLHxrE3IMJ6ElY1iFB5NQ6o3BxhZQUk-cATr9QGAihL_H6_ytAwU6lvQFEaCVrywku55DneXjLVkhLzAHauZPACmPADUCFD62Wea0cT5oOEF-ma_IfVz7uSBSNtBDNMkddhy7GiEU_YCw32VGZxrRkNOiMsspFoltwJCqfU&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=WooYzUU-XO23lGEDGgzRY9Gn9aXFPs9xIihwftobU5ayVrZUw8fa_q-DpF6hXZ04iCY0KqV3vcD_U-3EtZ7S1WFA_CD10yjSo_4iRqN34L6KHcl43hVuP-PtSwCXtFKPiMaVNpT9n0SY_6Vvb7TpfTC6yYBBvOWDnTE1Wj9RH6H3oYNorwsPPn73T2FjcuLm-5k&node=1i204",
+          "date": 1777833426654,
+          "creationdate": 1777833385000,
+          "modificationdate": 1777833385000,
+          "uploaded": 1777833414314,
+          "size": 396490875,
+          "name": "Jagga-Jiunda-E-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7464415,
+            "bitrate": 424939,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=bhMcDcNl-jjnDXv5bWYz_8TlaLQCA5kSDqA-zd06-HBiU4QVjkNFUhLqr9Ghs4F-m_zS_CnK1OcPHT139BnmAlN16W8jm0KqUoAK6T7CsUuinPwzo0TuNAnr3Xkl9_1taYO_O57mALPWQls5llaZSG0w2J7hJGaZGrXqgRs-liXyKjcoEV41at-3UBHGB5c-Yj8&node=1i204",
+              "etag": "0laDy21BczEQcMmfKLy4t+w=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=WooYzUU-XO23lGEDGgzRY9Gn9aXFPs9xIihwftobU5ayVrZUw8fa_q-DpF6hXZ04iCY0KqV3vcD_U-3EtZ7S1WFA_CD10yjSo_4iRqN34L6KHcl43hVuP-PtSwCXtFKPiMaVNpT9n0SY_6Vvb7TpfTC6yYBBvOWDnTE1Wj9RH6H3oYNorwsPPn73T2FjcuLm-5k&node=1i204",
+              "etag": "0laDy21BczEQcMmfKLy4t+w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "laDy21BczEQcMmfKLy4t+w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833426730,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/mVKxKJ0_QYy6NaQc-vxooDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jagga Jiunda E (2018)",
+  "media_kind": "movie"
+}
