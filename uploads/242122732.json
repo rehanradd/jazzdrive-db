@@ -1,0 +1,82 @@
+{
+  "name": "Bachhala Malli (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Bachhala Malli (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:07:38Z",
+  "remote_folder_id": 1753466,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122732",
+  "tmdb": {
+    "tmdb_id": 1399790,
+    "title": "Bachhala Malli",
+    "original_title": "\u0c2c\u0c1a\u0c4d\u0c1a\u0c32 \u0c2e\u0c32\u0c4d\u0c32\u0c3f",
+    "release_date": "2024-12-20",
+    "year": "2024",
+    "rating": 4.3,
+    "overview": "The story is set in the 1990s and follows the emotional and action-filled journey of Bachhala Malli, a rural hero. The narrative combines intense drama with romance, focusing on the protagonist\u2019s challenges and personal growth in a rustic backdrop.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tLLtI62EYtuflXw3IjnyLaUZ2tG.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2zKimiqHcriyBBWkNToT6KMNX1D.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122732",
+    "status": "U",
+    "etag": "34J9NiN8MYw151vlPIoW7A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122732",
+          "url": "/sapi/download/video?action=get&k=Fhb5qDTXdr1TEjvYhTi4WALOO8kllyrpcKQnVkQYvo4gvblAKxTwxsC58lNNp4V6nQ4kXPf8ZtxRKlWPejRQADbmdY02I0_SZUj4HzszHOSBg4ObOE0YOLlCNIWjx64xG4aMtr7HtmTKic08UVQW9qniDI6tPoT6fnmIsRH-AZ-iSp8gsGo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=6mr4V4TsIaOm_4r17fGvfh72TiZwqepTTKMc696QN9jXwljJyDlyLwp8GsrM19LaOFE1zdV0YtgiN6ixKGL0DUnuximkDaLkDz4K6yxzDcvuFPj0F0XJ1ZLPfQtNGgM2bZmVuJsN6VI5ZySbem77u2hZFLzdc6Q2AbsW9Mud8C3Y_3Gmr2jFY60NdRVhAxqlZq4&node=1i204",
+          "date": 1777824458012,
+          "creationdate": 1777824134000,
+          "modificationdate": 1777824134000,
+          "uploaded": 1777824421943,
+          "size": 1101787947,
+          "name": "Bachhala Malli (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8089514,
+            "bitrate": 1089596,
+            "codec": "h264",
+            "height": 530,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_fmEmOn0X_Slh6jAP3wb3DRtKwsRNDyk2hWQnPeGAjpIalFuVOqWSYC0EZqTwVeR5k_YoxYqTHWDB2UFPKoG0betaxuoFXkMZJqDfeASqxyp1G5jiQ_vCGbgWnvVOSxJP6V1JXgf6p-zF5wBtFTZIbovmDJXSp7iAl4qGF1X0HbOlXLAHb0QCvbjgy6-gF5uO2A&node=1i204",
+              "etag": "034J9NiN8MYw151vlPIoW7A=="
+            },
+            {
+              "w": 1024,
+              "h": 424,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=6mr4V4TsIaOm_4r17fGvfh72TiZwqepTTKMc696QN9jXwljJyDlyLwp8GsrM19LaOFE1zdV0YtgiN6ixKGL0DUnuximkDaLkDz4K6yxzDcvuFPj0F0XJ1ZLPfQtNGgM2bZmVuJsN6VI5ZySbem77u2hZFLzdc6Q2AbsW9Mud8C3Y_3Gmr2jFY60NdRVhAxqlZq4&node=1i204",
+              "etag": "034J9NiN8MYw151vlPIoW7A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "34J9NiN8MYw151vlPIoW7A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777824458075,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/uDvQ4leESRCmsK5YTFZAITk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bachhala Malli (2024)",
+  "media_kind": "movie"
+}
