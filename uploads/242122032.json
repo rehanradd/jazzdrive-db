@@ -1,0 +1,82 @@
+{
+  "name": "Aaragan (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Aaragan (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:16:30Z",
+  "remote_folder_id": 1753430,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122032",
+  "tmdb": {
+    "tmdb_id": 1356638,
+    "title": "Aaragan",
+    "original_title": "\u0b86\u0bb0\u0b95\u0ba9\u0bcd",
+    "release_date": "2024-10-04",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Saravanan and Magizhnila, deeply in love, are looking to secure their future together but need more financial stability. When Magizhnila lands a higher-paying job in a new town, it seems like a promising opportunity. However, she soon faces a series of harrowing challenges. How she navigate this turbulent phase forms the heart of the story.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/e35XoiTtuLSpL6We5kx9GmvX4o4.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/gOdVQAT7qniIUObi75oHUpSJ4Lk.jpg",
+    "genre_ids": [
+      14,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122032",
+    "status": "U",
+    "etag": "anJDLq3kRbbxJ+FePqz9GA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122032",
+          "url": "/sapi/download/video?action=get&k=kCvhslXdcuvi-9sC0R6JAGEWScfaN8vygHuNpP7EObHSWz4tfhhsS7nLGJI9BtdlCPVIrKYE08DctriVIJk6EopBQnFnKSKmrOvBWKcyOSZqeaD5Cz0mjSpp6y2kdZ-_ud3RsbSpa8QgpPfgWdkNJwuS42NdsPi4ahkBdBpgpDg_FcVxRug&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=lpcJuRT-s6kVR74ytC-XLlw7eqYoi_Ao7mNvddl--f948lcEpdmdgeXzDECdyO5WJaMzT-XaaL6MaHujRS9DFqzEWqzj-dmc2JHtOwPc4FLE9saY08Znkav8uBVu5uzx6rlsk3M4pg6LONIBdWdsuB-Nf4A4WUZfbwf_63HsD_6cYyWrhsHuzZ3UfyIM1UMOx1c&node=1i204",
+          "date": 1777821390292,
+          "creationdate": 1777820998000,
+          "modificationdate": 1777820998000,
+          "uploaded": 1777821330819,
+          "size": 1199441283,
+          "name": "Aaragan (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5873499,
+            "bitrate": 1633699,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=pNA1FV1sLAY9X1iyPCuxhqQ_umBQp5KRkzwIQNW9vkR4f7Pe-u4jJys0SQ0WmjUYa3Fdua8OEX4zmycCc7nSlKhQrfwIuI9zFTaiiR_WjtdE4VzQrllJL_csas_daUay28oW76zL2L_hj5cCNYTDOu3yNFjnCLg2VZuuo_ZCru7acxIY1h1yMNZVsPAzn5dDczY&node=1i204",
+              "etag": "0anJDLq3kRbbxJ+FePqz9GA=="
+            },
+            {
+              "w": 1280,
+              "h": 536,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=lpcJuRT-s6kVR74ytC-XLlw7eqYoi_Ao7mNvddl--f948lcEpdmdgeXzDECdyO5WJaMzT-XaaL6MaHujRS9DFqzEWqzj-dmc2JHtOwPc4FLE9saY08Znkav8uBVu5uzx6rlsk3M4pg6LONIBdWdsuB-Nf4A4WUZfbwf_63HsD_6cYyWrhsHuzZ3UfyIM1UMOx1c&node=1i204",
+              "etag": "0anJDLq3kRbbxJ+FePqz9GA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "anJDLq3kRbbxJ+FePqz9GA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777821390350,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/KYzhbS5oSCWSXY0XP_Coljk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "1753430",
+  "share_folder_path": "Aaragan (2024)",
+  "media_kind": "movie"
+}
