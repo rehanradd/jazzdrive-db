@@ -1,0 +1,82 @@
+{
+  "name": "Detective.Ujjwalan.2025.720p.HDTS.Hindi.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Detective.Ujjwalan.2025.720p.HDTS.Hindi.x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:05:08Z",
+  "remote_folder_id": 1753508,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123416",
+  "tmdb": {
+    "tmdb_id": 278193,
+    "title": "Detective Ujjwalan",
+    "original_title": "\u0d21\u0d3f\u0d31\u0d4d\u0d31\u0d15\u0d4d\u0d1f\u0d40\u0d35\u0d4d \u0d09\u0d1c\u0d4d\u0d1c\u0d4d\u0d35\u0d32\u0d7b",
+    "release_date": "2025-05-23",
+    "year": "2025",
+    "rating": 5.611,
+    "overview": "In the village of Plaachikkaavu, a local detective, Ujjwalan, must outsmart a mysterious figure in a deadly battle of wits, where his skills are put to the ultimate test.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rVCNbMW2bmbPE2XaUMUsnA9YgAh.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6jsyu5qmBxqdmlG2RCRizrczdMc.jpg",
+    "genre_ids": [
+      9648,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123416",
+    "status": "U",
+    "etag": "f0UwB6hBwHUoSPSCOQZ3bw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123416",
+          "url": "/sapi/download/video?action=get&k=X0d8WxtTb8jIn7NCelnMSEDpP0TnFmv-vGIq4fLl0nR7F29waJQhRejCkTN4Hq3m1VsNvNt6y4pecafp5RGQ2HzT7Lym7GeMs4qzjGMZTQ2OJBA9EtaJxoJwyXZzPJijhJp1KcTm4MdwE78NeY5GKkB8seoFgeNBqVbh4Ysd2iDat4z9mSk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=pMyHkUtbcWRc2apAB0B-wwlHTxQpYK_cVjTScHiSwGF_FjNa3qQbxzyddEQHr4hSsP6zCsHFb9IMVwGGRbbdjKQkWxMr5VIXkdqmPgDIVEOz4bCpS1QKRndmo8P6M-_1D4qigM4Z5kWDAQVOV3C1fnaUm72NlxNT7zzHK1r4nsf5VRG3P4bHlAkmjtCUhe8Tprk&node=1i204",
+          "date": 1777827907993,
+          "creationdate": 1777827666000,
+          "modificationdate": 1777827666000,
+          "uploaded": 1777827859710,
+          "size": 1088567509,
+          "name": "Detective.Ujjwalan.2025.720p.HDTS.Hindi.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 7198980,
+            "bitrate": 1209690,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=4yYuzybuafyrav76zNz_VjsMUdOEjSzp3BKe0feZZXwlZuDPCtTSM7uXsqRVuvTw0dH-mYDKfJ7lrgXGuA4iMZyaVmOinwxPVrFNgZr6Tac8TzFZyXeKh2QegKivskVeDZTMZ1Tq16R1Mhhn1U6rWeFGGCM1fXLr2h_cmvc5VThxslg2Lfiv79tp_cHjbtLkkNo&node=1i204",
+              "etag": "0f0UwB6hBwHUoSPSCOQZ3bw=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=pMyHkUtbcWRc2apAB0B-wwlHTxQpYK_cVjTScHiSwGF_FjNa3qQbxzyddEQHr4hSsP6zCsHFb9IMVwGGRbbdjKQkWxMr5VIXkdqmPgDIVEOz4bCpS1QKRndmo8P6M-_1D4qigM4Z5kWDAQVOV3C1fnaUm72NlxNT7zzHK1r4nsf5VRG3P4bHlAkmjtCUhe8Tprk&node=1i204",
+              "etag": "0f0UwB6hBwHUoSPSCOQZ3bw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "f0UwB6hBwHUoSPSCOQZ3bw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777827908056,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/o7rr01vwQL6SYJZio7JKaTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Detective Ujjwalan (2025)",
+  "media_kind": "movie"
+}
