@@ -1,0 +1,82 @@
+{
+  "name": "Akhanda 2 Thaandavam (2025) Hindi 720p HDTS x264 [DDN].mp4",
+  "path": "D:\\New folder\\Akhanda 2 Thaandavam (2025) Hindi 720p HDTS x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:32:03Z",
+  "remote_folder_id": 1753443,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122084",
+  "tmdb": {
+    "tmdb_id": 1372588,
+    "title": "Akhanda 2: Thaandavam",
+    "original_title": "\u0c05\u0c16\u0c02\u0c21 2: \u0c24\u0c3e\u0c02\u0c21\u0c35\u0c02",
+    "release_date": "2025-12-12",
+    "year": "2025",
+    "rating": 5.692,
+    "overview": "When all hope died, Akhanda arrived. He saved his family, protected his people, killed the wrongdoers, and retreated into isolation. But years later, new threats emerge putting the world in danger. And as the world burns, Akhanda returns.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/805aMQucnpLkSmQ35Pql35fq3Gw.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122084",
+    "status": "U",
+    "etag": "mftnsNiCTyagdFAjbE3xTg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122084",
+          "url": "/sapi/download/video?action=get&k=qklpXyzv6kK_NKUqhC6YGeNbPqY2mdEg25xlX1h2HJg2FIE3k1JZOdqZFNFFFhDbHDYddw595-0ubeyGEKKlWAhGiOwBZfoK6nmB2mpUesu95MvSFOCYpWcmIDRKwMVBotB9ecEVS0Csy9jCppDMgcnR48DlB-gxTQX0az-7RfHB1aCcoYg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=1akh57JZUvDbYZY2o3SulwQXdxO0xiaDENM9L2nKMPn0nb6QHRDTxHb-iQKYj0yhukB10Zy6-VkgQpELAxH71QAg9MmDcalx_jeGXDCeGuQIZwAuTQFzqLg1YJDdyUzq-L_pSgJMlVsx8z5ikf3cmpstQdii5BdgrPVt0qR6dRdSk7h03paf1leZ1WNylH3Sdo4&node=1i204",
+          "date": 1777822322904,
+          "creationdate": 1777821933000,
+          "modificationdate": 1777821933000,
+          "uploaded": 1777822278443,
+          "size": 1470647313,
+          "name": "Akhanda 2 Thaandavam (2025) Hindi 720p HDTS x264 [DDN].mp4",
+          "metadata": {
+            "duration": 9530396,
+            "bitrate": 1234489,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Hzb0m4-lkx1AVpKEuZuNMf904tBcsy9oJ_BB7M0_dcOu3xCG2lMI5QnzNriqm6gR6jH3EuZMI2aCkncS0Lpj8K2AI0MwqrXEx_kQ43XgV_WGUUbKULy9zN5-L2iM6hvnsYmQmQXx3re9p3ta5pDQq1-JKbSZh4TyeYQUciRfv-OwUjPoEjtMciJdXTKmfRHTLjU&node=1i204",
+              "etag": "0mftnsNiCTyagdFAjbE3xTg=="
+            },
+            {
+              "w": 1280,
+              "h": 536,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1akh57JZUvDbYZY2o3SulwQXdxO0xiaDENM9L2nKMPn0nb6QHRDTxHb-iQKYj0yhukB10Zy6-VkgQpELAxH71QAg9MmDcalx_jeGXDCeGuQIZwAuTQFzqLg1YJDdyUzq-L_pSgJMlVsx8z5ikf3cmpstQdii5BdgrPVt0qR6dRdSk7h03paf1leZ1WNylH3Sdo4&node=1i204",
+              "etag": "0mftnsNiCTyagdFAjbE3xTg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "mftnsNiCTyagdFAjbE3xTg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822322964,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ME0T0CiJSD-TeT-ci471gzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Akhanda 2 Thaandavam (2025)",
+  "media_kind": "movie"
+}
