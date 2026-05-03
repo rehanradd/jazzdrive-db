@@ -1,0 +1,67 @@
+{
+  "name": "Baapu A Fathers Story (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Baapu A Fathers Story (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:57:31Z",
+  "remote_folder_id": 1753459,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122712",
+  "tmdb": {
+    "tmdb_id": 1436664,
+    "title": "Baapu - A Father's Story",
+    "original_title": "Baapu - A Father's Story",
+    "release_date": "2025-03-07",
+    "year": "2025",
+    "rating": 6.0,
+    "overview": "Mallanna's father decides to trade his life to secure relief funds for the family, but forgets. Funding for his final days, how will they make the ends meet?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zwjAtrlT1swTJEdT4dhGdHidTjE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hZjYbRQhAYKGxdIGAlpaCyBdQNn.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122712",
+    "status": "U",
+    "etag": "YUVfq/QPqYdE1IerXnsO9Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122712",
+          "url": "/sapi/download/video?action=get&k=6OcHWdobSDi55A0p4BPI4NnQ-hi_a_BJPM4lAWXZnAM4tsAdEV8RUBSoubMww94XStn4UOyfLZbZi0t1wpgvRGbnhfhQVGYe63lwPQ9Rzs5GsClSR9cv6xflL2dJaXvAVamcaXBopKX74c5A0monseB02wt2YJ4AaII6mAdL9tyTm6CZA_8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=VL9_Yf8YCf9n16DxZbs36nxOAkX74UBRp9UhEnmjyZuRrxR1wlNJSEBKS6dxDcDZbHrv1LCG1lzQ00BTn2VOiNl_D2mtVoPIv_EeJKL6IJz-ZO4I22dj0iMHSuQBAgNh6L_BQDI1YLdphxdRI7jKJhAUrp5JARGyTRq_WzEZcn1c05bSdsowTDeaXSvoxjxaEFQ&node=1i204",
+          "date": 1777823850414,
+          "creationdate": 1777823475000,
+          "modificationdate": 1777823475000,
+          "uploaded": 1777823811796,
+          "size": 1257182093,
+          "name": "Baapu A Fathers Story (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=R_c5P76MF_U9KkJFDdZGrgrVcjkfMWjqIJg4iqLDhztelrb_e7kyQZjSL27q2upsuPeJA-nsi2h-pdtZRyFa2QiEdgLSZJqEO3poCpeIRG_JGQ2upH4euC9E9S-BBiznUCdNs2cyCEwAzCX_Kn4mIlIZ6R_fBEr64Pl5xrBX-084ohzEiyESclyspxO4BAVLD68&node=1i204",
+              "etag": "0YUVfq/QPqYdE1IerXnsO9Q=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=VL9_Yf8YCf9n16DxZbs36nxOAkX74UBRp9UhEnmjyZuRrxR1wlNJSEBKS6dxDcDZbHrv1LCG1lzQ00BTn2VOiNl_D2mtVoPIv_EeJKL6IJz-ZO4I22dj0iMHSuQBAgNh6L_BQDI1YLdphxdRI7jKJhAUrp5JARGyTRq_WzEZcn1c05bSdsowTDeaXSvoxjxaEFQ&node=1i204",
+              "etag": "0YUVfq/QPqYdE1IerXnsO9Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "YUVfq/QPqYdE1IerXnsO9Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777823850462,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/2nLH8Y8EQQWiBfsCmJjr3zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Baapu A Fathers Story (2025)",
+  "media_kind": "movie"
+}
