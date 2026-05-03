@@ -1,0 +1,82 @@
+{
+  "name": "Blind Spot (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Blind Spot (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:23:09Z",
+  "remote_folder_id": 1753475,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122752",
+  "tmdb": {
+    "tmdb_id": 1479860,
+    "title": "Blind Spot",
+    "original_title": "\u0c2d\u0c48\u0c02\u0c21\u0c4d \u0c38\u0c4d\u0c1f\u0c3e\u0c30\u0c4d\u0c1f\u0c4d",
+    "release_date": "2025-05-09",
+    "year": "2025",
+    "rating": 4.5,
+    "overview": "When 24-year-old Divya is found dead, what initially appears to be a suicide soon unravels into a gripping murder mystery. Officer Vikram, known for his sharp instincts, delves into a maze of hidden motives involving Divya's husband, stepchild, and maid. As buried secrets come to light and tensions rise, Vikram must investigate a house full of suspects and uncover the truth before time runs out.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/n9SaFZccB7pZdEf5HzmaUZEhPCT.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fkrhrS3BcOUhzdJeGo0NHBRXkA5.jpg",
+    "genre_ids": [
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122752",
+    "status": "U",
+    "etag": "YKMWd5cV35nfOaKmOwyX/Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122752",
+          "url": "/sapi/download/video?action=get&k=D2y1iyLiaOf26oFiCmsgKHeqlFO9_yf_TQqXZ2c-06pXRMmn_6Hq6r7GCI5bAW5RdEoSxBc-9QhAxXe7nRzUxA3nEwezSh_yz1RllvKlOXpd3VAIQgz6A9-A8zkanz1ERNbXPbXV5WfB8iqFnbPcL3sJXeRYEuP4tsx63dJkzbOZFKCJEfA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=zpJopr9DfMUelxMcG52viMMEER23hM5Tg3ujKBgT6nJBLUb5zXdqyfbL2YNTYinMiwe7l871Z2n0u1wUKQnvmudzyQbVqkxy-rfEKP0IizKVCgG4iNBQnYDkoPwdbyxxU7MOOKpdM42_uCkFUkdI-Zf4QTWIVzlO5rIXNWXnHm0kDsH8n5ADKkVnQpSPhSADQnE&node=1i204",
+          "date": 1777825388365,
+          "creationdate": 1777825073000,
+          "modificationdate": 1777825073000,
+          "uploaded": 1777825355951,
+          "size": 993497711,
+          "name": "Blind Spot (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5348659,
+            "bitrate": 1485976,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=3T4y1SzQMtsx3qOPToZOafx3G8ngy0fjW-JUfcxJ60nI5rGk4TwL4b7sh5THdqRV68dunHDDcRhAsRxEAXFFdZygDiC7BcAxeFTEx-x7G9K1TzHUKadedDgQOHw7UXzAjAeOmkQfHTOE_VIHw1WYKoNnJK0jY70qZhxZYQV72QMHPRDzSHeylCoAV4YkiUB5RC0&node=1i204",
+              "etag": "0YKMWd5cV35nfOaKmOwyX/Q=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=zpJopr9DfMUelxMcG52viMMEER23hM5Tg3ujKBgT6nJBLUb5zXdqyfbL2YNTYinMiwe7l871Z2n0u1wUKQnvmudzyQbVqkxy-rfEKP0IizKVCgG4iNBQnYDkoPwdbyxxU7MOOKpdM42_uCkFUkdI-Zf4QTWIVzlO5rIXNWXnHm0kDsH8n5ADKkVnQpSPhSADQnE&node=1i204",
+              "etag": "0YKMWd5cV35nfOaKmOwyX/Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "YKMWd5cV35nfOaKmOwyX/Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777825388426,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/l6DfM5q8TsqExl4U3S3lYTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Blind Spot (2025)",
+  "media_kind": "movie"
+}
