@@ -1,0 +1,81 @@
+{
+  "name": "Rupinder-Gandhi-the-Gangster-2015-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Rupinder-Gandhi-the-Gangster-2015-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:53:49Z",
+  "remote_folder_id": 1753624,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124593",
+  "tmdb": {
+    "tmdb_id": 470402,
+    "title": "Rupinder Gandhi The Gangster",
+    "original_title": "\u0a30\u0a41\u0a2a\u0a3f\u0a70\u0a26\u0a30 \u0a17\u0a3e\u0a02\u0a27\u0a40 \u0a17\u0a48\u0a02\u0a17\u0a38\u0a1f\u0a30..?",
+    "release_date": "2015-09-11",
+    "year": "2015",
+    "rating": 10.0,
+    "overview": "With the local police force unwilling to deal with crime, a college student and his gang take it upon themselves to mete out justice in their own way.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/mhXFXv6xz2CZXE43HDIPctTmSLt.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6dN4vXOO0FJUsS9QaAUvvszWdR0.jpg",
+    "genre_ids": [
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124593",
+    "status": "U",
+    "etag": "JeVMKx7aN3WzcmJJKR687A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124593",
+          "url": "/sapi/download/video?action=get&k=k_BteXqsY_1-gZsbuieJeTJ2ImZ6wb3019SEN5gWqJVhF03JxtoS_dAhsCJM8CpwmkoUmWGWQdYKSBcNAeqrgupm-xvPPOfK41UGCXRUUlfZC1Hy6agZuF3Pcyp6CJP6yqSvINYq7M9A5wQwdcX-NYS8KBGbDClId7W6jVGfW2U3QYOY8Mc&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=PgkzrCHBtQTGxmH8IlWAPmy-GcqxA8f61S8giqfzv_FfKu9GZkTOZR-hl75OCXWAI22eCjLm0P0-vKPWTgJrLTu2VNvnUU0SCtN0zO1xxq3_0UnuLkEarXO4o4CTNH1rRZJus9fAC97-xOQDJUIbWhYycPLh3-Xlbqr-e0aVun05GvoIF4iIag3REyartF5jMz0&node=1i204",
+          "date": 1777834428459,
+          "creationdate": 1777834364000,
+          "modificationdate": 1777834364000,
+          "uploaded": 1777834415212,
+          "size": 418078717,
+          "name": "Rupinder-Gandhi-the-Gangster-2015-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7921487,
+            "bitrate": 422222,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=UUe_ReS5ZZVMWV1QCfD3013YQP_Ml5YWoiYpVaQ8-CimXR9VkWQDBzLOdyanaQ_9sZ6iSgA2rk0k21yE4UC8U4KRr0uQX_bfaHw5gyKPMbQPT2MQIl7LFhSvg2nZKOdewQaw9EJbyIixThKnYEWvNhpRR5nI-qddaXORjtvzFJgtb7pTffRvXi4cLkRspyrvrYA&node=1i204",
+              "etag": "0JeVMKx7aN3WzcmJJKR687A=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=PgkzrCHBtQTGxmH8IlWAPmy-GcqxA8f61S8giqfzv_FfKu9GZkTOZR-hl75OCXWAI22eCjLm0P0-vKPWTgJrLTu2VNvnUU0SCtN0zO1xxq3_0UnuLkEarXO4o4CTNH1rRZJus9fAC97-xOQDJUIbWhYycPLh3-Xlbqr-e0aVun05GvoIF4iIag3REyartF5jMz0&node=1i204",
+              "etag": "0JeVMKx7aN3WzcmJJKR687A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "JeVMKx7aN3WzcmJJKR687A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834428522,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/90kxOuKFTwmLd1Ttb03fGzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Rupinder Gandhi The Gangster (2015)",
+  "media_kind": "movie"
+}
