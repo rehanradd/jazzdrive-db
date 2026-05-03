@@ -1,0 +1,83 @@
+{
+  "name": "Ishqan-De-Lekhe-(2026)-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Ishqan-De-Lekhe-(2026)-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:24:10Z",
+  "remote_folder_id": 1753532,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123481",
+  "tmdb": {
+    "tmdb_id": 1643729,
+    "title": "Ishqa'n De Lekhe",
+    "original_title": "Ishqa'n De Lekhe",
+    "release_date": "2026-03-06",
+    "year": "2026",
+    "rating": 10.0,
+    "overview": "Starring the sensational Gurnam Bhullar alongside the stunning Isha Malviya, this Punjabi cinema is crafted for every soul that has ever loved deeply. Directed by the talented Manvir Brar, Ishqa'n De Lekhe is set to redefine Punjabi romance on the big screen.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      10749,
+      10402
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123481",
+    "status": "U",
+    "etag": "qwTyYvKq0OXzOkbSV8h+ew==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123481",
+          "url": "/sapi/download/video?action=get&k=ESVRllGxZU2m--ThTedq9olZn1WUoAQX1HFRXwiO7c-8lBsLpjNvK8cga-coVCBeSC6e4trMR4rmFi3Tj4hHzONcD2-wOOInK5fMPNz3Sdb5ABQhdZDRaIP94YIzUS3Hh7ZDPtUdVBMXodihf__AzA45NLiqI8Gr54FYIfWtVfmRL856x7w&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=QfYz7w4zOMJnBKfaMH99g-9Ehex5CmYAN10Ds-3L7VnLOrF0GmfLrX8QX-W7E6FIcaeugMfsXsgie-SFHjzVk-QSCIg9Fiv1t3YrM8QlDRibc6IVUGu73ZXSVGHFcuI6SDhEcfm_lNeAybXnhCv1XZPwsHoQWYZdBcbJyCXxLjGZ4v7ZXgKO44C1X-YE8FZURuo&node=1i204",
+          "date": 1777832649067,
+          "creationdate": 1777832531000,
+          "modificationdate": 1777832531000,
+          "uploaded": 1777832631453,
+          "size": 450201403,
+          "name": "Ishqan-De-Lekhe-(2026)-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8440382,
+            "bitrate": 426711,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0PG-pmnp0eQF08Jt0pv-M4Ia8lzFBdboe6HnAJ4TsJiLhAGB38EkAAYUKDm7TXDdiXdb-Wf68KrLbBpUiyiw-WazgDWAd7v21e6BnntReeFZIkDrQb5vD65iBAsMPi0_6r4pO_BXojvrEPWT1bqDEv73cOhVTvoj5iZ0MVyvHTYmrcPs9cXI1WFwVGkbpKukDb4&node=1i204",
+              "etag": "0qwTyYvKq0OXzOkbSV8h+ew=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=QfYz7w4zOMJnBKfaMH99g-9Ehex5CmYAN10Ds-3L7VnLOrF0GmfLrX8QX-W7E6FIcaeugMfsXsgie-SFHjzVk-QSCIg9Fiv1t3YrM8QlDRibc6IVUGu73ZXSVGHFcuI6SDhEcfm_lNeAybXnhCv1XZPwsHoQWYZdBcbJyCXxLjGZ4v7ZXgKO44C1X-YE8FZURuo&node=1i204",
+              "etag": "0qwTyYvKq0OXzOkbSV8h+ew=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "qwTyYvKq0OXzOkbSV8h+ew==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832649160,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/5PQRycNRTqO0dE9g871R0jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ishqan De Lekhe (2026)",
+  "media_kind": "movie"
+}
