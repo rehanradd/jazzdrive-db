@@ -1,0 +1,83 @@
+{
+  "name": "Aghathiyaa (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Aghathiyaa (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:28:36Z",
+  "remote_folder_id": 1753441,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122082",
+  "tmdb": {
+    "tmdb_id": 1103756,
+    "title": "Aghathiyaa",
+    "original_title": "\u0b85\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+    "release_date": "2025-02-28",
+    "year": "2025",
+    "rating": 4.8,
+    "overview": "Things go awry when a haunted mansion is opened as a tourist attraction by Aghathiyan leading to the unraveling of the dark history behind the mansion's previous occupant.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gCXjEAJRaZZi5bMowWJQxK0827c.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/pRDEt9VgEyTGE5BAvp1uCGV09Sr.jpg",
+    "genre_ids": [
+      14,
+      27,
+      12
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122082",
+    "status": "U",
+    "etag": "KI24oKYnn+Fvu12IIKpwNQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122082",
+          "url": "/sapi/download/video?action=get&k=D_RL79iwiNt_DwlJ7bmY7ereKn6B3V4qRE8kTcNkdbqwEba8poJ0Iyr1gRRuXQlg8lt1z9atdFSOHphAl_EeqNU4n3f7xPNPtddUhq2Onzxjx1CPtffoQfNp43ZnUQ7jKNwBxKX0ntKITGO462cP_bEu-E4EJ4WB6TYx9r7SW_sQFe4YQLo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=ZIprmVZbViS52FYL71Ada4UVF5SM4J-Sx4bp5thLTUtMjYxW7thq-ytElF2KjZmb2PhKQMrkx7Ib6DirzxKK256y529okI3WjUN0YrTpELQWcmYRq6DuM6IxzHu6y-pwGwzOpWh4l2TiUeoLHDqCU5sWMumskJ0gxdLf7JM3T6HpEu1IJTaQjzf-HSd69qeRzNE&node=1i204",
+          "date": 1777822115285,
+          "creationdate": 1777821771000,
+          "modificationdate": 1777821771000,
+          "uploaded": 1777822029038,
+          "size": 1305232306,
+          "name": "Aghathiyaa (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8074227,
+            "bitrate": 1293233,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0tKCApVOp-Iqt0_sKR1v9ncX_Tp0ire2OjStC_403JsS8TH7_x0M4AZ8pRTFmuwhk210JH4MWPgEcGvB1KIIdx1J7MDhnHfO-8T4X8_sCjOzUcKHY2HdRjEAstqcNcjjEp5BNxNBOFovEefIwqtk2BJP8DZvpZDQiwxc8fFm5HS4T11GC9wIclmdKq_VtnZCBzk&node=1i204",
+              "etag": "0KI24oKYnn+Fvu12IIKpwNQ=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ZIprmVZbViS52FYL71Ada4UVF5SM4J-Sx4bp5thLTUtMjYxW7thq-ytElF2KjZmb2PhKQMrkx7Ib6DirzxKK256y529okI3WjUN0YrTpELQWcmYRq6DuM6IxzHu6y-pwGwzOpWh4l2TiUeoLHDqCU5sWMumskJ0gxdLf7JM3T6HpEu1IJTaQjzf-HSd69qeRzNE&node=1i204",
+              "etag": "0KI24oKYnn+Fvu12IIKpwNQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "KI24oKYnn+Fvu12IIKpwNQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822115352,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/uB_MDJFIRdiQosYqohCd1jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aghathiyaa (2025)",
+  "media_kind": "movie"
+}
