@@ -1,0 +1,82 @@
+{
+  "name": "Meri-Pyari-Daadi-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Meri-Pyari-Daadi-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:12:35Z",
+  "remote_folder_id": 1753686,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124765",
+  "tmdb": {
+    "tmdb_id": 1599592,
+    "title": "Meri Pyari Daadi",
+    "original_title": "Meri Pyari Daadi",
+    "release_date": "2025-07-11",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "A young boy struggling with school and friendships finds strength and guidance through his loving grandmother. Their special bond grows as she helps him overcome life's challenges",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nFPO0NhGQkaSQUb0HDVPo6atAm5.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      10751,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124765",
+    "status": "U",
+    "etag": "Wtc1HfgA7pURY6UywI3jZg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124765",
+          "url": "/sapi/download/video?action=get&k=nI-RymQdlybd42DYHRAoOGCa95pLnPFLR2SLlyEKW7Qj0FtdHxctdXFZwtgg-A5mwieDwcjUmQejc_TUkNk6dy4623leO39rngMTc98Ic7W5qSgDS_Axa-Hub0NVQHmAEd8SGdgxMUUbcMASrq7pnR9syht20_1zOhUzrsSGO24BbIuMrSU&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=QMUjIKQKFeHdCNFrY3BBAeB4_EGVg0spsh2CVS1ryauEc6NUQijmBXAAl6y-es21yUUBLCpaNmORkg5WHg9uVfAlMSBlo67KnWPzydlurN9c0ifa7jXfoLiJJQXsMH_JE-xQ3NmAp8UtAag1QeqmyzBjzBEhywGP8DVXffAiD7qbOOq8SJYtRP9MDL0cBts-_KM&node=1i204",
+          "date": 1777835554644,
+          "creationdate": 1777835513000,
+          "modificationdate": 1777835513000,
+          "uploaded": 1777835545535,
+          "size": 317835679,
+          "name": "Meri-Pyari-Daadi-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5971515,
+            "bitrate": 425802,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=YsPncKjU_RyVyjB4OljgFD1X4mOx6GS1U9QfkyBYIm418UETa06Z57yJU0AhPAiMh3-94rzrMwXW4hJOVNVCy40JMjwoBfVBp7KSs3SI1GALmYfLVLgEigeZ2mC8qQD_a6jJQ4_IWwCPnlBd7-l_WfKT-M-jAWSimbAdYoVVEJDLPpDEx1duZlMHrlsLhpD3oKM&node=1i204",
+              "etag": "0Wtc1HfgA7pURY6UywI3jZg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=QMUjIKQKFeHdCNFrY3BBAeB4_EGVg0spsh2CVS1ryauEc6NUQijmBXAAl6y-es21yUUBLCpaNmORkg5WHg9uVfAlMSBlo67KnWPzydlurN9c0ifa7jXfoLiJJQXsMH_JE-xQ3NmAp8UtAag1QeqmyzBjzBEhywGP8DVXffAiD7qbOOq8SJYtRP9MDL0cBts-_KM&node=1i204",
+              "etag": "0Wtc1HfgA7pURY6UywI3jZg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Wtc1HfgA7pURY6UywI3jZg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835554721,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/PFp-QgowRMCU_l1ZbF1vbDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Meri Pyari Daadi (2025)",
+  "media_kind": "movie"
+}
