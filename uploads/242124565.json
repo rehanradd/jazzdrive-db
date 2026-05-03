@@ -1,0 +1,83 @@
+{
+  "name": "Saab-Bahadar-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Saab-Bahadar-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:47:14Z",
+  "remote_folder_id": 1753602,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124565",
+  "tmdb": {
+    "tmdb_id": 459362,
+    "title": "Saab Bahadar",
+    "original_title": "\u0a38\u0a3e\u0a2c\u0a4d\u0a39 \u0a2c\u0a39\u0a3e\u0a26\u0a30",
+    "release_date": "2017-05-26",
+    "year": "2017",
+    "rating": 8.5,
+    "overview": "A small town cop finds himself investigating the murder of a prominent citizen.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yLHsxNAvG7llDSQSjs81MBfjL68.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4Oa1vcS0hHsX3biLqQBFBD16gpJ.jpg",
+    "genre_ids": [
+      53,
+      80,
+      9648
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124565",
+    "status": "U",
+    "etag": "Fss4XhPawpTmzQwTQDCp3Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124565",
+          "url": "/sapi/download/video?action=get&k=XW7DvAmnGg__HOXW1IAe9_XGzpHG7UaBWfEDPlZJNoYI7RgsAJgW0qsCuW_N40Uq3RUUR6VC-OFkp5fc6_8REtkVfUwhbQ_nYamM78Tk8eHxqNS5-glbR2b5qGQ7BPCPLBkoNtzK3cfyI3R8VMesyq9_d8TOkC77DHDqY-_6039GoRjKcUY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=piIcx7aaBjSPJZPlRaZISpvbQxhPr63W2DC8il0r1xPRjHnZKZUUs2isDAiehYjeBNglGOaaTibRiBLUjF_cyNelBMis9sbJYS2q-Fhss7Ea2H4jRmZacVloQl2Fj3kk2mMgYt6hQFribH5BzD-Ft3jVp7YPCnVrzbxCBNe9Gz8Z-5jIf7WTN0HMZ4zVJ48G6tY&node=1i204",
+          "date": 1777834033835,
+          "creationdate": 1777833963000,
+          "modificationdate": 1777833963000,
+          "uploaded": 1777834019146,
+          "size": 356772660,
+          "name": "Saab-Bahadar-2017-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6705931,
+            "bitrate": 425620,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_ef715S1FYHSEzBiROp-trKGhigpFjTAWAEvWvyormJS13reSbkQ1EXKnoiJq2vDEMSiTA4FBMPNNbfYQEzZ_y4UD4rFggig_SSIwYbYPK3ziH4eIP9ur3HoErcjUaDd6Vjeew2SyozO6TZmazzIwtkAO3SL8I3Nmggh5aXlW6_VIyHuQeU_Urf3vgPGlPtgRms&node=1i204",
+              "etag": "0Fss4XhPawpTmzQwTQDCp3Q=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=piIcx7aaBjSPJZPlRaZISpvbQxhPr63W2DC8il0r1xPRjHnZKZUUs2isDAiehYjeBNglGOaaTibRiBLUjF_cyNelBMis9sbJYS2q-Fhss7Ea2H4jRmZacVloQl2Fj3kk2mMgYt6hQFribH5BzD-Ft3jVp7YPCnVrzbxCBNe9Gz8Z-5jIf7WTN0HMZ4zVJ48G6tY&node=1i204",
+              "etag": "0Fss4XhPawpTmzQwTQDCp3Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Fss4XhPawpTmzQwTQDCp3Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834033903,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/2mMVwXhqRMadEf2y5wcJwzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Saab Bahadar (2017)",
+  "media_kind": "movie"
+}
