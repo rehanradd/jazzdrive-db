@@ -1,0 +1,81 @@
+{
+  "name": "Aalan (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Aalan (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:13:21Z",
+  "remote_folder_id": 1753428,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122029",
+  "tmdb": {
+    "tmdb_id": 1265979,
+    "title": "Aalan",
+    "original_title": "\u0b86\u0bb2\u0ba9\u0bcd",
+    "release_date": "2024-10-18",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "\"Aalan\" is a captivating tale that follows the life of a writer who discovers a deep connection to their past life, filled with tragic events and enduring love. As they delve into their memories, they unravel a story of heartache, resilience, and the power of love that transcends time. Through evocative storytelling, \"Aalan\" explores themes of fate, redemption, and the human spirit's capacity to overcome adversity. As the writer confronts their past, they are compelled to confront their present and embrace the possibility of a hopeful future.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/neA6rZQ437vmaz3ZXHXoLZYtEJO.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/v9KOFH1s5jWJ3sM3tPotiuGM6yD.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122029",
+    "status": "U",
+    "etag": "kcjyuonarJzZSUqGq6WwoQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122029",
+          "url": "/sapi/download/video?action=get&k=Sz4UQompPQ4KsWumfMP9DNTAK6TMXOdagRKWfAc192nRdCh05HUd9TFJ4Pu1yogXQw_ZLCZvWfzNDQeVZJS-lSUMIiRoOT7CrUyiZNTCUIUHupryY7ZRhwP95_nwbs0AuLi0HbprddnWsk2dloaynBQ33SHfX94SA_MRMMuRbu3yWux8U20&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=KaVgmvAhXdY4we1WZeifz0greaMo05nLe2STrUzdBnh_XGYhFFESoLAqor63AfClQw3iHzdr9dIdtb69N7tHKbBWpOpmalZOrXRwTzam7Y2N9mOL2-vSHji_Rr_o_879g-kzKgByUyqheMvB3I1J_sZYANQzy4JIH83iQ2GYIGGkXx2Jv2DCyyG1y8SCXkeVWzM&node=1i204",
+          "date": 1777821200488,
+          "creationdate": 1777820868000,
+          "modificationdate": 1777820868000,
+          "uploaded": 1777821150510,
+          "size": 1315725646,
+          "name": "Aalan (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 7128235,
+            "bitrate": 1476635,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=spP3oIYayaP7-X1Sunm9EnOl27N4eUKEMOJwzYmV5KMHASxnLp4rtRG4zHxnAH2Cmnqg5laMdWvBqHnNHcMUxPKxMKOoLj_ePg6cnl7maaomehi1o7cH4G9PSmKghY6AbHgTJ6TRlP4GPXUlOipxat8N6L61265i9XNCTzfzZ0sS1QJokqgR8-IhjGvHLS-qhag&node=1i204",
+              "etag": "0kcjyuonarJzZSUqGq6WwoQ=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=KaVgmvAhXdY4we1WZeifz0greaMo05nLe2STrUzdBnh_XGYhFFESoLAqor63AfClQw3iHzdr9dIdtb69N7tHKbBWpOpmalZOrXRwTzam7Y2N9mOL2-vSHji_Rr_o_879g-kzKgByUyqheMvB3I1J_sZYANQzy4JIH83iQ2GYIGGkXx2Jv2DCyyG1y8SCXkeVWzM&node=1i204",
+              "etag": "0kcjyuonarJzZSUqGq6WwoQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kcjyuonarJzZSUqGq6WwoQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777821200572,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/u3LirghsTVK6F8rsS_HiDDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "1753428",
+  "share_folder_path": "Aalan (2024)",
+  "media_kind": "movie"
+}
