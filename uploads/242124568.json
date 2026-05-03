@@ -1,0 +1,85 @@
+{
+  "name": "Chaar-Sahibzaade-Rise-of-Banda-Singh-Bahadur-(2016)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Chaar-Sahibzaade-Rise-of-Banda-Singh-Bahadur-(2016)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:47:35Z",
+  "remote_folder_id": 1753604,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124568",
+  "tmdb": {
+    "tmdb_id": 425694,
+    "title": "Chaar Sahibzaade: Rise of Banda Singh Bahadur",
+    "original_title": "\u0a1a\u0a3e\u0a30 \u0a38\u0a3e\u0a39\u0a3f\u0a2c\u0a1c\u0a3c\u0a3e\u0a26\u0a47: \u0a2c\u0a70\u0a26\u0a3e \u0a38\u0a3f\u0a70\u0a18 \u0a2c\u0a39\u0a3e\u0a26\u0a30 \u0a26\u0a3e \u0a09\u0a2d\u0a3e\u0a30",
+    "release_date": "2016-11-11",
+    "year": "2016",
+    "rating": 8.75,
+    "overview": "The tale of Banda Singh Bahadur, one of the greatest warriors in Sikh history. He is chosen to fight Wazir Khan, governor of Sirhind, who had been terrorizing Punjab for decades.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/u0OO0xBC8GfFY7mhFrbCLXVOYhL.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tsBH8b5627KdTFj4la8v26wC3V1.jpg",
+    "genre_ids": [
+      16,
+      36,
+      28,
+      12,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124568",
+    "status": "U",
+    "etag": "tfeZkZ8TVp3ghJRj1Qw+Fg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124568",
+          "url": "/sapi/download/video?action=get&k=pdc4tSAEAn1Y4BJ9XbPnTuf8tDyYoeEYMsG8Y5m9KOr7oBpJ7eKnCwhaRAbYvp_5GQmaXa2cmotYMXNvfJlVefR0gL-MOG6jgo4B_2Or8t__AJXcaUN9_Q5B2zfw1R0kyS1dot_iUZAp32OjYoEZNTQpN7AuIu385FRy1-td76pZZYqtnbs&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=HhNC5EuFbu0oyfA6_orqM0NHaz1WfoQuqUHkteguD4tSseUhGtxBKa9vFSnetV0_SaEXkU2N_eQAq-bicYAAyXEFM4U6eW04CHb2gT6TXS5e4Ui33kHISXpmtSpB1HdDJpn856nBqju9-mZsYCPo9ZJ_sNHR067lko12BTdyeVjf4ZMi8LmjWrd6mXvV1c901NM&node=1i204",
+          "date": 1777834055024,
+          "creationdate": 1777834000000,
+          "modificationdate": 1777834000000,
+          "uploaded": 1777834042092,
+          "size": 427666781,
+          "name": "Chaar-Sahibzaade-Rise-of-Banda-Singh-Bahadur-(2016)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8048085,
+            "bitrate": 425111,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=CCMQ3CGQZOZXnZ_YlG0SiLU-oX92GxvFCEcUp7cbr-CQZ26YDHgtAOTiCdMMTB2Vly8PxAiO5erxS_I1zzmTlQn4Up628WKvDmkPx2324sa952ReWJBKWCwCW2Z3vb9P135D5AiZ7RIbNMD4RltJ2pL-8oPrQCz4rOlvdBPeRen5YMdPNTAhBQPFREajC3KKsI4&node=1i204",
+              "etag": "0tfeZkZ8TVp3ghJRj1Qw+Fg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=HhNC5EuFbu0oyfA6_orqM0NHaz1WfoQuqUHkteguD4tSseUhGtxBKa9vFSnetV0_SaEXkU2N_eQAq-bicYAAyXEFM4U6eW04CHb2gT6TXS5e4Ui33kHISXpmtSpB1HdDJpn856nBqju9-mZsYCPo9ZJ_sNHR067lko12BTdyeVjf4ZMi8LmjWrd6mXvV1c901NM&node=1i204",
+              "etag": "0tfeZkZ8TVp3ghJRj1Qw+Fg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tfeZkZ8TVp3ghJRj1Qw+Fg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834055088,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/lKqfZPAcREqTry68NijYtDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Chaar Sahibzaade Rise Of Banda Singh Bahadur (2016)",
+  "media_kind": "movie"
+}
