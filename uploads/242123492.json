@@ -1,0 +1,82 @@
+{
+  "name": "Sohreyan-Da-Pind-Aa-Gaya-(2022)-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Sohreyan-Da-Pind-Aa-Gaya-(2022)-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:26:45Z",
+  "remote_folder_id": 1753541,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123492",
+  "tmdb": {
+    "tmdb_id": 680980,
+    "title": "Sohreyan Da Pind Aa Gaya",
+    "original_title": "Sohreyan Da Pind Aa Gaya",
+    "release_date": "2022-07-08",
+    "year": "2022",
+    "rating": 8.0,
+    "overview": "Lovers Raja and Roopi send a matchmaker to Roopi\u2019s house to pitch Raja as the perfect match for her. Things take an unexpected turn when the matchmaker fixes Roopi's alliance with another man.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8upkkUUw2rjxf9DgRewjrVvLo2F.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tInX3DeBe13BCSRee5WmkD8XrB3.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123492",
+    "status": "U",
+    "etag": "KNQ/nW1AWLrGJqhaUSzD2A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123492",
+          "url": "/sapi/download/video?action=get&k=9ZLi7tyNXdLrofXsKJgK6tWrDrRhHrxYBx2ou6WM1PqaoXnwNFPny7yXH4fTXWcKka7LzEtTwkPJNa4stSAnCRHKlwle9BvoW0HtLHY3wLpRPxSJPL7XIJdVeJMRRVlSMsuqNAkk6Z0d4JTGHkbtVn7RXeP0fdg2AY4wwkMeJolyugiL1ks&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=BtjbA1dUCX7qAWQHrExC_TiVTzVhdNCv2oFRCnjMAwX-cdVqXKdEio7KM5i1dIFjgG1PZkr7ZcS5jUxzc0wc90RSXLKegrRZB40jgAyjAhuh8wCWRFqizgNJm3j0onk0BiQjZjZpCjwRAUqOh9Qb9Byzppyl14feW6uhQ0JEHGs-tYG44cnQyFqLFa-TQU6QhYs&node=1i204",
+          "date": 1777832804939,
+          "creationdate": 1777832752000,
+          "modificationdate": 1777832752000,
+          "uploaded": 1777832791532,
+          "size": 399885512,
+          "name": "Sohreyan-Da-Pind-Aa-Gaya-(2022)-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7510552,
+            "bitrate": 425945,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=e0TTqU8CmkgmLPTGyrI5ped-IqUFY23_1-gKeTn6NyfUZQ4e8mZeTY2HGdOtDyYKrSPsekJElA57UaUpuDOOv2OUriPp_-DRUsiHWk-V-GMklJA5uWgnUQwiBp1tjdT4T-gM7Wts4HN6oP0KZfHI5jY6Md5uta0Xjceia5uC_ix5bSeEirC00wF00kdf3pgHgac&node=1i204",
+              "etag": "0KNQ/nW1AWLrGJqhaUSzD2A=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=BtjbA1dUCX7qAWQHrExC_TiVTzVhdNCv2oFRCnjMAwX-cdVqXKdEio7KM5i1dIFjgG1PZkr7ZcS5jUxzc0wc90RSXLKegrRZB40jgAyjAhuh8wCWRFqizgNJm3j0onk0BiQjZjZpCjwRAUqOh9Qb9Byzppyl14feW6uhQ0JEHGs-tYG44cnQyFqLFa-TQU6QhYs&node=1i204",
+              "etag": "0KNQ/nW1AWLrGJqhaUSzD2A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "KNQ/nW1AWLrGJqhaUSzD2A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832805026,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/K6OzKKjsQRWnKBuZelY2ejk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sohreyan Da Pind Aa Gaya (2022)",
+  "media_kind": "movie"
+}
