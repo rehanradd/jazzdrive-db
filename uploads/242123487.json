@@ -1,0 +1,81 @@
+{
+  "name": "Mundey-Kampung-Dey-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Mundey-Kampung-Dey-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:25:42Z",
+  "remote_folder_id": 1753537,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123487",
+  "tmdb": {
+    "tmdb_id": 1051183,
+    "title": "Mundey Kampung Dey",
+    "original_title": "Mundey Kampung Dey",
+    "release_date": "2022-12-15",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "Mundey Kampung Dey, a malaysian punjabi film. Only in cinemas 15 december 2022 onwards.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sYjTxLFKlNQsSca06NcFx5z08iQ.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123487",
+    "status": "U",
+    "etag": "iXv9S06MHBdN742OndgJTw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123487",
+          "url": "/sapi/download/video?action=get&k=vqgFawODyUsAlCuLTCg_OOIPDcYDZsswi2OTd2Paq3z3fJwJaq05BHX8DMrFMfKSGz_GDVrOcfkU2i5g9z4-7YrTrgGqs7HgQd272ThnJQ21X48EKYeRHdJ9i2YwvBl5MbRShcq4-Wj7IfWyTzVQQUp0-P3vC4EHc6rn9DETFjuA8UwgHYY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=V2dB5IClmEmXhYjxDljI2Bu0oRurvupmKYsxMGT4k0Trcq0DZf01PB9xBx8IdZiJ2d18tHiz_wuXPkbgpsrf1ZDAnD09pZJYsqaFX_sY2N_Ox6_BxLjnNBF4QS_sfMXaZiTd1Wu9pYKypQTIHtibNlOlEl2HGXAiOMD0JmG-FPKUBwfdswt2tnnWcx8R05qzUpI&node=1i204",
+          "date": 1777832741657,
+          "creationdate": 1777832657000,
+          "modificationdate": 1777832657000,
+          "uploaded": 1777832722861,
+          "size": 436592642,
+          "name": "Mundey-Kampung-Dey-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8231999,
+            "bitrate": 424288,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=9dk5wbd7p8DYrm1lnrwfzDjcMipWFoYHNUIXUNSEMPJFQyFrF_9pCH4KLUOEDw1poIspqErk_h-XpZZ3SydY3B3YjgwBJnJq_o-KTUw_PXdLjZ45RdIK44CYlU4BiUUiy567aax4AVHRBCYL9GChkWVTmSj3GA9seqT8LwvoNKmM1hPxtjloFEwi8KKU-HJmAaw&node=1i204",
+              "etag": "0iXv9S06MHBdN742OndgJTw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=V2dB5IClmEmXhYjxDljI2Bu0oRurvupmKYsxMGT4k0Trcq0DZf01PB9xBx8IdZiJ2d18tHiz_wuXPkbgpsrf1ZDAnD09pZJYsqaFX_sY2N_Ox6_BxLjnNBF4QS_sfMXaZiTd1Wu9pYKypQTIHtibNlOlEl2HGXAiOMD0JmG-FPKUBwfdswt2tnnWcx8R05qzUpI&node=1i204",
+              "etag": "0iXv9S06MHBdN742OndgJTw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "iXv9S06MHBdN742OndgJTw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832741727,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/9m9BSh1_Tzq4_yfjhDBAADk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mundey Kampung Dey (2022)",
+  "media_kind": "movie"
+}
