@@ -1,0 +1,81 @@
+{
+  "name": "Arjun Chakravarthy (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Arjun Chakravarthy (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:54:44Z",
+  "remote_folder_id": 1753456,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122709",
+  "tmdb": {
+    "tmdb_id": 1541316,
+    "title": "Arjun Chakravarthy: Journey of an Unsung Champion",
+    "original_title": "Arjun Chakravarthy: Journey of an Unsung Champion",
+    "release_date": "2025-08-29",
+    "year": "2025",
+    "rating": 6.3,
+    "overview": "Arjun Chakravarthy: Journey of an Unsung Champion is an inspiring sports drama that chronicles the extraordinary life of Arjun Chakravarthy, a determined kabaddi player who represented India in the 1980s.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tCZZFxQdneZ2z9ajfrKKp92Pvei.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sYSBd28KVKFqscCfLpRjE7PqPZ9.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122709",
+    "status": "U",
+    "etag": "GYnL3hisCZGeeaZddRi3Jw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122709",
+          "url": "/sapi/download/video?action=get&k=Y1zG5AOJBVuy0c24d61_XoUjCpIKtItkjTAgcVgcO8Ig_z_XHHsMtczmh8bs2KkjXb1Scz2worbHJyLy4uPPWOJ8AM2u_hSiUIetMcHvXXFUz2qfswHUe0nkyZaf2pxclSfA6kR84EC87HcI62KElV4sZJWKKy8eZV88NhhTK9ryoBMXSHY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=X7kdJbH8oRlr_V9dpZ4X5fTT3Kl5OlrOKRza27V-mfacuXYn419ecs2gShBA2KmMZg_viXX4TPZmMIkZGcXIh7DCFND6sXfWBZy9bQ4Ber9mLapYaruT2Un44YFVUrdvrqjjaDLqL9Z2RDsIwvq_ZoE-IHfS7wyvGg5MLzrb_4gwSnmPmrNVm7rCsoFfszmME-k&node=1i204",
+          "date": 1777823683989,
+          "creationdate": 1777823257000,
+          "modificationdate": 1777823257000,
+          "uploaded": 1777823641570,
+          "size": 1289336860,
+          "name": "Arjun Chakravarthy (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7583689,
+            "bitrate": 1360115,
+            "codec": "h264",
+            "height": 542,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Yee7BRTcIcaAc_sGBOxyt6UjvDGum7AXkT5uZYilSt4p8z4ewZOPt6AjqM0iTQ2UPC3dS2o0CkvVeWuA6rVdqD-7PFSjnekRpIsZ2DPKexf4HWGXKEgqTMBQSZY584s1WtkGPe8h_TDyylg3b3irWkRrEckojx4IDv2yWMrspp756F7lVzkDovIzqjLce1ByhR8&node=1i204",
+              "etag": "0GYnL3hisCZGeeaZddRi3Jw=="
+            },
+            {
+              "w": 1024,
+              "h": 433,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=X7kdJbH8oRlr_V9dpZ4X5fTT3Kl5OlrOKRza27V-mfacuXYn419ecs2gShBA2KmMZg_viXX4TPZmMIkZGcXIh7DCFND6sXfWBZy9bQ4Ber9mLapYaruT2Un44YFVUrdvrqjjaDLqL9Z2RDsIwvq_ZoE-IHfS7wyvGg5MLzrb_4gwSnmPmrNVm7rCsoFfszmME-k&node=1i204",
+              "etag": "0GYnL3hisCZGeeaZddRi3Jw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "GYnL3hisCZGeeaZddRi3Jw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777823684069,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CRkMMpIwQJKZH2R0s992wDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Arjun Chakravarthy (2025)",
+  "media_kind": "movie"
+}
