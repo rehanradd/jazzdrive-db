@@ -1,0 +1,68 @@
+{
+  "name": "Golgappe-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Golgappe-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:11:02Z",
+  "remote_folder_id": 1753680,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124758",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124758",
+    "status": "U",
+    "etag": "d3SWv4bFEwa/CMdRM5A4Sg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124758",
+          "url": "/sapi/download/video?action=get&k=Pn1Uc4w7YVwCxVO1kSUIuRRQKp58-gTHIP8jn9TgHtCzjvtUKneu16MFXg56RYwX537d0PEV0zbQ3VpoNEaZDpi05igkDncQjaEt8aqEEvfvgl7O_QA9d5dcTzJBm8HBErzurn98Htyh8chseCssyBHSndgMwxM5kJTbzk4mtAvD6RDU1z0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=G9G5JSdqKzTch8rq5morpN_AslkzKnsHRdbTP-o3_IDNH3reWPCCpGwWwx-vd3jykopFyM7iQzu9a5U1pgKTCMF0Nf9whW9DqOPUN0pVaGSjh4t60XNgajVJkGLEJyZILzE6rFnHCbSARAm_GbF8Lyd6BTBlBvOOP4tV6wYNIlOiRZ3mgdx-KF_dOXCHoDJgb_s&node=1i204",
+          "date": 1777835460252,
+          "creationdate": 1777835394000,
+          "modificationdate": 1777835394000,
+          "uploaded": 1777835445267,
+          "size": 430848586,
+          "name": "Golgappe-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8028576,
+            "bitrate": 429315,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=R7zYT0LVn-K8bfhTP3aq1m4y-8K6JVakyuh-CJkjuh1xK1OO1qCPscKbGbVEmvttQWBfjy0lVCzXOCs1mW0HolHO2f0JfkpT7YrvLV-OxOpBXUMOC8f2O95aw-0lWN7ybyUcUfEJG0HyXtrDzxmP6Avfe7H3w_Hs22OcMTlbpJP04GWCm0lMWe5ZZg6AOGNhMLY&node=1i204",
+              "etag": "0d3SWv4bFEwa/CMdRM5A4Sg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=G9G5JSdqKzTch8rq5morpN_AslkzKnsHRdbTP-o3_IDNH3reWPCCpGwWwx-vd3jykopFyM7iQzu9a5U1pgKTCMF0Nf9whW9DqOPUN0pVaGSjh4t60XNgajVJkGLEJyZILzE6rFnHCbSARAm_GbF8Lyd6BTBlBvOOP4tV6wYNIlOiRZ3mgdx-KF_dOXCHoDJgb_s&node=1i204",
+              "etag": "0d3SWv4bFEwa/CMdRM5A4Sg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "d3SWv4bFEwa/CMdRM5A4Sg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835460358,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/u0fKFZJLQVaCVnktSwRIqTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Golgappe (2023)",
+  "media_kind": "movie"
+}
