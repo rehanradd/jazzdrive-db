@@ -1,0 +1,82 @@
+{
+  "name": "Laung-Laachi-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Laung-Laachi-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:40:39Z",
+  "remote_folder_id": 1753581,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124544",
+  "tmdb": {
+    "tmdb_id": 510735,
+    "title": "Laung Laachi",
+    "original_title": "\u0a32\u0a4c\u0a02\u0a17 \u0a32\u0a3e\u0a1a\u0a40",
+    "release_date": "2018-03-09",
+    "year": "2018",
+    "rating": 4.0,
+    "overview": "A newly married couple decide to live together as strangers and as the husband tries to win her by love.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sKhQskX0GViGmXY4Ap5JUEYQBE1.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ggZN33NafDTzk4LsVsjHGCkq9Rf.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124544",
+    "status": "U",
+    "etag": "xeroMKipC8JJJPYBXpy4ew==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124544",
+          "url": "/sapi/download/video?action=get&k=ARANOQUTNqOMuJ-QqXb7WftGcst2n5w1ijfIgBf1TqUZmMRYAPSnIhxKjsNi3LbjM7_PQkAIx8FAD8QKEWTKwg-4WgxIqmR06qd5eT4Vt0cYfEI_-TfeyPcZ1g_pVgEtCXKWxUxdsWwlCFxW3DQ_LyzD7CHQv5RIL2c4hypCvMW71UHfqRA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=Qf90KQHFupD59TOcW4AdqieA9WUkg46IC4uK7DoKH3vzTJjmU5nOkq40utaQMyXOVNBfakHnv7T4pJtvNNHueGgWgDRVfpVK6MjIt6d-9x1IlbaOA7Mute6vYnHSaWkUD-w5JDxQHVKy-jBz54SXNhrUkb-FhDW018tZCwAntKWHJTe1rqlWnCYfS73bn5o9Fpg&node=1i204",
+          "date": 1777833638568,
+          "creationdate": 1777833569000,
+          "modificationdate": 1777833569000,
+          "uploaded": 1777833618389,
+          "size": 417372647,
+          "name": "Laung-Laachi-2018-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7869960,
+            "bitrate": 424269,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Pp3kQKI_musiWU3vfl2IdluIZTZ6FMWLlE--tAg7TKyWWrypumXsXvUn4hREKzwf9BH-94m7pmb20Sd4xHfyEOl2-b7X33NvzL4BEHAVi8LBN2zGyidOMy0juhBUAzx3n7YyZ0RA2tOE6sNDhP_3vENiRPMezM2VyzPJVGPn0K8S97rQiuxSDu_LXc1MU0RAY4k&node=1i204",
+              "etag": "0xeroMKipC8JJJPYBXpy4ew=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Qf90KQHFupD59TOcW4AdqieA9WUkg46IC4uK7DoKH3vzTJjmU5nOkq40utaQMyXOVNBfakHnv7T4pJtvNNHueGgWgDRVfpVK6MjIt6d-9x1IlbaOA7Mute6vYnHSaWkUD-w5JDxQHVKy-jBz54SXNhrUkb-FhDW018tZCwAntKWHJTe1rqlWnCYfS73bn5o9Fpg&node=1i204",
+              "etag": "0xeroMKipC8JJJPYBXpy4ew=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "xeroMKipC8JJJPYBXpy4ew==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833638629,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/AeNfeVTxSVegDaJ3wFmgATk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Laung Laachi (2018)",
+  "media_kind": "movie"
+}
