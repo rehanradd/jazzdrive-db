@@ -1,0 +1,81 @@
+{
+  "name": "Do-Dooni-Panj-(2019)-Punjabi-HDTV--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Do-Dooni-Panj-(2019)-Punjabi-HDTV--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:00:09Z",
+  "remote_folder_id": 1753642,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124712",
+  "tmdb": {
+    "tmdb_id": 574678,
+    "title": "Do Dooni Panj",
+    "original_title": "Do Dooni Panj",
+    "release_date": "2019-01-11",
+    "year": "2019",
+    "rating": 8.0,
+    "overview": "A young man with a PhD can't get a job, so he sues his school and teachers.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lREEPSC70Vkuq7zPAto945Lznxc.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124712",
+    "status": "U",
+    "etag": "NTS6D6E2tf2l24Ex2y/l/g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124712",
+          "url": "/sapi/download/video?action=get&k=X_SslmYbkMvQliRFBvJec-hGC3CqDl3bO15vC4rFbC1LNZwelpada6Zy9fshrulnw5T5pgTwKgfX1n986xvYc8K_s9qCTdNJYbz8b06dEf8jfbMGzeQVsJKzzkyRfTZsV2WLXMfT00jMjGh3OMEGm0wUSQOlBd1d7bvxxaJT4SULxgNy4xA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=cT9oODeYtu7NbQpbfjVIWDIFUL7T25FqesN7FFq4un5gFIprvLoQz6EupYXqESi8rsa2TaUnGvkajUmO4Ujei5QrTMDXXKlpawmDCnmSSvivJvPKfzhNTR_hgxkVqKt0JBfRnufLZn4VbWK9bLxmGIWlHhgKwmRBFcWjbHGq5AoVgIN2SC8pyZH7CcaWC9iu0T0&node=1i204",
+          "date": 1777834807848,
+          "creationdate": 1777834712000,
+          "modificationdate": 1777834712000,
+          "uploaded": 1777834787359,
+          "size": 406740801,
+          "name": "Do-Dooni-Panj-(2019)-Punjabi-HDTV--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7605264,
+            "bitrate": 427851,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=AT9w5N6ZvGKYQ1U-1_8K7NdFl4uoK_PHVRobvdJHr1Vb2CC7_JHbvOYn_wfFD5EOIvSlDPUshV6HgosGyll_Hlm3b7QWNfXcQYZZSCUYluJPWVYZzq4i3DBrJM0TtLURE5sLYH6PVjPeHVRipAU7uhb7_FqNxWL1Z6ARNly1lsKRRjRHojFsgB8lJGZ6GxxMd_o&node=1i204",
+              "etag": "0NTS6D6E2tf2l24Ex2y/l/g=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=cT9oODeYtu7NbQpbfjVIWDIFUL7T25FqesN7FFq4un5gFIprvLoQz6EupYXqESi8rsa2TaUnGvkajUmO4Ujei5QrTMDXXKlpawmDCnmSSvivJvPKfzhNTR_hgxkVqKt0JBfRnufLZn4VbWK9bLxmGIWlHhgKwmRBFcWjbHGq5AoVgIN2SC8pyZH7CcaWC9iu0T0&node=1i204",
+              "etag": "0NTS6D6E2tf2l24Ex2y/l/g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "NTS6D6E2tf2l24Ex2y/l/g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834807933,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ucY8A_wOQoyOFaDPOCB_2Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Do Dooni Panj (2019)",
+  "media_kind": "movie"
+}
