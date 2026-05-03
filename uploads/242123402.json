@@ -1,0 +1,71 @@
+{
+  "name": "Court State Vs A Nobody (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Court State Vs A Nobody (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:02:34Z",
+  "remote_folder_id": 1753505,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123402",
+  "tmdb": {
+    "tmdb_id": 1424217,
+    "title": "Court: State vs. A Nobody",
+    "original_title": "\u0c15\u0c4b\u0c30\u0c4d\u0c1f\u0c4d: State vs. A Nobody",
+    "release_date": "2025-03-14",
+    "year": "2025",
+    "rating": 7.5,
+    "overview": "A determined lawyer takes on a high-stakes case to defend a 19-year-old boy, challenging a system that has already branded him guilty.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4pEX67LJd7ZIqYWtksBtOgQEGcQ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/efMmUfbqfMTtheqjcWiHDtxcXbA.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123402",
+    "status": "U",
+    "etag": "jGbCXhr8+AmPan4qCQt51w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123402",
+          "url": "/sapi/download/video?action=get&k=X8TtluMTe_XV4eiTzX7jkwv6z4d_uXl3Nu8GhvEeGJyk-MM-KFGcJCBA3ARjQBWUEnPwIn-iQvpJ4h9KNGhNygYH_zwmnwtdRdZihCQZaChJbbeDNfOlUW2wqrUWIGP_muqUp2Rn2irtPTQ9aKMqSYYGNGGIiP4LaHkp-wxltEr93al65I0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=6zsEMYRTfA83ercAglhStbmOwTKEx8BRED8Iow_llS2a05BIaGEzsaW8A2jkRlkF_nyjZMdfjwBEJ8lDpuGZ4B4sLlyrAYOfyFjWKwyG6MBspcN9Br-VIB9TAGW5ls6ZDR6fKDPBnAUpINYk5D3qE1mTbi8iWymmq8VGWqyMyR9R0s_bdPB_F_VEUssrGkfiYTU&node=1i204",
+          "date": 1777827753441,
+          "creationdate": 1777827390000,
+          "modificationdate": 1777827390000,
+          "uploaded": 1777827682710,
+          "size": 1664013211,
+          "name": "Court State Vs A Nobody (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=1HrrRCRrVXvxc8Q3u_6VEXeoXQ9K-pgcNebNBUkd0obxEEOaCsMyyArd-nXVTfclVgw3GUP_FjoQASax1rxTl_do-Q7zPcgCDaA8Si6DCxF5tVwpul_gJmnCNoYXs6Nn3Rqt4NqMur68QpQs9CV8JYcI1QodzOXumC6rK2CMhK4kBP548RiJmpn9mqzCwlmX740&node=1i204",
+              "etag": "0jGbCXhr8+AmPan4qCQt51w=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=6zsEMYRTfA83ercAglhStbmOwTKEx8BRED8Iow_llS2a05BIaGEzsaW8A2jkRlkF_nyjZMdfjwBEJ8lDpuGZ4B4sLlyrAYOfyFjWKwyG6MBspcN9Br-VIB9TAGW5ls6ZDR6fKDPBnAUpINYk5D3qE1mTbi8iWymmq8VGWqyMyR9R0s_bdPB_F_VEUssrGkfiYTU&node=1i204",
+              "etag": "0jGbCXhr8+AmPan4qCQt51w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "jGbCXhr8+AmPan4qCQt51w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777827753486,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/6sY_t22QRR-geoxNJZPEnTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Court State Vs A Nobody (2025)",
+  "media_kind": "movie"
+}
