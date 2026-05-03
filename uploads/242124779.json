@@ -1,0 +1,83 @@
+{
+  "name": "Pind-Peya-Saara-Jombieland-Baneya-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Pind-Peya-Saara-Jombieland-Baneya-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:15:55Z",
+  "remote_folder_id": 1753697,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124779",
+  "tmdb": {
+    "tmdb_id": 1487289,
+    "title": "Jombieland",
+    "original_title": "\u0a1c\u0a4b\u0a02\u0a2c\u0a40\u0a32\u0a48\u0a02\u0a21",
+    "release_date": "2025-06-13",
+    "year": "2025",
+    "rating": 5.667,
+    "overview": "Jeeti and Koko's romance faces family opposition, but their battle for acceptance becomes a struggle to stay alive.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/h78roUiZylCIzTrmeBN6Pnhv8cI.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/in8mIsLRum0vAnJDR4eM9UudmCP.jpg",
+    "genre_ids": [
+      28,
+      35,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124779",
+    "status": "U",
+    "etag": "vLnDLoSuKBDO6FJgFrnKVA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124779",
+          "url": "/sapi/download/video?action=get&k=VSPxaXQ-LLLsf7JsfAg_2Vp7eVRIxqc0wgHNqNhKxFqQqV5OkfqOUwohk_2h2VyIU5HjlxW6WdJN7gCuIL9Oa3efbY7fgRcSyP_cOV3RjIR8ICHUTdoexlFCM2eSmxpLiwedYs5G00WgqE773q5s_UOObdE9qQuhFHOWFX_33ZI6_MobFoM&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=dAFtaPkJG2unOdjuYp9bNXhAvKyQ4PxnYQZ-5W6iCIkiXoHSSwPDzpGK9SD4vk2CcBzqoLaTi39ganhx9j3HH_FKA4WMvX-Q8p-wadPJui573xBoFUYAdYHdkC8J-n3d24UDtP2XfFTBz1RXuTGC-_bK4aVlzm2zC0cZCTQ8fzdtQV2PNS1CNn93LY7sOi0m-9A&node=1i204",
+          "date": 1777835754553,
+          "creationdate": 1777835685000,
+          "modificationdate": 1777835685000,
+          "uploaded": 1777835728238,
+          "size": 390949043,
+          "name": "Pind-Peya-Saara-Jombieland-Baneya-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7324606,
+            "bitrate": 426998,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=tI_KvXrN1YN0l7o_pKAZx2mhWeOREwQnvvnPNncZYubEaMe0_MO2y-S3SFavCeVmn48e-TwR8GsgVWgT9t7KmE26nVriCkWWjq_cQ_HY30dyq3Kz9wXiA3T0mt9j4_4RYHJAo5grrojdv8ZT24TIwsZsKqqkfMcFUUoAgeA2IkdYVllCQXiuZHZbdkB-OQxsKzk&node=1i204",
+              "etag": "0vLnDLoSuKBDO6FJgFrnKVA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dAFtaPkJG2unOdjuYp9bNXhAvKyQ4PxnYQZ-5W6iCIkiXoHSSwPDzpGK9SD4vk2CcBzqoLaTi39ganhx9j3HH_FKA4WMvX-Q8p-wadPJui573xBoFUYAdYHdkC8J-n3d24UDtP2XfFTBz1RXuTGC-_bK4aVlzm2zC0cZCTQ8fzdtQV2PNS1CNn93LY7sOi0m-9A&node=1i204",
+              "etag": "0vLnDLoSuKBDO6FJgFrnKVA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vLnDLoSuKBDO6FJgFrnKVA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835754616,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/B6QT1vZxQX-457WnCrat9Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Pind Peya Saara Jombieland Baneya (2025)",
+  "media_kind": "movie"
+}
