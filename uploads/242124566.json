@@ -1,0 +1,79 @@
+{
+  "name": "Sat-Shri-Akaal-England-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Sat-Shri-Akaal-England-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:47:05Z",
+  "remote_folder_id": 1753584,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124566",
+  "tmdb": {
+    "tmdb_id": 491423,
+    "title": "Sat Shri Akaal England",
+    "original_title": "Sat Shri Akaal England",
+    "release_date": "2017-12-08",
+    "year": "2017",
+    "rating": 7.0,
+    "overview": "An would-be immigrant seeks a marriage partner to secure him citizenship.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/r1ZlLbRQbGUcP684XNGfdxns3vi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uIUbwiUnUTvlH5lFCHLRJfOzkab.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124566",
+    "status": "U",
+    "etag": "zU45oneaRnqu31ErO2rVqg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124566",
+          "url": "/sapi/download/video?action=get&k=rNi3kP_6V9w-zSitI35DxE_oaSTm8Mq4cHtiD1G6HgB7QwNFQypnXkmfO8E4RaLhkkKQ6REGQJNrWd4qxlRbVvPEJoC0rTqOQeYARF85BamZSqRUKV04NyngD3lT4PS7TFq0hIJGmFpDPtBjq6ixDoWeXuyIW-_Qs74k3yIr1Sk4Vkorhx8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=4m29KkbLiyihxwA91rFxh9mcqN73OJO0A8zZvBvEqgJR8oYnqvhO_dNqbORiJ9q05sg-5fbcJDug5bzZ5n0HHAchQ0XCw3o7OIcDQkyDl-WQHEdk5-y6tZa4R9KXIdIHLdpSfRTShhVR7AW-FqZ6j3kpIxfGxBGYtHfVjMDEmH19-dsWkvmxzduL-QadbJTbEhI&node=1i204",
+          "date": 1777834023919,
+          "creationdate": 1777833974000,
+          "modificationdate": 1777833974000,
+          "uploaded": 1777834010148,
+          "size": 407914546,
+          "name": "Sat-Shri-Akaal-England-2017-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7672123,
+            "bitrate": 425347,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=OhqgQD3oKrSb8xTkUXUEENH-ZAsdtheYknV3oBN5DOECOONv66N8RSuAAZybTh3TfutQ-s7xz7wSKEGFeDB44woZ7TyCxn0Gtr8HOSw3GaIKDqRitGh02AaPTTYuWjyZ5_Jlqo-0WiP1Lz5-kEa_gKLr-lhcaEDsOQHoVgPq2f6NBQZq3sgCNG9UFJpD7UMBD1o&node=1i204",
+              "etag": "0zU45oneaRnqu31ErO2rVqg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=4m29KkbLiyihxwA91rFxh9mcqN73OJO0A8zZvBvEqgJR8oYnqvhO_dNqbORiJ9q05sg-5fbcJDug5bzZ5n0HHAchQ0XCw3o7OIcDQkyDl-WQHEdk5-y6tZa4R9KXIdIHLdpSfRTShhVR7AW-FqZ6j3kpIxfGxBGYtHfVjMDEmH19-dsWkvmxzduL-QadbJTbEhI&node=1i204",
+              "etag": "0zU45oneaRnqu31ErO2rVqg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "zU45oneaRnqu31ErO2rVqg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834023999,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/TYkarGOwSrCRbBQvJOiQ-jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sat Shri Akaal England (2017)",
+  "media_kind": "movie"
+}
