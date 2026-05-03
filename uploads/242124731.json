@@ -1,0 +1,81 @@
+{
+  "name": "Fuffad-Ji-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Fuffad-Ji-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:04:07Z",
+  "remote_folder_id": 1753659,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124731",
+  "tmdb": {
+    "tmdb_id": 897554,
+    "title": "Fuffad Ji",
+    "original_title": "Fuffad Ji",
+    "release_date": "2021-11-11",
+    "year": "2021",
+    "rating": 8.7,
+    "overview": "An elder and younger son-in-law quarrel with each other, which causes a rift between the two 19th century families.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ntlfGmoLzoHJpgvPTVwzYNw2Mq.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/13EU4uWmX5FoukWqY2EFSRYrrnA.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124731",
+    "status": "U",
+    "etag": "PU4gW9iWLcqzNfdhHvLlhQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124731",
+          "url": "/sapi/download/video?action=get&k=1EwMxHTcJ6Wj7jA8MKqtK5dvWZ0I1Rb2WJMbEY9SXhm9gNngqPADqAw-BZM_5ecySj1DVgdc9sXbw5VQOUzL6uKmogs02XWAAY-2saIvpa2Pi-jDu6Kow3MWHoI4YPckBuBgIEwGv2XMo94cWLaNOwTwv0WMDPvUbK1kk7629BXWSP2PydQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=dCDQXwLAddDLkcoTV_c_YlhbbXTWbVjexvjhG3Hc9Pgddqg-i_SSu9Iy-uKTNv1bLfDUJpWYS38FVKbEqbsYpu4ImfmnKY_cyRwzs1OAkwdJiaMskAtfM4bscnOcqMji3wJ6CfsiqSYV0OHygLJ8ftL2WBUkibRPNU_sq7R-OsCKIH7UHBTaSQpd4J-7OGz4nRA&node=1i204",
+          "date": 1777835046827,
+          "creationdate": 1777835015000,
+          "modificationdate": 1777835015000,
+          "uploaded": 1777835036284,
+          "size": 348309105,
+          "name": "Fuffad-Ji-(2021)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6556932,
+            "bitrate": 424965,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=fSqXUSkqGlpAoRItqBjLX3uvThz4aVt6uxGfxKcTba-AxjrUPtmUyb4bToJZqPKpPIUmrBb4ueVkUbxg6L5mkxZgZ7L6A_XlWJ3HB6v7c6i2OjTC7Nbf1jyv_FAC4jTLlXvk-YStdKk0mQDbpqmpwuqAO67qROjDegryHYbD_N7NIHZSEra_cYj55Vi6S7OWbho&node=1i204",
+              "etag": "0PU4gW9iWLcqzNfdhHvLlhQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dCDQXwLAddDLkcoTV_c_YlhbbXTWbVjexvjhG3Hc9Pgddqg-i_SSu9Iy-uKTNv1bLfDUJpWYS38FVKbEqbsYpu4ImfmnKY_cyRwzs1OAkwdJiaMskAtfM4bscnOcqMji3wJ6CfsiqSYV0OHygLJ8ftL2WBUkibRPNU_sq7R-OsCKIH7UHBTaSQpd4J-7OGz4nRA&node=1i204",
+              "etag": "0PU4gW9iWLcqzNfdhHvLlhQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "PU4gW9iWLcqzNfdhHvLlhQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835046883,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Def3i6rFSySxbxfnjrC4Jzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Fuffad Ji (2021)",
+  "media_kind": "movie"
+}
