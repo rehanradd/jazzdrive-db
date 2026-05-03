@@ -1,0 +1,70 @@
+{
+  "name": "Devara Part 1 (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Devara Part 1 (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:22:47Z",
+  "remote_folder_id": 1753519,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123443",
+  "tmdb": {
+    "tmdb_id": 811941,
+    "title": "Devara: Part 1",
+    "original_title": "Devara: Part 1",
+    "release_date": "2024-09-26",
+    "year": "2024",
+    "rating": 6.907,
+    "overview": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lQfuaXjANoTsdx5iS0gCXlK9D2L.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123443",
+    "status": "U",
+    "etag": "2IPB6mPlkDA2bNU67V+yGA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123443",
+          "url": "/sapi/download/video?action=get&k=AwLEiMY9E6lbtFOi7GujsDo_oPN7nypRkGVRDqgLNgb5FtGfbYFVgobOB85hPxeIxrYblExgql9vXT56TYJJ5mGCUqc3DTcGEuA9Hdrhyi_GuKM1rSk4TbbkiE58FHF4TdLL1HMefPF-fofbt-1tNuF8UgydhIdcA6mb8tRhKRfNXS6galo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=D3RWVaHpMmxdd-hezQjwLluLE3a5vHoG41K46aC0L3SgwZLT_s1uVEyFOpX55LFoYmYmTPkEHe52fz35nWIbMfqIN6mVtIrgBfx3ntgllLdTPND2UcEmw8rHoKC0YNi57R-LqnEZD8KPVIqHo80tT6FmPQO3JSRSuJh3jNFHmK-MiLcGW7PoRgEzDAXxZUh2bIU&node=1i204",
+          "date": 1777828966632,
+          "creationdate": 1777828537000,
+          "modificationdate": 1777828537000,
+          "uploaded": 1777828883529,
+          "size": 1918863245,
+          "name": "Devara Part 1 (2024) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=M5Hc0fXcw3ULGmnc5pOI4gLni4I6ZG1F9ZJOb54QDNSRWSSbpNS7eKReK2EvN_SJBbmExln3FBLcaTAATrXXQP5nGb3M9IdqGk21h0akGKIywC-cyCWFgZ8BOGOFzhrotghBcCKqetNwQ5zczWAVjmZUq5cPV9jhL4ELZ_4dF-E9yJZcK78_frGB5kqLGdslwU0&node=1i204",
+              "etag": "02IPB6mPlkDA2bNU67V+yGA=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=D3RWVaHpMmxdd-hezQjwLluLE3a5vHoG41K46aC0L3SgwZLT_s1uVEyFOpX55LFoYmYmTPkEHe52fz35nWIbMfqIN6mVtIrgBfx3ntgllLdTPND2UcEmw8rHoKC0YNi57R-LqnEZD8KPVIqHo80tT6FmPQO3JSRSuJh3jNFHmK-MiLcGW7PoRgEzDAXxZUh2bIU&node=1i204",
+              "etag": "02IPB6mPlkDA2bNU67V+yGA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2IPB6mPlkDA2bNU67V+yGA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828966672,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/4EJBL0cKTKqfIUAngn4vZjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Devara Part (2024)",
+  "media_kind": "movie"
+}
