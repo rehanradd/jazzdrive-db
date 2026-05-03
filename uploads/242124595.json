@@ -1,0 +1,85 @@
+{
+  "name": "Chaar-Sahibzaade-(2014)-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Chaar-Sahibzaade-(2014)-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:54:54Z",
+  "remote_folder_id": 1753626,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124595",
+  "tmdb": {
+    "tmdb_id": 303457,
+    "title": "Chaar Sahibzaade",
+    "original_title": "\u0a1a\u0a3e\u0a30 \u0a38\u0a3e\u0a39\u0a3f\u0a2c\u0a1c\u0a3c\u0a3e\u0a26\u0a47",
+    "release_date": "2014-11-06",
+    "year": "2014",
+    "rating": 6.3,
+    "overview": "Ajit Singh, Jujhar Singh, Zorawar Singh, and Fateh Singh, the four sons of Sikh Guru Gobind Singh Ji, sacrifice their lives in an important battle against the Mughals.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nQp114D7CO8kkuNzHldxogmbYFN.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/dO7gQiU7m4IMIBko6hkjWyGznDR.jpg",
+    "genre_ids": [
+      16,
+      36,
+      28,
+      12,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124595",
+    "status": "U",
+    "etag": "zYe2DpV/2cVo8siIDdiIjg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124595",
+          "url": "/sapi/download/video?action=get&k=uMIRamrNwJO7LRTWXHOdENjc3dy0SBFX3EJgHQcAIgZgg0or4AiSb3cbcRFWAkDVgyNj_wxnSe9QmiO21-3uPFgW8n3t8ntyd5aNCnmo81crLKKMGqo5K4oJHTzz-DAUt7s2p10uMuavtX7nYKmw2BU7IpLlbvBhL6yVes9zZiJAQoIPuD0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=jsDzDyMnhA7zO1WBabwm1jVjxuS4ZRiiOkiZbCnSB2wb0dnJmadbDCAob4BMgLNPD3qS18UVl-apZ_STe17RrM-XXITaVSKH5tBNRsNpbLXctAMIXnXfv28b9H_Qr8uKyIyGkslGjBGKnbvu0Gb09AaPDgtVdS6C6cv_-MXBoXgqtJ0vP4xLC-D9m00CFpjPtzg&node=1i204",
+          "date": 1777834493117,
+          "creationdate": 1777834391000,
+          "modificationdate": 1777834391000,
+          "uploaded": 1777834479262,
+          "size": 408794175,
+          "name": "Chaar-Sahibzaade-(2014)-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7667785,
+            "bitrate": 426505,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=doczvY_4dJvpr6B9Qt7NJ4isoqf1GfkVqtu9D0qf7mgLeoalkftnGoXZ-7L6BsMvwtzGrfe7YYCHxJISy1M5R-aYLcL74dghdh3eVgH6h5X1PVt7x0Ptq8P7vHmbx3oHh0tkkC_SWqoRSlWcD_0EooiM8JlwTzkFwtZwh30EcnhU1tH0Umhcw914N9pF0shVm4M&node=1i204",
+              "etag": "0zYe2DpV/2cVo8siIDdiIjg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=jsDzDyMnhA7zO1WBabwm1jVjxuS4ZRiiOkiZbCnSB2wb0dnJmadbDCAob4BMgLNPD3qS18UVl-apZ_STe17RrM-XXITaVSKH5tBNRsNpbLXctAMIXnXfv28b9H_Qr8uKyIyGkslGjBGKnbvu0Gb09AaPDgtVdS6C6cv_-MXBoXgqtJ0vP4xLC-D9m00CFpjPtzg&node=1i204",
+              "etag": "0zYe2DpV/2cVo8siIDdiIjg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "zYe2DpV/2cVo8siIDdiIjg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834493175,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/2w3_7H2aS3e9z4YhO1V9_Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Chaar Sahibzaade (2014)",
+  "media_kind": "movie"
+}
