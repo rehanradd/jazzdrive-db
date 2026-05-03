@@ -1,0 +1,83 @@
+{
+  "name": "Coolie (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Coolie (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:55:49Z",
+  "remote_folder_id": 1753498,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122787",
+  "tmdb": {
+    "tmdb_id": 1153399,
+    "title": "Coolie",
+    "original_title": "\u0b95\u0bc2\u0bb2\u0bbf",
+    "release_date": "2025-08-13",
+    "year": "2025",
+    "rating": 6.262,
+    "overview": "Deva, once living a quiet life, is shaken when his close friend dies under suspicious circumstances. Determined to uncover the truth, he infiltrates a powerful gang operating in the shadows. As he investigates, Deva becomes entangled in a dangerous web of crime, betrayal, and secrets from his own past, forcing him to confront powerful enemies while protecting the ones he loves.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bLn0CPzrrqFLicjNTgrzaIyE0gZ.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122787",
+    "status": "U",
+    "etag": "EfpIVZWU9tbWaJntXtzR9g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122787",
+          "url": "/sapi/download/video?action=get&k=MiCGB3vm1lM2QURPT0i56Uh60x5AazMa6Zzwc_LBMKE7TSKzoFgObfsAVDYgudLuAJ2DdBahCQERvAp8sx6Pxur75AQ0aJNiW0wfPLIgn44YnYk6fbgjmrnxvXDdOnNeIdUh4K-AQ1otJSHp85IWPl4Z-x0t75sdUlBBE1BnAFHrZUs_2Ss&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=XWor8bH8LNkgdsx8-9N2iFuLHeA0WAInBlJ2l-3g9tjBCD550Y2Fu3VEijYZGwUwvk3GwOLio-DYkbEC_INniq60K-HoqLU_Ngm_GVKBWa09gFSplNs44WbY7FpvjZJiy_DVvhtgY4Cl_9kDF_j9ny2fAEoHW-WR4maheDpDLURqeEEjzTaMslDYPgYf90cPkTA&node=1i204",
+          "date": 1777827349311,
+          "creationdate": 1777826911000,
+          "modificationdate": 1777826911000,
+          "uploaded": 1777827271456,
+          "size": 1635502648,
+          "name": "Coolie (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 10117043,
+            "bitrate": 1293265,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Pg-PnDu86wJQ-XEvDBpYfMYGjJakqeczW2FpcvgqdMRuCye-kDIsj5ZAYespw4RDrrF15CU80Z-PnwsjGFTWWAns3UuBBvsWIIOJKF79JDCpLOTUiu4zFhNCcly0SGt0C2fxXVNOCFEQrvX34kCHHLNoc3iqsIzlIJpakX2QVCQ6o5_rRq5u8YuAwDfqV41W4Q4&node=1i204",
+              "etag": "0EfpIVZWU9tbWaJntXtzR9g=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=XWor8bH8LNkgdsx8-9N2iFuLHeA0WAInBlJ2l-3g9tjBCD550Y2Fu3VEijYZGwUwvk3GwOLio-DYkbEC_INniq60K-HoqLU_Ngm_GVKBWa09gFSplNs44WbY7FpvjZJiy_DVvhtgY4Cl_9kDF_j9ny2fAEoHW-WR4maheDpDLURqeEEjzTaMslDYPgYf90cPkTA&node=1i204",
+              "etag": "0EfpIVZWU9tbWaJntXtzR9g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "EfpIVZWU9tbWaJntXtzR9g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777827349370,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/TqeE_GFFTuWItqzb0p9e5jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Coolie (2025)",
+  "media_kind": "movie"
+}
