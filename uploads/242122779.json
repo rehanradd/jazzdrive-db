@@ -1,0 +1,82 @@
+{
+  "name": "Chaurya Paatam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Chaurya Paatam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:47:36Z",
+  "remote_folder_id": 1753492,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122779",
+  "tmdb": {
+    "tmdb_id": 1472031,
+    "title": "Chaurya Paatam",
+    "original_title": "\u0c1a\u0c4c\u0c30\u0c4d\u0c2f \u0c2a\u0c3e\u0c20\u0c02",
+    "release_date": "2025-04-25",
+    "year": "2025",
+    "rating": 3.7,
+    "overview": "Four aspiring criminals plan to rob the local bank at India's most richest and peaceful village, on the pretext of shooting a documentary. But their heist plans are disrupted when they discover the seemingly tranquil community harbors sinister secrets.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1YLMmspugk0Td4cNBynfqmhZXxf.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/h4cq5eGcPN2j2YDTitHl4V9FaM4.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122779",
+    "status": "U",
+    "etag": "2DDup3T+zi64ZekYrgmeQw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122779",
+          "url": "/sapi/download/video?action=get&k=yuNFwPfT7U9zkNuHIoyKmFZ5S2RnyEn_WBAk_LhxUbsFohThMWfcSjLTDLvOSrhOeED40pZVGukkf0lIRhJy_BefAGh9B0szOFpzdilgLrimPzbB0pQcSTmNQolb01fZmMRrWy3-DHElyM9sWycxyWhLNeiQiVnKDDQl4saRrWgDZrG_THQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=CSbGtBFcPWSo4_hBqj9BhZCsoDYQOevoBsexnkdxbraKGdiWCuni04cY4-zKCgviQQo_GjLFA9G8n55wKY-acLxGh4FOv0NGBRtsN4RpNLszi0Ivdc_ZUrhlUHK_-UiPV9ZGWdQ8jm1NNbztPAZd9NWz-LiDh5nKUJp1U5SIMqISc0rqY73Bzj5ks3SV5MCRtj4&node=1i204",
+          "date": 1777826855923,
+          "creationdate": 1777826548000,
+          "modificationdate": 1777826548000,
+          "uploaded": 1777826814622,
+          "size": 1349446192,
+          "name": "Chaurya Paatam (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7270324,
+            "bitrate": 1484881,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VBAWNYS33mRciaEHlhdRqkxQrKboqxWh6gLFIia4qB3EiJyFWy5jhMXpt8AVv_JdJa9bB6cgF5QkOKBYeLmLG9B_liF1qmQHpzI9z3mds1vdiDKVIUiUOv4MLde1uap2wblr-R2Bw_kb_jR5bbCLPdyB1MOutC_a5y1kd7vbs2J1jOIxiWBeLgHfjvus2AAbBmI&node=1i204",
+              "etag": "02DDup3T+zi64ZekYrgmeQw=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=CSbGtBFcPWSo4_hBqj9BhZCsoDYQOevoBsexnkdxbraKGdiWCuni04cY4-zKCgviQQo_GjLFA9G8n55wKY-acLxGh4FOv0NGBRtsN4RpNLszi0Ivdc_ZUrhlUHK_-UiPV9ZGWdQ8jm1NNbztPAZd9NWz-LiDh5nKUJp1U5SIMqISc0rqY73Bzj5ks3SV5MCRtj4&node=1i204",
+              "etag": "02DDup3T+zi64ZekYrgmeQw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2DDup3T+zi64ZekYrgmeQw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777826855999,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/M9ureqsEQw6DU9Q77tWmzzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Chaurya Paatam (2025)",
+  "media_kind": "movie"
+}
