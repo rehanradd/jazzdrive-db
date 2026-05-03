@@ -1,0 +1,82 @@
+{
+  "name": "Danny-Jigar-(2024)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Danny-Jigar-(2024)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:11:43Z",
+  "remote_folder_id": 1753681,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124760",
+  "tmdb": {
+    "tmdb_id": 1227842,
+    "title": "Danny Jigar - Ek Matra",
+    "original_title": "Danny Jigar - Ek Matra",
+    "release_date": "2024-01-05",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Stylish super cop Danny Jigar takes the challenge of recovering a stolen 600-year-old statue. With his style and humor, He showcases his intelligence while solving the case.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qbBtkgD3XERaaNHat3A24lcHc9j.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bqtebQbfNWtY0pN8Se6d1fNZcsO.jpg",
+    "genre_ids": [
+      35,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124760",
+    "status": "U",
+    "etag": "ZdhsysuNqp/TsUE7ymI3Tg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124760",
+          "url": "/sapi/download/video?action=get&k=ATjsy06tfb519VpGxvtktvZbCoMui9PkhKOArSewQi9qEhDgT7ASy9RbNhMdLWV6UMHer5rNhxdJyDzy37UDN_OQ9johuvVQ73pQCwPyGlNyg6uASb-BoGk1-wfrho5U8Ht2jdfGx0dGKkFF96iJonSvNfdXAFeKIGPBaGrkj-f44GFfE8Q&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=LPnGdcKnXRG3yH84L15qB84n0eiV8xMCIsl-Prifi2SkzG7gUNt5jTXj7EeDsHca363vLLibsuWhLV6pEsM1N5gWhcNnEQpyivSf8JHUzlXdolT-IRnJT4t8PwBFtSOz1l5BAaoLdJjQLMANp7yQ0Pv7LizgS9799QXQO7144FuA9ev-ByGs7TYHFYfqxTjDT_s&node=1i204",
+          "date": 1777835502756,
+          "creationdate": 1777835454000,
+          "modificationdate": 1777835454000,
+          "uploaded": 1777835491014,
+          "size": 398176774,
+          "name": "Danny-Jigar-(2024)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7485248,
+            "bitrate": 425558,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=MhpacwbaGAdwm7qM3ngrVKM0Xlva0bD-zeVxXrqWcKzzWDnytbtyR2Sn0wXpTy0yCE0xIJqq3AiNBKw0PuSOT0KOwB31xiH98tppXWO5GcB4iedJ9J2Kh71AefDUIT0C_pEuNzSDoF9mKWJzmn3j4YCsy0VpXNRcX2welECzB0zF9PUXWP69YxX6X32C3xX1dJE&node=1i204",
+              "etag": "0ZdhsysuNqp/TsUE7ymI3Tg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=LPnGdcKnXRG3yH84L15qB84n0eiV8xMCIsl-Prifi2SkzG7gUNt5jTXj7EeDsHca363vLLibsuWhLV6pEsM1N5gWhcNnEQpyivSf8JHUzlXdolT-IRnJT4t8PwBFtSOz1l5BAaoLdJjQLMANp7yQ0Pv7LizgS9799QXQO7144FuA9ev-ByGs7TYHFYfqxTjDT_s&node=1i204",
+              "etag": "0ZdhsysuNqp/TsUE7ymI3Tg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ZdhsysuNqp/TsUE7ymI3Tg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835502815,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CVXwAbBLS_S1Xa2ulnJDmTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Danny Jigar (2024)",
+  "media_kind": "movie"
+}
