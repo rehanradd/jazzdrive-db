@@ -1,0 +1,82 @@
+{
+  "name": "Bomb (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Bomb (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:31:35Z",
+  "remote_folder_id": 1753480,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122765",
+  "tmdb": {
+    "tmdb_id": 1499180,
+    "title": "Bomb",
+    "original_title": "\u0baa\u0bbe\u0bae\u0bcd",
+    "release_date": "2025-09-12",
+    "year": "2025",
+    "rating": 5.8,
+    "overview": "Bomb is a comedy film set in the fictional village of Kaalakammaipatty, where a man named Kathiravan dies unexpectedly but even after death, he won\u2019t stop farting. His body becomes the center of chaos, confusion, and laughter as the villagers try to figure out the Reason.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jCS8gu2QiZDUqq3MWVe164ss966.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ttgbCZzSBrvpIaEFkj6OARNRyHh.jpg",
+    "genre_ids": [
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122765",
+    "status": "U",
+    "etag": "NlgWY1EDvzL1ghopedBPEg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122765",
+          "url": "/sapi/download/video?action=get&k=9rEcf2g7HS0qzyyJtVaGlMrmevgx0767etF3sT2bjDtEEBLsWHhWGjJfydQzAI0qzujzYtAdaPYbds4yCN9lPfW8D09sl3oA52qrlcSZhqv-n9fRPVYfLr9NFcTpy-v6UnyJR3u0Dey8RQPrgltkMAnX18CNeHyknhe-Tp26th6B-T80za4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=PXfLYCw0Nw3LuTzSrXneoScGTRdT0e4DsGhLpPYH-clsjPg0Sa8ewL9uBl3yOhjuxhaH23tPLPxNwGJV0_l95yIMVk6-kpJEQqplpMTQsklmgnSofAh2evzlSitvhEqTDyLcytrrOheov2QJp1fRFAuWJd8r0fowZu287fqSr7OhM1wL1YwiUxynd3-t7plAhfE&node=1i204",
+          "date": 1777825894490,
+          "creationdate": 1777825486000,
+          "modificationdate": 1777825486000,
+          "uploaded": 1777825830451,
+          "size": 1433996234,
+          "name": "Bomb (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7975355,
+            "bitrate": 1438427,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=HaFexHjf5LaCXMCaEEluh89-fDgMfwBpa3UHLLb7QD94GwF9dLiDZTUp5T4WOe13EFEZhKp0lh_a5EN7q7kVoUZHDhnnhsYLibOZ6Fbp7BOnBCSFCDZRkeDVJfbm1H6KMhHmAYM2vvti_vnjcBruyzfTF9VU2GKAHK-agYWYjhRENciObFyxMvZB1TlIvsY6UBM&node=1i204",
+              "etag": "0NlgWY1EDvzL1ghopedBPEg=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=PXfLYCw0Nw3LuTzSrXneoScGTRdT0e4DsGhLpPYH-clsjPg0Sa8ewL9uBl3yOhjuxhaH23tPLPxNwGJV0_l95yIMVk6-kpJEQqplpMTQsklmgnSofAh2evzlSitvhEqTDyLcytrrOheov2QJp1fRFAuWJd8r0fowZu287fqSr7OhM1wL1YwiUxynd3-t7plAhfE&node=1i204",
+              "etag": "0NlgWY1EDvzL1ghopedBPEg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "NlgWY1EDvzL1ghopedBPEg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777825894547,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/3uQ8hsLWQjWv5y7Q0CL6WDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bomb (2025)",
+  "media_kind": "movie"
+}
