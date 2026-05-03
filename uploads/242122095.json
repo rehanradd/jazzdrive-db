@@ -1,0 +1,82 @@
+{
+  "name": "Alangu (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Alangu (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:36:08Z",
+  "remote_folder_id": 1753445,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122095",
+  "tmdb": {
+    "tmdb_id": 1384671,
+    "title": "Alangu",
+    "original_title": "\u0b85\u0bb2\u0b99\u0bcd\u0b95\u0bc1",
+    "release_date": "2024-12-27",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Centres around the clashes between Kerala's political group and Tamil Nadu's tribal youths.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/Rmovt5T8GD3gX8Y6rvWmw6b0Yl.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/vtHPTu4oS6jZCETuSrXbWXXwNl5.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122095",
+    "status": "U",
+    "etag": "kGsz20sm+3H56R9Ta+NVHw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122095",
+          "url": "/sapi/download/video?action=get&k=ABRj3pCxhpIqB6lk6o0GlLEvjNDZD4LiGZHRa_YT68mVLWpbMXPrp0iHUTbr2WOegZ32PzDCHaagmazHiFOFedSgX8zV5t3HN4Ug829qYArAfa7XLCtrjJiRFM5BtuyebLGfVzDzrEhav8pSI8tbG-IAg9KodkfKAdtyGpphvH8-tWnLI4Y&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=U5VKJqiVrZJC1YehrvK4Qs_Yc6OOSQVzNCW-DaOayEMyivpgjkt-k1eOgBnC9VES8hTh9b2VX8DBwJUpge4ZtcIoTzEGnB6yYYtJqt3tq-mSXsIbDr10uU5GF4uJBT-zzLHyYKCaC8xByjWSbF-ijKlZoq75jtNK0anesoYDX-rqvlAP-em0IDInue6thbD-_xw&node=1i204",
+          "date": 1777822568275,
+          "creationdate": 1777822126000,
+          "modificationdate": 1777822126000,
+          "uploaded": 1777822472980,
+          "size": 1323792914,
+          "name": "Alangu (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7677728,
+            "bitrate": 1379359,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=L3Ys32JQG9_Y6gvtmvWnWcM4VuBoGhwzipvY6RJ5ZmJidC45MVVs2zm7I984MSb1-Ph1LQ9Vy70g99uu5h4lA6NhI0Bm4LnzJOU1aV3I3_Gyr8bUb_mr7QYF1eSUKurXL1JkwbRHf0_xQEuR6hov63w9FBkzzQJ-cR1Hfr0hfeAU3N9VAWe69t8unQ3EgY5CD6A&node=1i204",
+              "etag": "0kGsz20sm+3H56R9Ta+NVHw=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=U5VKJqiVrZJC1YehrvK4Qs_Yc6OOSQVzNCW-DaOayEMyivpgjkt-k1eOgBnC9VES8hTh9b2VX8DBwJUpge4ZtcIoTzEGnB6yYYtJqt3tq-mSXsIbDr10uU5GF4uJBT-zzLHyYKCaC8xByjWSbF-ijKlZoq75jtNK0anesoYDX-rqvlAP-em0IDInue6thbD-_xw&node=1i204",
+              "etag": "0kGsz20sm+3H56R9Ta+NVHw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kGsz20sm+3H56R9Ta+NVHw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822568333,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/YrPVLr6AR1ef8qDAIrg2bjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "1753445",
+  "share_folder_path": "Alangu (2024)",
+  "media_kind": "movie"
+}
