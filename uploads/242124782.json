@@ -1,0 +1,79 @@
+{
+  "name": "Challe-Yaar-Coachella-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Challe-Yaar-Coachella-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:16:00Z",
+  "remote_folder_id": 1753699,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124782",
+  "tmdb": {
+    "tmdb_id": 1451523,
+    "title": "Challe Yaar Coachella",
+    "original_title": "Challe Yaar Coachella",
+    "release_date": "2025-03-20",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "A little boy dreams of becoming like his hero, Diljit Dosanjh. But will he turn his dream into reality, or will it remain just a dream? Watch to find out!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wo5Gq7yczRkk5fntrwvXrXFFdSm.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124782",
+    "status": "U",
+    "etag": "OIHc0at0ZRGQimlUkrCjKg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124782",
+          "url": "/sapi/download/video?action=get&k=OpN8aFSsum4C7VkhlTYy2J7JPi5y6FN8RwOO-uLCJigaX2Mniup0nm-QudNkHtRlv9JK-OCZlzxKhNJdiomzewZsQT8vaU6wo6GOFUAslwKkcMhgD5EuT_IQgXRq0BxaXJCGPqvsEFHeCdRVv-hpCwjGukkX_yPuAZvKLjNk4ckFH28wcp4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=k63qz8_HibWnthqtRnulVLyidLE6dlqGTGbfWLe35MtuKTrmRrreKpi6in9rrsHUZ-_ont3P3e1dt4XEOclWwxap3w_dcMhnNiiCg5G4w-uG6wRMLFT85twMSmB1SquzAE_2yIsxFHUsjTNFVlvoXSQPLKlihO2VMef9yoTsIWs79XD1KQ5TVFR8x22GeIAPgfk&node=1i204",
+          "date": 1777835759083,
+          "creationdate": 1777835705000,
+          "modificationdate": 1777835705000,
+          "uploaded": 1777835738724,
+          "size": 352694962,
+          "name": "Challe-Yaar-Coachella-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6632352,
+            "bitrate": 425423,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=-h9bfk8Cms8j4o5liGbyqYOBclsuiHwwAX6WTrVK6uFlZJARyOWB0nNmSenM9m-Sy50D4WkUYYHJRTpN1-gYxQw9gUt2j7VomMYR7r7nY7TveDHNcC6OXvNBd3GsGS-YG0CbbzdGccDU3ds9jcnVLcMDwvNKHF20lxmt2ONhqzlaQmMRNEexU2_kpN5OwAYUu_8&node=1i204",
+              "etag": "0OIHc0at0ZRGQimlUkrCjKg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=k63qz8_HibWnthqtRnulVLyidLE6dlqGTGbfWLe35MtuKTrmRrreKpi6in9rrsHUZ-_ont3P3e1dt4XEOclWwxap3w_dcMhnNiiCg5G4w-uG6wRMLFT85twMSmB1SquzAE_2yIsxFHUsjTNFVlvoXSQPLKlihO2VMef9yoTsIWs79XD1KQ5TVFR8x22GeIAPgfk&node=1i204",
+              "etag": "0OIHc0at0ZRGQimlUkrCjKg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "OIHc0at0ZRGQimlUkrCjKg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835759146,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/tM-NQj_LR1moBvHGCPublDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Challe Yaar Coachella (2025)",
+  "media_kind": "movie"
+}
