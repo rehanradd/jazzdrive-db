@@ -1,0 +1,81 @@
+{
+  "name": "Jugaadi-Dot-Com-2015-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Jugaadi-Dot-Com-2015-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:53:17Z",
+  "remote_folder_id": 1753623,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124592",
+  "tmdb": {
+    "tmdb_id": 376115,
+    "title": "Jugaadi Dot Com",
+    "original_title": "Jugaadi Dot Com",
+    "release_date": "2015-08-07",
+    "year": "2015",
+    "rating": 0.0,
+    "overview": "Jugaadi Dot Com is an Punjabi Romantic comedy film directed by Anil Vij, Starring Nachhatar Gill, Feroz Khan, Sarb Chawla, Rana Ranbir, Komya Virk, Megha Sharma, Ghulle Shah, Bhotu Shah, Parkash Gaadu, Dr.Ranjit Riyaz, Cheeku, Babbu Gill,Honey Shergill,Vishv Dipak Trikha &amp; Gajender Fogat.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/shbbyxHtwF9lrYvd9ZtEqgCj7yB.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/f79Q26eXSWrjgePFBv8dIsCQFc.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124592",
+    "status": "U",
+    "etag": "XEn8HIsyPo64JUd85d4qeA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124592",
+          "url": "/sapi/download/video?action=get&k=LaRiupTXsxr_kwgeOn0pHiCFVe6sFDEGFhu2Db2vFmXBkUXwaupSJzvTiWSiFw8wyKc0HYh8TMob06c7lwuQR12C-qOuFxt6Gv-ROxd4VajjyZHQhUyLzwVUEDEk5CWcN6YO5kdiQQ-pD58NcO7Q7OmfkCCceNPs9a4jFQUKkKOsZsdv-NA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=7qZjgSPNH9anX94b6wsK5gIl4ceev05J2YEeDDeqaUyRYKYYDoKQ_Jp5w9vterKzqud_Aw29CyFihJLk9d2dtXXkjZvOjiiTITYl8DawstkjajvdRW_QMrmamf33-wBzIblMyQut4sjILqzbGqjT79ZTaGm8f_F23_soKCCM0YqoOjxYejSvv4z0xosE6QH5bvI&node=1i204",
+          "date": 1777834396151,
+          "creationdate": 1777834318000,
+          "modificationdate": 1777834318000,
+          "uploaded": 1777834380704,
+          "size": 427776639,
+          "name": "Jugaadi-Dot-Com-2015-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8036382,
+            "bitrate": 425840,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0n7BLkbmzsLRf0RI7RxvCqAKGYek83jlIv9kVt7dicX-KLLk_Rukbw4uzGx2Hh9jUEP9fApxDf3zuDA0qHVa1zIB-7K902ZgZKc0QZNz6tf9IfrMLfNZPvhk4Z26Zejq5pcV5ZjhE6nukaKS8ksiYHrpxymsJ9fcgADTiE0zXsiva3obuyRfklCgvsaHNgHHvaI&node=1i204",
+              "etag": "0XEn8HIsyPo64JUd85d4qeA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=7qZjgSPNH9anX94b6wsK5gIl4ceev05J2YEeDDeqaUyRYKYYDoKQ_Jp5w9vterKzqud_Aw29CyFihJLk9d2dtXXkjZvOjiiTITYl8DawstkjajvdRW_QMrmamf33-wBzIblMyQut4sjILqzbGqjT79ZTaGm8f_F23_soKCCM0YqoOjxYejSvv4z0xosE6QH5bvI&node=1i204",
+              "etag": "0XEn8HIsyPo64JUd85d4qeA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "XEn8HIsyPo64JUd85d4qeA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834396233,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/gNNE6XPqQEqEeGy8dYQbtTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jugaadi Dot Com (2015)",
+  "media_kind": "movie"
+}
