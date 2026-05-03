@@ -1,0 +1,82 @@
+{
+  "name": "Godday-Godday-Chaa-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Godday-Godday-Chaa-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:08:19Z",
+  "remote_folder_id": 1753672,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124749",
+  "tmdb": {
+    "tmdb_id": 1090206,
+    "title": "Godday Godday Chaa",
+    "original_title": "\u0a17\u0a4b\u0a21\u0a47 \u0a17\u0a4b\u0a21\u0a47 \u0a1a\u0a3e\u0a05",
+    "release_date": "2023-05-26",
+    "year": "2023",
+    "rating": 4.7,
+    "overview": "During 1990s, women were not allowed to accompany men to baraats, and the groom's mother was not allowed to attend pheras. Rani intends to put an end to this ritual and starts building a team with other women, fights for women's rights.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ueDhV51AWT6Hvgts1F2GbzM2NKr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8vVRYP7CfkSk6nQycAoOA3qgpH6.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124749",
+    "status": "U",
+    "etag": "NCfNTcJeKfDs5eFL5xLUJg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124749",
+          "url": "/sapi/download/video?action=get&k=GDOOOBwa8i49aPHSGZ40ejHe6quqfvn3VlKqsDuGZX198vgunHXudArJLualqqOEZvz6-urUmAT8BHvCws4qb-n6ItD2OXnLPgjvMHHJl8-KQODEbmCBL01tcpEwrU8_Abn8b57RIjLi6iMzTL6tAKA_WpaqHMLT19Gv0MCjyLoqT4FYDZ0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=ngUx5_d-y86fg_nN8BXDBZPuZcCl3yHnISP9LO4w8gle4dKzrouaGGzXygiyHj0CPdbr8iNZT1NgoFk9YeexhZSWqU9jY12CeHFYbHEvAkvBsTl64KLCIlbxV7Lc5jxpm9s-8iaLefbnVVTxRkhOq0_xfFJeDqxoNN8iye0GRxtUMAUoKo5rJhYQndfArI2nnsc&node=1i204",
+          "date": 1777835298598,
+          "creationdate": 1777835240000,
+          "modificationdate": 1777835240000,
+          "uploaded": 1777835283812,
+          "size": 425337793,
+          "name": "Godday-Godday-Chaa-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7762016,
+            "bitrate": 438378,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=DbtSqW44-U1sv3LFFxLtXdgIEoHXCwy17gg7b_zFdBYjrwVfU8lKQCtYQHumRFFX45vVKpOlkj1f5p0ZnybyqVuO1U3dBCDJcuVGa90Luz2NuzB4O9qb5bBPbGFSsnmqs7o5opN8OgBXVmWsaUhdorNVGmxZCllWla4voZEMFfmMFJVMUO2NNtgcoZ5NwgFaWtg&node=1i204",
+              "etag": "0NCfNTcJeKfDs5eFL5xLUJg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ngUx5_d-y86fg_nN8BXDBZPuZcCl3yHnISP9LO4w8gle4dKzrouaGGzXygiyHj0CPdbr8iNZT1NgoFk9YeexhZSWqU9jY12CeHFYbHEvAkvBsTl64KLCIlbxV7Lc5jxpm9s-8iaLefbnVVTxRkhOq0_xfFJeDqxoNN8iye0GRxtUMAUoKo5rJhYQndfArI2nnsc&node=1i204",
+              "etag": "0NCfNTcJeKfDs5eFL5xLUJg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "NCfNTcJeKfDs5eFL5xLUJg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835298659,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/PKCewDYiQVmkaCJR4D1bTjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Godday Godday Chaa (2023)",
+  "media_kind": "movie"
+}
