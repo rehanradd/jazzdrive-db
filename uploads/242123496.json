@@ -1,0 +1,83 @@
+{
+  "name": "The-Legend-of-Maula-Jatt-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\The-Legend-of-Maula-Jatt-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:28:02Z",
+  "remote_folder_id": 1753545,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123496",
+  "tmdb": {
+    "tmdb_id": 464293,
+    "title": "The Legend of Maula Jatt",
+    "original_title": "The Legend of Maula Jatt",
+    "release_date": "2022-10-13",
+    "year": "2022",
+    "rating": 7.9,
+    "overview": "Maula Jatt, a fierce prizefighter with a tortured past seeks vengeance against his arch nemesis Noori Natt, the most feared warrior in the land of Punjab.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/njmYtTRQ9hY35T9mmwrP7NnsNS6.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lbxvZ4jooF6zHkC7fTeOCCaUhbe.jpg",
+    "genre_ids": [
+      18,
+      14,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123496",
+    "status": "U",
+    "etag": "WX2UrUIE9hFy7JlPZP/DeQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123496",
+          "url": "/sapi/download/video?action=get&k=_nzFIx475XrwHOeQHTv7m-3HfW1kaTrY8K58GSt_TJytnWDHZWlCOIuZgzsb4CtstVimm7WFBfrjKx6wnK5vGVQsmrxUD3LiJPTQ81BZHiaLeO4dkrNVjijhPs7qhqMzedZv7vd2fiEsN73KGC4y8q9S6WJbYgpnzHXQmicaEk1H-M-j-Ks&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=Vf4cqPtK_bg4neIgLMQHsFlH4vlsuAxYW8lBXq47skNWVCZ8Ij5G8f4NA0CiXmSMsfnQ5xHmrBk_HUIzTG8xjJT3_qoEjFqZIYreTWw1fICo-Z99TkmS4ikQOu1RH5wUKFBaEz57vIu3KlnhFMSoOTB7M1kufAxh_HCpa1Dh1ZeDDU55hwlpf3SDfP0UG-YY6GE&node=1i204",
+          "date": 1777832880801,
+          "creationdate": 1777832814000,
+          "modificationdate": 1777832814000,
+          "uploaded": 1777832854457,
+          "size": 479987875,
+          "name": "The-Legend-of-Maula-Jatt-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8981972,
+            "bitrate": 427512,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=xJauGraAi1Bea2Rpzoes1QeEvYoMda1SHTdGGcHqCWqkFdQUJtP6AewehqPdGV50ySIaEXwiMqA5ZiwSzcqxQXu3LTkTPZG7VDVb2AJZSEVVaewBtuYvX4BF5LE00nGz7vfga_0iVnQmyPhbMPtwTxKeQk2vugBw1_Zx-Wr81k0kB-2RbIAv25SAqPc7LdargC4&node=1i204",
+              "etag": "0WX2UrUIE9hFy7JlPZP/DeQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Vf4cqPtK_bg4neIgLMQHsFlH4vlsuAxYW8lBXq47skNWVCZ8Ij5G8f4NA0CiXmSMsfnQ5xHmrBk_HUIzTG8xjJT3_qoEjFqZIYreTWw1fICo-Z99TkmS4ikQOu1RH5wUKFBaEz57vIu3KlnhFMSoOTB7M1kufAxh_HCpa1Dh1ZeDDU55hwlpf3SDfP0UG-YY6GE&node=1i204",
+              "etag": "0WX2UrUIE9hFy7JlPZP/DeQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "WX2UrUIE9hFy7JlPZP/DeQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832880864,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/0ar89SJ0SniSWhrkySFyuTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Legend Of Maula Jatt (2022)",
+  "media_kind": "movie"
+}
