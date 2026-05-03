@@ -1,0 +1,83 @@
+{
+  "name": "Coolie.2025.720p.HDTS.x264 [DDN].mp4",
+  "path": "D:\\New folder\\Coolie.2025.720p.HDTS.x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:53:54Z",
+  "remote_folder_id": 1753498,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122786",
+  "tmdb": {
+    "tmdb_id": 1153399,
+    "title": "Coolie",
+    "original_title": "\u0b95\u0bc2\u0bb2\u0bbf",
+    "release_date": "2025-08-13",
+    "year": "2025",
+    "rating": 6.262,
+    "overview": "Deva, once living a quiet life, is shaken when his close friend dies under suspicious circumstances. Determined to uncover the truth, he infiltrates a powerful gang operating in the shadows. As he investigates, Deva becomes entangled in a dangerous web of crime, betrayal, and secrets from his own past, forcing him to confront powerful enemies while protecting the ones he loves.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bLn0CPzrrqFLicjNTgrzaIyE0gZ.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122786",
+    "status": "U",
+    "etag": "TNWBcJDCw5FQYA3Ro2M7pA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122786",
+          "url": "/sapi/download/video?action=get&k=kk87ekUTry9ugfULfUv0RoJ3G2jN8RwGvGJdCN0JZTM1V8OkqdqV9ZNNXgUQ9QWOhZQX-jO53k92VUV8pvojghfxih2-jnU8efs7ZMupxaAesk8P4ngBYWfjnBCFxKAo8qDHc_XQ0udyzibL5JsF6dAwqMBDdbyHi0y0iItwR1PKMwlZwsE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=33Zzk6DwpgbvakZjymDKd9vYyItoJKQmgulO1LDUhkAriyaWAk6HAgpbnHFAyIacqewwvwTv3rUCCTx_pRaWgYhFe1mLZS9dxYz6mLHVqjlcaFzDdOGHdCaX6G9F8k44GsmVwbJU8XeZHOL-HuBOTI1XtfKVM27BLfiEijRFYLuMcm7-RlHyQJCxigfWeoBasko&node=1i204",
+          "date": 1777827233341,
+          "creationdate": 1777826866000,
+          "modificationdate": 1777826866000,
+          "uploaded": 1777827182779,
+          "size": 1390553834,
+          "name": "Coolie.2025.720p.HDTS.x264 [DDN].mp4",
+          "metadata": {
+            "duration": 10171640,
+            "bitrate": 1093671,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=EzPWUxoVCHQlZEW-uMG5GIYQJAHUtPX9cfVmX4qx7djPv2QmVfAmSqvhfTdNo1KwS0q41EhcyzlClodlv6wExOS-vyvuJI3VkhQ4bWHySrde18l3Jx9RHtoUtrOC4DPsdPp-4r-t5LQMc8dmewP-Lgjj4cs8OdkKCa31Ayr-7E--qlenKFuMJ7k_5KTWzvbs_KE&node=1i204",
+              "etag": "0TNWBcJDCw5FQYA3Ro2M7pA=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=33Zzk6DwpgbvakZjymDKd9vYyItoJKQmgulO1LDUhkAriyaWAk6HAgpbnHFAyIacqewwvwTv3rUCCTx_pRaWgYhFe1mLZS9dxYz6mLHVqjlcaFzDdOGHdCaX6G9F8k44GsmVwbJU8XeZHOL-HuBOTI1XtfKVM27BLfiEijRFYLuMcm7-RlHyQJCxigfWeoBasko&node=1i204",
+              "etag": "0TNWBcJDCw5FQYA3Ro2M7pA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "TNWBcJDCw5FQYA3Ro2M7pA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777827233401,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/TqeE_GFFTuWItqzb0p9e5jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Coolie (2025)",
+  "media_kind": "movie"
+}
