@@ -1,0 +1,79 @@
+{
+  "name": "Aashiqui-Not-Allowed-2013-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Aashiqui-Not-Allowed-2013-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:55:55Z",
+  "remote_folder_id": 1753630,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124700",
+  "tmdb": {
+    "tmdb_id": 227055,
+    "title": "Aashiqui Not Allowed",
+    "original_title": "Aashiqui Not Allowed",
+    "release_date": "2013-10-05",
+    "year": "2013",
+    "rating": 0.0,
+    "overview": "A prankster finds the tables have turned.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kIHsYYwdO2Vre7nJ21SwcGIRf01.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/aMn2vq47SskP8zBe3NjIQWnN17P.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124700",
+    "status": "U",
+    "etag": "3z0onQHdXiBBOanuKFU9YQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124700",
+          "url": "/sapi/download/video?action=get&k=KnE8fjLIagDfq1YN7LhgkN8b0KTG41eGjWxaaRUqT88b9W3bdG6R3inHgdeGN4o46RX1pgZ5s7uzpEw6bGZCLX4qr6q09fTFDkw90HML14CKrEPNz1cSeJOCaLkGnv8MaQCllc4RNWCeevfGrbV7TRu57kOqNgoI6KxGrV1CHs_CdyshS4g&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=xFv7-EfOt1JcrmFK_pZ6as7MkqUS8ZAN67KhLOM0rH4Y8Q5m0ewPyjWzLyO739hVvrwoue3RkBmNMfMSI2vRE1M6DE6QL148EUD6RmfrNUm8ybEm-9qFYXva8_xRGc-mqwLXxpwIRU3aadQheDZY2W28nahimv9-m4dUv4x4JjTIaQlIfTKRTdsh1qQgA7A5PgE&node=1i204",
+          "date": 1777834554427,
+          "creationdate": 1777834473000,
+          "modificationdate": 1777834473000,
+          "uploaded": 1777834538303,
+          "size": 404104807,
+          "name": "Aashiqui-Not-Allowed-2013-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7603145,
+            "bitrate": 425197,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=2leaJwGUJhh02xr-gpLFHQBAQ5GNFxzq-vhdjVNsWJFNvPMJhS6KaJ69uXghiD4zgqhvcQOIOTyBmVWZMfwodbfQyWKwjvPUiqDGODIP2McnA-1tEJPYUt9OMaQGAN1O2_PJRKS3-RHnkbw_7NDB9rdo1LilRb9leWkYbc07ttTFpQog0H3VHDGlMuUVVhEkJWg&node=1i204",
+              "etag": "03z0onQHdXiBBOanuKFU9YQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xFv7-EfOt1JcrmFK_pZ6as7MkqUS8ZAN67KhLOM0rH4Y8Q5m0ewPyjWzLyO739hVvrwoue3RkBmNMfMSI2vRE1M6DE6QL148EUD6RmfrNUm8ybEm-9qFYXva8_xRGc-mqwLXxpwIRU3aadQheDZY2W28nahimv9-m4dUv4x4JjTIaQlIfTKRTdsh1qQgA7A5PgE&node=1i204",
+              "etag": "03z0onQHdXiBBOanuKFU9YQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "3z0onQHdXiBBOanuKFU9YQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834554493,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/VIwF1FCwQiSeDMM_sc7jbzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aashiqui Not Allowed (2013)",
+  "media_kind": "movie"
+}
