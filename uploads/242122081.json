@@ -1,0 +1,82 @@
+{
+  "name": "Agent (2023) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Agent (2023) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:28:39Z",
+  "remote_folder_id": 1753440,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122081",
+  "tmdb": {
+    "tmdb_id": 886436,
+    "title": "Agent",
+    "original_title": "\u0c0f\u0c1c\u0c46\u0c02\u0c1f\u0c4d",
+    "release_date": "2023-04-27",
+    "year": "2023",
+    "rating": 4.0,
+    "overview": "Ramakrishna aka Ricky's only one goal in life is to be a RAW recruitee and undertake some Planet-saving mission. Mahadev, RAW head, ropes him in for the most important mission ever known and unknown to even the Prime Minister of India. Ricky must tame The God, the megalomaniacal lynchpin of a giant-sized crime syndicate.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ezFe7IZ6xbNdaq4VQglpOIip8qd.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/dUg2WN7CPE5noL3mbFXWcC6IAIU.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122081",
+    "status": "U",
+    "etag": "2stKANkuFTybl3URgd/qgg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122081",
+          "url": "/sapi/download/video?action=get&k=SR3-VQO8UVFLJdZcknnF9ZxMSLjkb_trJ9usFiKwlI_7pEOngdzFNadWEHoSKYgTuO1hHZwi9oFetzx2tuqUwfCK03vo04KQlq0-Bg_VaUR3ogfSUzbvuu_NibcjR1JafGLjtcYvSzjvKoLZmMU8XopYTXScwuZfI7-OfuoLcni6H5QR-rY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=xOWumdAwmyWf8r088YNpbpmwwahOWK6b3WAH6ma6TEGwtWO_sm6_ZMRB7PNPgNZQC3dbkzlWeOd5Pnq0zvN-aol6l6fLPBWllvYsngCRBpSn7HT1My0DyAtcgdiOUJilHvcsnhvl_YP7-6IJG_cYELaPXSjrxJRweecl3cK0HThQrAyWofwOuGGV4RBKeljoeaI&node=1i204",
+          "date": 1777822118399,
+          "creationdate": 1777821692000,
+          "modificationdate": 1777821692000,
+          "uploaded": 1777822027439,
+          "size": 1524970435,
+          "name": "Agent (2023) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9341568,
+            "bitrate": 1305965,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Pk3-ZuTB04g5tHAZKynNMNIVEMP2j83z3EYckQ94fC0l8To-Bym-R_cGh6hENVr8loNhEkpC2qDjjvlBfW_pO-zZ3xugN32YQ7spEEjw7lkC5000oRSJw8ELOkkAAiwCac9cORMenBIi11L8fqWmgk2Ycyz0ZDznczEKfy3W8QEHXRd1r8H-9f9xREg3Q_BSFD8&node=1i204",
+              "etag": "02stKANkuFTybl3URgd/qgg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xOWumdAwmyWf8r088YNpbpmwwahOWK6b3WAH6ma6TEGwtWO_sm6_ZMRB7PNPgNZQC3dbkzlWeOd5Pnq0zvN-aol6l6fLPBWllvYsngCRBpSn7HT1My0DyAtcgdiOUJilHvcsnhvl_YP7-6IJG_cYELaPXSjrxJRweecl3cK0HThQrAyWofwOuGGV4RBKeljoeaI&node=1i204",
+              "etag": "02stKANkuFTybl3URgd/qgg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2stKANkuFTybl3URgd/qgg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822118463,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/n9UycsjCTYqqjA1hOYkmMzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Agent (2023)",
+  "media_kind": "movie"
+}
