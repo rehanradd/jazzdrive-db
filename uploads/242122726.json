@@ -1,0 +1,85 @@
+{
+  "name": "Baby and Baby (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Baby and Baby (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:03:52Z",
+  "remote_folder_id": 1753464,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122726",
+  "tmdb": {
+    "tmdb_id": 1560590,
+    "title": "Toritori and the Secret of the Baby Dino",
+    "original_title": "\uadf9\uc7a5\ud310 \ub618\ub618\uc774 \uc544\uae30\uacf5\ub8e1\uc758 \ube44\ubc00",
+    "release_date": "2025-11-07",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3eKzeVE8JN04iQaGWDw6adu7Ook.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/Avc2nEe5TMnzZsj5lUd18wZxvbB.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14,
+      35,
+      12
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122726",
+    "status": "U",
+    "etag": "JDdnORdcfhSjoilIz8dICQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122726",
+          "url": "/sapi/download/video?action=get&k=eUWrrpmE-IivvGXdvI5GWW-8Gjh81hYTdx7bAB3LgBUGCSKN5WqNMdiQMYggSFRHx9h4mvnB4ZQQIk-ZRsYUfiss0QRtuN4CyxGwr7Qw2VScIii2Ht-kZATgqxEaUYkTm87JPxnOjuZAGPa2A2h8ZBomuHs-iJwqs2KNVUdORswlUO-FENQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=_n7i8kldp0IafJOYStUzDKExQtAWOneaOsg9Xja3Xd5SF5kclzjZ2z_zu2cM20_c-_MhyoY7Fi0-D7DwMYaaWGOArrrrBSFJNLs-eBFW7ZbH03809sAI5Wvv2akFL-1NPmXS_jLNY9mQLFKJuBNKKA9yEXqzTQhPHj9Y2RqerWsd1mtKj1MASLSgPwYwkni2anA&node=1i204",
+          "date": 1777824231270,
+          "creationdate": 1777823914000,
+          "modificationdate": 1777823914000,
+          "uploaded": 1777824186529,
+          "size": 1294907061,
+          "name": "Baby and Baby (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7930189,
+            "bitrate": 1306306,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=9iHdSAa16MQD6rjtyBwCQ4iXDLrQTptVfLK3P2bgqFmAhcFbviw7U6tWaTxb4V9QmRGCol8dlgw5AlaTb7cdfyhU37adTTQpljlRsguD149oMfiBrxnA8zRz-ytr0lqoL1x0Zf7hSH4uwUlmiGsIVh33ycSymwt8DVyNrGYwAfH1RAgknDq1CWhDyZ_738KfAzw&node=1i204",
+              "etag": "0JDdnORdcfhSjoilIz8dICQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_n7i8kldp0IafJOYStUzDKExQtAWOneaOsg9Xja3Xd5SF5kclzjZ2z_zu2cM20_c-_MhyoY7Fi0-D7DwMYaaWGOArrrrBSFJNLs-eBFW7ZbH03809sAI5Wvv2akFL-1NPmXS_jLNY9mQLFKJuBNKKA9yEXqzTQhPHj9Y2RqerWsd1mtKj1MASLSgPwYwkni2anA&node=1i204",
+              "etag": "0JDdnORdcfhSjoilIz8dICQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "JDdnORdcfhSjoilIz8dICQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777824231341,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xLYzoAlnSNyEQP6RPHnoxjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Baby And Baby (2025)",
+  "media_kind": "movie"
+}
