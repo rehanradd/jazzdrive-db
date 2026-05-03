@@ -1,0 +1,79 @@
+{
+  "name": "Main-Tenu-Phir-Milangi-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Main-Tenu-Phir-Milangi-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:15:08Z",
+  "remote_folder_id": 1753696,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124778",
+  "tmdb": {
+    "tmdb_id": 1526240,
+    "title": "Main Tenu Phir Milangi",
+    "original_title": "Main Tenu Phir Milangi",
+    "release_date": "2025-08-06",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "Three generations of a family -Grandmother, Mother and Daughter embark on a journey tracing their family roots. They travel along the Ganges- river of life, often conversing about the sacred river and how it shapes their approach to life.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ssBLKsEpUwh6CNF8mOt4D6GtOTE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2nDPe6hwEnSDFM0sx5WqQGwHaNg.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124778",
+    "status": "U",
+    "etag": "RekqXs5H3fXScCB+zmRPXg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124778",
+          "url": "/sapi/download/video?action=get&k=iR69AAGZe3lNL1Br0gvJMYn6uqX7FDsc460igv2_olMECpcti-5oPzW_eOZ3LmY-cesTumqxRAFk1iL5rVWo9J2caBrynfyVKQHSovdnp4hwA_5UyRS8dzMamjQTaVWJ-VNaDd3pIBuP43fc1bbW0iC3aY6x-2VXjvMBsm1OIWAml4p3qmQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=NPskXWdJbMP0rYMa_Huz87kzXX6y6jK2elPOJoOY5L8o73Zfry_PwIufrgYatognZeWGNBWigqW91ompl75KlAsZ7mAOe_IyHujpcdV0Go2uUw6kwjyZX3dOSOtsHMt6t7ac3gBg7acXgD4xdVgiJhB864rMN96inDNwTPaGa1aKwdQC2CgTS4066byo2YneLik&node=1i204",
+          "date": 1777835707750,
+          "creationdate": 1777835667000,
+          "modificationdate": 1777835667000,
+          "uploaded": 1777835703060,
+          "size": 131971266,
+          "name": "Main-Tenu-Phir-Milangi-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 2491072,
+            "bitrate": 423821,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=uKi1tOBmmn9C4kBMaeeCTNpafZYr0jwnWia0i56zL0E9ECwZv5YvOo6x4t5N5m2HiL6oCJacbFmm2SCeRLKkWRnqbrBYyY5AejrelHGBrzR8pC2eIZTDnDMtavQvaUCHsKgKtlFpnCecfMVkjBg736QeB5C-1eupDvVoAhm2P-BztViCv4zh2VTM_9TL3K0L6mI&node=1i204",
+              "etag": "0RekqXs5H3fXScCB+zmRPXg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=NPskXWdJbMP0rYMa_Huz87kzXX6y6jK2elPOJoOY5L8o73Zfry_PwIufrgYatognZeWGNBWigqW91ompl75KlAsZ7mAOe_IyHujpcdV0Go2uUw6kwjyZX3dOSOtsHMt6t7ac3gBg7acXgD4xdVgiJhB864rMN96inDNwTPaGa1aKwdQC2CgTS4066byo2YneLik&node=1i204",
+              "etag": "0RekqXs5H3fXScCB+zmRPXg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RekqXs5H3fXScCB+zmRPXg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835707810,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/SWyZLNtgQ-q0cwLZrsNavzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Main Tenu Phir Milangi (2025)",
+  "media_kind": "movie"
+}
