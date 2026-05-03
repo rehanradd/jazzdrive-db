@@ -1,0 +1,79 @@
+{
+  "name": "Main-Teri-Tu-Mera-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Main-Teri-Tu-Mera-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:51:04Z",
+  "remote_folder_id": 1753611,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124575",
+  "tmdb": {
+    "tmdb_id": 418022,
+    "title": "Main Teri Tu Mera",
+    "original_title": "Main Teri Tu Mera",
+    "release_date": "2016-08-19",
+    "year": "2016",
+    "rating": 6.0,
+    "overview": "The story revolves around a rural boy called Amru who is a day dreamer. He starts dreaming of a girl (Jazz Sodhi) who suddenly appears in real and tells him that they both are already married",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gCo5S07aZlwoJv6yOyhUpFQPWxB.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/w5JoY0egrPqJqU3vn9mlaroos4d.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124575",
+    "status": "U",
+    "etag": "pXDY38wir04OB+nLNZFRwg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124575",
+          "url": "/sapi/download/video?action=get&k=jZ6thm0HQcDC7rPjl_1rj2PW8x33EktVw-DTSc4KrrjKBGK5U2BAOuhrZqfwvO1MYM0EwpRd5LUrXH4kiosanEK00dS6hsExYzEXAwXfGfCV4ZexqogmrvFxnHRh9YBgoHz5Ff8ackMn8KjgILrUl5cGD2JyWnG89a_c4ABDNgvwZ-UA1_M&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=UJngQOmj3ABiGegJaulsC-h5VnCSSMxFpIdPIiN16v-KjF3UDTUQ8Jtg4d58iB-GwXOvkAU8E1CevuVEnvK5HvGn7DVcUYoaQr0zRd0SIYMSmepaVnA0h9yX64QhZdvJT3EApR2kVZYkNXbprz1MIqxeqjxKSfJ14bGHhubpHA9X2BLbE6-HoHRa5ibtW5aDXQM&node=1i204",
+          "date": 1777834262991,
+          "creationdate": 1777834123000,
+          "modificationdate": 1777834123000,
+          "uploaded": 1777834244180,
+          "size": 423813971,
+          "name": "Main-Teri-Tu-Mera-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8003167,
+            "bitrate": 423646,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=71030JCzLDBg8t_AVMvTplWBFkgD03ZbcPyQTPwMFerKxJa0En6lddWg_Hhi11tXeoW5duJO1lUDzKBYhig5Mo24tF-uIz1d4G6UUhg7krqAiuQ0QsVJJfe4jWAe5p5QhidslxsQ1ZwCPKA-5kliKMYEka8ygILtmESdzDhLBChxSWet7mNj2uOeHSwM8I_bGZI&node=1i204",
+              "etag": "0pXDY38wir04OB+nLNZFRwg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=UJngQOmj3ABiGegJaulsC-h5VnCSSMxFpIdPIiN16v-KjF3UDTUQ8Jtg4d58iB-GwXOvkAU8E1CevuVEnvK5HvGn7DVcUYoaQr0zRd0SIYMSmepaVnA0h9yX64QhZdvJT3EApR2kVZYkNXbprz1MIqxeqjxKSfJ14bGHhubpHA9X2BLbE6-HoHRa5ibtW5aDXQM&node=1i204",
+              "etag": "0pXDY38wir04OB+nLNZFRwg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "pXDY38wir04OB+nLNZFRwg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834263056,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sb1qAwhYR5qRdmdDLyB7Tjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Main Teri Tu Mera (2016)",
+  "media_kind": "movie"
+}
