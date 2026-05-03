@@ -1,0 +1,68 @@
+{
+  "name": "VCR-Billu-Da-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\VCR-Billu-Da-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:32:50Z",
+  "remote_folder_id": 1753557,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124514",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124514",
+    "status": "U",
+    "etag": "Uw2iG4bKV13SiO5EDUoE3g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124514",
+          "url": "/sapi/download/video?action=get&k=L10N4jfXUeTPx9bisWLLY3Mym5eH2DEwJsHyLC_EhuSVCcSi7JZKDqcHgk5o9eXYqxT9WGgbiq1ftuzi5wKZrD0jeQn2la9bJRfYskV7agetSxqFmJSF1R_vNAOchmrtKP0xIjKUFx47vteDX_efnIMu0q94GAouSYT9BGz4qb8j4Cfvsx4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=lwfdVGslC9eBuuEXxSZLKzlZfNY_S9NwxNzadod7MhTrsEeHWf2hg44v0RPYWoKUrvCKpaUUz9C_G9xAW2m3rYfFOFwE8b2U2fYqbH0IcIJq5ykgrtQGhFD3gsQVxyT5vF3pZXalO42grSDB5JW2Ohy2M7CTnTGty_bBlNf89ICB-upuehfDTd_7TZaTwKCZzac&node=1i204",
+          "date": 1777833164472,
+          "creationdate": 1777833102000,
+          "modificationdate": 1777833102000,
+          "uploaded": 1777833153865,
+          "size": 195604898,
+          "name": "VCR-Billu-Da-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 3651918,
+            "bitrate": 428497,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=H_H8ZyXsHaZLWwDZioW0aMxgpoZxHgm-7eo9asuL8ekkG1knvdzMKW1ECka9ZSYN8J9ikWbz7ua6sZpmVohD3RUksFUhIv3WKftFyvciifv5mvLRxngRI9T_Jj7EJQOcV5jeyWZzXX5lTPNYlIAFDzBPGADEf708lksxETf0_q7AwwkXxr78U2RWCA9EZY_vKSI&node=1i204",
+              "etag": "0Uw2iG4bKV13SiO5EDUoE3g=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=lwfdVGslC9eBuuEXxSZLKzlZfNY_S9NwxNzadod7MhTrsEeHWf2hg44v0RPYWoKUrvCKpaUUz9C_G9xAW2m3rYfFOFwE8b2U2fYqbH0IcIJq5ykgrtQGhFD3gsQVxyT5vF3pZXalO42grSDB5JW2Ohy2M7CTnTGty_bBlNf89ICB-upuehfDTd_7TZaTwKCZzac&node=1i204",
+              "etag": "0Uw2iG4bKV13SiO5EDUoE3g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Uw2iG4bKV13SiO5EDUoE3g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833164534,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/5Ly65EYjQ5u5xm7eSbRUuzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Vcr Billu Da (2022)",
+  "media_kind": "movie"
+}
