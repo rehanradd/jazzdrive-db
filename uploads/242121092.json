@@ -1,0 +1,83 @@
+{
+  "name": "Student_of_the_Year_2_2019_Hindi_Full_Movie_HDRip_(FilmyZilla.mp4",
+  "path": "K:\\All MOVIES\\Hindi Film\\tiger sheroff7\\Student_of_the_Year_2_2019_Hindi_Full_Movie_HDRip_(FilmyZilla.mp4",
+  "uploaded_at": "2026-05-03T13:58:34Z",
+  "remote_folder_id": 1753414,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242121092",
+  "tmdb": {
+    "tmdb_id": 503129,
+    "title": "Student of the Year 2",
+    "original_title": "Student of the Year 2",
+    "release_date": "2019-05-10",
+    "year": "2019",
+    "rating": 4.193,
+    "overview": "A student must overcome bullies and hardships, both academic and romantic, in order to win his college's coveted Student of the Year trophy.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/upy2LuSohFYnMGJQl3039TPnlmh.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/b4SkyhHmlBDwnH7JeTj5LbyCeuJ.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242121092",
+    "status": "U",
+    "etag": "BU3xc+QJZERDjItC8ZH09Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242121092",
+          "url": "/sapi/download/video?action=get&k=X5oV_F94PH6TUHUquLxTkQKXxHDkhyDwEkFOTUy71Noj-OEx-3839sBVvhFompXkw9DECTBBARPfcEQrCspqmOTCkPBtz1Pr4zx58Xg_LottlKjd6mYuPU0_R8i5Mv3G1rzt-LIppsTen1_Mtl7xyNrjadumea-jQE0FN7ovlw0_UW-zmE8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=DPx-Lelr9m3oWkxS9CyvDDmB7DnhIWrB1WTDXF5xwsc6goIOjeagLagUW-oHANs2FEOlOkzMyvQHpEdB2nMoTSPu59h_bhu_GLCMzvR-Fo2eNyE6R7_okqlGti3zw-tTJByI3KxiZ4vSKv5SCTrKzzQ65nUFz1B5BCvg3X9KV0mP-znyHjuPYaFMKQ_J2auFInw&node=1i204",
+          "date": 1777816712362,
+          "creationdate": 1777816168000,
+          "modificationdate": 1777816168000,
+          "uploaded": 1777816700356,
+          "size": 420110991,
+          "name": "Student_of_the_Year_2_2019_Hindi_Full_Movie_HDRip_(FilmyZilla.mp4",
+          "metadata": {
+            "duration": 8737112,
+            "bitrate": 384668,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=rQXp1d6_cwdUVjbEveHdewOlXAQX2-iWs1fTuZGDWnmxjEyI6v-k37loqBfi4yoLqO0DWq3s1C4ZF7nwKh3swAZXNI6EjmbVoVe6nCiH7vGsp49LrCOyzD5mMSNOayu32j0Luwr_Ibtu0Fkpt4wltEK0e6yeOjqiTnPO_1_F44zG0pXdAvLNcgAZMedVHZghQlI&node=1i204",
+              "etag": "0BU3xc+QJZERDjItC8ZH09Q=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=DPx-Lelr9m3oWkxS9CyvDDmB7DnhIWrB1WTDXF5xwsc6goIOjeagLagUW-oHANs2FEOlOkzMyvQHpEdB2nMoTSPu59h_bhu_GLCMzvR-Fo2eNyE6R7_okqlGti3zw-tTJByI3KxiZ4vSKv5SCTrKzzQ65nUFz1B5BCvg3X9KV0mP-znyHjuPYaFMKQ_J2auFInw&node=1i204",
+              "etag": "0BU3xc+QJZERDjItC8ZH09Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "BU3xc+QJZERDjItC8ZH09Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777816712438,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/6yVets6nRL6UgwWN0CrjEDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Student Of The Year 2 (2019)",
+  "media_kind": "movie"
+}
