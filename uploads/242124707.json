@@ -1,0 +1,82 @@
+{
+  "name": "Jatt-Jugadi-Hunday-Nay-(2019)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Jatt-Jugadi-Hunday-Nay-(2019)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:57:42Z",
+  "remote_folder_id": 1753637,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124707",
+  "tmdb": {
+    "tmdb_id": 1175065,
+    "title": "Jatt Jugadi Hunday Nay",
+    "original_title": "Jatt Jugadi Hunday Nay",
+    "release_date": "2019-07-19",
+    "year": "2019",
+    "rating": 0.0,
+    "overview": "",
+    "poster_path": null,
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124707",
+    "status": "U",
+    "etag": "lU8OhPjkeU98443uewa1CQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124707",
+          "url": "/sapi/download/video?action=get&k=gFzEhB61UnvcBWHdXxMMKf6_mMyySIjzCJD86Ve1O_s4GDvnGL2Xp6Za_yQ9SDj4t2OSEbnVqdppjv8u_Gjh8d4eXl5dSP1ZQbeYeGxPN_9w7-RXQpSTiyQSDR8q0Cvn9GVdCXyiCSo6mvAY65uypMZ7MXzLlg1gAr3gLYCkGav21gWKSnY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=RnquEV36M5hb0CSOSbhXUZ0K9JO7dVU_i2HCJudsS56KQFI52gBgW5Miu3PEgMw2HyKB6LNG4TTIVXu0UlRso747BVlWOndGRN_bEwdJT_XXiMrsY_hfQTSx88zMDLhE_r4o8f1RGC2xKYuEaiFbJLXuvoyHJnkQeW8zcCJjTR3C0rw9la0CjGClp3Zr9IkJ6C0&node=1i204",
+          "date": 1777834661606,
+          "creationdate": 1777834600000,
+          "modificationdate": 1777834600000,
+          "uploaded": 1777834647650,
+          "size": 473289787,
+          "name": "Jatt-Jugadi-Hunday-Nay-(2019)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8930973,
+            "bitrate": 423953,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=iX07K7b0rjIosRRMnpFfQaq_In7wcDUgc6qNbeurEYcouj-Mr64DHA2VE4UrSfDx1R-RflZ5bXtu7EIghFNONqEfmmPN_BWlWz1u_LnwAbSHSpWNfWtkTQDgK1bwxwAiSxFDVWHtSFvOlDWHAJeiXFh2Gb5n9EpzT0yGbMcZkirSEnG_KbWYr6TKh7yFqgtev3U&node=1i204",
+              "etag": "0lU8OhPjkeU98443uewa1CQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=RnquEV36M5hb0CSOSbhXUZ0K9JO7dVU_i2HCJudsS56KQFI52gBgW5Miu3PEgMw2HyKB6LNG4TTIVXu0UlRso747BVlWOndGRN_bEwdJT_XXiMrsY_hfQTSx88zMDLhE_r4o8f1RGC2xKYuEaiFbJLXuvoyHJnkQeW8zcCJjTR3C0rw9la0CjGClp3Zr9IkJ6C0&node=1i204",
+              "etag": "0lU8OhPjkeU98443uewa1CQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "lU8OhPjkeU98443uewa1CQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834661670,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kNvyzJdISyWFkbrqoLw8RDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jatt Jugadi Hunday Nay (2019)",
+  "media_kind": "movie"
+}
