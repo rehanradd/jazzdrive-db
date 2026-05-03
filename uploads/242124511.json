@@ -1,0 +1,83 @@
+{
+  "name": "Galwakdi-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Galwakdi-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:31:32Z",
+  "remote_folder_id": 1753555,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124511",
+  "tmdb": {
+    "tmdb_id": 681169,
+    "title": "Galwakdi",
+    "original_title": "Galwakdi",
+    "release_date": "2022-04-08",
+    "year": "2022",
+    "rating": 6.0,
+    "overview": "Jagteshwar, a librarian, has an obsessive-compulsive personality disorder which people around him have accepted. Ideologies clash when Amberdeep, a high-spirited girl and Jagteshwar share a roof.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2ehzcGwWz7ZLsPrNawvfb2oTXnD.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zqyqCTkW142XcGhwoc0JXVbYk0R.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124511",
+    "status": "U",
+    "etag": "lPlaxBGLSfZzM0mBJPYUbw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124511",
+          "url": "/sapi/download/video?action=get&k=BrfLkzoaRWHjpGNFUaleeOTYhLXCsn0zeX9ypjHmYUjTzSLkZZm11ObWIOGQS9v-bnkel4vK0wbaBj_hjqxWe8VOJZFy33VtHmR7ippKP6y6vy-rWso991FFjCG18ETS2SCcO92EVS61XFd6nEx4kDOyHPMOABb4LRhPXzd8buVMdZNgVB0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=sVFWhIXvLshvLGrsAjTzi9OnZ2WeEVPA5SI6B4ABo-Q7Gm5fj5VmGN4OKfSI6OCJ7bHNeNr7iDET-WKZmA0yGZx6zgZWbIZTlTc4MqgiPZuVzBQuaQruw9z_iRPDOt46TRYxC4kE6alhQr8B9kvJkzVmvJkKvjm7x5c0LewZCq0mqMaqjou-HusKnmToZ7MTirA&node=1i204",
+          "date": 1777833090168,
+          "creationdate": 1777833037000,
+          "modificationdate": 1777833037000,
+          "uploaded": 1777833075209,
+          "size": 413430819,
+          "name": "Galwakdi-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7802292,
+            "bitrate": 423907,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Kk-znHPjtmjnqjxRw_rlXZBUFEzZsJLGsaTEppn2NBVs1j22xNlDjuMfzmvSCQX_B8TtTdZeDo4YCbkejKt-GsCORETpHvm4ynTG9dUcibqPOjCY-cAGOiecRNfOhs_VHX6Kxu-T0dMQ46fGsBn_WMj6Z1tNUZv4kWI7OD9Ny1cAvlkXWKOAGq0ovi37U_ZnxzM&node=1i204",
+              "etag": "0lPlaxBGLSfZzM0mBJPYUbw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=sVFWhIXvLshvLGrsAjTzi9OnZ2WeEVPA5SI6B4ABo-Q7Gm5fj5VmGN4OKfSI6OCJ7bHNeNr7iDET-WKZmA0yGZx6zgZWbIZTlTc4MqgiPZuVzBQuaQruw9z_iRPDOt46TRYxC4kE6alhQr8B9kvJkzVmvJkKvjm7x5c0LewZCq0mqMaqjou-HusKnmToZ7MTirA&node=1i204",
+              "etag": "0lPlaxBGLSfZzM0mBJPYUbw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "lPlaxBGLSfZzM0mBJPYUbw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833090240,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/uJnxRVznQGSMYUwqz3eKlzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Galwakdi (2022)",
+  "media_kind": "movie"
+}
