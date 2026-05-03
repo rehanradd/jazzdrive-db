@@ -1,0 +1,82 @@
+{
+  "name": "Bagheera (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Bagheera (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:12:09Z",
+  "remote_folder_id": 1753469,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122735",
+  "tmdb": {
+    "tmdb_id": 777292,
+    "title": "Bagheera",
+    "original_title": "\u0cac\u0c98\u0cc0\u0cb0",
+    "release_date": "2024-10-31",
+    "year": "2024",
+    "rating": 5.386,
+    "overview": "Dismayed by corruption and violence, a virtuous police officer becomes a masked vigilante to dliver lethal justice to criminals and crooked cops alike.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ziXyy0zgmwf4oTunSsUHDyOZBeC.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/r9GXAvybRDx613LzNRnZAPJyjrI.jpg",
+    "genre_ids": [
+      28,
+      12
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122735",
+    "status": "U",
+    "etag": "PJm+n/197+qogoa+QWFRVQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122735",
+          "url": "/sapi/download/video?action=get&k=w-Xf97g4MrKHmuV7wN1pvWf_AeGbdcUcKu24xjmwx-A6AHAAHbgsATM6jdQoNIsGl4J2eIm39BhRFvUc9as5KknQQqYqITg6VYxov6NjBVDCTko9v6pVVYlNO9v6GDzWqDznD0PDODdpmmsKvhRbzzzc5nxMpUTaeTUCPv8ZGNn8agPlnks&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=YanEt12FhgelsyQwD1UppnM3eDkUKA6TtIeOQs1tuuomHjMWozvyi14MCb5Lz7o0IdjXY83ILc4y9S14RnvYMp669dZs87vQPPerC4Gj3zMktoYQf9dO_bv-He0gVQBylZ-8gjy4jGYT9jW7arKwbgi8WyF4Yqsn7vls40rcqXoKDouXNAmSWMyvfd_pE80N6IE&node=1i204",
+          "date": 1777824728844,
+          "creationdate": 1777824291000,
+          "modificationdate": 1777824291000,
+          "uploaded": 1777824631453,
+          "size": 1279418100,
+          "name": "Bagheera (2024) Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9366848,
+            "bitrate": 1092720,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=16KJv8SlSNVKf-I6Y4v0gQzQY6bgmlKXmt6SmUGubYmgv3rvOT8a4YlYebYHM5W0yvoOBfepsQzHnXBovBIL4vkAMOEfdttRUoDYSfcKVica7Gr_XVNKPXK024DQsQgkPGvL7yWT46OOWqQjVGH8X1IqpLCJLoBtOVj2hJkpcod2BQormzPqcgPx3AAVAvCZ9GY&node=1i204",
+              "etag": "0PJm+n/197+qogoa+QWFRVQ=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=YanEt12FhgelsyQwD1UppnM3eDkUKA6TtIeOQs1tuuomHjMWozvyi14MCb5Lz7o0IdjXY83ILc4y9S14RnvYMp669dZs87vQPPerC4Gj3zMktoYQf9dO_bv-He0gVQBylZ-8gjy4jGYT9jW7arKwbgi8WyF4Yqsn7vls40rcqXoKDouXNAmSWMyvfd_pE80N6IE&node=1i204",
+              "etag": "0PJm+n/197+qogoa+QWFRVQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "PJm+n/197+qogoa+QWFRVQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777824728936,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/-9g87mZ0QHmaROTOZE7zljk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bagheera (2024)",
+  "media_kind": "movie"
+}
