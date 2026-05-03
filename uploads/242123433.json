@@ -1,0 +1,79 @@
+{
+  "name": "Dhoom Dhaam (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Dhoom Dhaam (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:12:57Z",
+  "remote_folder_id": 1753516,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123433",
+  "tmdb": {
+    "tmdb_id": 1383695,
+    "title": "Dhoom Dhaam",
+    "original_title": "\u0c27\u0c42o \u0c27\u0c3eo",
+    "release_date": "2024-11-08",
+    "year": "2024",
+    "rating": 4.0,
+    "overview": "It is an unusual mix of two love stories: 'Father and Son' and 'Son and a Beautiful girl.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2feELU5f90AKGpEIpp3O9YSIFfw.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/dcZ2ZcH3mIflo5JzjdImVjFCchN.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123433",
+    "status": "U",
+    "etag": "exk5BEmrjqT0cifL+rpVOQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123433",
+          "url": "/sapi/download/video?action=get&k=EwAAYhIqFnDpdAf0gZ7ePsQkrjCRojF5PqzhXoRShDKdjnnTT2-tBdUqJyFzgMdQnI-fJaNXkMon733tSXgySukNt4jsD4PZrB1ZBQ2ugB9XeTx1xUfLh2vrIrlxczyc-aafoVnLXT9Qw2uViouzpHBALYKvnTarP90ln56Ee1QmsPMWtFw&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=uNZt1KpWb0KatjhkX11NRuxIwsi_OwmoKmClnTFARZkrNzR4HWwaff2JOEcPdc6kyh1Tnq0qrl4THe0EYwUaLzAHO_32ivUozNuDgwnXaEujoVxhtKTKpDbRHoSTIRIy61qDRnz0XrwuAPCrcwpsmF7d_Zf91UWiFcBwj-5CAV58zx0DBSaHc7453kI8uRDizm0&node=1i204",
+          "date": 1777828377333,
+          "creationdate": 1777828155000,
+          "modificationdate": 1777828155000,
+          "uploaded": 1777828334033,
+          "size": 987779873,
+          "name": "Dhoom Dhaam (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 8071637,
+            "bitrate": 979013,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=w3QODowDAbA4dGQxFvKwToDpQiY6n9aApEv2vG81dRVbBoLoEMyEeKuUIC-kKyBFbuhi5lXCoaB8C3cLQmECaNiWtWKtKPV27sdMEIPnTzt2P7QKhwkDpazgSFq2B-rVM5_AWWFHiRagjKzFJDDAnvHHHdAXgIgqttcAf2K6dvTV-2wsBZZzJWM3-9861Uuj0JM&node=1i204",
+              "etag": "0exk5BEmrjqT0cifL+rpVOQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=uNZt1KpWb0KatjhkX11NRuxIwsi_OwmoKmClnTFARZkrNzR4HWwaff2JOEcPdc6kyh1Tnq0qrl4THe0EYwUaLzAHO_32ivUozNuDgwnXaEujoVxhtKTKpDbRHoSTIRIy61qDRnz0XrwuAPCrcwpsmF7d_Zf91UWiFcBwj-5CAV58zx0DBSaHc7453kI8uRDizm0&node=1i204",
+              "etag": "0exk5BEmrjqT0cifL+rpVOQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "exk5BEmrjqT0cifL+rpVOQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828377403,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/jha9gn8fRQu9W8z98SmqXzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dhoom Dhaam (2024)",
+  "media_kind": "movie"
+}
