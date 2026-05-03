@@ -1,0 +1,82 @@
+{
+  "name": "Rabb-Da-Radio-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Rabb-Da-Radio-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:46:34Z",
+  "remote_folder_id": 1753598,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124561",
+  "tmdb": {
+    "tmdb_id": 451379,
+    "title": "Rabb Da Radio",
+    "original_title": "\u0a30\u0a71\u0a2c \u0a26\u0a3e \u0a30\u0a47\u0a21\u0a40\u0a13",
+    "release_date": "2017-03-31",
+    "year": "2017",
+    "rating": 7.8,
+    "overview": "1980s Punjab. Naseeb and Guddi are cousins whose relationship changes when a rich boy falls in love with Guddi and asks for Naseeb's help to marry Guddi. However, when Naseeb refuses, the boy takes help from his aunt and fix his marriage with Guddi. When Naseeb's mother-in-law finds out, she throws Naseeb out of the house that leads to Guddi's relationship with Naseeb and his marriage.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/AbTxYS1cU3IYjIWbJ3YcWRwX8jt.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/umuY8YdDTZdndltWTPNGuWQbejr.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124561",
+    "status": "U",
+    "etag": "BirtQNYEAPvCwpILJpnuPQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124561",
+          "url": "/sapi/download/video?action=get&k=IcPf1oWnlrqGHKImOwZIQoR89hb-ofbj2kM42koJkisJ_ddZiaBzAOFD3r4oZ16nRC4SNaAvycSSj0bTZ0FrpSpGEVWhYBKHoSxRgrI6WviQCgzwugWGFh_E80aJXmaI9rsZW7ihntjaHGxI7YqLlWIBg_PwP8aLqx9ZTd6mNb960mQVMpA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=bBj6_mfGD-yU3nk3xn5fH6UmDNtqyJ3ktXSKNtbIZIUPBlkmXJ1KPQx4hXsijtBYsJ3mHzE3VkrUU1_Ns9gglALZDgI7y5YrnlTxiKyLCuTePd2ogATPfIh5-COOMzygO6RUGAibg5pgMoeplG6vyEliO2StT2wpcbw0aEuJ_ze4Yi4Kzusb4Pj97WLqlLrJsM8&node=1i204",
+          "date": 1777833993038,
+          "creationdate": 1777833878000,
+          "modificationdate": 1777833878000,
+          "uploaded": 1777833969030,
+          "size": 385182920,
+          "name": "Rabb-Da-Radio-2017-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7189255,
+            "bitrate": 428620,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=18oErkHNAv0_Y-P9ALJ_PxhplRqxEdslIouUnOUJas0O2XL2T2bWMQ6e-RTbENY2kduUOn_CWoFmB3nMBdf9XerOXoLPPHxQpCWIvmXdc7inrHUIfDT2J1khr71NijU0NQXpNH3nz1J_5lX0uAd71x2pdNU2cEmHbW8sZIiWfMpel8nioO8lvlDH1nrq0uafJjI&node=1i204",
+              "etag": "0BirtQNYEAPvCwpILJpnuPQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=bBj6_mfGD-yU3nk3xn5fH6UmDNtqyJ3ktXSKNtbIZIUPBlkmXJ1KPQx4hXsijtBYsJ3mHzE3VkrUU1_Ns9gglALZDgI7y5YrnlTxiKyLCuTePd2ogATPfIh5-COOMzygO6RUGAibg5pgMoeplG6vyEliO2StT2wpcbw0aEuJ_ze4Yi4Kzusb4Pj97WLqlLrJsM8&node=1i204",
+              "etag": "0BirtQNYEAPvCwpILJpnuPQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "BirtQNYEAPvCwpILJpnuPQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833993161,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Lit-pTRfSjSftJljOVA4xTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Rabb Da Radio (2017)",
+  "media_kind": "movie"
+}
