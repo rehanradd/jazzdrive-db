@@ -1,0 +1,81 @@
+{
+  "name": "Happy-Khush-Ho-Gaya-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Happy-Khush-Ho-Gaya-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:12:27Z",
+  "remote_folder_id": 1753685,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124764",
+  "tmdb": {
+    "tmdb_id": 1570904,
+    "title": "Happy Khush Ho Gaya",
+    "original_title": "Happy Khush Ho Gaya",
+    "release_date": "2025-11-07",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "A con artist pretends to be the reincarnation of a villager to steal land from his family, but the lie soon results in chaos.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ewm3xpq1jf9Yy3dV9FAHcaHInpj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ZVi7OIwdr8gXI0ZvLqp8LcndQB.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124764",
+    "status": "U",
+    "etag": "t1qLl8/iYnS98a54HNWukw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124764",
+          "url": "/sapi/download/video?action=get&k=wRk35h1ron3jJ57RIy3zi1J_RECm7etcazO652OszE0nf1Yguj_nxtCn1Ou1ljV0Z4Fp4oDJHMt1R_tWsTefKmTqoKrj5COfJRVmWVNWzxgYHszgtSnEVFIIGFCn1AsuLeQrZBhthFe0MkyHTjz5huHU2_aForkVKDZq2HHlNFyy1vaffbk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=OIR_QjLSx_BziN5hpJCZ1FI_ZHRKO2YDeqhjI4nxhAAys0F5JUP4GvYmrtXsAnfsrde97QXMmxue-ucoG1G4zbolqgTLLEZB2xelXC3gq_CKipD5xTFYTb_gNC3JimnU-tZm2zKqaCYtZSTYlXJHk1usav3iSr-dSUM3Z9hsKomlmXZmsh7RMUmQ1VHLT5g5XJo&node=1i204",
+          "date": 1777835546627,
+          "creationdate": 1777835472000,
+          "modificationdate": 1777835472000,
+          "uploaded": 1777835530418,
+          "size": 387730996,
+          "name": "Happy-Khush-Ho-Gaya-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7259264,
+            "bitrate": 427295,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=F01lktnrRqMpii6t2y6O_cdKe2qPfJMAY8hg1U4j3j6GUFPzdfI8rnp0L1oXYteKNEru5T_TBZuluM_XSw4BoHGezX-1mhf1Zo3RWud7urshHeKNckfc9c4o0lRcT8lkZ9uCAeHV9Q0tcQREhWZQ7FrvtJ2n2DYTFYYTZifejjP5qUH9aX6U5gJ9UTdAGWEMRm8&node=1i204",
+              "etag": "0t1qLl8/iYnS98a54HNWukw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=OIR_QjLSx_BziN5hpJCZ1FI_ZHRKO2YDeqhjI4nxhAAys0F5JUP4GvYmrtXsAnfsrde97QXMmxue-ucoG1G4zbolqgTLLEZB2xelXC3gq_CKipD5xTFYTb_gNC3JimnU-tZm2zKqaCYtZSTYlXJHk1usav3iSr-dSUM3Z9hsKomlmXZmsh7RMUmQ1VHLT5g5XJo&node=1i204",
+              "etag": "0t1qLl8/iYnS98a54HNWukw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "t1qLl8/iYnS98a54HNWukw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835546690,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/2ZRZceZ-SE-rXbZ-kqUpODk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Happy Khush Ho Gaya (2025)",
+  "media_kind": "movie"
+}
