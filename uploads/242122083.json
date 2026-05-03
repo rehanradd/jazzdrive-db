@@ -1,0 +1,83 @@
+{
+  "name": "Akaal (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Akaal (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:29:53Z",
+  "remote_folder_id": 1753442,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122083",
+  "tmdb": {
+    "tmdb_id": 1454405,
+    "title": "Akaal: The Unconquered",
+    "original_title": "\u0a05\u0a15\u0a3e\u0a32: \u0a05\u0a23\u0a1c\u0a3f\u0a71\u0a24",
+    "release_date": "2025-04-10",
+    "year": "2025",
+    "rating": 5.5,
+    "overview": "Set in 1840s Punjab, Sardar Akaal Singh and his village as they face a vengeful assault by Jangi Jahan and his forces after the death of Maharaja Ranjeet Singh. Amid broken truces and escalating tensions, the fearless Sardars must rise against overwhelming odds to protect their land. Will they prevail against this formidable foe?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pzf5rPLoE5DdYkcZlvYbrH554rE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zdnDhz5JOppyu3adqOKcXqUNXi6.jpg",
+    "genre_ids": [
+      28,
+      36,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122083",
+    "status": "U",
+    "etag": "jtp3czyWKIc/tXtBAaRsqg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122083",
+          "url": "/sapi/download/video?action=get&k=mL5NkmRlykVNgr1qW_tFeRxcEq8eeyPi9O54d3I1StIdmKL3gCryLyRjo0OtRk6XFcMcDoGE5coAqURPGXbBTSgiaOky-b9Ht4sMn8evo_fM_9cTG4z5faioVStKu6EqOUebN0zrjEYEtOLPxIjqAUkPJyu6bBKnlGvCB8rebDuQDR5N3ro&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=wdfaKVJ4R8ZmFBm0shDeh1fvS1jVGd8rPxbN5_ues_uhYR80seu8gJ1Hy8hVOM218WLYKeqlyYINZwnSo-OwuxCNrbAjLcpPQ8HsZy-cJl5zTpzekDkH1_XNhHDDkvOJ0s33F-t08yzBOPt_jD81UaN6nIrYL7Y4M2akQRC3PBKYwYxeQWHf8JOkYcvhhH67xqA&node=1i204",
+          "date": 1777822192554,
+          "creationdate": 1777821921000,
+          "modificationdate": 1777821921000,
+          "uploaded": 1777822156922,
+          "size": 1215400481,
+          "name": "Akaal (2025) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8034838,
+            "bitrate": 1210130,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=XXCRSkJ1cwNUKJ-8W7baDo9BoGlvficImkoFSR9rFlMjlmBA81WTxhVxJq68A96k-sYGUOLybj2aoVwv8URTIJk5G2rd-BXJ7Q9Uq3MGBOdeAcEitykdeX0M9Vf-BvEgNqgV-ZKPuPqNhmDUb1SHqBI5nwZd7WMCiWIOzlVhpD0otcOcscus3-ojxelNk0X88bw&node=1i204",
+              "etag": "0jtp3czyWKIc/tXtBAaRsqg=="
+            },
+            {
+              "w": 1280,
+              "h": 534,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=wdfaKVJ4R8ZmFBm0shDeh1fvS1jVGd8rPxbN5_ues_uhYR80seu8gJ1Hy8hVOM218WLYKeqlyYINZwnSo-OwuxCNrbAjLcpPQ8HsZy-cJl5zTpzekDkH1_XNhHDDkvOJ0s33F-t08yzBOPt_jD81UaN6nIrYL7Y4M2akQRC3PBKYwYxeQWHf8JOkYcvhhH67xqA&node=1i204",
+              "etag": "0jtp3czyWKIc/tXtBAaRsqg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "jtp3czyWKIc/tXtBAaRsqg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822192615,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/5rR2FFKNSUGkJjkXpSxRXDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Akaal (2025)",
+  "media_kind": "movie"
+}
