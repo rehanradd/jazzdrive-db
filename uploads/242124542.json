@@ -1,0 +1,84 @@
+{
+  "name": "Subedar-Joginder-Singh-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Subedar-Joginder-Singh-2018-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:40:44Z",
+  "remote_folder_id": 1753561,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124542",
+  "tmdb": {
+    "tmdb_id": 510575,
+    "title": "Subedar Joginder Singh",
+    "original_title": "\u0a38\u0a42\u0a2c\u0a47\u0a26\u0a3e\u0a30  \u0a1c\u0a4b\u0a17\u0a3f\u0a70\u0a26\u0a30  \u0a38\u0a3f\u0a70\u0a18",
+    "release_date": "2018-04-06",
+    "year": "2018",
+    "rating": 7.3,
+    "overview": "It is a biographical feature film on India's Highest Wartime Gallantry Award - Param Vir Chakra winner Subedar Joginder Singh. He fought three wars (as per records) for India before achieving martyrdom in the Sino-Indian War of 1962 while commanding a platoon in North Eastern Frontier Agency (NEFA) (Now Arunachal Pradesh). The story portrays his character and motivation in the scene of battle.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/cINxBwZkqONXIGyDAintnXoDggV.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jGOmlXlhfTxDee1S6KOuZbMGpou.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36,
+      10752
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124542",
+    "status": "U",
+    "etag": "V/xI9kOLds8RKKBQNgBTqQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124542",
+          "url": "/sapi/download/video?action=get&k=tDW2B7Mh20mgDgJrmoovDGWuLQouL49kG3FbsmbLN2EcJRLPUZZZL-HbwloqMTy5NmyfbkvlL24CMpAwyRTAOMpmdXDFnHppGp_YPlqk4VQ6meP9fO1hHlDcQg-s-vmmDLVULk-E85dxLYkAiRKdG1zlfG_1cmTQ4672memkUgVJw2ODu44&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=jtl8s1VT2BcD0cIZvmr6soUtiFgipDsYFgHCGV6HpYvTpWzZbTyFBxVY3woioxTUpO_icj_lTHWsTLPxuewh_gll3v5YWUNUzIIxq0931at-i-Nt7ZZDBnpMHBUm2GBehpOeqwKngAgh-nfuDtam_LQRN1Nzdj1ZPJ_lNMmTwvsyb_eWj7porIiF7TpZbcKo2Wo&node=1i204",
+          "date": 1777833643594,
+          "creationdate": 1777833542000,
+          "modificationdate": 1777833542000,
+          "uploaded": 1777833624641,
+          "size": 422811374,
+          "name": "Subedar-Joginder-Singh-2018-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7953579,
+            "bitrate": 425279,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=wd2U1iy8aJ-x9MbdwxBPZHj6ypAJJxC81GrdIHm2gJTGMZI_TLu-BmKCKFv_L46_vx7QmbFZzZYGZYEKgnX-KzmLbVBzzuUefulxKFmCFRHO0DxNZzimPIVUYoJ-ZCkkIZOdi6e-6cX-gZOFGpEsYaJKU1zUES19tdUj45ppeF92kgyCf4vgSmyPZVOidwvR2hk&node=1i204",
+              "etag": "0V/xI9kOLds8RKKBQNgBTqQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=jtl8s1VT2BcD0cIZvmr6soUtiFgipDsYFgHCGV6HpYvTpWzZbTyFBxVY3woioxTUpO_icj_lTHWsTLPxuewh_gll3v5YWUNUzIIxq0931at-i-Nt7ZZDBnpMHBUm2GBehpOeqwKngAgh-nfuDtam_LQRN1Nzdj1ZPJ_lNMmTwvsyb_eWj7porIiF7TpZbcKo2Wo&node=1i204",
+              "etag": "0V/xI9kOLds8RKKBQNgBTqQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "V/xI9kOLds8RKKBQNgBTqQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833643655,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/0g47ibwjRMKatoHNfqjp1zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Subedar Joginder Singh (2018)",
+  "media_kind": "movie"
+}
