@@ -1,0 +1,82 @@
+{
+  "name": "Tu-Mera-Ki-Lagda-2019-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Tu-Mera-Ki-Lagda-2019-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:59:41Z",
+  "remote_folder_id": 1753643,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124713",
+  "tmdb": {
+    "tmdb_id": 687253,
+    "title": "Tu Mera Ki Lagda",
+    "original_title": "Tu Mera Ki Lagda",
+    "release_date": "2019-12-06",
+    "year": "2019",
+    "rating": 0.0,
+    "overview": "Manjot, who belongs to a rich family, meets Sarbi at a wedding ceremony and the two fall for each other. The love affair reaches the marriage stage, but Sarbi`s parents oppose it. Sarbi`s older sister was engaged to a man from a rich family, who later rejected the match. Fearing the same consequences, Sarbi`s family does not accept the proposal. Will Manjot and Sarbi be able to unite their families?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zLS28G04dffu3wmSOca1rtcsZ4g.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/cswCDrY8fnHGLSgzXcC6Pd7Qz2T.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124713",
+    "status": "U",
+    "etag": "tTCoAA+4um3ABCvgs615eg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124713",
+          "url": "/sapi/download/video?action=get&k=XX1PiIJFZw2triSYeFKUpQkgn5L60H7xTTiaGQxdWxHET7AKM3VK0gT2CvvcT7V4z3BnvTbZy8NWDUxCod0fIN2nbwveCZ01pcb8_xFc2qtWH6dDIAjZ3cNQW1aBDqY1sYAL0pWyKjitR0hnX8aJZlEmtbvsQeKjjeVObHJ3P2af1nkUctA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=wvfUlZBZV8kzRCrrY3V45eDVVBpVl7sgOMn-EMUXZ7yYudSmG089_MpSCZu7iyWQV4JfSVkx-VzOWsFHvGcTkjV_znWwh_XkzgEmYj--gd9DvzxdSF-UZ_XxXQHNovFBQCqeu0wwBBhKz5HlX-9rCf_1z7yGDEKp7bOF1jhY-b7iztXAem4iZyIVSoJQ5uwXvI0&node=1i204",
+          "date": 1777834780651,
+          "creationdate": 1777834730000,
+          "modificationdate": 1777834730000,
+          "uploaded": 1777834766565,
+          "size": 411831463,
+          "name": "Tu-Mera-Ki-Lagda-2019-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7738155,
+            "bitrate": 425767,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=LnnpkiwX0zZK1GM7BmnqzV_S69oMWMIqlVYYbHb-SjcTPOgzgi2ahmYAnahSblaNaC7k8wlWWtgbVoBqmzAU2XjCj2x0Egy93JIvqD2y30nOPBRQh5xyAZg-UClbNQJPlVr5A8fnYY2ClNn6h6t2tb2JKyvshfkd1NDok8wSWFCbeWS05T6_9b1lBCqRR_yU4BM&node=1i204",
+              "etag": "0tTCoAA+4um3ABCvgs615eg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=wvfUlZBZV8kzRCrrY3V45eDVVBpVl7sgOMn-EMUXZ7yYudSmG089_MpSCZu7iyWQV4JfSVkx-VzOWsFHvGcTkjV_znWwh_XkzgEmYj--gd9DvzxdSF-UZ_XxXQHNovFBQCqeu0wwBBhKz5HlX-9rCf_1z7yGDEKp7bOF1jhY-b7iztXAem4iZyIVSoJQ5uwXvI0&node=1i204",
+              "etag": "0tTCoAA+4um3ABCvgs615eg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tTCoAA+4um3ABCvgs615eg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834780719,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/eL16_HzWTl6gqUlUfCGTjzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Tu Mera Ki Lagda (2019)",
+  "media_kind": "movie"
+}
