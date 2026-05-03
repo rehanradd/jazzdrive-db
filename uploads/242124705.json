@@ -1,0 +1,81 @@
+{
+  "name": "Mahaul-Theek-Hai-1999-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Mahaul-Theek-Hai-1999-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:58:29Z",
+  "remote_folder_id": 1753635,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124705",
+  "tmdb": {
+    "tmdb_id": 48542,
+    "title": "Mahaul Theek Hai",
+    "original_title": "Mahaul Theek Hai",
+    "release_date": "1999-02-14",
+    "year": "1999",
+    "rating": 8.0,
+    "overview": "Mahaul Theek Hai (meaning 'the situation is okay') is a comedy satire about the police force in India. The plot involves a romance between the hero (Smeep Kang) and heroine (Chandni Toor). The hero's brother (Raj Babbar) is involved with an illegal businessman. Played by director and satirist Jaspal Bhatti, the villain of the film is a corrupt SSP (police superintendent) who misuses his authority to threaten people and hide his own excesses. His love interest is played by Bhatti's real life wife (Savita Bhatti).",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9W1qLp9bTfB9wd70K0P7bsyc3as.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fw9O5HM6Mudg3UYcEyp5wZ9Pg9c.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124705",
+    "status": "U",
+    "etag": "Xc+L+6iJ6ZiFf1F2DujnWw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124705",
+          "url": "/sapi/download/video?action=get&k=BvFC7F39rQ9imHxEyb_JQouUUTQ_NKCMRec6SBSsnJ7JaVNMTJsyelazh4WlYnQyukfJ80L_7B8wQFmytlXyf6ZC7pcZrMnA7Ju5AygndfrGdlMB2U80vtkhW1rW4aB0A-3429mEn8pVMkNBgoZJbpSv3mMrF008V19pRYV7a9sg88c_2wY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=sqwt257ilWBX8jYNZIsDDMG5pNW3FP-yxpO3gWDBA4deNb8NefVPPpb17VI7aFAZHgHmErAFoJgqCTYie-bGdrOT3loTEp8Ehf_iNbm41vD0ZSlIlEuJbQKvdZmAb09hROWQ594AxlfwfgeBghqEoT1XaESmNRXFjkDeO9apTHZkOku5gOKc8vlvMydcYDsKF04&node=1i204",
+          "date": 1777834708877,
+          "creationdate": 1777834564000,
+          "modificationdate": 1777834564000,
+          "uploaded": 1777834670010,
+          "size": 415916676,
+          "name": "Mahaul-Theek-Hai-1999-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7820813,
+            "bitrate": 425445,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=dwHT4aBijPN4_MGrf_xDLxNFrJrwvWJEOyqBi8Y8eDG5lIRT1aYm4U90EpTq_oDGkeK4oDbMCvRc5JRx0eyTtRw0R62BbOU0DN1nb69uRiwLhhp5zemac4KE-od-hUzX4xuAEP4HmvMJojn7AjchOX_pIKVFZ6MvUrof6cbsVRQzSTYVf2ti0ivJQqu7Ui9rhes&node=1i204",
+              "etag": "0Xc+L+6iJ6ZiFf1F2DujnWw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=sqwt257ilWBX8jYNZIsDDMG5pNW3FP-yxpO3gWDBA4deNb8NefVPPpb17VI7aFAZHgHmErAFoJgqCTYie-bGdrOT3loTEp8Ehf_iNbm41vD0ZSlIlEuJbQKvdZmAb09hROWQ594AxlfwfgeBghqEoT1XaESmNRXFjkDeO9apTHZkOku5gOKc8vlvMydcYDsKF04&node=1i204",
+              "etag": "0Xc+L+6iJ6ZiFf1F2DujnWw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Xc+L+6iJ6ZiFf1F2DujnWw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834708940,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/7RZfe2NzSDKQap9TdpGTZjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mahaul Theek Hai (1999)",
+  "media_kind": "movie"
+}
