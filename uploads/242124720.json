@@ -1,0 +1,84 @@
+{
+  "name": "Ikko-Mikke-(2020)-Punjabi-PreDVDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Ikko-Mikke-(2020)-Punjabi-PreDVDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:02:46Z",
+  "remote_folder_id": 1753650,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124720",
+  "tmdb": {
+    "tmdb_id": 682833,
+    "title": "Ikko Mikke",
+    "original_title": "Ikko Mikke",
+    "release_date": "2020-03-13",
+    "year": "2020",
+    "rating": 8.8,
+    "overview": "A young, egoistic couple are taught a valuable lesson when their souls get accidentally swapped and they find out what it`s like to walk in the other person`s shoes.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/6wp1xzBDy9VBUyzKZcGHIy21T2i.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bty2CbUcryztEBCxGSsaVxesvib.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124720",
+    "status": "U",
+    "etag": "/f16/ltAj9RG6s2FvQ/HVA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124720",
+          "url": "/sapi/download/video?action=get&k=GATLdWUjVGTx3RVmbZVoXoW1Ko3mL-Xu_Xub9MN4qtYk_0NsA37ZQa6Xj_fG3sX_hQKxzbJ_h1ZFDY1s__fMLe73biUGrfbqRNuiZq1sAiNs8Y1UXXRRE37RNe9fjLyG-7cm3oNSrrB18K5iEnH0nKLt3tckDBHYaJKDggJlSsbAy3XP7zo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=mE0RzvNFwA5C06Odkr8F9WIfAdci_KDILVzOB1FuxLVNt3yCUvoOlbAHPVGefIOvJstTLroTxz6FoTrexeBa8wEVD852ZZWLzaibFKDtxWUBa_thhx5AsPwrK-wrSGVaDQzpEK5bu2Bh1r4t2QaWs416CCE7KvLJrDgwylz3ovWze3gDvOHX3k92XsBRGHAKwu8&node=1i204",
+          "date": 1777834965375,
+          "creationdate": 1777834822000,
+          "modificationdate": 1777834822000,
+          "uploaded": 1777834935953,
+          "size": 416436409,
+          "name": "Ikko-Mikke-(2020)-Punjabi-PreDVDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7772393,
+            "bitrate": 428631,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=-ukikZfEh9Ifj__VTuXD0SjLn-ZhVoH-vzP-x6O6qspzMwNmT-GYeQ5lU0DQjfLHVosITcAq4hd2LaBNYJ4-CXraGz62cq_2kZhAmgqSWmQT15x5iLyQymL-UX04QqS0jyVX8ABGwAFJtZo3fvYArl7sEWWo1Q5aG1rfLS798PxTDHyEe6B_26fVosBF4YDD-8Y&node=1i204",
+              "etag": "0/f16/ltAj9RG6s2FvQ/HVA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=mE0RzvNFwA5C06Odkr8F9WIfAdci_KDILVzOB1FuxLVNt3yCUvoOlbAHPVGefIOvJstTLroTxz6FoTrexeBa8wEVD852ZZWLzaibFKDtxWUBa_thhx5AsPwrK-wrSGVaDQzpEK5bu2Bh1r4t2QaWs416CCE7KvLJrDgwylz3ovWze3gDvOHX3k92XsBRGHAKwu8&node=1i204",
+              "etag": "0/f16/ltAj9RG6s2FvQ/HVA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "/f16/ltAj9RG6s2FvQ/HVA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834965461,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/oD-6YYqBT0aD53qECbd-xTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ikko Mikke (2020)",
+  "media_kind": "movie"
+}
