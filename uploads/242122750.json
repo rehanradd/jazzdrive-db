@@ -1,0 +1,84 @@
+{
+  "name": "Bank of Bhagyalakshmi (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Bank of Bhagyalakshmi (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:21:07Z",
+  "remote_folder_id": 1753473,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122750",
+  "tmdb": {
+    "tmdb_id": 1557961,
+    "title": "Bank Of Bhagyalakshmi",
+    "original_title": "Bank Of \u0cad\u0cbe\u0c97\u0ccd\u0caf\u0cb2\u0c95\u0ccd\u0cb7\u0ccd\u0cae\u0cc0",
+    "release_date": "2025-11-27",
+    "year": "2025",
+    "rating": 2.0,
+    "overview": "A crew of five amateur thieves reunite for one final score in a village brimming with elections. With no experience and only a reckless plan, things dont go as expected.  Will they make it out, or will the village remember them only as five fools who gambled with fate?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/k3ZkowkAPpfLwhD8eV3OhFooYgo.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/prYwnqHuSdWlBjce6tGOK5KDgqh.jpg",
+    "genre_ids": [
+      35,
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122750",
+    "status": "U",
+    "etag": "qbhsVyjLeqTxRAVNk0HllQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122750",
+          "url": "/sapi/download/video?action=get&k=YPg1DUEzEdKQgZZgf27CCWgZIzazLtPTul2KL3T7Ixp1LGG0X_2eBIYGnFxh0MC09eOH_bX8XtLI0Qo7smSwZgf3Wwr_iFtpEQ4eHKejVA4NzmiYffZudeYA36O87qZhhf4gVbyQEzmhJV9mNdPZT2nA5WMsk-iO9352kxvE2GvSjuzpYR4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=n14F2TDZY2ek8xWqJ-alRKwvH4UsVG7t00aljTPiO_MZcalFkF2rOplhMXTGsQgqwDpGSgVH_27K4tXc7qYFkVhCqyfsp7IvPVcSRsYdNaGi_ceBicPEdcxVyqp0H5zO8DfLNJRSA1lR2OfF966HaMtQZXIrBKmzanV6fNJDmtVCXNFpX-1JefP18U0uZxr2k0E&node=1i204",
+          "date": 1777825266814,
+          "creationdate": 1777824833000,
+          "modificationdate": 1777824833000,
+          "uploaded": 1777825217787,
+          "size": 1499655847,
+          "name": "Bank of Bhagyalakshmi (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9079050,
+            "bitrate": 1321420,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=I0vV7QtbAYg_3F4tbZ4ADkfDXxI1iR_IYas0aFOHM7mq38ywLXbO-kRBaqWiU176cw1LoP11xeHeEK4nT2iU6-CXf61z_mUbahRrhZHI-42jzkUUEK94IPZDLx19cDNivSURNzHwHjZ3tIwn5H6sNrCBCN3qKYawZ--C0zUqd5e686TXIYvX0X5mgJbFj0D_Ex4&node=1i204",
+              "etag": "0qbhsVyjLeqTxRAVNk0HllQ=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=n14F2TDZY2ek8xWqJ-alRKwvH4UsVG7t00aljTPiO_MZcalFkF2rOplhMXTGsQgqwDpGSgVH_27K4tXc7qYFkVhCqyfsp7IvPVcSRsYdNaGi_ceBicPEdcxVyqp0H5zO8DfLNJRSA1lR2OfF966HaMtQZXIrBKmzanV6fNJDmtVCXNFpX-1JefP18U0uZxr2k0E&node=1i204",
+              "etag": "0qbhsVyjLeqTxRAVNk0HllQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "qbhsVyjLeqTxRAVNk0HllQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777825266887,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/66V2mA90R3-NdFT7NsPmCzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bank Of Bhagyalakshmi (2025)",
+  "media_kind": "movie"
+}
