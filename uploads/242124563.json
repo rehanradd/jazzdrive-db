@@ -1,0 +1,81 @@
+{
+  "name": "Vekh-Baraatan-Challiyan-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Vekh-Baraatan-Challiyan-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:46:29Z",
+  "remote_folder_id": 1753600,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124563",
+  "tmdb": {
+    "tmdb_id": 479618,
+    "title": "Vekh Baraatan Challiyan",
+    "original_title": "\u0a35\u0a47\u0a16 \u0a2c\u0a30\u0a3e\u0a24\u0a3e\u0a02 \u0a1a\u0a71\u0a32\u0a40\u0a06\u0a02",
+    "release_date": "2017-07-28",
+    "year": "2017",
+    "rating": 7.3,
+    "overview": "A Punjabi bus conductor falls in love with a Haryanvi girl, and then the comedy sets up when these different cultures get mingled up for marriage.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/j3BcfvPkbC2aFn6ohU7GB7dGQKG.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/31kTmntYvijNm0KvffByWWvzhO4.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124563",
+    "status": "U",
+    "etag": "fRGM+wr5hAoEUPzRzp9aZg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124563",
+          "url": "/sapi/download/video?action=get&k=1kwXOzT9QbuCpRloJXnVVafECsPZZrsuipYVylpVJfflljlXAfMktgEm6qdWbSovCaAEPD4ISqnEEVNs4bC6AH561avNsB_tarZIleVZydGgB3MOhLeW40B7yCsiS1l_eg3Gh4KkjUwLY5C1vvi_KPuTHFnSbjmebHIvijolMVkIyrLZtlk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=nXVKboSQZ2_FxBLYl6unLqIALINP9riAHuEkBjGBsXMHNyPOvMlHPlA_aWCPQDAKwWDBS6_8vIIebKiqmJoXbmCNMvcebIFO9iyb5sQt_JJR89GUk8VofSdL0Bt5gmc5ek0iHXdqDy3-sOrlJyQ3FYoLT-NrDyJahoU3EzI8s0sxKhvZstDdig9E8ciXpCASukY&node=1i204",
+          "date": 1777833988412,
+          "creationdate": 1777833912000,
+          "modificationdate": 1777833912000,
+          "uploaded": 1777833961730,
+          "size": 396609175,
+          "name": "Vekh-Baraatan-Challiyan-2017-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7508500,
+            "bitrate": 422570,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=I3TGiBiCMoX8HP51JNgK-ESEEuugFdW5DBUP_-HrtZFgPnENFKLmpQoI2qko92SWVyWrdCBwwDkVkS78pb8S5PvhzZH9GTDX_Dho1PX4Haavy9ZZiTcKVGWFVKKYZvpx7g8owpxYVhgqNnuVzwJ_rrFRwKTg7xptVxekMP-wjVtLaaGTwOqoz6mKP8cBUoj2XyI&node=1i204",
+              "etag": "0fRGM+wr5hAoEUPzRzp9aZg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=nXVKboSQZ2_FxBLYl6unLqIALINP9riAHuEkBjGBsXMHNyPOvMlHPlA_aWCPQDAKwWDBS6_8vIIebKiqmJoXbmCNMvcebIFO9iyb5sQt_JJR89GUk8VofSdL0Bt5gmc5ek0iHXdqDy3-sOrlJyQ3FYoLT-NrDyJahoU3EzI8s0sxKhvZstDdig9E8ciXpCASukY&node=1i204",
+              "etag": "0fRGM+wr5hAoEUPzRzp9aZg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "fRGM+wr5hAoEUPzRzp9aZg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833988486,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/B2sK1iEPS1KvHRFUaunuNzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Vekh Baraatan Challiyan (2017)",
+  "media_kind": "movie"
+}
