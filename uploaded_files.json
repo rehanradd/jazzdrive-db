@@ -640,8 +640,8 @@
     "media_kind": "movie",
     "github_status": "ok",
     "github_synced_at": "2026-05-03T18:29:21",
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-03T18:29:24"
   },
   "33849bce8cfa8633e8edda972f2fbf85ff7c464e86a977de42adee279e9c24b3": {
     "name": "Teri-Meri-Gal-Ban-Gayi-(2022)-HDCAM--480p-[Orgmovies].mp4",
@@ -668,8 +668,8 @@
     "media_kind": "movie",
     "github_status": "ok",
     "github_synced_at": "2026-05-03T18:29:23",
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-03T18:29:26"
   },
   "79064e529720833c5dc47d46f3bf71ead09909bda469b1d784f551b3104d86b1": {
     "name": "Shakkar-Paare-(2022)-Punjabi-PDVDRip--480p-[Orgmovies].mp4",
@@ -693,6 +693,34 @@
     "share_validation_key": "",
     "share_folder_id": "",
     "share_folder_path": "Shakkar Paare (2022)",
+    "media_kind": "movie",
+    "github_status": "ok",
+    "github_synced_at": "2026-05-03T18:29:27",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-03T18:29:29"
+  },
+  "c0544e3556deec4bdb8c2a0d403a0618f319e7cb035ee379741e36aec2e81df3": {
+    "name": "Jal-Wayu-Enclave-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Jal-Wayu-Enclave-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 318775320,
+    "uploaded_at": "2026-05-03T18:30:07Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124504",
+    "remote_id": "242124504",
+    "remote_folder_id": "1753552",
+    "tmdb_title": "Jal Wayu Enclave",
+    "tmdb_year": "2022",
+    "tmdb_rating": 4.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/vNY368XmKHJNElkQedbqmXwxmr1.jpg",
+    "tmdb_overview": "The rom-com flavored cute love story of Jalwayu Enclave revolves around a village-based guy Gurjazz and Delhite Air Hostess Monica, who unfortunately gets locked up in the same building during the covid-19 lockdown.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124504\", \"status\": \"U\", \"etag\": \"Pf07YoKYFNva8C+too76Tw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124504\", \"url\": \"/sapi/download/video?action=get&k=TejId7NEjv6yZ9fhtikKhTfNZuqIBfUBqnmwwYWoS-X3Vh4Qmt1WrolnaYxqbC5rjlx6mhrwU31ZIcZppE-kHJzDb_R06TkLFRpVEff3_ZwjoFvnS0vaK5K4pQH0y-nj2GrFKsBzpLwKwT1cZFb8SoFM6_RD-YvdxyeKH-afOOCoc46SaPs&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=YnDH2ZjXM2v2_cuv8rkaiiIsnMKsbE8e3C_notsBjt6MsOThjCoihFe7J6JQ7n8wGyUy4lf4ge7kJPFExiURiK1KZfpQfDCE7rncwQ4jrgmO-_WBgnHnBrg-iPGcQkTnR744PCuoxt2lcuxaxxVqDWqOyFmU2vAKaUSKqLHgVtDlpwo9gbnYql5Oe_yO2_N2H4Y&node=1i204\", \"date\": 1777833006123, \"creationdate\": 1777832968000, \"modificationdate\": 1777832968000, \"uploaded\": 1777832992859, \"size\": 318775320, \"name\": \"Jal-Wayu-Enclave-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 6062145, \"bitrate\": 420676, \"codec\": \"h264\", \"height\": 400, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 142, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=iZNsx1_AsMgp4DhQBZf8Q_dNMBrg-XeaLl16eLpOk_z0A9d6SgVd9HTZJ0xk9UwTfAW_eINg5RfHI_c3gwZCsplxm3N8qSl7rrxX1qb6hjP-BD3bKja41R50sHjz_0nu87XHhtNuiZ8giTD5e51LriNsvimNaM480ip9qkL1GmpuSkTmHdhVshEuOuyClOApzJg&node=1i204\", \"etag\": \"0Pf07YoKYFNva8C+too76Tw==\"}, {\"w\": 720, \"h\": 400, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=YnDH2ZjXM2v2_cuv8rkaiiIsnMKsbE8e3C_notsBjt6MsOThjCoihFe7J6JQ7n8wGyUy4lf4ge7kJPFExiURiK1KZfpQfDCE7rncwQ4jrgmO-_WBgnHnBrg-iPGcQkTnR744PCuoxt2lcuxaxxVqDWqOyFmU2vAKaUSKqLHgVtDlpwo9gbnYql5Oe_yO2_N2H4Y&node=1i204\", \"etag\": \"0Pf07YoKYFNva8C+too76Tw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"Pf07YoKYFNva8C+too76Tw==\", \"favorite\": false}]}, \"responsetime\": 1777833006193, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/xtTeC5JFQ16l0eUtyRusNDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67482",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Jal Wayu Enclave (2022)",
     "media_kind": "movie",
     "github_status": null,
     "github_synced_at": null,
