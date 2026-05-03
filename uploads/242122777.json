@@ -1,0 +1,83 @@
+{
+  "name": "Chennaiyil Vaanam Megamootathudan Kaanapadum (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Chennaiyil Vaanam Megamootathudan Kaanapadum (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:42:52Z",
+  "remote_folder_id": 1753490,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122777",
+  "tmdb": {
+    "tmdb_id": 1372815,
+    "title": "Chennaiyil Vaanam Megamootathudan Kaanapadum",
+    "original_title": "Chennaiyil Vaanam Megamootathudan Kaanapadum",
+    "release_date": "2024-10-18",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Chennaiyil Vaanam Megamootathudan Kaanapadum movie is a thriller drama, a story narrated from an ayyanar aruvaal's point of view from a coconut shop during a cyclone time. will the city be saved? will the aruvaal reach back the shop?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1IJxoGZh6LMCY3rfA88uw0zWXC8.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122777",
+    "status": "U",
+    "etag": "Vozuh5rNERrOvpxNpDq8DA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122777",
+          "url": "/sapi/download/video?action=get&k=IEgVRjXBUHjREgrdwxdGSVrbYBnV-1w8ZnEGqMsaY6l9YiIrYeGEs32op2yyK-oh1BXWLu4SZWzl4VBqNDW6fpe_CQBO3o6aQE-tOvSI_XAKIpINHcXuDWxYRhjbhQUpSiKuUad8hlOZaGfpfrPTJf_E3pRRhG4y-30U8l3Oe1CiIdn5uAk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=bst7MQIm9DbRMUcPxThyIGd_IhfBitzPnTbKS3XndS_5undVia9xZ42ahpDDJ8IpVakhd7Raq-Lo8KxVPF--geiKX0wVPpMUvhjsHQoZqcDAWyY4P70e_CC8td5G97VksjgQPylwDS5LZeUoikhNYboPT06ENSvfZ5x25Gz0r8wCwJfPh-c3zv5M7DYvY4BCtLo&node=1i204",
+          "date": 1777826571625,
+          "creationdate": 1777826372000,
+          "modificationdate": 1777826372000,
+          "uploaded": 1777826534224,
+          "size": 614612130,
+          "name": "Chennaiyil Vaanam Megamootathudan Kaanapadum (2024) Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 4299375,
+            "bitrate": 1143630,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=kkuI6SZlg_jvDY39kumGyWQkjE3yYswvU1THoOefTDCks1R4f3_tMlRU4QJ8GRcGaAjAZ8leqWxIr5YNqk_4TV55xLrtPegSeipVcnA5W2VVjPlyg4rh_Vi4WnM8295cIKZDPVciV7_yqwZAMJD2vzKT7pOn2z41ytyWUoqVV18YUUALA296ATSQoA2ouYtmobA&node=1i204",
+              "etag": "0Vozuh5rNERrOvpxNpDq8DA=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=bst7MQIm9DbRMUcPxThyIGd_IhfBitzPnTbKS3XndS_5undVia9xZ42ahpDDJ8IpVakhd7Raq-Lo8KxVPF--geiKX0wVPpMUvhjsHQoZqcDAWyY4P70e_CC8td5G97VksjgQPylwDS5LZeUoikhNYboPT06ENSvfZ5x25Gz0r8wCwJfPh-c3zv5M7DYvY4BCtLo&node=1i204",
+              "etag": "0Vozuh5rNERrOvpxNpDq8DA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Vozuh5rNERrOvpxNpDq8DA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777826571697,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/02iPKegmREGEUi-kt0cuujk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Chennaiyil Vaanam Megamootathudan Kaanapadum (2024)",
+  "media_kind": "movie"
+}
