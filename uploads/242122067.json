@@ -1,0 +1,82 @@
+{
+  "name": "Adithattu (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Adithattu (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:25:13Z",
+  "remote_folder_id": 1753436,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122067",
+  "tmdb": {
+    "tmdb_id": 855358,
+    "title": "Adithattu",
+    "original_title": "\u0d05\u0d1f\u0d3f\u0d24\u0d4d\u0d24\u0d1f\u0d4d\u0d1f\u0d4d",
+    "release_date": "2022-07-01",
+    "year": "2022",
+    "rating": 3.0,
+    "overview": "Adithattu denotes the 'lower strata in the society and the fishing community falls under this stratum. Adithattu will also explore the problems and livelihood of the fishermen community and will be a thriller subject.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/abzkj3UiYazVFZmLze90l8yOOm5.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/91rVJgqgwTAnYyGFckIEPdEfR83.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122067",
+    "status": "U",
+    "etag": "yvV860l7QvZ88IfrOait2Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122067",
+          "url": "/sapi/download/video?action=get&k=mgYAsfHgeicY9kGZZUURVBKvtwhbTjvUsaDCwlse28L-WrEgMDknLkwy3NUjA0mqUdjjL1z0r8NWLUelNY6-VP6gdaai-A99HVsflIzlvACjPb0Tg8LX1bZ03N4sh0TlbBj9CR7UBh4IU2RxXEsJU2zI3bbjbIEcUFiisM_WfQ-puRh3ZIo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=YCQWViUBL3fDY7e6nr-FBaDkrkLGKab1SXUbU3YIRwo_9iRHFSepWmUI5r-DREotxHLCph60Svn68pPhVAoZbFMIZ84AZWh9eTTti0fvqRrKPFzT_KEQieD24QOwChkzpNx3MzAjhlBnWglfExlkMXA1mEsYlwWEjArFT4h-gPwGu6FTzfc8FJ12Z7hB_jVagfE&node=1i204",
+          "date": 1777821912020,
+          "creationdate": 1777821552000,
+          "modificationdate": 1777821552000,
+          "uploaded": 1777821857217,
+          "size": 1198347454,
+          "name": "Adithattu (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5602016,
+            "bitrate": 1711308,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=7hePAjgGCTOn6nu9Facoz5Ad9uy3J6664y4JCuz3vTx5bEmSjJDJlYxPmKtg0REFF_dptTpPSDbX9Ts_QF0sxsB_erXMkG5MF8MWmOP9NsL7WEI5OtE0Wxg2bONemEKwRy9f4XXg8lI9cEiLI8LsTmG_AEN1XCshZlyW22MvN2Wf133KfAT_tNEKa0dOUxe5xs8&node=1i204",
+              "etag": "0yvV860l7QvZ88IfrOait2Q=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=YCQWViUBL3fDY7e6nr-FBaDkrkLGKab1SXUbU3YIRwo_9iRHFSepWmUI5r-DREotxHLCph60Svn68pPhVAoZbFMIZ84AZWh9eTTti0fvqRrKPFzT_KEQieD24QOwChkzpNx3MzAjhlBnWglfExlkMXA1mEsYlwWEjArFT4h-gPwGu6FTzfc8FJ12Z7hB_jVagfE&node=1i204",
+              "etag": "0yvV860l7QvZ88IfrOait2Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "yvV860l7QvZ88IfrOait2Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777821912083,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pYLIrbPoSjCQPg4K6jlZ-zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Adithattu (2024)",
+  "media_kind": "movie"
+}
