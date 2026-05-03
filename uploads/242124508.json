@@ -1,0 +1,82 @@
+{
+  "name": "Kokka-(2022)-Punjabi-DVDScr--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Kokka-(2022)-Punjabi-DVDScr--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:31:50Z",
+  "remote_folder_id": 1753553,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124508",
+  "tmdb": {
+    "tmdb_id": 978530,
+    "title": "Kokka",
+    "original_title": "Kokka",
+    "release_date": "2022-05-20",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "Akaal, a young and attractive man, is ready for marriage and is looking for his ideal partner. He meets and inevitably falls in love with Ajooni, despite her being older than him.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eHJwcEnVurf95mLBKyaGydLiOoL.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/g6FD3ElIhkdV383xdA9l8V53C5H.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124508",
+    "status": "U",
+    "etag": "4SxiGCPENnfFpoRBh/13Kg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124508",
+          "url": "/sapi/download/video?action=get&k=O0VyuD4-2DinnxGPHXULEjZq_jGyJRI5ZVIt_9jUMrPon9Drsk2c7YC-GNTmhss-HqCS1gqcunMZ00FdCQ50oFIaKGRcUdRMbNZyAxlL7dxrjnRWbZgcVqegAvxDmvS_yePDZnl-TNjog485ofDHAwYXWLZZLSuxjcI4r6yf7ztiBjJeSsY&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=4qnvcl9ygk5pGphtkB9Z53kfQ6ekxLwOgSXgt3GY0FSQ0g-FLt4NIGgy26gIt9Fq2if0uDKPstne-wWHD_CmNEjYkYDtbdfqiEtn8FIuh2QYx1Y9KR6j2oib_1Q7EEL3xOfS_xuGa1UJq7wfcIitk2U5MxTpW-ff74ethpGcmTte8YanurqhwC-0vA_I2p9qgvE&node=1i204",
+          "date": 1777833109322,
+          "creationdate": 1777833017000,
+          "modificationdate": 1777833017000,
+          "uploaded": 1777833088615,
+          "size": 365281097,
+          "name": "Kokka-(2022)-Punjabi-DVDScr--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6797354,
+            "bitrate": 429909,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=KTHJOs7DVylThPkz7W5QQA03hVgQ48sIwxWuz1lBx9l69vim4fRDt5JTxGHgZLN-cYwk2f05yRjSVGGZQIdeLXUyX-sa3nzev_QEuFTozNCKBozxRjtVF_pR5jor0XeCewn2bCdC9P8RHjTWouZ0k62Ldj7qKRwQRxWOPfkW20lxOmYq4n4-4G2F01f3eGh436c&node=1i204",
+              "etag": "04SxiGCPENnfFpoRBh/13Kg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=4qnvcl9ygk5pGphtkB9Z53kfQ6ekxLwOgSXgt3GY0FSQ0g-FLt4NIGgy26gIt9Fq2if0uDKPstne-wWHD_CmNEjYkYDtbdfqiEtn8FIuh2QYx1Y9KR6j2oib_1Q7EEL3xOfS_xuGa1UJq7wfcIitk2U5MxTpW-ff74ethpGcmTte8YanurqhwC-0vA_I2p9qgvE&node=1i204",
+              "etag": "04SxiGCPENnfFpoRBh/13Kg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "4SxiGCPENnfFpoRBh/13Kg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833109406,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/qRR8a11xQ_q1mZYpoJQMoTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kokka (2022)",
+  "media_kind": "movie"
+}
