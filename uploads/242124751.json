@@ -1,0 +1,82 @@
+{
+  "name": "Yaaran-Diyan-Poun-Baaran-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Yaaran-Diyan-Poun-Baaran-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:09:45Z",
+  "remote_folder_id": 1753674,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124751",
+  "tmdb": {
+    "tmdb_id": 1106591,
+    "title": "Yaaran Diyan Poun Baaran",
+    "original_title": "Yaaran Diyan Poun Baaran",
+    "release_date": "2023-03-30",
+    "year": "2023",
+    "rating": 5.0,
+    "overview": "Arjun and Simran find love and friendship in each other. But their parents' rivalry comes in their way. Will they end up together?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rThV1hevIgrQ832TmYzOaCZI6sR.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jJJbtf9JoI6JEIHUPYTZ6zdfQZM.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124751",
+    "status": "U",
+    "etag": "gg1+PZlUBOKtTt8v9D1FIw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124751",
+          "url": "/sapi/download/video?action=get&k=7Ok_aHA54TUNRSikyGPEKnVM8c77DK55j5C98SSFjtBor2WHUCocI1z6iYFniSBa6VAJ8PrAZiBDeW3WNfIBKWdqZq_vDijryrUc3bsM7HDbVqANBhdXLWvoxgtAGDq8pJc5RjFi22FGZpBft6Uk4MWGwz0HB3lE_DEOK8yoltYKR2-Sekw&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=mHoChSCHfglXXPhzUbfcsbO2gMl_AgU91canPYWomQzDZ4zFaq8JBpCWRNEBk_y4JRcR9WhSJ0iNNnQ5AcFe7_Bp8skYk4XCb4Xy3a8UHZX82LMdTgRUv-4hGYVHzxq9i1bqxZZORiuC8LvjCoYCUIxw8oQ6-SuHx5Iy1eZCLXNrKOUPusEKm00D9X5YjwjQ6O8&node=1i204",
+          "date": 1777835384066,
+          "creationdate": 1777835284000,
+          "modificationdate": 1777835284000,
+          "uploaded": 1777835371645,
+          "size": 425145567,
+          "name": "Yaaran-Diyan-Poun-Baaran-(2023)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7959168,
+            "bitrate": 427326,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_BErppGA0vjIJFlD8Bt2_R7jSmgMiJq4423hMukhLzGqusCQUxuSaqcm-iINimH0P3igNX2bhdgzoFcw7DZoYX_OfXeCQBp-7COeKV9Djll43xUzyyrGOjcSX2esuf8FTRmtInoVzBKoucYmFCLhUHR5AVF-YGnK-ZB61BCGuhw1KH4byCbNu618GexWEXUed7c&node=1i204",
+              "etag": "0gg1+PZlUBOKtTt8v9D1FIw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=mHoChSCHfglXXPhzUbfcsbO2gMl_AgU91canPYWomQzDZ4zFaq8JBpCWRNEBk_y4JRcR9WhSJ0iNNnQ5AcFe7_Bp8skYk4XCb4Xy3a8UHZX82LMdTgRUv-4hGYVHzxq9i1bqxZZORiuC8LvjCoYCUIxw8oQ6-SuHx5Iy1eZCLXNrKOUPusEKm00D9X5YjwjQ6O8&node=1i204",
+              "etag": "0gg1+PZlUBOKtTt8v9D1FIw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "gg1+PZlUBOKtTt8v9D1FIw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835384131,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/g1Iyu5I6Ql6kyKe3jBWMSjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Yaaran Diyan Poun Baaran (2023)",
+  "media_kind": "movie"
+}
