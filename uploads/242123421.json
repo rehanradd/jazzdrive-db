@@ -1,0 +1,68 @@
+{
+  "name": "Devaki Nandan Vasu Deva (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Devaki Nandan Vasu Deva (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:09:08Z",
+  "remote_folder_id": 1753513,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123421",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123421",
+    "status": "U",
+    "etag": "v+IeXnS4eHSzZufKeP7vjQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123421",
+          "url": "/sapi/download/video?action=get&k=PC_zYMwFIcFLfVD5yOcGZ-Or8UUWGwPvYpUk620F_7JAAsX7n7aIj12tI0RBxM_8UGAGSSPf4l_T4M97rexmz_Kag7Y7-b3HPP6Hf1O8CRIS-nhSkClXRpCUsq4YLGlAMaxqRVd9FZM8LIHse0Lp7ybPB00y29pfx2qVnpW8mOdRk1Ixubg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=qQ-HQnwM9SOLgEcok4D-EI_rLjQZvHje-cghP02OeeDz7TtIDANHghGzBJMgbfAckL-C4z4g8jaXw3mtQQj58-dEZdup9mmgRta9N6WtJmmX-ScrS8XcBYHR8q_0fOjAlbVhdDzQqw0Jm-cQ6dQ-z86tjarnFGthLdh2fBXhY5_CExl5si6iLi1vTV6lZS9jmJg&node=1i204",
+          "date": 1777828146827,
+          "creationdate": 1777827917000,
+          "modificationdate": 1777827917000,
+          "uploaded": 1777828110703,
+          "size": 1085361307,
+          "name": "Devaki Nandan Vasu Deva (2024) Hindi 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 6774314,
+            "bitrate": 1281737,
+            "codec": "h264",
+            "height": 548,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 109,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VlkPc6xWn4TV2egzixqFH9tqUW9ivt6m1tTb0LxEe4S62Rl930TjztASCfNK83AbSFVLLDFTPkQdVxgDnItdA9WKkVUFIQTSXYqJpfXmFnJ4oRbhkayqdDjARrbIXG0Oxcbo6tBfId9VeKZtYuzBxNjj-GtWxtkweO5XfJClc01o8l7LxcPQqOAsR3D4NLDB77s&node=1i204",
+              "etag": "0v+IeXnS4eHSzZufKeP7vjQ=="
+            },
+            {
+              "w": 1024,
+              "h": 438,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qQ-HQnwM9SOLgEcok4D-EI_rLjQZvHje-cghP02OeeDz7TtIDANHghGzBJMgbfAckL-C4z4g8jaXw3mtQQj58-dEZdup9mmgRta9N6WtJmmX-ScrS8XcBYHR8q_0fOjAlbVhdDzQqw0Jm-cQ6dQ-z86tjarnFGthLdh2fBXhY5_CExl5si6iLi1vTV6lZS9jmJg&node=1i204",
+              "etag": "0v+IeXnS4eHSzZufKeP7vjQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "v+IeXnS4eHSzZufKeP7vjQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828146886,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kkIGIPRKTI6hrYnJbS8BHjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Devaki Nandan Vasu Deva (2024)",
+  "media_kind": "movie"
+}
