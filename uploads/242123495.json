@@ -1,0 +1,83 @@
+{
+  "name": "Teri-Meri-Gal-Ban-Gayi-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Teri-Meri-Gal-Ban-Gayi-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:27:55Z",
+  "remote_folder_id": 1753544,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123495",
+  "tmdb": {
+    "tmdb_id": 1027648,
+    "title": "Teri Meri Gal Ban Gayi",
+    "original_title": "Teri Meri Gal Ban Gayi",
+    "release_date": "2022-09-09",
+    "year": "2022",
+    "rating": 6.0,
+    "overview": "It's a story about Gunjor Kaur, a college student, who is in love with Navjyot, son of a businessman from Amritsar, Balwant Singh. Will Guri and Navjot succeed in their plan to convince their families?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ww1G1RujHxCh2ZuRcFYWkyuq20D.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/znIvTXt9IEIg0HmUKnINa4PMvOw.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123495",
+    "status": "U",
+    "etag": "i6cHI+dJOTohwsYtqMVodA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123495",
+          "url": "/sapi/download/video?action=get&k=mkj6-UtV_kY-G0lT0Hvkgv1ovEJwlM-bxtT4jiD6Vw3VsBXyMbfkBtY8-uvBdeJ9wKhcYlRQtC9uSBqDTURb1LnMlOac0qqotNbvpUOm-5I-p5krhyCKD2dY22BoewcpA5IczPCYe9Y-sPYKMsh68GOOCWsT7Th1C00M0XqAoYgc2aEFjAk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=FE6TtYxhvK6wbW18LVsvWCf0MRD_QnYaof4cYxLfCV3TxeTBQEvSVCIv4e0xKPLBY7JedUJF9A4IZwKvQfVKhsUwQugL2QWmevFKGAWs9cCnKQkONLhugeBkZIY9IWZ3Wil9SrrpJfsnkAt5dOn8buPkZ2MzGGOEySuguHSmp_8OwXGh7uQxhqWH7W6oIHcHFnU&node=1i204",
+          "date": 1777832874296,
+          "creationdate": 1777832792000,
+          "modificationdate": 1777832792000,
+          "uploaded": 1777832841890,
+          "size": 459215681,
+          "name": "Teri-Meri-Gal-Ban-Gayi-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8633962,
+            "bitrate": 425497,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=BWTDY9hKKOFtMpijqulWfn03vqvjMFKbe6Ia0XLS8cJB1Erx4-JKtICgj9oS3dURC6V4NNLeG4t8BXMrNQoIQ6FH0E8tkT0sQGmdfw7XJmluZl5uJyTnAJhMkoLZZw_xYVicAnBGLtXJ7m_o25XsyDaws1PmdPqXbq_gMI0GbnA8ze8xXC-8KjY1Gm_x4HccnBM&node=1i204",
+              "etag": "0i6cHI+dJOTohwsYtqMVodA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=FE6TtYxhvK6wbW18LVsvWCf0MRD_QnYaof4cYxLfCV3TxeTBQEvSVCIv4e0xKPLBY7JedUJF9A4IZwKvQfVKhsUwQugL2QWmevFKGAWs9cCnKQkONLhugeBkZIY9IWZ3Wil9SrrpJfsnkAt5dOn8buPkZ2MzGGOEySuguHSmp_8OwXGh7uQxhqWH7W6oIHcHFnU&node=1i204",
+              "etag": "0i6cHI+dJOTohwsYtqMVodA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "i6cHI+dJOTohwsYtqMVodA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832874361,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Z9tWmEhhRy-pvBAARRNEpTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Teri Meri Gal Ban Gayi (2022)",
+  "media_kind": "movie"
+}
