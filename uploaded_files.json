@@ -5232,8 +5232,8 @@
     "media_kind": "movie",
     "github_status": "ok",
     "github_synced_at": "2026-05-03T19:16:01",
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-03T19:16:04"
   },
   "ef27e018983395aeb53ed0d28557d8002478dcf540f9f5f856db7e0775f57039": {
     "name": "Pind-Peya-Saara-Jombieland-Baneya-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
@@ -5258,10 +5258,10 @@
     "share_folder_id": "",
     "share_folder_path": "Pind Peya Saara Jombieland Baneya (2025)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-03T19:16:03",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-03T19:16:07"
   },
   "ccecb68d9befc36149856df41093af65e0668b0c2517577f16e2e6c7dcc3330c": {
     "name": "Challe-Yaar-Coachella-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
@@ -5286,10 +5286,10 @@
     "share_folder_id": "",
     "share_folder_path": "Challe Yaar Coachella (2025)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-03T19:16:10",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-03T19:16:13"
   },
   "0a36524687d28b913b93f14610b57b86080161ce7fcb92c42e1254ede0021471": {
     "name": "Hanji-Kaun-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
@@ -5313,6 +5313,34 @@
     "share_validation_key": "",
     "share_folder_id": "",
     "share_folder_path": "Hanji Kaun (2025)",
+    "media_kind": "movie",
+    "github_status": "ok",
+    "github_synced_at": "2026-05-03T19:16:12",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-03T19:16:15"
+  },
+  "bdc23d3fea8f16ddf3c35977409434a4b76f6f6b7773a05e80080d36dc401fac": {
+    "name": "Badnaam-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Badnaam-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 520625904,
+    "uploaded_at": "2026-05-03T19:17:16Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124783",
+    "remote_id": "242124783",
+    "remote_folder_id": "1753700",
+    "tmdb_title": "Badnaam",
+    "tmdb_year": "2025",
+    "tmdb_rating": 0.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/qgEf4jlTkyhcj8cK44gnr36EKeS.jpg",
+    "tmdb_overview": "Following his release from prison, an outlaw with a tragic past challenges a ruthless crime boss for control of the local alcohol black market.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124783\", \"status\": \"U\", \"etag\": \"mV4rXcGGRtp1tRUkGKBaVw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124783\", \"url\": \"/sapi/download/video?action=get&k=UsIyKut65TCypuULxWiwWhqcsejX_7wXXQgd4Wts97_4xQIaJSOUPfRaWYLWoruqqxG-Vp2cmW1FiBrCVwWvZyBCds75NgKCQ0iHO2TYzJeI1hVKghZ9HQ3UlSKp5CVkbjX7J9lI0-Vxsnk2ivL5IsnWzoqDZXZ4_bVufemEHiwFPBd2J-8&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=yK4tzx7lTbSfUWOwmlmaoHyDQoOfulvpMoHRdbvjEcJA3q4ww8PaKA73r_n3X7SPpP7lw6lCfYhucr4gLFqxLdAoGgULJGyWcICvpS1nFcQbVZgPQUPMhrjIwnq0Y2sq7bdJVu9lURkoxMyqlrhNBc-rJWBPQHBZ0U_eKXC4KmRH8tHtCu9AJKzp2wnML-vyqVE&node=1i204\", \"date\": 1777835835193, \"creationdate\": 1777835718000, \"modificationdate\": 1777835718000, \"uploaded\": 1777835818096, \"size\": 520625904, \"name\": \"Badnaam-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 9793642, \"bitrate\": 425276, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=ZvG4kep78gssWm6jP20bl0MFOkkq6phy_R0YEQ4rcsgfKxVP3SjulA8lXBSdezjnlcg5itkcYoLAd0Rgat_0SuPhghBEZB4_rsL6-ijpnibjwgFVtz53_pOkkTu7oT5jJxL23pTKO5PwFodL9g99U-8m1kCZuOg-dCfR9XN1QlE0P-EVDBRW-BDqGGvPa3UxakA&node=1i204\", \"etag\": \"0mV4rXcGGRtp1tRUkGKBaVw==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=yK4tzx7lTbSfUWOwmlmaoHyDQoOfulvpMoHRdbvjEcJA3q4ww8PaKA73r_n3X7SPpP7lw6lCfYhucr4gLFqxLdAoGgULJGyWcICvpS1nFcQbVZgPQUPMhrjIwnq0Y2sq7bdJVu9lURkoxMyqlrhNBc-rJWBPQHBZ0U_eKXC4KmRH8tHtCu9AJKzp2wnML-vyqVE&node=1i204\", \"etag\": \"0mV4rXcGGRtp1tRUkGKBaVw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"mV4rXcGGRtp1tRUkGKBaVw==\", \"favorite\": false}]}, \"responsetime\": 1777835835258, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/nyk98B8LSWOGWHBHhKoTvDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67633",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Badnaam (2025)",
     "media_kind": "movie",
     "github_status": null,
     "github_synced_at": null,
