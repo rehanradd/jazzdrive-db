@@ -1,0 +1,82 @@
+{
+  "name": "Bison Kaalamaadan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Bison Kaalamaadan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:41:26Z",
+  "remote_folder_id": 1753486,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122772",
+  "tmdb": {
+    "tmdb_id": 1257957,
+    "title": "Bison Kaalamaadan",
+    "original_title": "\u0baa\u0bc8\u0b9a\u0ba9\u0bcd \u0b95\u0bbe\u0bb3\u0bae\u0bbe\u0b9f\u0ba9\u0bcd",
+    "release_date": "2025-10-17",
+    "year": "2025",
+    "rating": 7.3,
+    "overview": "A young man fights to overcome violence plaguing his village and succeed as a professional kabaddi player.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5IPFJ2XFbYjdIw4912ZufCMolX.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6xEk8ZbqCgmicmeICyYGospXU7R.jpg",
+    "genre_ids": [
+      18,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122772",
+    "status": "U",
+    "etag": "hhpq7oGrpXFRd5kNEkmRJQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122772",
+          "url": "/sapi/download/video?action=get&k=0VmBeqpCfDwHrLBgqvdRycM_Wm6kBs2xs7s8aWBgWuL5wefYAfsoY4v1XKOhHScgElkY1sZYiAnYp2G5hqw2QH04e1_IL-Mriv0InpCPN5ahuKln81uIRXAZIOL45x2SuI-dX20n_30Sr4-0341mMLc9HMbQaYk0ZQFEBlODDZgU67f6V9Q&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=qJQ_9BOTenqT5CsvnE55dTaz88m4ro9VviTYa3TqvTaoTqa4S5MgoVYRTMNA30bpVYWSF6_e9ZPsldQfLWi7szcr_OrARMxOAWiZYZw1bPIPO9D3qejzfgPiW-SPeuc6tBgk44-9BFUYxg5vz50vK_qIoQWdkK2bLeS4Ktef69TjN_amet_iaMsnWHU8RrHcHV0&node=1i204",
+          "date": 1777826485701,
+          "creationdate": 1777826061000,
+          "modificationdate": 1777826061000,
+          "uploaded": 1777826428488,
+          "size": 1681395460,
+          "name": "Bison Kaalamaadan (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9975467,
+            "bitrate": 1348424,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=XpD7kxOcte0-PHCOf6N_smJDbP9W-QzfK1e3w7yxAqPq3eS_-VXnWPhCzZ0-7R1fvYU9vjzNUN5c9M1jpgQnl5NZMyFkUxmmmhc1Ma07o-EfSqUYrqSq128d1Xue9m5avAgWAiHhLXMYT3r1JC7elcB0JVK_8SfrzQcM4gQr8Rs8cw2mlEVPIzjYUhopQAt32K0&node=1i204",
+              "etag": "0hhpq7oGrpXFRd5kNEkmRJQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qJQ_9BOTenqT5CsvnE55dTaz88m4ro9VviTYa3TqvTaoTqa4S5MgoVYRTMNA30bpVYWSF6_e9ZPsldQfLWi7szcr_OrARMxOAWiZYZw1bPIPO9D3qejzfgPiW-SPeuc6tBgk44-9BFUYxg5vz50vK_qIoQWdkK2bLeS4Ktef69TjN_amet_iaMsnWHU8RrHcHV0&node=1i204",
+              "etag": "0hhpq7oGrpXFRd5kNEkmRJQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "hhpq7oGrpXFRd5kNEkmRJQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777826485777,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/VODc4BbeRgWIErxjRYWzPDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bison Kaalamaadan (2025)",
+  "media_kind": "movie"
+}
