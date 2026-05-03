@@ -1,0 +1,82 @@
+{
+  "name": "Jal-Wayu-Enclave-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Jal-Wayu-Enclave-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:30:07Z",
+  "remote_folder_id": 1753552,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124504",
+  "tmdb": {
+    "tmdb_id": 940005,
+    "title": "Jal Wayu Enclave",
+    "original_title": "Jal Wayu Enclave",
+    "release_date": "2022-02-11",
+    "year": "2022",
+    "rating": 4.0,
+    "overview": "The rom-com flavored cute love story of Jalwayu Enclave revolves around a village-based guy Gurjazz and Delhite Air Hostess Monica, who unfortunately gets locked up in the same building during the covid-19 lockdown.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vNY368XmKHJNElkQedbqmXwxmr1.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ngLwVsnph9hn5Xb6fmE8lMOMhc5.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124504",
+    "status": "U",
+    "etag": "Pf07YoKYFNva8C+too76Tw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124504",
+          "url": "/sapi/download/video?action=get&k=TejId7NEjv6yZ9fhtikKhTfNZuqIBfUBqnmwwYWoS-X3Vh4Qmt1WrolnaYxqbC5rjlx6mhrwU31ZIcZppE-kHJzDb_R06TkLFRpVEff3_ZwjoFvnS0vaK5K4pQH0y-nj2GrFKsBzpLwKwT1cZFb8SoFM6_RD-YvdxyeKH-afOOCoc46SaPs&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=YnDH2ZjXM2v2_cuv8rkaiiIsnMKsbE8e3C_notsBjt6MsOThjCoihFe7J6JQ7n8wGyUy4lf4ge7kJPFExiURiK1KZfpQfDCE7rncwQ4jrgmO-_WBgnHnBrg-iPGcQkTnR744PCuoxt2lcuxaxxVqDWqOyFmU2vAKaUSKqLHgVtDlpwo9gbnYql5Oe_yO2_N2H4Y&node=1i204",
+          "date": 1777833006123,
+          "creationdate": 1777832968000,
+          "modificationdate": 1777832968000,
+          "uploaded": 1777832992859,
+          "size": 318775320,
+          "name": "Jal-Wayu-Enclave-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6062145,
+            "bitrate": 420676,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=iZNsx1_AsMgp4DhQBZf8Q_dNMBrg-XeaLl16eLpOk_z0A9d6SgVd9HTZJ0xk9UwTfAW_eINg5RfHI_c3gwZCsplxm3N8qSl7rrxX1qb6hjP-BD3bKja41R50sHjz_0nu87XHhtNuiZ8giTD5e51LriNsvimNaM480ip9qkL1GmpuSkTmHdhVshEuOuyClOApzJg&node=1i204",
+              "etag": "0Pf07YoKYFNva8C+too76Tw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=YnDH2ZjXM2v2_cuv8rkaiiIsnMKsbE8e3C_notsBjt6MsOThjCoihFe7J6JQ7n8wGyUy4lf4ge7kJPFExiURiK1KZfpQfDCE7rncwQ4jrgmO-_WBgnHnBrg-iPGcQkTnR744PCuoxt2lcuxaxxVqDWqOyFmU2vAKaUSKqLHgVtDlpwo9gbnYql5Oe_yO2_N2H4Y&node=1i204",
+              "etag": "0Pf07YoKYFNva8C+too76Tw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Pf07YoKYFNva8C+too76Tw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833006193,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xtTeC5JFQ16l0eUtyRusNDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jal Wayu Enclave (2022)",
+  "media_kind": "movie"
+}
