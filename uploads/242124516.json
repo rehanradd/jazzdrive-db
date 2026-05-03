@@ -1,0 +1,81 @@
+{
+  "name": "Mera-Vyah-Kara-Do-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Mera-Vyah-Kara-Do-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:32:57Z",
+  "remote_folder_id": 1753559,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124516",
+  "tmdb": {
+    "tmdb_id": 940149,
+    "title": "Mera Vyah Kara Do",
+    "original_title": "Mera Vyah Kara Do",
+    "release_date": "2022-02-18",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "Film narrates the story of a girl next door who edits her matrimonial profile with bold pics and comments. The bad girl image works in her favor but also creates chaos in her life.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zOZnSt8LCWXZVnZOVeiIc9iFfLE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mekd3MX2x6GEnOOHyJlSUL8KeFr.jpg",
+    "genre_ids": [
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124516",
+    "status": "U",
+    "etag": "oPPaPTI1Q7LVhZWwHbUt6g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124516",
+          "url": "/sapi/download/video?action=get&k=LoViEiVkAazmPpsgS9sRnGNfnj_nHjBrDZ5ZKFNfWQG4KJ5Md2e7T8Eof9hCjyUV5F8hM9OK_Gh4KJwF9SmXEUcWU3SCS0BBLcbi4z2NDJ4jwIjE-OUi9j5bkz35WM-cQ25e3QhrNAD5_F3PqakaQ9Gl0AvvspFGVb6zmRoUR-w3pjLfKVI&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=FOwQDQhQPfq8eCzjs30q5g2AHeFSHH1ZPj_FLAQqd3nxdMMl9Si3kbnXLJEPr_kmRKUBV_VpLkHpn4cUUniLds4f5lx_SsIKCxZzaYhI4KBsLwKSxHyKL_e2dejA4-CmQKlz8KlENMs1uu0oqUnydeupT3Vs7JGINSci2ApBR_TIV4FVqFrETD16206KvfqDMxU&node=1i204",
+          "date": 1777833176023,
+          "creationdate": 1777833122000,
+          "modificationdate": 1777833122000,
+          "uploaded": 1777833161077,
+          "size": 404014689,
+          "name": "Mera-Vyah-Kara-Do-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7501077,
+            "bitrate": 430887,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=duhF7X48BbVIGLJk8il8nAsB-LPGQu-RDD_pC6T3a8m3x_n3daUTzuxvbIjXHWw170P4g2ErYxQnzM50eMFJ_LDT38Yq8JgNnW4HJK8uUYIiKHVOeqZCukW8UYVUGWcRASgWhNmkrkxNkrvS8t1YXAeJePd9Rlkb3Aa_Tp_TvYt5VMNBRIQithGgtU49yQvCCGE&node=1i204",
+              "etag": "0oPPaPTI1Q7LVhZWwHbUt6g=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=FOwQDQhQPfq8eCzjs30q5g2AHeFSHH1ZPj_FLAQqd3nxdMMl9Si3kbnXLJEPr_kmRKUBV_VpLkHpn4cUUniLds4f5lx_SsIKCxZzaYhI4KBsLwKSxHyKL_e2dejA4-CmQKlz8KlENMs1uu0oqUnydeupT3Vs7JGINSci2ApBR_TIV4FVqFrETD16206KvfqDMxU&node=1i204",
+              "etag": "0oPPaPTI1Q7LVhZWwHbUt6g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "oPPaPTI1Q7LVhZWwHbUt6g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833176101,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/jK6KnwZzQY6Xc_BhFY0KKjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mera Vyah Kara Do (2022)",
+  "media_kind": "movie"
+}
