@@ -1,0 +1,83 @@
+{
+  "name": "Ace (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Ace (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:28:09Z",
+  "remote_folder_id": 1753438,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122076",
+  "tmdb": {
+    "tmdb_id": 1132152,
+    "title": "Ace",
+    "original_title": "\u0b8f\u0bb8\u0bcd",
+    "release_date": "2025-05-23",
+    "year": "2025",
+    "rating": 5.0,
+    "overview": "Kannan,  with a past comes to Malaysia to turn over a new leaf. But when he realises that the girl he loves needs money to get out of a difficult situation, he commits a robbery that makes him the target of a fearsome gangster and the girl\u2019s stepfather, an immoral cop.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8N9ET0MxfaYi1R2a8my0x3JCAxW.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7h62JtLPbyAqvPggtVjahPLUjG6.jpg",
+    "genre_ids": [
+      80,
+      35,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122076",
+    "status": "U",
+    "etag": "jbS6SJPHW8i8Q62Adad7KA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122076",
+          "url": "/sapi/download/video?action=get&k=hx87V5xS_pk1obyZroQwcSZjR3yqCKNNWLEI36TDD0wgag_Du2MIA4FWJAe8aSzxCitkV0zRWq3fqGSHdnW8a5q_N86puxhofcjvtf_wngnf8ieS3wdsEE53MloWfbtxrLepg78PHZ-CoKgXq0Tqhv4v3ZYqT51oPFcpXLv9UYfl64hSXYM&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=k1XeVTsTfS4bvSmp_vTuel5L7SMOL8lr5F7BJ58VwbO94CBSoE-LdbnCAaH2HMlcEdA95ZTqTyAWR91QN8QyEGmtOOIUF4eZezwV64UXGCzuaJV3opj0z2VenR2lYGcXbubth5bUVIQOp7Ak-YOxYmBPFjF7OtgcrX8Ajy_DFTAG9MNJVDW5O5u9VnDlEKP3t3Q&node=1i204",
+          "date": 1777822088592,
+          "creationdate": 1777821632000,
+          "modificationdate": 1777821632000,
+          "uploaded": 1777821996774,
+          "size": 1717456441,
+          "name": "Ace (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 9246537,
+            "bitrate": 1485924,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=T5o33tEVrZ3wG4AGXha7y67twWubfN3qRAZzm0MUKRepIShqszeR63WuFOoJTiL4TVXonv8C_fM_FQWSrd406ksIj4vOl8g9RBqU1Lne95ykqUeJ4O5UvNLBYJQHdLdn05xgLFyI1SIxQXKnSmwl1zz6KajF5nPCZLEwhqRXCxDvWar-KTVQQ450xLST54qB2z0&node=1i204",
+              "etag": "0jbS6SJPHW8i8Q62Adad7KA=="
+            },
+            {
+              "w": 1024,
+              "h": 422,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=k1XeVTsTfS4bvSmp_vTuel5L7SMOL8lr5F7BJ58VwbO94CBSoE-LdbnCAaH2HMlcEdA95ZTqTyAWR91QN8QyEGmtOOIUF4eZezwV64UXGCzuaJV3opj0z2VenR2lYGcXbubth5bUVIQOp7Ak-YOxYmBPFjF7OtgcrX8Ajy_DFTAG9MNJVDW5O5u9VnDlEKP3t3Q&node=1i204",
+              "etag": "0jbS6SJPHW8i8Q62Adad7KA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "jbS6SJPHW8i8Q62Adad7KA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822088661,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/LNNk88ufTM6cT4d3spEVizk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ace (2025)",
+  "media_kind": "movie"
+}
