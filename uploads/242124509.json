@@ -1,0 +1,83 @@
+{
+  "name": "Saunkan-Saunkne-(2022)-Punjabi-HDCAM--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Saunkan-Saunkne-(2022)-Punjabi-HDCAM--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:31:50Z",
+  "remote_folder_id": 1753554,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124509",
+  "tmdb": {
+    "tmdb_id": 957997,
+    "title": "Saunkan Saunkne",
+    "original_title": "Saunkan Saunkne",
+    "release_date": "2022-05-13",
+    "year": "2022",
+    "rating": 5.8,
+    "overview": "A couple married for more than 7 years loses hope for a child. On insistence of his wife he marries her sister. Shortly small squabbles between the two wives lead to comic situation and fun begins.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rMAreVJF8PxvKFSUNsTYyCuJdTi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/gL7bOfeLCQm2b8sClY4mBy2fRoS.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124509",
+    "status": "U",
+    "etag": "fSarI0BOshxuk/Nwwi4zHw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124509",
+          "url": "/sapi/download/video?action=get&k=vK71209W9tbryY2GKwfd3Q2BVPJjXIoTeemblFLWxXrlUt7JFCI5kP8zR8dGV3Kx_RbPTQTysaKwv_Q6CfcOaGdTp0o896BqkHk8JyeAGqN11jdp1LYh5fq1aYvAxnptlCz8t6tHTLFz_f1c98B54xW2wvQJn4OnJOh-BNUl9hBzZHkJEHQ&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=YyoBvmrLcT9s0gABDpWT3OpmO0xlpZpV0dSV7H4jqN5NzZTMZy_RAA4vxdk2dPP5BbAWp16VfV4qGY-NfF6CYrbSGgJL6T-0q3rPAa4LKO6S5T-e7_1xs1xqSltgE54a7wUjK5MzRha7ARC6lBeNqqpuahXXHoHF1ik37oRc14Lyi2LtXLmWFRHy93vut-HUAHE&node=1i204",
+          "date": 1777833109405,
+          "creationdate": 1777833022000,
+          "modificationdate": 1777833022000,
+          "uploaded": 1777833087658,
+          "size": 390851007,
+          "name": "Saunkan-Saunkne-(2022)-Punjabi-HDCAM--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7327807,
+            "bitrate": 426704,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=KmMnJ52taOdK86OMVEdUHhPFqA2rayq3QmMSQVLl_MGmzt-k1Gp8Df_0hGHaqv9UElI5Kx3BolqMA8NEclbHmx53u0ENwcjVZKB7cIzk2sT-RmXY83MroQUXcVbVrD-mkI97eEm1ra4Qxstq83WrC9R5G8cFPXXGHHJuigV-TbQZLHCE3FCY4uEiUv8aNeJBn1o&node=1i204",
+              "etag": "0fSarI0BOshxuk/Nwwi4zHw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=YyoBvmrLcT9s0gABDpWT3OpmO0xlpZpV0dSV7H4jqN5NzZTMZy_RAA4vxdk2dPP5BbAWp16VfV4qGY-NfF6CYrbSGgJL6T-0q3rPAa4LKO6S5T-e7_1xs1xqSltgE54a7wUjK5MzRha7ARC6lBeNqqpuahXXHoHF1ik37oRc14Lyi2LtXLmWFRHy93vut-HUAHE&node=1i204",
+              "etag": "0fSarI0BOshxuk/Nwwi4zHw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "fSarI0BOshxuk/Nwwi4zHw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833109464,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/qH28lWHpRu64N5dXUicSsjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Saunkan Saunkne (2022)",
+  "media_kind": "movie"
+}
