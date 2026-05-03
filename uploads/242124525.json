@@ -1,0 +1,81 @@
+{
+  "name": "Parahuna-(2018)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Parahuna-(2018)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:35:54Z",
+  "remote_folder_id": 1753566,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124525",
+  "tmdb": {
+    "tmdb_id": 551636,
+    "title": "Parahuna",
+    "original_title": "Parahuna",
+    "release_date": "2018-09-28",
+    "year": "2018",
+    "rating": 8.2,
+    "overview": "The film revolves around how the forced respect for the son-in-law of the family serves as an obstacle in the love life of the married couple.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7IshmiQAflfZX6wf7tpU9oron1.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/3jxoNFFmbGGTpXOLO4m4ZL4XkuW.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124525",
+    "status": "U",
+    "etag": "pLEfyW5fFr2ip+SFm+jn6g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124525",
+          "url": "/sapi/download/video?action=get&k=VHd7jbDnxaB4ULJ_mRxkkY_XRhYeLGIh0pckDp5AipYm3vb9r8GF93kx8LWqRkf6seE1Xrb4QjVu-dTU4rSZB2E1mWKGGTEk7wAzx-OmOqdLMWJXoql5LVUC_mYL499xgZ8eyuj3ksgzx9PBXIeqfZPiUQqoOGfBOfa07CSd4MZ5BgirNvg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=QbrxkFZCISCjrbNjLw_wEHQpNTaEgLJL_eBR_Sr-ZAbOJAGFy36e3a9eHV0Grwh8Ze6nD7PPKgSFDu7_8V6zskjsAbRKa4KACHGd2DO4eBX7eNznI9CzQpWkCfX2Bz4uHLiDn3nDHQP6YoBMF20LwspNmJV3CzdP5sZYBn1oox9R4DQZ3aclHzTtpTMMgJ33Loc&node=1i204",
+          "date": 1777833353132,
+          "creationdate": 1777833258000,
+          "modificationdate": 1777833258000,
+          "uploaded": 1777833338688,
+          "size": 387680155,
+          "name": "Parahuna-(2018)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7408987,
+            "bitrate": 418605,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=h1uBqMCmha0RCDuhASGKNl8b3-QYj21nNahIMSIH0YKFaREGxESAoYtMMp_ENVBjPfAAAaLjOcFjvrE3qilDjZMRVwQuSGTnlG_OVlbxDvYO7iBXMek7Tul6yHkr52B3PyxJANvo9D0zKFsVoH8cnmbttoJtX3kjHZOQEXxKdizdTHO1I-1r5hmNdKXZIPPUcLI&node=1i204",
+              "etag": "0pLEfyW5fFr2ip+SFm+jn6g=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=QbrxkFZCISCjrbNjLw_wEHQpNTaEgLJL_eBR_Sr-ZAbOJAGFy36e3a9eHV0Grwh8Ze6nD7PPKgSFDu7_8V6zskjsAbRKa4KACHGd2DO4eBX7eNznI9CzQpWkCfX2Bz4uHLiDn3nDHQP6YoBMF20LwspNmJV3CzdP5sZYBn1oox9R4DQZ3aclHzTtpTMMgJ33Loc&node=1i204",
+              "etag": "0pLEfyW5fFr2ip+SFm+jn6g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "pLEfyW5fFr2ip+SFm+jn6g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833353191,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xWnpuLgeSK-O3x1pwDokMjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Parahuna (2018)",
+  "media_kind": "movie"
+}
