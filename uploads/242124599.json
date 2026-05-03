@@ -1,0 +1,81 @@
+{
+  "name": "Stupid-7-(2013)-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Stupid-7-(2013)-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:55:22Z",
+  "remote_folder_id": 1753629,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124599",
+  "tmdb": {
+    "tmdb_id": 504884,
+    "title": "Stupid 7",
+    "original_title": "Stupid 7",
+    "release_date": "2013-02-01",
+    "year": "2013",
+    "rating": 0.0,
+    "overview": "Seven stories interweave to create this relatable tale of the gap between teenagers and the older generation.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hb25z8LwcEzme2ZXVsFqq5v45Ai.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124599",
+    "status": "U",
+    "etag": "RiEAl67RT5nYM6LFLldgGg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124599",
+          "url": "/sapi/download/video?action=get&k=FRTX302V_PTamCnEEQPZLXWI7Kjj5Cgnvg-Zy2R-z09ugGewtbfndEH7GpJ4ZjZ3v2MFVrodXukEM6nv4biOvo_4OZddgpxuVuFqPYQrBn6_p_8j9M9OZl4nNfyhDeWli89eoRVW-ciafqL21f0wFM-XojpuDuguUYNaLzWFO0Qiq7fxQi4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=iIuIBUGXBHP3nsNoaIuQAFhrMVnrH2xx4ZbcyLwskbf9NA6LL9-mDgw6XlHaJ_Yl6O27V6Dk571jMWkoL30_kSN8Oa2b_Qy8oOBlqCK9Ha9__ijv5aPMuQAX3p-5S7OCy0OwBuozfiPcDyECOENyD75toS2OLOkmbEuDMPo2YKuPP-L87gjdez22N2041_TQ4as&node=1i204",
+          "date": 1777834521362,
+          "creationdate": 1777834452000,
+          "modificationdate": 1777834452000,
+          "uploaded": 1777834496071,
+          "size": 460114318,
+          "name": "Stupid-7-(2013)-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8692292,
+            "bitrate": 423468,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VFIZEYWHZiS_G8u11Dl0EC4PIJaJR3FPd-JZSydF3XKZeWW34CRJzF3MicqB3lyGPIK6G3HaCL96QvmyUXBL9fCl7yVuYxseZrUyA9NIHf_j1Vn00j8c96AwTZPAE4q4WWpeSyKirWuFvehfJ83BWCmAHMKL4-_dIB-XHxnO7d_w_4IUWqe2GzbCAvut1LShoEM&node=1i204",
+              "etag": "0RiEAl67RT5nYM6LFLldgGg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=iIuIBUGXBHP3nsNoaIuQAFhrMVnrH2xx4ZbcyLwskbf9NA6LL9-mDgw6XlHaJ_Yl6O27V6Dk571jMWkoL30_kSN8Oa2b_Qy8oOBlqCK9Ha9__ijv5aPMuQAX3p-5S7OCy0OwBuozfiPcDyECOENyD75toS2OLOkmbEuDMPo2YKuPP-L87gjdez22N2041_TQ4as&node=1i204",
+              "etag": "0RiEAl67RT5nYM6LFLldgGg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RiEAl67RT5nYM6LFLldgGg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834521437,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/bXBKEzYNS0KU11RXotmRNzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Stupid 7 (2013)",
+  "media_kind": "movie"
+}
