@@ -1,0 +1,82 @@
+{
+  "name": "Jatt-vs-Ielts-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Jatt-vs-Ielts-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:40:14Z",
+  "remote_folder_id": 1753576,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124537",
+  "tmdb": {
+    "tmdb_id": 577282,
+    "title": "Jatt vs. Ielts",
+    "original_title": "\u0a1c\u0a71\u0a1f vs. \u0a06\u0a08\u0a32\u0a48\u0a1f\u0a38",
+    "release_date": "2018-06-22",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "In this hilarious laughter riot, a young man, like almost every other Punjabi, aspires to live his eternal Canadian dream. Struggling with his English and unable to clear the IELTS exam, he enrolls himself at an IELTS class.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ohaSE2CGXw2ywzucXiJTowURehZ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/d5MKdXIKCX66NZEYg4yTzpOSWpv.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124537",
+    "status": "U",
+    "etag": "qlN4AN5K2MprLUlxjO6Jsw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124537",
+          "url": "/sapi/download/video?action=get&k=yMaJgvRqBA9c1JTmavLlzV_TxShgKOOGhA53rVVUDoyS7TQqxrHeC_J8DEcrUp8lAenz-JURxHqILsDungjnHtN1xev3XxSwfiYWqrZ3wL4M3zvlVDWYNzq72uAkdKWEqNlYRfYh9RCGq3XdmRFCJ61300dLYyCyKawiZvze5VqniiG6Yqo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=aRN_Duh08cZxzD56jl7Zg-GrXMleAuvMdixjYCf9GP_A9CRzx69GC-R_G8g0AO1GtPGTaiqS1iR7HYaceeFM-xgPfm4Cj8iROO4vB0-w72N1SCEfhyMNkN-xBXSlkR3okG4EodTev0dpSsF8MGA5PdRpRW0jMCWjC0UKWA6F2UbWrRMindk2TQu7yw5sTNRH9Ys&node=1i204",
+          "date": 1777833613627,
+          "creationdate": 1777833439000,
+          "modificationdate": 1777833439000,
+          "uploaded": 1777833592155,
+          "size": 454455589,
+          "name": "Jatt-vs-Ielts-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8537404,
+            "bitrate": 425848,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=wRqa1Fqt5JcwZT3LEUzrpvz8eCa5Apwu1VMZHa0P9COjM2eBiogKaOkru03hQ61RTBsu7uwyZH7vvDLXyMwxmGDJ9QNilwG5805Gn0HQti3do3z4ZWY1e8OcBSBguw8M1i0NHBiNX2x6fyf3COOJaSvwgJoRMqYvslnzQ-gALmpT6KWkA1vWTZCD25EV6cWPVGk&node=1i204",
+              "etag": "0qlN4AN5K2MprLUlxjO6Jsw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=aRN_Duh08cZxzD56jl7Zg-GrXMleAuvMdixjYCf9GP_A9CRzx69GC-R_G8g0AO1GtPGTaiqS1iR7HYaceeFM-xgPfm4Cj8iROO4vB0-w72N1SCEfhyMNkN-xBXSlkR3okG4EodTev0dpSsF8MGA5PdRpRW0jMCWjC0UKWA6F2UbWrRMindk2TQu7yw5sTNRH9Ys&node=1i204",
+              "etag": "0qlN4AN5K2MprLUlxjO6Jsw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "qlN4AN5K2MprLUlxjO6Jsw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833613692,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/70rVmu_xQJm33yfzHMRydTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jatt Vs Ielts (2018)",
+  "media_kind": "movie"
+}
