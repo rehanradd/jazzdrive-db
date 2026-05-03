@@ -1,0 +1,82 @@
+{
+  "name": "Mukk-Gyi-Feem-Dabbi-Cho-Yaaro-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Mukk-Gyi-Feem-Dabbi-Cho-Yaaro-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:13:39Z",
+  "remote_folder_id": 1753688,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124767",
+  "tmdb": {
+    "tmdb_id": 1532315,
+    "title": "Mukk Gyi Feem Dabbi Cho Yaaro",
+    "original_title": "Mukk Gyi Feem Dabbi Cho Yaaro",
+    "release_date": "2025-06-13",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "It centers on a relatable situation that spirals into chaos, leading to a wild road trip to Rajasthan.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sGIUTJ6lMkPdkTZjOBo9bUjoGoI.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jhZijKHs0NRCcjDxywHrxyJYpYQ.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124767",
+    "status": "U",
+    "etag": "EiojgxPQMKySdVfbyiQm2A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124767",
+          "url": "/sapi/download/video?action=get&k=sQ2H8uFn-MI_CN5AYrDYYpNRJOEjXGGHmd5EmaeqahqXksyeery2PrkWMhXJHA_mqmMP3fcsXlE0ClCroO_MMvr8ekUHEw3DIzYKWXnyuYpCepRjjvr-KQ1NboyxjOqxZpUdU-h3TJ-lNnED9uqqMVx47jmsWgsBjUajytPT_wRjRVWfAkM&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=VKqtVRKQejlQoyTA6GFsc1IQiYQ6F-gIPCsdH2fyfAIznOzUdbBfJiGTtB0igNtikdRgTHN7BwW8egMNJjHdWjDFFSdvwQK3wIlJ9erqLKmraWutNVhZP4_lm5fZH0gdRWST5RUbptsH3Z6rXGgdK_Zx3Tk8S0B489g28dkUAvq6Dfr_ATgaxxtQ7vuz9604rBc&node=1i204",
+          "date": 1777835618818,
+          "creationdate": 1777835552000,
+          "modificationdate": 1777835552000,
+          "uploaded": 1777835603575,
+          "size": 416499438,
+          "name": "Mukk-Gyi-Feem-Dabbi-Cho-Yaaro-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7814527,
+            "bitrate": 426384,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=kh4oczr2xJfGlEXeKBBgpDhP0KPgQWYIPvwEAFFzhZBWsjgWhOV6TSCs3W9dRPkokggyz2HXEF2RcKtLqNtM-AqrKWLCROvY-DPrzI9aDwejD2aODvHgPVoYhb5KMliBkRYX286g1mWO1o3c4_A5CVmbevBRBrmJ2zs6x6VileNuDZ5ZtyZhJjPy42owSnjNaZ0&node=1i204",
+              "etag": "0EiojgxPQMKySdVfbyiQm2A=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=VKqtVRKQejlQoyTA6GFsc1IQiYQ6F-gIPCsdH2fyfAIznOzUdbBfJiGTtB0igNtikdRgTHN7BwW8egMNJjHdWjDFFSdvwQK3wIlJ9erqLKmraWutNVhZP4_lm5fZH0gdRWST5RUbptsH3Z6rXGgdK_Zx3Tk8S0B489g28dkUAvq6Dfr_ATgaxxtQ7vuz9604rBc&node=1i204",
+              "etag": "0EiojgxPQMKySdVfbyiQm2A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "EiojgxPQMKySdVfbyiQm2A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835618889,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HYiC856KTGyjnRy9Nl-ExTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mukk Gyi Feem Dabbi Cho Yaaro (2025)",
+  "media_kind": "movie"
+}
