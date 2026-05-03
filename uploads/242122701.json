@@ -1,0 +1,82 @@
+{
+  "name": "All We Imagine as Light (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\All We Imagine as Light (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:41:35Z",
+  "remote_folder_id": 1753450,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122701",
+  "tmdb": {
+    "tmdb_id": 927547,
+    "title": "All We Imagine as Light",
+    "original_title": "\u0d2a\u0d4d\u0d30\u0d2d\u0d2f\u0d3e\u0d2f\u0d4d \u0d28\u0d3f\u0d28\u0d1a\u0d4d\u0d1a\u0d24\u0d46\u0d32\u0d4d\u0d32\u0d3e\u0d02",
+    "release_date": "2024-09-21",
+    "year": "2024",
+    "rating": 6.831,
+    "overview": "In Mumbai, Nurse Prabha's routine is troubled when she receives an unexpected gift from her estranged husband. Her younger roommate, Anu, tries in vain to find a spot in the city to be intimate with her boyfriend. A trip to a beach town allows them to find a space for their desires to manifest.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ruImrzB4POsrgwCMozmOBV67zs5.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xrIicBg0Ac4oQ6cwUPKJxwtqhOQ.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122701",
+    "status": "U",
+    "etag": "mjIp28OXZOBCmoYqX5JXRw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122701",
+          "url": "/sapi/download/video?action=get&k=Ddr3AtJiAdoQcEXRkcbwBf51rbLHDUgnw6NKPMYr3ZaxmyEAtrKuBdnwxi6UAWunCuovM4O2u264sCI0pt1Mw1NKMemNrSiOhWnYTU4rQss0X0lCLYQU9_HAt59EUTy-BiBL1AFWDwTjdvClIdeXwd93ecvssyKXj65Kfd3ePCi0Rl3mFC4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=vOK_VyqdCPE-uI6_sjr3wZkSMbiaucdimxTnhVbFfbDKiKp7fpCu9irRVBOZkkWam7PLjO9vHNp5m6JQ3AiQhADASYwoQNdiwgFPspRkw6pXrqN0k7p5i2U3Wyh9hViwg1eHqAupT5wbf9majWhHs2SmcoSjO05UbiIo2kiUQc0jMjTY5rf4RGkHnslobsE-sSw&node=1i204",
+          "date": 1777822894284,
+          "creationdate": 1777822616000,
+          "modificationdate": 1777822616000,
+          "uploaded": 1777822856222,
+          "size": 1241506225,
+          "name": "All We Imagine as Light (2024) Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 7112811,
+            "bitrate": 1396360,
+            "codec": "h264",
+            "height": 720,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 144,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_Ob_aEWhPwP5PYcxr5IW8BlMse8icvmAsUNo730lzPYBqX5Or2Qs1C0maZ9GmTotz65GpSuqZXeyUaFyBzJ5STraOtKV_qqc4Mr54GzZpo2P0sIyegVVwYvH7Pi_hVKO72Brd6fPZSHiv8wzAtHjn5RtwZr3Io3uMy5m8zyP8AyzTIYEJT975GnQ-8bBwmfzldo&node=1i204",
+              "etag": "0mjIp28OXZOBCmoYqX5JXRw=="
+            },
+            {
+              "w": 1024,
+              "h": 576,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=vOK_VyqdCPE-uI6_sjr3wZkSMbiaucdimxTnhVbFfbDKiKp7fpCu9irRVBOZkkWam7PLjO9vHNp5m6JQ3AiQhADASYwoQNdiwgFPspRkw6pXrqN0k7p5i2U3Wyh9hViwg1eHqAupT5wbf9majWhHs2SmcoSjO05UbiIo2kiUQc0jMjTY5rf4RGkHnslobsE-sSw&node=1i204",
+              "etag": "0mjIp28OXZOBCmoYqX5JXRw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "mjIp28OXZOBCmoYqX5JXRw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822894362,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/2HtfZsp6S_-5CKdbN4Mpxzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "All We Imagine As Light (2024)",
+  "media_kind": "movie"
+}
