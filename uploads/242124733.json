@@ -1,0 +1,83 @@
+{
+  "name": "Teeja-Punjab-(2021)-Punjabi-CAMRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Teeja-Punjab-(2021)-Punjabi-CAMRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:05:02Z",
+  "remote_folder_id": 1753660,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124733",
+  "tmdb": {
+    "tmdb_id": 902577,
+    "title": "Teeja Punjab",
+    "original_title": "\u0a24\u0a40\u0a1c\u0a3e \u0a2a\u0a70\u0a1c\u0a3e\u0a2c",
+    "release_date": "2021-12-03",
+    "year": "2021",
+    "rating": 0.0,
+    "overview": "We get to see many shades of bonding between a husband & wife, a father & son, a daughter-in-law & mother-in-law, but most importantly the bonding of the village people with their lands. When it came to the safety of their lands, the whole village unites and brings a never-before-seen revolution!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1uhdeWnAnSTeYO6zYjSph0jDrCs.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/n1wS3BQ7dbKcG3ODhUmXtEL5G4U.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124733",
+    "status": "U",
+    "etag": "xYi5IQwqkrY3/BH6gAoU0Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124733",
+          "url": "/sapi/download/video?action=get&k=Oqr6-UmPlikzduZbqln5lschclbESyKZx-K9zMouF4U40U_WBa7Mmck-NtZ48lGlpbIZsz9uq8dhKyAIGnrx2KfJNbLs58XUgp7__xO9lBIO_zXNJEg6tURWT_WbCZ4_8ClmCT_mBTHoDlt049wJx6QzdnzmBytddl2X9-nC49KCQq7A3iE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=EHpulmml4afZEaL6hh0lkemI_B7XBHIOPomViKyGdDpCeLMwj6684Yy8yeX9CBl52PraZI4yB-CF7Dyh86UyTq_fG9t-4y1LaXHwgsy7ylYBsX90fdmESXCaFtVwsqJcD-n4OE1VHluuOVmTJ1fXBM0dbuDYFXhgztrJjRcVGi_2LzLA2TWf-4eB5MGC7o9iGzA&node=1i204",
+          "date": 1777835101388,
+          "creationdate": 1777835058000,
+          "modificationdate": 1777835058000,
+          "uploaded": 1777835090986,
+          "size": 329847579,
+          "name": "Teeja-Punjab-(2021)-Punjabi-CAMRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6176836,
+            "bitrate": 427205,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VWDJLP027WpKhf0HhppaIeygZk8BzWZZpyIt61UOcQ3xdPojZZplZcja3gChwoQT-8fwFuT_xS0Jlwmm2WzZuSfJqdH2dA1SwuC9NCiaFD7-XYUVVW2TuPoy4n4soXDjl-2tAb45MLOn5_W8gGsp8ayQHajB-glzQpOTheikkfywFb49bVioksqzDVwq5HY9ek4&node=1i204",
+              "etag": "0xYi5IQwqkrY3/BH6gAoU0Q=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=EHpulmml4afZEaL6hh0lkemI_B7XBHIOPomViKyGdDpCeLMwj6684Yy8yeX9CBl52PraZI4yB-CF7Dyh86UyTq_fG9t-4y1LaXHwgsy7ylYBsX90fdmESXCaFtVwsqJcD-n4OE1VHluuOVmTJ1fXBM0dbuDYFXhgztrJjRcVGi_2LzLA2TWf-4eB5MGC7o9iGzA&node=1i204",
+              "etag": "0xYi5IQwqkrY3/BH6gAoU0Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "xYi5IQwqkrY3/BH6gAoU0Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835101463,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/bzNRDiQaTS29ajoMhqHhZzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Teeja Punjab (2021)",
+  "media_kind": "movie"
+}
