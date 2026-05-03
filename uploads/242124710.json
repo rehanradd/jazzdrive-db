@@ -1,0 +1,83 @@
+{
+  "name": "Lukan-Michi-(2019)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Lukan-Michi-(2019)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:58:34Z",
+  "remote_folder_id": 1753640,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124710",
+  "tmdb": {
+    "tmdb_id": 613054,
+    "title": "Lukan Michi",
+    "original_title": "Lukan Michi",
+    "release_date": "2019-05-10",
+    "year": "2019",
+    "rating": 0.0,
+    "overview": "The story is about Preet Harpal and Mandy Takhar falling for one another. However, the two can\u2019t get married as Preet Harpal\u2019s elder brother, Guggu Gill hasn\u2019t tied the knot, and the reason behind the same is the rivalry of him with Yograj Singh. This is when Preet Harpal plans out a twisted tale to set things straight.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vYr0ShMWrwTTNI7yxQuHW8JbLT4.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124710",
+    "status": "U",
+    "etag": "lBmYAPNFu77r2qNR4g77SQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124710",
+          "url": "/sapi/download/video?action=get&k=A6Xi3iC3-RVmgUcuICAfneTMhZOpYu-uRE9_x1PQJGrmc8QtwgNuuirY-aNKFx3hnTbjmxHwZLvsc1wznVJ-N3LwrXoRYSrZFNWMzzs7eoWzPiGSDNWt08tchCAzxf9Lnx8z1LSlkpCjPSPH9dInvhngfEgS9cjtN_T4r9FKDwf5laT9dZE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=0X7UJMiyj9KjLv8jqCltl6B5ObmVO-EJxAo5MRR1aOMdLthlzIhRmDw1m4jMdIkgvZ7e8QVqywBH7sX8iP1UmmwYNayyggt3lk7cXTVJRywcYa9ngQAU7zH5b3Na7XdCCvBYGO5A7iv-Kc6yecsMA3L80QqYeleXySKdltFLcxg-ZFjpPRx2rO5z9656tHvDX2Y&node=1i204",
+          "date": 1777834713531,
+          "creationdate": 1777834645000,
+          "modificationdate": 1777834645000,
+          "uploaded": 1777834679853,
+          "size": 420911242,
+          "name": "Lukan-Michi-(2019)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7988522,
+            "bitrate": 421516,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=I2CSx1laDeiVIfKEcl_gav3CUF3GtNCGWO3H2SdY1Zlfc_DbyEPeRv7XA7M82WABacj29JyKBrB9Up1jf0tg1jTN2ywh1WIultGSCWDx8ITm40WQvcr4qJFNcmf3d82eOUnBoiti7h0GbKNA2qRLt6Tc_SWUk-O_ikqd_eNdq4IXAMMSsItO8oy7UCwZoU89SbM&node=1i204",
+              "etag": "0lBmYAPNFu77r2qNR4g77SQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=0X7UJMiyj9KjLv8jqCltl6B5ObmVO-EJxAo5MRR1aOMdLthlzIhRmDw1m4jMdIkgvZ7e8QVqywBH7sX8iP1UmmwYNayyggt3lk7cXTVJRywcYa9ngQAU7zH5b3Na7XdCCvBYGO5A7iv-Kc6yecsMA3L80QqYeleXySKdltFLcxg-ZFjpPRx2rO5z9656tHvDX2Y&node=1i204",
+              "etag": "0lBmYAPNFu77r2qNR4g77SQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "lBmYAPNFu77r2qNR4g77SQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834713594,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/So2N9zoJQQmZ4vmqV2Nquzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Lukan Michi (2019)",
+  "media_kind": "movie"
+}
