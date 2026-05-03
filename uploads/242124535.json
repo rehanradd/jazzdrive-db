@@ -1,0 +1,82 @@
+{
+  "name": "Banjara-The-truck-driver-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Banjara-The-truck-driver-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:38:13Z",
+  "remote_folder_id": 1753574,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124535",
+  "tmdb": {
+    "tmdb_id": 567441,
+    "title": "Banjara: The Truck Driver",
+    "original_title": "Banjara: The truck driver",
+    "release_date": "2018-12-07",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "The storyline is about 3 characters of Babbu Maan in different places and in different eras but the three stories told are love stories of the individual. A strong, compassionate lover teamed with different women in different places. They have shown the yesteryear in a rural village of Punjab, today's story in modern Punjab and Chandigarh and another story setup in Canada.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8CWHJ4gY11h6wVWnxKtVKj2HevD.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4S3la34Z4Wo13zzCheX2Rrxqd7w.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124535",
+    "status": "U",
+    "etag": "KWXwVYbWRwxOE/nH2YLUmw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124535",
+          "url": "/sapi/download/video?action=get&k=suxL1vU0hKfNyOqq622bPtFPPMOF1BzZ8dkqkE1_jMm1b4nTp40CQPz51DlHRUo1cC9ERtoDtLrwBQ8K34rtlOqJ2L1BnQLi8fFoZPY44EaRk-4rMo9uWHvF5h8JHnUPObjLYO4FLJCiHkOqq-jaMdUOlW3Eje2QlTLVyxDy0VjAYVP7DWA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=9EtyOx-t8P3xecWRTTpQC4m2TyhL1p13P_qGqsXKxdzwd-AUxe0vxdUh5egMz6EbEqzX4yWlK-xWv2oBXRYRHY0NnKf4inwHb_jD4FQJLiy1W_k8VvAFLBYI51JBMUZ9ja-KxDQC8KuoLvFqrSbO5Cg5kIAXHMB-ARKLYZRxxidz_OIBgSUbZqOGY87o3pOOU9I&node=1i204",
+          "date": 1777833492265,
+          "creationdate": 1777833412000,
+          "modificationdate": 1777833412000,
+          "uploaded": 1777833469163,
+          "size": 415689058,
+          "name": "Banjara-The-truck-driver-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7830281,
+            "bitrate": 424699,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=5Hw6iXDPHCCD9S82WlsMmvRvBxxTF5Qc_PbULn-znnilFyiH00W62iixSL8BvkmyqD6DJM851ba8rXBSEDvPs2SYjrT17Kk4maljqJr1bVWqNst3TNcWqZYAk7K6v21vgkpGCCVvgNrN9RfOxkG5UizlOUTBFuaSyK7b8Xn4OMhDGgcVtBr_y8yhUv7MhuhrKLE&node=1i204",
+              "etag": "0KWXwVYbWRwxOE/nH2YLUmw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=9EtyOx-t8P3xecWRTTpQC4m2TyhL1p13P_qGqsXKxdzwd-AUxe0vxdUh5egMz6EbEqzX4yWlK-xWv2oBXRYRHY0NnKf4inwHb_jD4FQJLiy1W_k8VvAFLBYI51JBMUZ9ja-KxDQC8KuoLvFqrSbO5Cg5kIAXHMB-ARKLYZRxxidz_OIBgSUbZqOGY87o3pOOU9I&node=1i204",
+              "etag": "0KWXwVYbWRwxOE/nH2YLUmw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "KWXwVYbWRwxOE/nH2YLUmw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833492329,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/rM-ZhpDjSNS7ZvFcI2_J-zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Banjara The Truck Driver (2018)",
+  "media_kind": "movie"
+}
