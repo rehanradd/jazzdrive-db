@@ -1,0 +1,83 @@
+{
+  "name": "Khuda Haafiz Chapter 2 (2022) Hindi 480p WEB-DL x264 400MB - TheKhatrimaza.mp4",
+  "path": "K:\\All MOVIES\\Hindi Film\\tiger sheroff7\\Khuda Haafiz Chapter 2 (2022) Hindi 480p WEB-DL x264 400MB - TheKhatrimaza.mp4",
+  "uploaded_at": "2026-05-03T13:45:01Z",
+  "remote_folder_id": 1753409,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242121049",
+  "tmdb": {
+    "tmdb_id": 965653,
+    "title": "Khuda Haafiz Chapter 2: Agni Pariksha",
+    "original_title": "\u0916\u0941\u0926\u093e \u0939\u093e\u092b\u093f\u091c\u093c \u0968: \u0905\u0917\u094d\u0928\u093f\u092a\u0930\u0940\u0915\u094d\u0937\u093e",
+    "release_date": "2022-07-08",
+    "year": "2022",
+    "rating": 7.16,
+    "overview": "Following a traumatic chapter in their lives, Sameer and Nargis try to lead a happy life by adopting Nandini, a friend's orphaned niece. But fate soon strikes back hard when Nandini goes missing.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/dWYGHG6yIG8Fh8LwhbGnnaYNYyX.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/evekFb5xYhSJXoG6AbM3r9SSHg1.jpg",
+    "genre_ids": [
+      18,
+      28,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242121049",
+    "status": "U",
+    "etag": "UZh8XLlgYi970+zi0PUejA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242121049",
+          "url": "/sapi/download/video?action=get&k=xpkMJqucZXBBKE-FMc2MvFHT-m0vw8KdnHcm8NP9ssAZW68f49y-XPKCjbpCPNEM2bdBG_COToSoiOjw3uHmMRdti-Wk0RAmYuHN_P6JVwLk3-0ngbD0HP52eyWWJfDr84DhoUx1BaF_30zG9XManmTrA_kNtDDCoptPOPnhubulyI6CQXw&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=1ti-0bMkuueI6yIu95DytiiJlP6MixsziufjCAgh2H8WdQg7f-cucRjJbmyrBdUHeSJN6R2LNtFOCdV2GMi5jBeuo-0iQW9O6O5sog8DBwEBpw9VnVsszrjbJH6MQoAxFX3jmn-00AQ6ba-YXjc-D941ySBAYa6Phb-6MnXfDlHgfQPWVKmPi6gOkbdbpQRqYBU&node=1i204",
+          "date": 1777815898114,
+          "creationdate": 1777815400000,
+          "modificationdate": 1777815400000,
+          "uploaded": 1777815885366,
+          "size": 430694659,
+          "name": "Khuda Haafiz Chapter 2 (2022) Hindi 480p WEB-DL x264 400MB - TheKhatrimaza.mp4",
+          "metadata": {
+            "duration": 8349431,
+            "bitrate": 412669,
+            "codec": "h264",
+            "height": 272,
+            "width": 640,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Opq9w2dL3gXacqTnGUDlxrPlBtLmjlRjt1Y38OqixCEnpAiG88gRrFjxYZmklpMcFT889WUQxRL8ZHiFojv_VRO6uzRjzQ0nRkrNcWlBWn7L2hkHXfqjztzOcdx1PVOxNQKcjVEt5FYnPiNyQ5DvTJg76BcTAjJTid2b3YnAaUMRp9fGtWVmg-JfVpZvVFM9938&node=1i204",
+              "etag": "0UZh8XLlgYi970+zi0PUejA=="
+            },
+            {
+              "w": 640,
+              "h": 272,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1ti-0bMkuueI6yIu95DytiiJlP6MixsziufjCAgh2H8WdQg7f-cucRjJbmyrBdUHeSJN6R2LNtFOCdV2GMi5jBeuo-0iQW9O6O5sog8DBwEBpw9VnVsszrjbJH6MQoAxFX3jmn-00AQ6ba-YXjc-D941ySBAYa6Phb-6MnXfDlHgfQPWVKmPi6gOkbdbpQRqYBU&node=1i204",
+              "etag": "0UZh8XLlgYi970+zi0PUejA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "UZh8XLlgYi970+zi0PUejA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777815898172,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Jbz2QQ0BRhizXPbAk76HAzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Khuda Haafiz Chapter 2 (2022)",
+  "media_kind": "movie"
+}
