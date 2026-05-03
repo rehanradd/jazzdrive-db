@@ -1,0 +1,82 @@
+{
+  "name": "Deepavali Bonus (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Deepavali Bonus (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:07:31Z",
+  "remote_folder_id": 1753510,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123418",
+  "tmdb": {
+    "tmdb_id": 1375396,
+    "title": "Deepavali Bonus",
+    "original_title": "\u0ba4\u0bc0\u0baa\u0bbe\u0bb5\u0bb3\u0bbf \u0baa\u0bcb\u0ba9\u0bb8\u0bcd",
+    "release_date": "2024-10-25",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Deepavali Bonus is nativity drama, Showcasing Madurai,which is a the city of Celebration and Cheers.The Story revolves around Ravi, Geetha and their Son Sachin. Their life dung Festival season, the way they manage their livelihood and expenses graceful with their values and bonding The people they come across and huddles they face and whether the get they basic rights of family needs during the festival celebrated by the whole City.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/w6pHnbwOJhRzAcv8WXEgtllyCG2.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/si4Bb04vLLkYP6PNkgb8dZrZInz.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123418",
+    "status": "U",
+    "etag": "hzUydHjlOi9OBM+5P5bs0w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123418",
+          "url": "/sapi/download/video?action=get&k=QGP4f2bqH1JA55JguBn0dAwLyjjoJXD_QhCM0S8BrpJhi342bcAgDbDCjuq7DGcLxTWYL5p7Pnu_kl4YuXAlEFb4JNAhuN1el5cODtb9z49LR-nCfVIF9NEZ6hJV3Ee6ySBxzMA19bBDiYCnIYQWsfFEHqRzl4h7EF8xQQAZygb0MueAfgg&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=qRmtDUSnSGmt6ho0uY_wc6hZsRXjWaGBNHdgSYSjsdXCc8jv-_6hRuecgnUS9F5OeEgCrsMy2p55VnNOKidOx1IwQ3-Vh_5fw-bbP-KrRD0uzEWM_j9aV0oInEoX7blDl8al-Jw0D3jOEGFYkpy89DF5Nye_OopL4yjwp44SKIStS9naXFfwRj8klI6pnZ0eBfo&node=1i204",
+          "date": 1777828050626,
+          "creationdate": 1777827741000,
+          "modificationdate": 1777827741000,
+          "uploaded": 1777827965613,
+          "size": 1293530865,
+          "name": "Deepavali Bonus (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5371292,
+            "bitrate": 1926584,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6MBo8VTqa5yOS79YExYIVL_JVKrkg2N1Iq5Fghs29nv30t744UwMKZtYOXr8adXsYVMY7DrojCkYeRGKsSz-k2SLEq0KETWK7BDd2Iw7OxRFI1PACEykmW0yLD7sysiTzvlswF-qWLkpdREZk7X7Q8L4YCT6R3B56F7ZDc5AjS-MlL5ka8Xe3_Gtqh9RfHLRf_Q&node=1i204",
+              "etag": "0hzUydHjlOi9OBM+5P5bs0w=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qRmtDUSnSGmt6ho0uY_wc6hZsRXjWaGBNHdgSYSjsdXCc8jv-_6hRuecgnUS9F5OeEgCrsMy2p55VnNOKidOx1IwQ3-Vh_5fw-bbP-KrRD0uzEWM_j9aV0oInEoX7blDl8al-Jw0D3jOEGFYkpy89DF5Nye_OopL4yjwp44SKIStS9naXFfwRj8klI6pnZ0eBfo&node=1i204",
+              "etag": "0hzUydHjlOi9OBM+5P5bs0w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "hzUydHjlOi9OBM+5P5bs0w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828050687,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/H4cvZ1s5TkiNo0Y_fI13ejk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Deepavali Bonus (2024)",
+  "media_kind": "movie"
+}
