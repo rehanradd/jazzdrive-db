@@ -1,0 +1,81 @@
+{
+  "name": "The Power (2021) New Bollywood Hindi Full Movie HD 480p.mp4",
+  "path": "K:\\All MOVIES\\Hindi Film\\tiger sheroff7\\The Power (2021) New Bollywood Hindi Full Movie HD 480p.mp4",
+  "uploaded_at": "2026-05-03T14:19:40Z",
+  "remote_folder_id": 1753415,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242121710",
+  "tmdb": {
+    "tmdb_id": 760919,
+    "title": "The Power",
+    "original_title": "The Power",
+    "release_date": "2021-06-03",
+    "year": "2021",
+    "rating": 6.036,
+    "overview": "London, 1974. As Britain prepares for electrical blackouts to sweep across the country, trainee nurse Val arrives for her first day at the crumbling East London Royal Infirmary. With most of the patients and staff evacuated to another hospital, Val is forced to work the night shift, finding herself in a dark, near empty building. Within these walls lies a deadly secret, forcing Val to face both her own traumatic past and deepest fears.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/s0aVEjT1DWopUrJehACWZyqpO99.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lQ7OF8zoLMOh1rxL0iwWXr28jk0.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242121710",
+    "status": "U",
+    "etag": "6nhsj/7KkKfTtv4b+i5qHg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242121710",
+          "url": "/sapi/download/video?action=get&k=-W252geivJiNi_8wMk3wMUb306dyc-FomPqupfF4EPQjVzONBiF_4ORxWPiO6GikHIHxC3G_fWuSNYkIxKHvr6mfsIQH9L9fDvXoW4L_4-a6zNu8vMLoOCNLwDCdHu-ipnBJ0j7clvhujPVyON4j-JFpvPz8mcBkk8KN0OoPCMaYsH5D_NE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=j-2fUJD_fgP8XspizUkKgh8AKbe-5KMYM2V2rIPRFGQhjXGJcmBQ4eeZSK9XqcZvANySaudF5lqPK3PisO_zjoitppwyJcEzRU4b6nVawILgs9zQ2CHHcQFlPxtg8pbJthGncciWA62c4oquRII9tmfXg0tFhwPwiLZ8GBJjZu7Zuoe3Ccknd-7tI410-8cS1Ro&node=1i204",
+          "date": 1777817976008,
+          "creationdate": 1777817149000,
+          "modificationdate": 1777817149000,
+          "uploaded": 1777817960883,
+          "size": 520527450,
+          "name": "The Power (2021) New Bollywood Hindi Full Movie HD 480p.mp4",
+          "metadata": {
+            "duration": 9203479,
+            "bitrate": 452461,
+            "codec": "h264",
+            "height": 302,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VfqFq9kiZ2p4QqsUGNwv7Sbtvh7yEFY3Vg4BJ-TTF0Y8zhBbabpcvqUCFIIKTfM7MkAP3LNqsbRV37Y0AhgRJp9nApX3uPlw8mKdQUcao9cylHnbuDV7i2RvtNe317mPUSzd66DMMi4dqI9fwx7pBKIx7qNL9ag7lewj9Z5mobcA2SnFFk9YtLJWRrIf9Odelto&node=1i204",
+              "etag": "06nhsj/7KkKfTtv4b+i5qHg=="
+            },
+            {
+              "w": 720,
+              "h": 302,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=j-2fUJD_fgP8XspizUkKgh8AKbe-5KMYM2V2rIPRFGQhjXGJcmBQ4eeZSK9XqcZvANySaudF5lqPK3PisO_zjoitppwyJcEzRU4b6nVawILgs9zQ2CHHcQFlPxtg8pbJthGncciWA62c4oquRII9tmfXg0tFhwPwiLZ8GBJjZu7Zuoe3Ccknd-7tI410-8cS1Ro&node=1i204",
+              "etag": "06nhsj/7KkKfTtv4b+i5qHg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "6nhsj/7KkKfTtv4b+i5qHg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777817976067,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/XdLGANi0Qd2UKN0-PsOCNjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Power (2021)",
+  "media_kind": "movie"
+}
