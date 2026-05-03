@@ -1,0 +1,82 @@
+{
+  "name": "Junglee 2019 Hindi WWW.9XMOVIES.CO 480p WEB-DL.mp4",
+  "path": "K:\\All MOVIES\\Hindi Film\\tiger sheroff7\\Junglee 2019 Hindi WWW.9XMOVIES.CO 480p WEB-DL.mp4",
+  "uploaded_at": "2026-05-03T13:43:34Z",
+  "remote_folder_id": 1753410,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242121048",
+  "tmdb": {
+    "tmdb_id": 560964,
+    "title": "Junglee",
+    "original_title": "\u091c\u0902\u0917\u0932\u0940",
+    "release_date": "2019-03-29",
+    "year": "2019",
+    "rating": 6.8,
+    "overview": "A vet returns home to his father's elephant reserve where he encounters and fights an international poacher's racket.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/d5Jw6eXO3Qv9qu8oy5V4WCDDvki.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/64GBB3Qp1sG9AJZediJKEjUkUwI.jpg",
+    "genre_ids": [
+      28,
+      12
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242121048",
+    "status": "U",
+    "etag": "F0Mtg6W3Waq1NiST14lxwg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242121048",
+          "url": "/sapi/download/video?action=get&k=Uj2-0PxTsjpFSResBTDPSDdDKLvCiQBZ-1jK8O3s79q6w49DGyp2-YBdvU4a_8UCw9Tee6qylL4_Y0WhIv2FKV9gxmTfwKIxAaufaQRvleTQyB23--W2hKkUw9SOGZ5ISsxL3iB3ZD3P2usBO-qOBpveaMXggEOqWKZxs-mKFXNvh-Hhxfo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=MLsgr1NHRgX0f2LvVkvFEpd33tGQ9a0Ggl2gVs791Up862_PmQe-3aCMa2FWk8OjqDsCuWT9m1EbbDbPHEKo48zc2oxoAarZx2j1VNb0brcgGb8WA6t7OTY4XHuAtTNvnm25psfjjZqUvShXf-hu0CBxxVZZCkXG6PLtPGC_UISOe1lxi2QBRuJ2A6DBkQJWeHo&node=1i204",
+          "date": 1777815812246,
+          "creationdate": 1777815399000,
+          "modificationdate": 1777815399000,
+          "uploaded": 1777815800697,
+          "size": 371253932,
+          "name": "Junglee 2019 Hindi WWW.9XMOVIES.CO 480p WEB-DL.mp4",
+          "metadata": {
+            "duration": 6897326,
+            "bitrate": 430606,
+            "codec": "h264",
+            "height": 302,
+            "width": 720,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0C3h5tOCCTvIoSQ2LuBXapFZQr51WQrwIQSK3tRTh7yJq2oJmoVRN6UToVDpyuy_0sMqacW6WYl3TjIX_DUYfnpq0MCktfgO9tkm3uRrTQXTMMqaCewnC13Iy1APr41_V11LcBOvPzYwe4BGjz2-02mzR56X9V0ZD8iZD-rC3SBsOk0bGR6R416Qf2-unUK0MB0&node=1i204",
+              "etag": "0F0Mtg6W3Waq1NiST14lxwg=="
+            },
+            {
+              "w": 720,
+              "h": 302,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=MLsgr1NHRgX0f2LvVkvFEpd33tGQ9a0Ggl2gVs791Up862_PmQe-3aCMa2FWk8OjqDsCuWT9m1EbbDbPHEKo48zc2oxoAarZx2j1VNb0brcgGb8WA6t7OTY4XHuAtTNvnm25psfjjZqUvShXf-hu0CBxxVZZCkXG6PLtPGC_UISOe1lxi2QBRuJ2A6DBkQJWeHo&node=1i204",
+              "etag": "0F0Mtg6W3Waq1NiST14lxwg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "F0Mtg6W3Waq1NiST14lxwg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777815812309,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/2lawuJJXTHy-neI-a4kH6zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Junglee (2019)",
+  "media_kind": "movie"
+}
