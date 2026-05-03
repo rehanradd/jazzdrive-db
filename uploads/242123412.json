@@ -1,0 +1,83 @@
+{
+  "name": "Daksha The Deadly Conspiracy (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Daksha The Deadly Conspiracy (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:01:24Z",
+  "remote_folder_id": 1753507,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123412",
+  "tmdb": {
+    "tmdb_id": 1006780,
+    "title": "Daksha: The Deadly Conspiracy",
+    "original_title": "\u0c26\u0c15\u0c4d\u0c37 \u2013 \u0c26\u0c3f \u0c21\u0c46\u0c21\u0c4d\u200c\u0c32\u0c40 \u0c15\u0c3e\u0c28\u0c4d\u0c38\u0c4d\u0c2a\u0c3f\u0c30\u0c38\u0c40",
+    "release_date": "2025-09-01",
+    "year": "2025",
+    "rating": 7.0,
+    "overview": "A determined woman uncovers a deadly conspiracy while investigating corruption at the highest levels. As supernatural forces emerge and time runs out, her quest for justice becomes a dangerous game of survival.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/z3hsuvJJdokjTlm28wcELuFDjdC.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zYptDguTRA0bUkhbPcZN1dCrHX0.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123412",
+    "status": "U",
+    "etag": "P9I58vDBFNCp48y7asOFzg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123412",
+          "url": "/sapi/download/video?action=get&k=vCDHTqaojro-bS1wrp-gjuMJjQ3Puetb9SSk22hfCdVBJ31Es570Bi3p1B7cwsNlYm-aX8HsRwUFvWDUjfe-4yAa6-KIAFbqfHhwSnlX4qJSSoWIMsnYG0gmA4AWDMi6J3Jt1L1_GMKxWxfkhf0YizaMoj4wqfOYVBLINXLpiEgfgTGJqpo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=1FjJRkDxWwsJ4KU9tm7Vnk7UD9IFThe9YF-ZlKmfoSTPph5n1rWXWTlZ9AAvgwGi8uyCOgjm4RBj8T5XWqIuySNVPuAUKWdVjdKo-J9N90S6I3TbwtgYQBFbquBLwyG20rW2KQCZopLlh_XGMHoeTRnoFYbBT7vwv66kEr7dtG127GsZ1m-XhgeMuqYlbw8kFNo&node=1i204",
+          "date": 1777827684312,
+          "creationdate": 1777827455000,
+          "modificationdate": 1777827455000,
+          "uploaded": 1777827633900,
+          "size": 1005369852,
+          "name": "Daksha The Deadly Conspiracy (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 5956939,
+            "bitrate": 1350183,
+            "codec": "h264",
+            "height": 534,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 106,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=o5co1kZtpeCzTEN5b9wTQnGInjI7ZDqbtYiVq7lEIRE03qZBV2mvxlYG0RoocajXvQzDrMAe6zzMKmJ97MrMPkVi-jUA5shywSuLg-MLUOAabdBOHY6SzoMNw_hsu0uLQNT8UJVAx7Ayo8Bq471sLnkVRPP_fA1j7t1MeNuv-QBn2sFmhkyhld5wmzDEtiR66Hw&node=1i204",
+              "etag": "0P9I58vDBFNCp48y7asOFzg=="
+            },
+            {
+              "w": 1024,
+              "h": 427,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1FjJRkDxWwsJ4KU9tm7Vnk7UD9IFThe9YF-ZlKmfoSTPph5n1rWXWTlZ9AAvgwGi8uyCOgjm4RBj8T5XWqIuySNVPuAUKWdVjdKo-J9N90S6I3TbwtgYQBFbquBLwyG20rW2KQCZopLlh_XGMHoeTRnoFYbBT7vwv66kEr7dtG127GsZ1m-XhgeMuqYlbw8kFNo&node=1i204",
+              "etag": "0P9I58vDBFNCp48y7asOFzg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "P9I58vDBFNCp48y7asOFzg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777827684374,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/VaOznQgbSDiOlAv71o7ZWjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Daksha The Deadly Conspiracy (2025)",
+  "media_kind": "movie"
+}
