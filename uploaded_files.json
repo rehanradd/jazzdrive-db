@@ -3302,5 +3302,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "d98d512946cc2a15cf728ae366daba88c262bb5dfe6d1a389c07f955e6fe3f9e": {
+    "name": "Jihne-Mera-Dil-Luteya-2011-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Jihne-Mera-Dil-Luteya-2011-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 425609419,
+    "uploaded_at": "2026-05-03T18:56:53Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124703",
+    "remote_id": "242124703",
+    "remote_folder_id": "1753633",
+    "tmdb_title": "Jihne Mera Dil Luteya",
+    "tmdb_year": "2011",
+    "tmdb_rating": 5.3,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/8X4OeRZURzbreAG0GT4vnv4Pp2g.jpg",
+    "tmdb_overview": "Life is carefree and filled with series of mischievous events for dashing and happy-go-lucky Yuvraj and rocking rebel Gurnoor at the Patiala University, until they are bedazzled by the charming and sexy Noor who sweeps them off their feet the moment she lands in their lives, as both vie for their lady love's attention and her heart.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124703\", \"status\": \"U\", \"etag\": \"714ojNlwY6dLipCMm5lS0A==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124703\", \"url\": \"/sapi/download/video?action=get&k=UL8wZ1y207htPhDIXr37vUv_xSjBd_GGQK54aC-myPZTHTDsSf9xjpG2LJiuwpsRMwRIK3mHhbyxXeiuhJsQYLY9MFJfA5bP-6UavoEir6p3ScoHb8MVqZRrkJbvP-qUKmPgLuq7ESlnfaAL7WhBVIKZm46ogQbG4iJXC8otaenT0q28oRI&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=gL4YIdoGs2hF0C9FbGCmvl7Yoy3cJkbIBQDQ8y9_vZh2jR41p-R475KNHPp-tVrRUYQpaRWkQDQ5BQ-dPh4Krty9f7kcFnf4lNQnf69BKWMbk2e7My8YNcZTLj3UB2DFwHsYA6j6Yj19sgpIiIFNVMFlE7Y3c0m7n_tqo2HEOOc97c0fliLcz-vPBDeTrE18h2o&node=1i204\", \"date\": 1777834612453, \"creationdate\": 1777834535000, \"modificationdate\": 1777834535000, \"uploaded\": 1777834593629, \"size\": 425609419, \"name\": \"Jihne-Mera-Dil-Luteya-2011-Punjabi-Full-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 8011760, \"bitrate\": 424984, \"codec\": \"h264\", \"height\": 400, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 142, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=CnO-fSFz1dx3gtmEpl5Xlias0ZlTwr0VD0QXW9w6Mxfzak5m_pW0GWnCN9pDu7QwyPL6LoJdrD9XlAywEJDvrD9dqHWS-4w_DPAmPG0OV9SJTqbjCyD-7afwvKs70adyNmGg1dBXDp59xsaPbRdvcvYfTF9xxIuUzax6u8L9c9IUj1i9xrSdgEAGXXYqpsWa0cs&node=1i204\", \"etag\": \"0714ojNlwY6dLipCMm5lS0A==\"}, {\"w\": 720, \"h\": 400, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=gL4YIdoGs2hF0C9FbGCmvl7Yoy3cJkbIBQDQ8y9_vZh2jR41p-R475KNHPp-tVrRUYQpaRWkQDQ5BQ-dPh4Krty9f7kcFnf4lNQnf69BKWMbk2e7My8YNcZTLj3UB2DFwHsYA6j6Yj19sgpIiIFNVMFlE7Y3c0m7n_tqo2HEOOc97c0fliLcz-vPBDeTrE18h2o&node=1i204\", \"etag\": \"0714ojNlwY6dLipCMm5lS0A==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"714ojNlwY6dLipCMm5lS0A==\", \"favorite\": false}]}, \"responsetime\": 1777834612519, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/gGRQ_NvUTq-iHUo641as0jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67567",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Jihne Mera Dil Luteya (2011)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
