@@ -1,0 +1,82 @@
+{
+  "name": "Punjabi-Aa-Gaye-Oye-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Punjabi-Aa-Gaye-Oye-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:14:36Z",
+  "remote_folder_id": 1753692,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124771",
+  "tmdb": {
+    "tmdb_id": 1543574,
+    "title": "Punjabi Aa Gaye Oye",
+    "original_title": "Punjabi Aa Gaye Oye",
+    "release_date": "2025-08-29",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "A man is left responsible for raising four young boys after their parents are involved in a tragic accident, though the man's past threatens to catch up with him.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pfS0P0E2vg0pi7qHFwfykzztm3.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124771",
+    "status": "U",
+    "etag": "YNp/LJG/QCUJSczybBSiNA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124771",
+          "url": "/sapi/download/video?action=get&k=GQGbCDGzO_FTlv5rKzG9fnbrAvMJvjo7BI2f8oXmISYhpvGFBkBzRE9hs8p-GIlE01j9ueosJhgl2dBGuyQCqdnWEa0hGoNYuM3C8TxN83HjUUZr-FO1o2bN31-m-QvDF711gtMLFnK1kQg1LTi2P5Canw4mk1BrjQZ24mqs5y2F3OtKvL4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=3oevjAH2OMN2qPrZ6ViTKhJI-ZsaIr8eH7vWA3c6XwWeoP95-lGUIGliD27BffMhR2cknAwkOaVIWc9M39FNVOyREQ1OzqHopPlLPS-ry3IHOAHMm5XA1Ge4SePrTqQe9R2fDQmczWFGds0AdV55klQZdAoa15SocYTpqzCNhu63kBCOUnwlA82i3shPBaR5XkE&node=1i204",
+          "date": 1777835675111,
+          "creationdate": 1777835591000,
+          "modificationdate": 1777835591000,
+          "uploaded": 1777835658925,
+          "size": 433213757,
+          "name": "Punjabi-Aa-Gaye-Oye-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8126377,
+            "bitrate": 426476,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=XXQpSM6zOTrKmzpmI2mbPo4wD891M1_sttoI-OLIEJrfBg9Zw1gQyFEgzfYzZ76YDcsZauW_vyLlkBFX1Vj5lLpav3xjLmorzpD4ustsGHxPSOruK1rHliMZvm5BzzIjBz7dlJrGcaipYB72MGdRRj941-zj93b1YG8aYnp5NcZgandz8FmUV1bOTFw4ghBcxUA&node=1i204",
+              "etag": "0YNp/LJG/QCUJSczybBSiNA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=3oevjAH2OMN2qPrZ6ViTKhJI-ZsaIr8eH7vWA3c6XwWeoP95-lGUIGliD27BffMhR2cknAwkOaVIWc9M39FNVOyREQ1OzqHopPlLPS-ry3IHOAHMm5XA1Ge4SePrTqQe9R2fDQmczWFGds0AdV55klQZdAoa15SocYTpqzCNhu63kBCOUnwlA82i3shPBaR5XkE&node=1i204",
+              "etag": "0YNp/LJG/QCUJSczybBSiNA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "YNp/LJG/QCUJSczybBSiNA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835675178,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/gxjvE077RcqnFC-_JfCVQzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Punjabi Aa Gaye Oye (2025)",
+  "media_kind": "movie"
+}
