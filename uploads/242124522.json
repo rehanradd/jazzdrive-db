@@ -1,0 +1,81 @@
+{
+  "name": "Ranjha-Refugee-(2018)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Ranjha-Refugee-(2018)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:34:46Z",
+  "remote_folder_id": 1753564,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124522",
+  "tmdb": {
+    "tmdb_id": 557731,
+    "title": "Ranjha Refugee",
+    "original_title": "Ranjha Refugee",
+    "release_date": "2018-10-26",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "After being exiled from his village, a Punjabi man discovers that he has a long lost twin brother who was raised Muslim.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sAvEatAaN3Et9Da1DcjgDy5Ag3o.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2V9WxrYfJSa5N8IVZASV4viq3Go.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124522",
+    "status": "U",
+    "etag": "nvQFSR6eDdG5AEKtgO9dcA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124522",
+          "url": "/sapi/download/video?action=get&k=TeEwIIQCZ-MXnMDeTtRkWmML_l2wksGQY0OMohQfUSzb9Es3jV7IiE1NYRj3viTBEs8w1WGQXhZ_GKL0ZlZcxxCoDuy3tHBHmTnKGcXuFVjJktJX0nsuQPnJT2GK4wosGDQcHccXtyPvL_Ce5UzGRRfgy2nRQBVLkfAG7T4iDM7xbysuRZc&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=kyWUvJOPUTSy2Z12OevNY34TQhm0ie-tszCVqzh-R8bnY4pmSW0k9TOAht8eEMKbi6naNRQZTW1geDLLYMmpekcc1f8dkPUzOjJAl531AGyT0FSFf-HTKxQizdiz5nSoI5ZdZ5KLA0cyvjmdDLxLVLgXNZp9lCi5UuMybo73-qG4JzY-C1SnzkbETeowMBvwc6c&node=1i204",
+          "date": 1777833285742,
+          "creationdate": 1777833189000,
+          "modificationdate": 1777833189000,
+          "uploaded": 1777833272670,
+          "size": 383709679,
+          "name": "Ranjha-Refugee-(2018)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7318311,
+            "bitrate": 419451,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=nnTFMrgSyQy1HdY-fWHiKAtI-pJIgZcyDRXSX7Qye_mLDwx5vGd7T3F_6nMQs8TsUr-lByhniG6_JWhlWI8nFDEP3hI-0bCsmU2GqtlG4AwIcfsOh4LQKd921gz2uq3gKXSJehEVRdR7xHoQV8XSCu43ESNnXbWZ3zOXIKmGzpAwtxju2lerXJ6IIArk07Cgp_Y&node=1i204",
+              "etag": "0nvQFSR6eDdG5AEKtgO9dcA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=kyWUvJOPUTSy2Z12OevNY34TQhm0ie-tszCVqzh-R8bnY4pmSW0k9TOAht8eEMKbi6naNRQZTW1geDLLYMmpekcc1f8dkPUzOjJAl531AGyT0FSFf-HTKxQizdiz5nSoI5ZdZ5KLA0cyvjmdDLxLVLgXNZp9lCi5UuMybo73-qG4JzY-C1SnzkbETeowMBvwc6c&node=1i204",
+              "etag": "0nvQFSR6eDdG5AEKtgO9dcA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "nvQFSR6eDdG5AEKtgO9dcA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833285802,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Eg8whsHQT726KHlHF2DVPTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ranjha Refugee (2018)",
+  "media_kind": "movie"
+}
