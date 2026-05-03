@@ -5150,5 +5150,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "e089150d9d18b8b3e03cb0d3c2f1b6693116d829cf65aacc9e0e242472b8da6e": {
+    "name": "Laarha-Faraar-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Laarha-Faraar-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 360449719,
+    "uploaded_at": "2026-05-03T19:14:52Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124773",
+    "remote_id": "242124773",
+    "remote_folder_id": "1753694",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124773\", \"status\": \"U\", \"etag\": \"y5Ivpx9fY2h4d9/ORQxtvA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124773\", \"url\": \"/sapi/download/video?action=get&k=u2uyw1Y5zMtbLvldQRIZmuvMF2181nRfTYIyXGLElWtbWB4GECAMJQCr8i3J_xFzmYYvMtBe98LIqhG-UHBJw8VLw4Uuoi0PNCzEaW6Cl-072lsCx8StUd0xYPRTpNgirm8g_Y-NzruVQj9y4QVVVp3lZYfuUx9QU6w1niSKgwdzwqgXk-I&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=Asq_BHOiZ7G5VTZFs3rYu8NVxM9suqoaqDw8OcFaJe_pmDHkbAVb5wBIwE7VIKRkRa-OQR9OiGRG-9E0j6-P0YfA6NMFYuX-7QUJAyPVZSKpd60Eap1LhW0t8KIiTLq-uOMuUCt-gjTgxh0CcLSFFjWzGmEOPpMA8_qi2zEzfQ20hTTjyv53pKCpQK7bHd-Q14w&node=1i204\", \"date\": 1777835690337, \"creationdate\": 1777835642000, \"modificationdate\": 1777835642000, \"uploaded\": 1777835676922, \"size\": 360449719, \"name\": \"Laarha-Faraar-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 6870528, \"bitrate\": 419705, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=qzMdP30EhgpvWsuDGNE4_JDLjfQQ_pw-xcZzEaA7j1ve6Qnd9HSVeipXusHbHJt1CROCEDKTj2kNppUmU9xzGQVrttOgi4Pi3rdrYpAXMIiHoPGKke7JtMCXNAZErLtl57qlT6NxpkygwlLPtKP12XJ1UvYX3wDSjPIuITkuQ5enUJtNnOJvAV-WwN3rKyx1sEA&node=1i204\", \"etag\": \"0y5Ivpx9fY2h4d9/ORQxtvA==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=Asq_BHOiZ7G5VTZFs3rYu8NVxM9suqoaqDw8OcFaJe_pmDHkbAVb5wBIwE7VIKRkRa-OQR9OiGRG-9E0j6-P0YfA6NMFYuX-7QUJAyPVZSKpd60Eap1LhW0t8KIiTLq-uOMuUCt-gjTgxh0CcLSFFjWzGmEOPpMA8_qi2zEzfQ20hTTjyv53pKCpQK7bHd-Q14w&node=1i204\", \"etag\": \"0y5Ivpx9fY2h4d9/ORQxtvA==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"y5Ivpx9fY2h4d9/ORQxtvA==\", \"favorite\": false}]}, \"responsetime\": 1777835690416, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/gOy2MlksQL283jVohOJTrjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67627",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Laarha Faraar (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
