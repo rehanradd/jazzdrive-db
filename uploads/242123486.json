@@ -1,0 +1,82 @@
+{
+  "name": "Moh-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Moh-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:26:20Z",
+  "remote_folder_id": 1753536,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123486",
+  "tmdb": {
+    "tmdb_id": 814296,
+    "title": "Moh",
+    "original_title": "\u0a2e\u0a4b\u0a39",
+    "release_date": "2022-09-16",
+    "year": "2022",
+    "rating": 10.0,
+    "overview": "A teenage boy Rabbi falls in love with an orchestra girl Gore who's living a tragic life while their relationship leads to various destruction for lifetime.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7K9uDbByipxJE0WTc10kCgerOU3.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/3R035M3CYbz3Q2T69jeLmSZY2Sh.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123486",
+    "status": "U",
+    "etag": "abaC+Vetf7KKWYtkG9ZJiQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123486",
+          "url": "/sapi/download/video?action=get&k=8coKMoZaS94CbrM1_lJhVvupYz58vzaBWBjYlZjNtbmINbMIEGp18Ii6JAqelxy6IVb1-FpzzSx9qhIQMtlJns1V8Jo15apEPy5sV1KrcyUE7bq3CdscBKJo4sxs4N18iemJmcO5h_aYEhw-dPyTO-CxmvbwUpgPj7nRlsvei6RSkmeiRrk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=CqAED6WUFtikC6Zi8Jx7ablHFXYMR3GWQa6jPKV_Rwk8o6Jqmd9YcMZ3BGg8VSyJolHv-MZXP3SmnpnO35ymvGuE1YCSNoeS52bXJIi8n-4CZYgk242FMBYQ-MakU6NrosLofKkta6HtHu_MJR0SJaW7a0F_sz_xQ1cT53TQCcVPWxj8O2vjq-0XRMZlU6IZF8o&node=1i204",
+          "date": 1777832779614,
+          "creationdate": 1777832646000,
+          "modificationdate": 1777832646000,
+          "uploaded": 1777832749760,
+          "size": 472127938,
+          "name": "Moh-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8897746,
+            "bitrate": 424492,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=KC4Ada-JpeAhxzpUSfql89ma26zCcKnkcxTgUxNi1aQxkhXyv-xEfBx0LmIqZS3v8SD7B6fkYUIusKMtjI8TASWL92RPtoZ2rx7A9MhgGO9EaMivYsgjS0oT8G6U4JagFTprQReIsOJfirHAByxCqQqtxXys0LZjMHyvd18UvETCVPv9XlCsRaBGNPsj439fePA&node=1i204",
+              "etag": "0abaC+Vetf7KKWYtkG9ZJiQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=CqAED6WUFtikC6Zi8Jx7ablHFXYMR3GWQa6jPKV_Rwk8o6Jqmd9YcMZ3BGg8VSyJolHv-MZXP3SmnpnO35ymvGuE1YCSNoeS52bXJIi8n-4CZYgk242FMBYQ-MakU6NrosLofKkta6HtHu_MJR0SJaW7a0F_sz_xQ1cT53TQCcVPWxj8O2vjq-0XRMZlU6IZF8o&node=1i204",
+              "etag": "0abaC+Vetf7KKWYtkG9ZJiQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "abaC+Vetf7KKWYtkG9ZJiQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832779685,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Tzmi_1_LT2y_1ibSmtjOPDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Moh (2022)",
+  "media_kind": "movie"
+}
