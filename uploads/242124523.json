@@ -1,0 +1,83 @@
+{
+  "name": "Rang-Panjab-(2018)-Punjabi-HDTV--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Rang-Panjab-(2018)-Punjabi-HDTV--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:35:27Z",
+  "remote_folder_id": 1753562,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124523",
+  "tmdb": {
+    "tmdb_id": 564335,
+    "title": "Rang Panjab",
+    "original_title": "Rang Panjab",
+    "release_date": "2018-11-23",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "It's a story about a guy who stands against the bad things he is seeing happening around him like politics, administration problems, drugs, crime, etc.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/61mAO8c5CHfOqeli9rH3sXFoLJ9.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uu3TbA2JJtvAulOOjGvG3dk4s9B.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124523",
+    "status": "U",
+    "etag": "2q4hpBRX5Jc4OTv0QdrKAQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124523",
+          "url": "/sapi/download/video?action=get&k=BmFKsC6zx0DEivsD2gMmggsSFEJPdvGsR4SXl_lb9g2-OuERtobxN-b_5MWmb-y73HKaKdgJ6obidaPefuRBZ1Hex_ZOLeZH1ASgbTOUmy2UXo2-ui_SsTtFnJLp6sAbL1o09pQFaObVFbzdD8UGcSUmnWgtV42uUZevR3TCNz2KWofs2x8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=Y2MtM6SuNTfFPkJg82quS5gkdSYV1V3iiu96_FUE7hnPkorn2H0ScWRoBodZEoUAQGyxvToZdc0Ym1oVzBEdt8ELFGFeCVJQhVHaGxaZf4n9L8Bf2N-36IO7kLf7gRBlEVXfYFbu8HAIlfk_tx5yzHbXB5vyUICJqatyANyrc-WfKNW2mkaT1j0H5_JSwHUguUI&node=1i204",
+          "date": 1777833326405,
+          "creationdate": 1777833252000,
+          "modificationdate": 1777833252000,
+          "uploaded": 1777833299536,
+          "size": 501490266,
+          "name": "Rang-Panjab-(2018)-Punjabi-HDTV--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 9453277,
+            "bitrate": 424394,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=cwt4YK_xgT6N2dUJs3iYxL_c9Vxs49hjfwDpym7yROPZar3U69V_8Ul08vWf4YQ1orMxzP6akks2b7PHv1rWQI7IWq-MpOWZT_rr5C0jl4c5BeakDpGY9iMqD0NUz01XWwdXjtPw4DrUG6k2-4A5Ml5POkj0g1Xn7PlIzJaSIFMfFbisSew0XN2QOTm-eguDn4U&node=1i204",
+              "etag": "02q4hpBRX5Jc4OTv0QdrKAQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Y2MtM6SuNTfFPkJg82quS5gkdSYV1V3iiu96_FUE7hnPkorn2H0ScWRoBodZEoUAQGyxvToZdc0Ym1oVzBEdt8ELFGFeCVJQhVHaGxaZf4n9L8Bf2N-36IO7kLf7gRBlEVXfYFbu8HAIlfk_tx5yzHbXB5vyUICJqatyANyrc-WfKNW2mkaT1j0H5_JSwHUguUI&node=1i204",
+              "etag": "02q4hpBRX5Jc4OTv0QdrKAQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2q4hpBRX5Jc4OTv0QdrKAQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833326465,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/oaSdsAtbSa-jIwe6Yp66Xjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Rang Panjab (2018)",
+  "media_kind": "movie"
+}
