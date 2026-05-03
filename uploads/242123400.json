@@ -1,0 +1,81 @@
+{
+  "name": "DNA (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\DNA (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:00:58Z",
+  "remote_folder_id": 1753504,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123400",
+  "tmdb": {
+    "tmdb_id": 1416501,
+    "title": "DNA",
+    "original_title": "\u0b9f\u0bbf \u0b8e\u0ba9\u0bcd \u0b8f",
+    "release_date": "2025-06-20",
+    "year": "2025",
+    "rating": 6.2,
+    "overview": "A young woman with borderline personality disorder, fights a lonely battle when she believes her newborn baby was swapped with someone else\u2019s minutes after her delivery. Her loving husband, who initially doubts, eventually believes and starts investigating with an experienced cop.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/82eWyEvVP01sV5DvBer9QyNgCh2.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mDynWzuxyljITFYq4r3IsT9K2JZ.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123400",
+    "status": "U",
+    "etag": "c8QAMgFuqr/Rq+Z9P1luFQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123400",
+          "url": "/sapi/download/video?action=get&k=nfpHk2qwFuqMNU9OBxwMpd-YR51rIsIKFNBehUEHY5rzXfwwg0HTxH8J8ZauVzAk74ybTLSaMLhayRRynhv2W4fdd4XQJVnZEqM7M5qkWmUHYeU8oObZdWSDhiEEpA6HowwPg5EFEFQGmszlM_3j8b_3otHeRKjKWqFQ1yQQNsu4Xiqc1ZU&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=YcEY-tSb6HY-peqCS_P_kruwqVXgj0kUfxPY1DsBbOnApAW7LWK3aU15oqrD8QGEnzHlM3MwRDvpjsvUKFsijbmp8IltGqsXy-y4AptQBWQ4w7ilc1xdvDv6iukRk61ofSdEv4LG2MBf7uhpORR59aJnb-eF2-cbPBybXzwPTyWsRaruXK67WmmO3qvJ3-tutfY&node=1i204",
+          "date": 1777827658055,
+          "creationdate": 1777827357000,
+          "modificationdate": 1777827357000,
+          "uploaded": 1777827597270,
+          "size": 1355963017,
+          "name": "DNA (2025) Hindi Tamil 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8303814,
+            "bitrate": 1306352,
+            "codec": "h264",
+            "height": 536,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 107,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Hka-LG8O6uEpytCjUjudHi-DzY4UezL6VpmQXcKCS-8cqhe5nNhcmVzaZT5qrNfn0GP8tFQep8xY4hGMnvb7Jc051Of1ObYyeWBtOowSY3G2rbIyerK55FJ18AWAMc0vfnTWJk9huq3c2MHPLVITu0nqvjF1PoTDG8G-_VuKkPWnQMqZl_1juOJbAoWFHxuIujk&node=1i204",
+              "etag": "0c8QAMgFuqr/Rq+Z9P1luFQ=="
+            },
+            {
+              "w": 1024,
+              "h": 428,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=YcEY-tSb6HY-peqCS_P_kruwqVXgj0kUfxPY1DsBbOnApAW7LWK3aU15oqrD8QGEnzHlM3MwRDvpjsvUKFsijbmp8IltGqsXy-y4AptQBWQ4w7ilc1xdvDv6iukRk61ofSdEv4LG2MBf7uhpORR59aJnb-eF2-cbPBybXzwPTyWsRaruXK67WmmO3qvJ3-tutfY&node=1i204",
+              "etag": "0c8QAMgFuqr/Rq+Z9P1luFQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "c8QAMgFuqr/Rq+Z9P1luFQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777827658140,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/3gYHEPbPRcSfaaHbzamNXTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dna (2025)",
+  "media_kind": "movie"
+}
