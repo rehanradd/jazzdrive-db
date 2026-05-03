@@ -1,0 +1,81 @@
+{
+  "name": "Bajre-Da-Sitta-(2022)-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Bajre-Da-Sitta-(2022)-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:29:11Z",
+  "remote_folder_id": 1753546,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123498",
+  "tmdb": {
+    "tmdb_id": 999115,
+    "title": "Bajre Da Sitta",
+    "original_title": "\u0a2c\u0a3e\u0a1c\u0a30\u0a47 \u0a26\u0a3e \u0a38\u0a3f\u0a71\u0a1f\u0a3e",
+    "release_date": "2022-07-15",
+    "year": "2022",
+    "rating": 6.5,
+    "overview": "A young woman is blessed with a beautiful voice but is restrained to sing due to the society where she lives in. Even her new husband warns her that if she tries to sing again, he will drop her back at her parent's house.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5prmKELDAFXk54gOh8xLctpz4E0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/rrATjgA7Lf4CiTSW3OOorhBXOAK.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123498",
+    "status": "U",
+    "etag": "BiHamLfjlW6zIRwu7hcVHA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123498",
+          "url": "/sapi/download/video?action=get&k=WdBqhNK_7tPJhXZgsTybTjtZ0IQr2bousGL6PhPWY1b9TkD8Ex1qj1CJ6vW9R92_VV6njqVceyV8UaD-koTx-TR2NvEo_imRF_CyJNOpFiPoCM0YlAoQSPoAz5ZnN5mLxNaXjL37SIGx1sJ1ylXqa1Zda7x-8owgo8eNxg-T7F-OwzHjMZk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=4l3NWzNixlF3WBJaTUIs9MVigx_Nfmhkbg4mLCt8dccAmEKWjUPoP8Ms61GAyyKmCNSSm619cN8GWY5TOEIaYWMbrCZrnhAMGn9KLUPfCKvTGw880tPippKIEilUUyZcKLXPyV_kLbnP-fCjaIglpuou_6k8oCupZZef0ceSMuii6ttfhwafzTCo45kGEr585C0&node=1i204",
+          "date": 1777832948575,
+          "creationdate": 1777832880000,
+          "modificationdate": 1777832880000,
+          "uploaded": 1777832925594,
+          "size": 360581757,
+          "name": "Bajre-Da-Sitta-(2022)-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6755756,
+            "bitrate": 426992,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=m4cm0DW7nC9PhDW9bVjMaNF7jy95J5c01GoNHsGq6cV4k_gp4eqv-iGAUIuJ-Ga25T54awKYIysJIEJnxV_El0JOxvPRF_-QzQWhkdjV7hsSJLH7MserrlejNVmpsa8j1twHWHCXUnt3hPP1wac60yNw_Z1PTOIFCrQllyWLoFiGeznEuR7VlUIDCq2448sgpRU&node=1i204",
+              "etag": "0BiHamLfjlW6zIRwu7hcVHA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=4l3NWzNixlF3WBJaTUIs9MVigx_Nfmhkbg4mLCt8dccAmEKWjUPoP8Ms61GAyyKmCNSSm619cN8GWY5TOEIaYWMbrCZrnhAMGn9KLUPfCKvTGw880tPippKIEilUUyZcKLXPyV_kLbnP-fCjaIglpuou_6k8oCupZZef0ceSMuii6ttfhwafzTCo45kGEr585C0&node=1i204",
+              "etag": "0BiHamLfjlW6zIRwu7hcVHA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "BiHamLfjlW6zIRwu7hcVHA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832948636,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/mLUlLmDYQY6WkYWRRnkPwjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bajre Da Sitta (2022)",
+  "media_kind": "movie"
+}
