@@ -922,5 +922,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "e77df0fe9c2ba22f1fd2b27b7581c0b458904419021b640959cce9b138498c89": {
+    "name": "Akhanda 2 (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+    "path": "D:\\New folder\\Akhanda 2 (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+    "mediatype": "video",
+    "size_bytes": 1632696327,
+    "uploaded_at": "2026-05-03T15:36:50Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122091",
+    "remote_id": "242122091",
+    "remote_folder_id": "1753444",
+    "tmdb_title": "Akhanda 2: Thaandavam",
+    "tmdb_year": "2025",
+    "tmdb_rating": 5.692,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg",
+    "tmdb_overview": "When all hope died, Akhanda arrived. He saved his family, protected his people, killed the wrongdoers, and retreated into isolation. But years later, new threats emerge putting the world in danger. And as the world burns, Akhanda returns.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242122091\", \"status\": \"U\", \"etag\": \"dd3440nks+PnQKQHI12Z9w==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242122091\", \"url\": \"/sapi/download/video?action=get&k=cKNrMwbAy9jek4w9fQGxvjrCRSTkRMtmfCUJyM-chdwHFOUEzcwQ_LpsqPXlQCfATznY4eZla9fGcv3LihMNjyBHoBOzc0E13wFTSzlWODRRlrtLs4qZYVt6RyjOXqQ4eu5U-WcKBRPoUdQYMrfjVsP0fdDvUZ2P-bTt7E62sIgM6K6dFRg&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=O7Re0bmTZ593YaOh8KHsQqCAJE36eW9_ztam7hwH84N9UIrYQPP1DJm8qDrgbs_7E8sTYfViplpr0BUZrZ-cNz0G5BYfmckZoXYhRY0K8SFa6JmKBlEZFSEBcnJKrOb5ZDYreqWJ5g0XVYZAd3fpXFhoGYCfyF1gor9CWbBWEYunA9OwB_BKzHORM6nxogwoSNE&node=1i204\", \"date\": 1777822609952, \"creationdate\": 1777822098000, \"modificationdate\": 1777822098000, \"uploaded\": 1777822496148, \"size\": 1632696327, \"name\": \"Akhanda 2 (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4\", \"metadata\": {\"duration\": 9861886, \"bitrate\": 1324449, \"codec\": \"h264\", \"height\": 536, \"width\": 1280, \"audiocodec\": \"aac\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 107, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=xBOwKnY5_qnIsW3Iwamm8B8N2ZCOasYgzFXMgjaSqR0CzjXcj1UyPT-m3TObjJMpQorcTq2Gd9S0owptPuAme-k2IuSCudLVvBNW9oFYhshy5HNGIqRvJxzKqkpGsz5FnydDDjRyXTTeHgop4VUYzKyi7hi3BXbq-y4A2AAiVTNAVVdEeOVecwfyAo1gp_oQO_8&node=1i204\", \"etag\": \"0dd3440nks+PnQKQHI12Z9w==\"}, {\"w\": 1024, \"h\": 428, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=O7Re0bmTZ593YaOh8KHsQqCAJE36eW9_ztam7hwH84N9UIrYQPP1DJm8qDrgbs_7E8sTYfViplpr0BUZrZ-cNz0G5BYfmckZoXYhRY0K8SFa6JmKBlEZFSEBcnJKrOb5ZDYreqWJ5g0XVYZAd3fpXFhoGYCfyF1gor9CWbBWEYunA9OwB_BKzHORM6nxogwoSNE&node=1i204\", \"etag\": \"0dd3440nks+PnQKQHI12Z9w==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"dd3440nks+PnQKQHI12Z9w==\", \"favorite\": false}]}, \"responsetime\": 1777822610024, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/-afPHjxLT-C6OQqnX84zXTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "66783",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Akhanda 2 (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
