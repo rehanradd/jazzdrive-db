@@ -1,0 +1,84 @@
+{
+  "name": "Sarvann-2017-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Sarvann-2017-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:42:33Z",
+  "remote_folder_id": 1753588,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124551",
+  "tmdb": {
+    "tmdb_id": 435029,
+    "title": "Sarvann",
+    "original_title": "\u0a38\u0a30\u0a35\u0a23",
+    "release_date": "2017-01-13",
+    "year": "2017",
+    "rating": 9.0,
+    "overview": "It is an action, drama film about an NRI boy Mithu, coming to India to connect to his true roots.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9eupRSlbFeLOR1FmrLbQCQ1sDWs.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      28,
+      12,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124551",
+    "status": "U",
+    "etag": "8VpFUoI9m0HfGzpKXUuuZw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124551",
+          "url": "/sapi/download/video?action=get&k=PInDqHRnywZjmNwSclDGhpdD7YDSroMunCHGM91Ypjdj60qFFgaNIKD_kEtFo2uZYNJ2y8RJZnzqVs2xZwYJEggCGX844b84jFpoeYF3f_S9lHN8V9KkJ3b4CtZhc5tNAa-SkGSPVARYiUIaePQFLZNW8FGQ69-7k7JVjYsktaKicYmcQSE&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=rwkdYDEdfGhnbJrL7tgO6OhcRP0BxsceZqW8NAc4jyxrhvCVzszYA7DuhhiRonTjYJ8yBmdryudoBBmb-CGcSjFeDFh-Vn7ASfaprOA_WgiIDtPgmgxDWj9GnS-xbWllkUx8-BybUxp_DiLGIlDw8cEb6E1ozT_f8LMYN2o2Vz9lB214OfE6_ocqiSF3L4Xbjs8&node=1i204",
+          "date": 1777833752184,
+          "creationdate": 1777833703000,
+          "modificationdate": 1777833703000,
+          "uploaded": 1777833738367,
+          "size": 357026459,
+          "name": "Sarvann-2017-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6727132,
+            "bitrate": 424580,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=i3aA6uCnYj7h7TA5nSXg0l9B_H39JFgTFmcey-f6c0BmLpaxekQ06j_pbDPKLJy4aPbQpjRxRYwsZv_ALDHKqmhKdjdKvD_09l6ILtJaSHUsm2lr1vQaYsQe6g4gAOAINp_fBfhJtX6RDtvNbFOcsfa_gv1qGJWuyucC2yds5HQpvhNermy2sxzFNwxk7pjvs0w&node=1i204",
+              "etag": "08VpFUoI9m0HfGzpKXUuuZw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=rwkdYDEdfGhnbJrL7tgO6OhcRP0BxsceZqW8NAc4jyxrhvCVzszYA7DuhhiRonTjYJ8yBmdryudoBBmb-CGcSjFeDFh-Vn7ASfaprOA_WgiIDtPgmgxDWj9GnS-xbWllkUx8-BybUxp_DiLGIlDw8cEb6E1ozT_f8LMYN2o2Vz9lB214OfE6_ocqiSF3L4Xbjs8&node=1i204",
+              "etag": "08VpFUoI9m0HfGzpKXUuuZw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "8VpFUoI9m0HfGzpKXUuuZw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833752252,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ALNoDdKtQ1-8hHjV5U7Ykjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sarvann (2017)",
+  "media_kind": "movie"
+}
