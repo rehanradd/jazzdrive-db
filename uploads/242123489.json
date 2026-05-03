@@ -1,0 +1,81 @@
+{
+  "name": "Sher-Bagga-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Sher-Bagga-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:26:20Z",
+  "remote_folder_id": 1753539,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123489",
+  "tmdb": {
+    "tmdb_id": 981189,
+    "title": "Sher Bagga",
+    "original_title": "Sher Bagga",
+    "release_date": "2022-06-24",
+    "year": "2022",
+    "rating": 8.5,
+    "overview": "Follows Shera, who on a journey to find the love of his life, meets Gulab. Both get together but Gulab ends up pregnant. She is unsure about bearing the child but he wants to keep it. The unlikely couple find themselves in a tight spot.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/i3GWQ2yVo48zMqybPy9vVKnsjZs.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iolOVNnS9MMXoAmQRHtKb56C0WK.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123489",
+    "status": "U",
+    "etag": "ZbvvKcdZh1E5825kEsMDnw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123489",
+          "url": "/sapi/download/video?action=get&k=xaBLP49hVP13bEGJ0EJ2F0zfio3omnxuYY22_Nw2NnkaZOpCjFmQzL1-v_WZC5U4PQ4of9Md90FBwItjSrHjZCtt3e4UPjXMfTZcKSOEUVoFfnfa-yHsmm8GX91pBygCt_8vLWS_8I4swjTIw-MwEVGtLliMpFRE3-F_H2IoxWBpqvkgKfo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=t0uzdc-A5GdjZS1woCGngO9aOWWOzu7QGjyhV_UYZJJlvQfiR8EQ5misuCfJEcaRr-ud0CP0e3BvLoGAkrLna-VtzwUDrBacaV6VqfVs2NUQ4UIKj8ramN7tcLhHgBigSGVzkuRcLGpFAIL24ZpDErdrJVALDa0N_y0X7JcnhtNMV50xrhOzDggVbHxpFzVDIkc&node=1i204",
+          "date": 1777832780010,
+          "creationdate": 1777832690000,
+          "modificationdate": 1777832690000,
+          "uploaded": 1777832750072,
+          "size": 475877272,
+          "name": "Sher-Bagga-(2022)-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8789033,
+            "bitrate": 433155,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Lq5yZaU_C-NFAC3bwYE_2CN32s_JySLYgNqFtVGegK55rOLUVWwjMNKtULFaJc8gPrXrwBUMjvRj7-vXi5Uagy9t9hfSFFJQNPMQzzLVHou4B8oEZ5sSDYEHEzTjUc7p5UdnCyW90R_Mda5p5SyYJWDRjKo_xWh_izwIgDCEwHRBVKUae0jLHgJlKlu-gAIgVC4&node=1i204",
+              "etag": "0ZbvvKcdZh1E5825kEsMDnw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=t0uzdc-A5GdjZS1woCGngO9aOWWOzu7QGjyhV_UYZJJlvQfiR8EQ5misuCfJEcaRr-ud0CP0e3BvLoGAkrLna-VtzwUDrBacaV6VqfVs2NUQ4UIKj8ramN7tcLhHgBigSGVzkuRcLGpFAIL24ZpDErdrJVALDa0N_y0X7JcnhtNMV50xrhOzDggVbHxpFzVDIkc&node=1i204",
+              "etag": "0ZbvvKcdZh1E5825kEsMDnw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ZbvvKcdZh1E5825kEsMDnw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832780079,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/bEE8g4drR1SNzhmkFTyOujk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sher Bagga (2022)",
+  "media_kind": "movie"
+}
