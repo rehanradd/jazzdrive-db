@@ -1,0 +1,83 @@
+{
+  "name": "Alappuzha Gymkhana (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Alappuzha Gymkhana (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:38:13Z",
+  "remote_folder_id": 1753447,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122098",
+  "tmdb": {
+    "tmdb_id": 1245571,
+    "title": "Alappuzha Gymkhana",
+    "original_title": "\u0d06\u0d32\u0d2a\u0d4d\u0d2a\u0d41\u0d34 \u0d1c\u0d3f\u0d02\u0d16\u0d3e\u0d28",
+    "release_date": "2025-04-10",
+    "year": "2025",
+    "rating": 6.538,
+    "overview": "A group of youngsters, after failing their plus two exams, aims to join a common college through the sports quota. They choose boxing as their sport. By luck, they manage to survive the district-level competitions. But what will happen at the higher levels?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/q4OwzcY6r2L1M1S6uYzmtzjwAqX.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/gndCUsT53TIykPAG393UqgjU69T.jpg",
+    "genre_ids": [
+      28,
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122098",
+    "status": "U",
+    "etag": "kT0XhXEitON1K23HQIPNCA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122098",
+          "url": "/sapi/download/video?action=get&k=gn0soSjgrkptkKql3h7SplQDIqTf06HAi8jp4dHCMf93or5U9olfuTkm2HQDQxJQ5Em2TeuXdxjlwbxvc0VknVCoocLZgxttB9fx2YmtmdgGURxaFngjPO9MYfKZYm1djsGE8nI14qut_K7-bSAQkpUizC9nM28zn_iUbBqAOmLXUz8Tzz0&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=8aL023DiNYzTIUhGIZuUU97FBjTDxDcJste4CqQg0BkaZnoqob4TWHVViX2_sa8Gd9TI2-PYIAFNe-KQ8aKf481ZIpopDQGgb21b2D8r-7lyo1CY8-KAzarIHiwY3orUucGtzYbRELqYB_Q--Mk_QIbF_KTXFesoT5UHpESq8eZOLQZstIsHMIjF824eWFUGA4g&node=1i204",
+          "date": 1777822692517,
+          "creationdate": 1777822332000,
+          "modificationdate": 1777822332000,
+          "uploaded": 1777822643617,
+          "size": 1551930812,
+          "name": "Alappuzha Gymkhana (2025) Hindi Malayalam 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8357748,
+            "bitrate": 1485501,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=2xOhEhHnYkkQVCZ7VV8VAVS7rUZmlQOXA2f2iLwrbkJ1SQaVEGtCf9YYO9LfVd1ztrxQpX96EDl_GaLHyEALA4shUiDVMfy50WzIxBhdM_QPUXFgY2WyiHxFwLEbjF6GhKE4ulUpzKXS8upfbd4jp092ahL71ItWDu3j1jDSp9e_6XjwkbyC9p4jBkh8ghTlqF0&node=1i204",
+              "etag": "0kT0XhXEitON1K23HQIPNCA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=8aL023DiNYzTIUhGIZuUU97FBjTDxDcJste4CqQg0BkaZnoqob4TWHVViX2_sa8Gd9TI2-PYIAFNe-KQ8aKf481ZIpopDQGgb21b2D8r-7lyo1CY8-KAzarIHiwY3orUucGtzYbRELqYB_Q--Mk_QIbF_KTXFesoT5UHpESq8eZOLQZstIsHMIjF824eWFUGA4g&node=1i204",
+              "etag": "0kT0XhXEitON1K23HQIPNCA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kT0XhXEitON1K23HQIPNCA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777822692584,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/T2xRtlukS6aw1iOfQnbMBzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Alappuzha Gymkhana (2025)",
+  "media_kind": "movie"
+}
