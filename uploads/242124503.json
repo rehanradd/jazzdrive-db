@@ -1,0 +1,83 @@
+{
+  "name": "Television-(2022)-Punjabi-HDCAM--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Television-(2022)-Punjabi-HDCAM--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:31:05Z",
+  "remote_folder_id": 1753551,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124503",
+  "tmdb": {
+    "tmdb_id": 994907,
+    "title": "Television",
+    "original_title": "\u0a1f\u0a48\u0a32\u0a40\u0a35\u0a3f\u0a1c\u0a3c\u0a28",
+    "release_date": "2022-06-24",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "Television is a historic movie, set in an era when television was a novel and unprecedented. The story of this movie revolves around the hero's love story and the fact that owning a television was considered an important status symbol.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ofzsZEi7RPiIr5bf7odYCMNKKoT.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jKv6pHCbaIgLlkdD3lnZMPkNNGm.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124503",
+    "status": "U",
+    "etag": "eFwB9LMC5bH4Qd10vi/Dfw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124503",
+          "url": "/sapi/download/video?action=get&k=Q7j9-JArs3BLoCe_AUN1-ys7jcRB3sD5g2D9pKFD5uhoF4oqbm0Nt9eZeSmbZQxGxzOvZoheVn7462TV0BSx_0x_UmTf-bxR4-z6VwCpkU5p9ae66PWKhSXAl9xg2I5-XtIg0xlB9hI15wmH5s4OGC7mm7qI8zzsj4JSXk5UMWWjfqo_fqk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=dd77MChlatJ3R9g-BuhBKOBmxGnA06hXCsOEwazY_wUTOTYaS0_BRHB0QRU98QhJiWoXCRHEUqLvA_Nbcx1_y4UOoF7to7DToP8FJ_k5xTA7ra6PlKacA3l8rpQp1sGtIvMdDpwjof71AIKoLyNNPUqal_KL1xe2kY4XFBeroRr6DVUHJKsZKcJ6bBPa7zUoxGQ&node=1i204",
+          "date": 1777833064765,
+          "creationdate": 1777832966000,
+          "modificationdate": 1777832966000,
+          "uploaded": 1777833050719,
+          "size": 341382854,
+          "name": "Television-(2022)-Punjabi-HDCAM--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6384489,
+            "bitrate": 427765,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=-25ioBxgbZuzSRIp69WbJKGXisM2MBXA_Q8hGgec_9LpHQyG-ng1mRNBH7tbxbESJ8NMLaufxOj4Cg-LHClHsRwzL_zCoTBK4efLbN7Dc-PAG7V9EdrsrUKRdlD5WaKXsxQ06ZiZrXvx7TVCmq0y0Tc6ELy6LMTAPQWpwL1LJteMSlIMymzedZ46rhrCDezRrN0&node=1i204",
+              "etag": "0eFwB9LMC5bH4Qd10vi/Dfw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dd77MChlatJ3R9g-BuhBKOBmxGnA06hXCsOEwazY_wUTOTYaS0_BRHB0QRU98QhJiWoXCRHEUqLvA_Nbcx1_y4UOoF7to7DToP8FJ_k5xTA7ra6PlKacA3l8rpQp1sGtIvMdDpwjof71AIKoLyNNPUqal_KL1xe2kY4XFBeroRr6DVUHJKsZKcJ6bBPa7zUoxGQ&node=1i204",
+              "etag": "0eFwB9LMC5bH4Qd10vi/Dfw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "eFwB9LMC5bH4Qd10vi/Dfw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833064840,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/urbpE_4sTj2I2jbdxdYYoTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Television (2022)",
+  "media_kind": "movie"
+}
