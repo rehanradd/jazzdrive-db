@@ -1,0 +1,83 @@
+{
+  "name": "Brother (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Brother (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T16:38:02Z",
+  "remote_folder_id": 1753483,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122769",
+  "tmdb": {
+    "tmdb_id": 1008633,
+    "title": "Brother",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bb0\u0bcd",
+    "release_date": "2024-10-30",
+    "year": "2024",
+    "rating": 6.5,
+    "overview": "Karthik, an unwavering idealist, goes on a journey to restore harmony in the fractured family and prove himself, when his pursuit of justice inadvertently clashes with family loyalty.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hTVmE8Hou72Es4XQnTR9CDkJgq4.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/azukzBMEcJGrSR0ZxOFTSdNM1Mq.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122769",
+    "status": "U",
+    "etag": "m3ytH769unQCdEfYAjrB1A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122769",
+          "url": "/sapi/download/video?action=get&k=4fWv5kkhfOoyRECMQPvGXnmFnQdkNDHFGqtDcbOwuwaK2Y4We0J-wLNEtpbln4q9Ne0tTSkDpAq-GIwBNydkILZsl8qq4AbBE8JEhEggYvreRwPqpfObpbnFbIugffUwX03GFefwYN9TPVfVjmcaM45vxPM8qMhCO040ErsaqJDaiLsuGM8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=B2mXVSJVGJCGdJraUl9n7M-HP4b-7Z3o5xCmw5VARFKHbT4NtcxhdI4kjzd25wHfPVEz-1Bskk7OEeuZqoiOFubYecNM1LQ0XY6q7myvxoA5XVFbmQnxV9d_dZGtaTLMUm5uWCInLaLO863ozHf1jyR0Vbf0sSpPyvWtGxvskaG1m7wCgqPf4pOeLZWmmxwoWho&node=1i204",
+          "date": 1777826281121,
+          "creationdate": 1777825896000,
+          "modificationdate": 1777825896000,
+          "uploaded": 1777826234114,
+          "size": 1439496178,
+          "name": "Brother (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 8070228,
+            "bitrate": 1426969,
+            "codec": "h264",
+            "height": 528,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 105,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=MPHGBJHjwgr5ebacN2Q2S8dPIPwDsJs06rY9AUZ-xncTQ63r3PWrkCDVeRHs0zu_MpASxibcZSzuYokOP8OxzPtGKCY6uxsmzB8L6dYhjBKrs3DNTZFdHOroYRStLx-iw7bFSV1VCeI1biA1Vna32IvuBWMRKxKqKz_fwguoxEdd-DGxK5fWbDLwZM7ckl8d1l8&node=1i204",
+              "etag": "0m3ytH769unQCdEfYAjrB1A=="
+            },
+            {
+              "w": 1280,
+              "h": 528,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=B2mXVSJVGJCGdJraUl9n7M-HP4b-7Z3o5xCmw5VARFKHbT4NtcxhdI4kjzd25wHfPVEz-1Bskk7OEeuZqoiOFubYecNM1LQ0XY6q7myvxoA5XVFbmQnxV9d_dZGtaTLMUm5uWCInLaLO863ozHf1jyR0Vbf0sSpPyvWtGxvskaG1m7wCgqPf4pOeLZWmmxwoWho&node=1i204",
+              "etag": "0m3ytH769unQCdEfYAjrB1A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "m3ytH769unQCdEfYAjrB1A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777826281190,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/qkBZp6XMQva-72_DShlxtTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Brother (2024)",
+  "media_kind": "movie"
+}
