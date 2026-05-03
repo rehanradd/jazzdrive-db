@@ -1,0 +1,83 @@
+{
+  "name": "Ambarsariya-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Ambarsariya-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:48:59Z",
+  "remote_folder_id": 1753607,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124571",
+  "tmdb": {
+    "tmdb_id": 389231,
+    "title": "Ambarsariya",
+    "original_title": "Ambarsariya",
+    "release_date": "2016-03-25",
+    "year": "2016",
+    "rating": 6.1,
+    "overview": "A young man embodies the pride of living in Ambarsar.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xba2jvfGZ4y6Z3DhwC5vXsvKANb.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/j7TAoUO1dmPulx74San8BiVsitP.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124571",
+    "status": "U",
+    "etag": "iZdYgRFDUdBNt2xcCw6jWg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124571",
+          "url": "/sapi/download/video?action=get&k=JWuKWpIbr7arbdPFv-vcieGzaZMaZ3HNyeuS2zkszr7BhhZu5Ef3oQ_PJqcv-2IFb1nzm73KO3rDPVrTsDrIpGboRhFB9T4MyPUs9oSbGQdpv1gAe2New-MhuJoHbJ0GFCI0rIikImsmjscpP-tGaVuRvW-Nja5W82a8fkc32-9NbjdK5Pk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=M8h4MrttQWNMe1jtr9zAznHonueZnabpLt42npkaaLwUmb7j2M7lA-dIMsM1ABcHU5yDQxLvFVgtWkKywnEQ574_C1vR4OmalzZssgftofx1VPKHlALkgZrU00OsSVA0D47FZqIoWUBncZHxwApTdrb86wT333-uVrKHCEaIUleaWPXDAq7uBPSw9glZ5it6mLA&node=1i204",
+          "date": 1777834137783,
+          "creationdate": 1777834043000,
+          "modificationdate": 1777834043000,
+          "uploaded": 1777834124060,
+          "size": 442150367,
+          "name": "Ambarsariya-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8400142,
+            "bitrate": 421088,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=JbQewgzIWLrRkpPJwlxm_5ouAKoacy20gX6a_vdUQVyA1hcp-ixYUNSgSJ7LGvXbN5Sk5erIGG1ml-bCGsT5Bd9HWa0tmf_4p4p-lGIYumGdPdhLMx_kTay_l9DohdRsz_Z8iz7_sgx0HmZSbwHq6MpeCtkPrYLO6m6NVEqZ3FoPxyfCoVH8sT6cjLuSrPOBYYE&node=1i204",
+              "etag": "0iZdYgRFDUdBNt2xcCw6jWg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=M8h4MrttQWNMe1jtr9zAznHonueZnabpLt42npkaaLwUmb7j2M7lA-dIMsM1ABcHU5yDQxLvFVgtWkKywnEQ574_C1vR4OmalzZssgftofx1VPKHlALkgZrU00OsSVA0D47FZqIoWUBncZHxwApTdrb86wT333-uVrKHCEaIUleaWPXDAq7uBPSw9glZ5it6mLA&node=1i204",
+              "etag": "0iZdYgRFDUdBNt2xcCw6jWg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "iZdYgRFDUdBNt2xcCw6jWg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834137846,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/KfcBKLR0TIu3Tjr-LiD6ljk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ambarsariya (2016)",
+  "media_kind": "movie"
+}
