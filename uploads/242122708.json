@@ -1,0 +1,79 @@
+{
+  "name": "Antha Naal (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Antha Naal (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:53:16Z",
+  "remote_folder_id": 1753455,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122708",
+  "tmdb": {
+    "tmdb_id": 1403357,
+    "title": "Antha Naal",
+    "original_title": "Antha Naal",
+    "release_date": "2024-12-13",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "A film director, his assistants and the cook go for a story discussion in a palatial bungalow. There, they discover footage of a family trapped by an unidentified \"maskman.\"",
+    "poster_path": null,
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122708",
+    "status": "U",
+    "etag": "FQV7usK6vsjWga60Re+hCw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122708",
+          "url": "/sapi/download/video?action=get&k=coXtYc1FcTN4Lv_uPN-vBxX5C0gLDGnwBnsgxtqFaWaSWjn2ICffnt6HjIaTLqIk66I__4wMLk0QhuykxjaezoyeYryu9wUECzDlu-wao5NolyUq3FWdopJqwAGTCUE5axERyPSgEWDVhw4Ykfi2bL-fbjtRFgDhxgLZoEug9Cm49TfnzDk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=pene3xY6kcR327i5JdT4s1eHtiJhMOj_nWuysvTSB8GlOzqqPPADhcgkVARpBmAsMn023MO_jnQ1lOYUdwlsww686MCnKFGsmuAOnNVtqPPWK0SSVP7FoKIqxkiL3-L9fkJQ_CLxT2AA67BbbYK-wTaPHkBS81uinBQRyyi0GK45rkD3Oy75RgPuIrALKP2tQRg&node=1i204",
+          "date": 1777823595147,
+          "creationdate": 1777823241000,
+          "modificationdate": 1777823241000,
+          "uploaded": 1777823562494,
+          "size": 1031677401,
+          "name": "Antha Naal (2024) Tamil HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 5746908,
+            "bitrate": 1436149,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=5Nokhr1nfoeTQb6r1KVPBSrgz6bKt3sjOinKOtVFuCoH5-wo9wEfCV4YYA-P9cZJGrPrlounDJMgDDWEwbh6gxqYscqHZ4TuF508coF4BIYM_CNA3rrd7rKGX4Xaow059jGZ1qQLMuFPF-h_6XabM7EPl3CZa04j-r5SEqLUWegttwU9vlaOoaCTPrLgWtEb6eU&node=1i204",
+              "etag": "0FQV7usK6vsjWga60Re+hCw=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=pene3xY6kcR327i5JdT4s1eHtiJhMOj_nWuysvTSB8GlOzqqPPADhcgkVARpBmAsMn023MO_jnQ1lOYUdwlsww686MCnKFGsmuAOnNVtqPPWK0SSVP7FoKIqxkiL3-L9fkJQ_CLxT2AA67BbbYK-wTaPHkBS81uinBQRyyi0GK45rkD3Oy75RgPuIrALKP2tQRg&node=1i204",
+              "etag": "0FQV7usK6vsjWga60Re+hCw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "FQV7usK6vsjWga60Re+hCw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777823595204,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/5AY7MciFQj6gV1AL8ixY2Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Antha Naal (2024)",
+  "media_kind": "movie"
+}
