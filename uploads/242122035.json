@@ -1,0 +1,83 @@
+{
+  "name": "Abbara (2022) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Abbara (2022) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T15:20:29Z",
+  "remote_folder_id": 1753433,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242122035",
+  "tmdb": {
+    "tmdb_id": 1090938,
+    "title": "Abbara",
+    "original_title": "Abbara",
+    "release_date": "2022-11-18",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "Abbara is a action entertainer movie directed by K Ramnarayan. The movie casts Prajwal Devaraj, Rajshri Ponnappa, Nimika Ratnakar and Lekha Chandra are in the lead roles. The Music composed by Ravi Basrur. The film is produced by Basavaraj Manchaiah.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/g7X4FmgN58DyXKD17F15fCMOeEs.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ljLvH44lUNNxf2TIEBFtORVo7TL.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242122035",
+    "status": "U",
+    "etag": "UvX8CSeekOjN+qdXSdqp/g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242122035",
+          "url": "/sapi/download/video?action=get&k=j7DO6_xDgwMSzoiOCfLHlSE9xfEOpkeqVXn31dwj-FDxUke8qsvornCRLLvfUC8x8GyDoB8hSKs0OZIRJ96BYbXr1O8dXHpIqL32zFBuL6_NF5jNvVAI67PX6ojBIOjvhXIZA0r7gdFXHeDAGs9_kT2088vhoMMmN9doOIB7rULvwrKfdCI&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=8uOh31n-qMuw14xOM2FNGPZRSAAnosftU9E33SLXP0DtYaXJBR1X5r2_poBj8Tahp7J3z5fLoaVJHBzQrco9ib1jWGMfKQ57pMrWKm7fKDcyatg7_Zz9qnmlyg6o761aXL-LN4FUCQ6sGAyrIqD5u_U5hR5-L0G_MpMGBQhI7OD0MADsYzNx6rubEHCEvaFnYM0&node=1i204",
+          "date": 1777821628571,
+          "creationdate": 1777821209000,
+          "modificationdate": 1777821209000,
+          "uploaded": 1777821553628,
+          "size": 1619532412,
+          "name": "Abbara (2022) Hindi Kannada 720p WEBRip x264 ESub [DDN].mp4",
+          "metadata": {
+            "duration": 8719283,
+            "bitrate": 1485931,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=46VwDDljPZAPyIPj_w5UoirbWbWt1Zz9fDYTnUGBP4GwMsywbkQL2cOGpNzdffFfjKpB9SoPGMpmVy0ENMzkbLDtB16vxQLtxVHyHUWVJzWiOOWhOSOeUtgSJKIGT6BE8npbRHjlWWthgNpSOKkkc4IpG_ffsocyijadZdSlDzWdpc6s_ALDOz8z4PByMztp_hU&node=1i204",
+              "etag": "0UvX8CSeekOjN+qdXSdqp/g=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=8uOh31n-qMuw14xOM2FNGPZRSAAnosftU9E33SLXP0DtYaXJBR1X5r2_poBj8Tahp7J3z5fLoaVJHBzQrco9ib1jWGMfKQ57pMrWKm7fKDcyatg7_Zz9qnmlyg6o761aXL-LN4FUCQ6sGAyrIqD5u_U5hR5-L0G_MpMGBQhI7OD0MADsYzNx6rubEHCEvaFnYM0&node=1i204",
+              "etag": "0UvX8CSeekOjN+qdXSdqp/g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "UvX8CSeekOjN+qdXSdqp/g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777821628629,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/4q1CZHSZS1aqv_4herVddTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Abbara (2022)",
+  "media_kind": "movie"
+}
