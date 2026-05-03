@@ -1,0 +1,82 @@
+{
+  "name": "Lovestaan-2023-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Lovestaan-2023-Punjabi-HDRip--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:09:57Z",
+  "remote_folder_id": 1753678,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124756",
+  "tmdb": {
+    "tmdb_id": 1105392,
+    "title": "Lovestaan",
+    "original_title": "Lovestaan",
+    "release_date": "2023-03-22",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "A special kind of doctor who treats lovestruck patients to get over their heartbreaks is helping Jeeta recover from his breakup.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ajuGui3rbRGCMMueePlWvOtbBFp.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nL2peTHL2HYy00Ym13pwwOLGI1M.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124756",
+    "status": "U",
+    "etag": "b6RNkfIsZBzOZe/QFCJHwA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124756",
+          "url": "/sapi/download/video?action=get&k=cbtZ4xc8lMy6SrMYeUvNjVwg9yUKKzWRLwQB9BB2WAMs2jLatkA-JtGtn81g2OkUQ61n72UVbsPXIv7lcyMSK8FICab1w89c5ER4C3V2kIaUdyrnnI5BDhInbeWBBWS6kwas-b5EJDIRZ8_qNjMOXnt2xm815PPNRk6S4LvWCJGwLxQqpX4&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=iJKy_IkXzk_ohyLnVGSNfztPfsQjE8md-xvlcWeQ9fNO7JrCmVNKXKTUMtCZOlbuPU9OeK3wMlfm8oHTSIwb3kzwuE8Q_to7jGQa4JoopbsTwCaUiMqXP7mU6hNVK4xuO102dDhhysmjYQRX4d5Jk8nMdi-QLMlUV4dm-uyOy_YN6GIGJHtiCxGX_hA0gZw4ia4&node=1i204",
+          "date": 1777835397074,
+          "creationdate": 1777835358000,
+          "modificationdate": 1777835358000,
+          "uploaded": 1777835389101,
+          "size": 263547156,
+          "name": "Lovestaan-2023-Punjabi-HDRip--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 4947075,
+            "bitrate": 426186,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=HzZoq2XghmbtEzsCHLCsOYV3sgEudDLh1AyGMN8bF3GDUy8kZMDBssK0sjQg0l0BQzCbhtMekrjy7X213TB-SSQZE6jew8DEVi3zYD4BoldFL3r0X_7mrTFLBg7WQPRrpTpVX9CT17YDslA3EWU0CQ-DYPLhwS3PXhEkECvkIP269b32PXAznlzvHQnk20_uBK4&node=1i204",
+              "etag": "0b6RNkfIsZBzOZe/QFCJHwA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=iJKy_IkXzk_ohyLnVGSNfztPfsQjE8md-xvlcWeQ9fNO7JrCmVNKXKTUMtCZOlbuPU9OeK3wMlfm8oHTSIwb3kzwuE8Q_to7jGQa4JoopbsTwCaUiMqXP7mU6hNVK4xuO102dDhhysmjYQRX4d5Jk8nMdi-QLMlUV4dm-uyOy_YN6GIGJHtiCxGX_hA0gZw4ia4&node=1i204",
+              "etag": "0b6RNkfIsZBzOZe/QFCJHwA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "b6RNkfIsZBzOZe/QFCJHwA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835397135,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CI_PYtTOS8ufVQ1nz7Z5qDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Lovestaan (2023)",
+  "media_kind": "movie"
+}
