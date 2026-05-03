@@ -4254,5 +4254,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "8661fcc21385629a4814acc14ed06bc3731ddb1992f88249b854dba0a7a79a4a": {
+    "name": "Shaadi-Dahej-And-Gangster-(2021)-Hindi-HDRip--480p-[Orgmovies].mp4",
+    "path": "D:\\Punjabi\\Shaadi-Dahej-And-Gangster-(2021)-Hindi-HDRip--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 282868078,
+    "uploaded_at": "2026-05-03T19:06:32Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124742",
+    "remote_id": "242124742",
+    "remote_folder_id": "1753665",
+    "tmdb_title": "Shaadi, Dahej and Gangster",
+    "tmdb_year": "2021",
+    "tmdb_rating": 0.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/joyzVpCIpSfj3e9ZUz6Okv8DZLK.jpg",
+    "tmdb_overview": "Jignesh Bhai Patel (Alok Nath) is a billionaire NRI businessman living in London with his wife Sudha (Reema Lagoo) and son Harsh. Their household is highly patriarchal and strictly follows Indian traditions. Harsh decides to marry a girl from India, unaware of the conspiracy set by his prospective in-laws, Deepak Tijori and Supriya Karnik. Will an entire gang in the guise of the \u2018bride\u2019 and her relatives bring his doom?",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242124742\", \"status\": \"U\", \"etag\": \"4sht68OuECCQtX0k6+e4IA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242124742\", \"url\": \"/sapi/download/video?action=get&k=-eE3YuDmGtFyZG5Y8mkFgg0xnldq0cXWK_KkNncTOnr1IlupfkB2AzGxxujzlHcLmstRwEjJNxMs04rQ8U95jjJwCP2kyt9vMap7t-qVYVB7qXKTk7YOH0Gb2_8yOHe3pbWZ9NIGQPwDuLsUtgZfDDTphBvkMLV-RwC_GwMN-hdQx7Zf-OY&node=1i204\", \"viewurl\": \"/sapi/download/video?action=get&k=DCSWu3YuqeVHzxS-FRbId3w_cjEUdBDmlJv8U-W1fNEFM6syOx7cOOUGQgHegxUkGYA_ky9rgjSf4F2bT4xRh_acfqZs7zJWD7tcI-rGBYqN6PIkfFjUGy1-IRE3xWcqeDrTaY-h4ZXJz5vF_bKl-deY6sxZ6sTi1S0RT3X4CjuxtLmeLn2xNdXHw6LeG-Rp_8o&node=1i204\", \"date\": 1777835191499, \"creationdate\": 1777835150000, \"modificationdate\": 1777835150000, \"uploaded\": 1777835181609, \"size\": 282868078, \"name\": \"Shaadi-Dahej-And-Gangster-(2021)-Hindi-HDRip--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 5382240, \"bitrate\": 420446, \"codec\": \"h264\", \"height\": 400, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 142, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=Jk1i_vfIGj8S2lYL9wacNoJsHzEOmLs9STLvuUcND4nYe8CPqp9aMm1cp3xN6uzqorbTiuvH_iCVOLwa36X0xHDRPL3f2umsb1df_W9uO6sVRDHunDixxgFhONalBXcNzFlPzJpB0YMRCQZ4k1TQ_Bwd-HszTiep6keP6aR0-aE2JIJG9N4G88SFY2LwWw0TxJM&node=1i204\", \"etag\": \"04sht68OuECCQtX0k6+e4IA==\"}, {\"w\": 720, \"h\": 400, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=DCSWu3YuqeVHzxS-FRbId3w_cjEUdBDmlJv8U-W1fNEFM6syOx7cOOUGQgHegxUkGYA_ky9rgjSf4F2bT4xRh_acfqZs7zJWD7tcI-rGBYqN6PIkfFjUGy1-IRE3xWcqeDrTaY-h4ZXJz5vF_bKl-deY6sxZ6sTi1S0RT3X4CjuxtLmeLn2xNdXHw6LeG-Rp_8o&node=1i204\", \"etag\": \"04sht68OuECCQtX0k6+e4IA==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"4sht68OuECCQtX0k6+e4IA==\", \"favorite\": false}]}, \"responsetime\": 1777835191564, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/y0w35Rd2Rba5Bb8t8kCVWTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67597",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Shaadi Dahej And Gangster (2021)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
