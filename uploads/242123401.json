@@ -1,0 +1,72 @@
+{
+  "name": "Daaku Maharaaj (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "path": "D:\\New folder\\Daaku Maharaaj (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:00:15Z",
+  "remote_folder_id": 1753503,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123401",
+  "tmdb": {
+    "tmdb_id": 1202235,
+    "title": "Daaku Maharaaj",
+    "original_title": "\u0c21\u0c3e\u0c15\u0c41 \u0c2e\u0c39\u0c3e\u0c30\u0c3e\u0c1c\u0c4d\u200c",
+    "release_date": "2025-01-12",
+    "year": "2025",
+    "rating": 5.6,
+    "overview": "A violent outlaw takes a job as a personal driver in order to protect the life of a little girl.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rGW9ad5TERuoluGSkgF1wHXP45H.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fWLfoaen7tv3mUT65KWHg7zCFYn.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123401",
+    "status": "U",
+    "etag": "PvoNVTgCUyo1qt2aplgciQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123401",
+          "url": "/sapi/download/video?action=get&k=xcg44dw96-VpeaA4q-qmWJ27VIDz8M0DOW_gi9dA1fxnNcHKEJN2TFO9SHtsrwA3fs6CennFnE53ZX-I0eCT4NSUPOHhc45usIWTodoPTziq0QtOHtn6ZnG8gwEVijfJLbxDnvk4P4g_eRLqL_jSuDTPBWk1K1x40pFt90lz3iP-7MLBxN8&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=OW4j3vW2oflU7pk1YNwqlkDhVS9Ov4KSkhCPRknMLEMSw4V7f-wToW-N2wWXFKeKOjv8cIZyTNutdscYxuesr5-jL6791ZMXYhTesj7aeDs1d5xrq4nEXn_231KW845xkdZVw-wv-j7L6ZBBcoUFMr1LnXTK26RIwow5tDYqBzfCiqWjikYjJ9zuSMb_-wQONuM&node=1i204",
+          "date": 1777827614725,
+          "creationdate": 1777827380000,
+          "modificationdate": 1777827380000,
+          "uploaded": 1777827573151,
+          "size": 1094104309,
+          "name": "Daaku Maharaaj (2025) Hindi Telugu 720p WEBRip x264 ESub [DDN].mp4",
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=PSF0HQ6ogZFB2ky5Y0uj2e2UtI4_AAciG5Kjw7zf-fWWAZLXJkFAq2jkiRb_5wfXDF1SqgDU3NhoL7bTlj4UyUH2oVHn1QeIKs5Oskfi2QfewREnEyRbaaATTGQegtHXBlIHC2oESZfhV8htMcaGRbop2xt4XjsdllUysjLEedJ9s66ggx4-H6cvS9Gs9mjBADo&node=1i204",
+              "etag": "0PvoNVTgCUyo1qt2aplgciQ=="
+            },
+            {
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=OW4j3vW2oflU7pk1YNwqlkDhVS9Ov4KSkhCPRknMLEMSw4V7f-wToW-N2wWXFKeKOjv8cIZyTNutdscYxuesr5-jL6791ZMXYhTesj7aeDs1d5xrq4nEXn_231KW845xkdZVw-wv-j7L6ZBBcoUFMr1LnXTK26RIwow5tDYqBzfCiqWjikYjJ9zuSMb_-wQONuM&node=1i204",
+              "etag": "0PvoNVTgCUyo1qt2aplgciQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "PvoNVTgCUyo1qt2aplgciQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777827614774,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/jN5BWTNZSX6vfo4V_eI2lzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Daaku Maharaaj (2025)",
+  "media_kind": "movie"
+}
