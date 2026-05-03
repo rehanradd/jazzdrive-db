@@ -1,0 +1,81 @@
+{
+  "name": "Bebe-Main-Badmash-Banuga-(2026)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Bebe-Main-Badmash-Banuga-(2026)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:23:16Z",
+  "remote_folder_id": 1753529,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123479",
+  "tmdb": {
+    "tmdb_id": 1621842,
+    "title": "Bebe Main Badmash Banuga",
+    "original_title": "Bebe Main Badmash Banuga",
+    "release_date": "2026-02-06",
+    "year": "2026",
+    "rating": 6.0,
+    "overview": "A gangster-in-training kidnaps the daughter of a prominent businessman in an attempt to win his boss' favour, but gets caught up in a web of deceit and conflict.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xs1UbPD98BKoKrlhw4BhrGHjg4S.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6lND58fpy5igOgMwmL7VgG7Zyol.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123479",
+    "status": "U",
+    "etag": "YDXwgGYN16AfYnstG9tZGA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123479",
+          "url": "/sapi/download/video?action=get&k=rf6Gcbuoxml2y5niDLCtMeHyzvmnZLU_LF6a5bgdXCR_00Zk82atC96iwVJCtRQBdzyojShkm7098uOCLg1N4dr3cACKs42p8GWIb3cKyVRgGwl4qhMZRFLiDS5PzXM1spakdMEAPIOK4ndWJEAiWMcoJWt5ra4qShaSUXCV9ha1_imPRJA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=g8GnH5dGazOynv00mvI6qT7TvidYe8VxA8jTCuDY9WAU8IkzGmCwPX36naEWiNVwoXvsxIW4vv81GAIE2nBwhGjlpPJ8VQaPg3Ii0eqa46XURZJ_r0Ikc6xc7jYThNcbIrh9ARwlY3w9FuyIFJpg7tmUqyUqc1JC-BqFx86-hyF0dXsC-re1N6d4dYavBpxCCy8&node=1i204",
+          "date": 1777832595861,
+          "creationdate": 1777832531000,
+          "modificationdate": 1777832531000,
+          "uploaded": 1777832581923,
+          "size": 399320199,
+          "name": "Bebe-Main-Badmash-Banuga-(2026)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7492821,
+            "bitrate": 426349,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=LAmRgSVUMY0wLhBKdnRVFTivViZq6R-TYCbY_R5aZgOZzzXOWNWo9VU5Vg5H2gVNTJlgJPObZ6U4w5DHdPvAzyri54nzLvA7dcAmBUTQrx-UoRUuCnU6aB7bfMITV_0RUSjc8CkhaDAAg9Fu8-iLBVev6bjBPGPmlls0AoYNY5TpIyUukTb_4aEb1oJImuW1Crg&node=1i204",
+              "etag": "0YDXwgGYN16AfYnstG9tZGA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=g8GnH5dGazOynv00mvI6qT7TvidYe8VxA8jTCuDY9WAU8IkzGmCwPX36naEWiNVwoXvsxIW4vv81GAIE2nBwhGjlpPJ8VQaPg3Ii0eqa46XURZJ_r0Ikc6xc7jYThNcbIrh9ARwlY3w9FuyIFJpg7tmUqyUqc1JC-BqFx86-hyF0dXsC-re1N6d4dYavBpxCCy8&node=1i204",
+              "etag": "0YDXwgGYN16AfYnstG9tZGA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "YDXwgGYN16AfYnstG9tZGA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832595921,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/cCWqsCYJScydA7ob_lNfiTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bebe Main Badmash Banuga (2026)",
+  "media_kind": "movie"
+}
