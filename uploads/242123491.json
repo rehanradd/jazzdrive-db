@@ -1,0 +1,82 @@
+{
+  "name": "Snowman-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Snowman-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:27:16Z",
+  "remote_folder_id": 1753540,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123491",
+  "tmdb": {
+    "tmdb_id": 1012075,
+    "title": "Snowman",
+    "original_title": "Snowman",
+    "release_date": "2022-01-07",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "Police track a serial killer terrorizing the snowy Canadian wilderness, while a victim's spouse seeks revenge.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sfzsPyztEb13DBIewsdOcIyXgvi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tAOn7U87WbcNqjRhu6HcGJtKspj.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123491",
+    "status": "U",
+    "etag": "kRCtTyBP3wu+45CDwuP9jQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123491",
+          "url": "/sapi/download/video?action=get&k=097Rv315UD0ZC9X3V2hfxxIh6Aq_GwCP8qVGyILkDWCY4hVlFMztf8D9c9hi5GbEDYYc9PfZ-az9Vm1GP3rJP7jBk5e14Xr6Y5RXGKIePj_pdoNHE9CT9xLwz7OwjB4tthaIT80u0z7bVCOfE19NTzAEs59VuI36Rz2qz2Zvx-f5piHFNaw&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=iYH_yxRxDbytrTp9Z4fzqIi-dl4lYcvIfkUpB9TWtKsHdJzOr51Ps9mp51YYlkVi0M4zy4L-nI_lz5pQ1_ETwDdkzI8I2-GLumjK4I4cegnBAbofBXWX8P8EsNfxE3RAAK_IQ6hQ8mNTB5JtJ3E5qzNCfwYk0QazD8yfie7DLesXqhbcK7eV_bM_yA-C5q7NBIU&node=1i204",
+          "date": 1777832835818,
+          "creationdate": 1777832749000,
+          "modificationdate": 1777832749000,
+          "uploaded": 1777832824181,
+          "size": 248537387,
+          "name": "Snowman-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 4635951,
+            "bitrate": 428886,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=SyZ5W4zYjgsg4f9L0g97ifDWbu_mNgCGdXqO8JI3dIJajWQ0O4YDSN5xMuLZWfNezP79Pd1J1Vn0qiyCtPsb95UVgKdbwbpWK4k5YiVFwAdgG_0Zxdbt9cUri_kgh9pLBG2zzubtNSvWPU0HohZ1R_3cILqAZmSkbxtejfogqZ7CfNQbFOjbaY97Xm9OqK7OD5U&node=1i204",
+              "etag": "0kRCtTyBP3wu+45CDwuP9jQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=iYH_yxRxDbytrTp9Z4fzqIi-dl4lYcvIfkUpB9TWtKsHdJzOr51Ps9mp51YYlkVi0M4zy4L-nI_lz5pQ1_ETwDdkzI8I2-GLumjK4I4cegnBAbofBXWX8P8EsNfxE3RAAK_IQ6hQ8mNTB5JtJ3E5qzNCfwYk0QazD8yfie7DLesXqhbcK7eV_bM_yA-C5q7NBIU&node=1i204",
+              "etag": "0kRCtTyBP3wu+45CDwuP9jQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kRCtTyBP3wu+45CDwuP9jQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832835886,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/zo68xMT4QqibuwqgMqdznTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Snowman (2022)",
+  "media_kind": "movie"
+}
