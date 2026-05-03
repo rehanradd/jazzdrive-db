@@ -1,0 +1,83 @@
+{
+  "name": "Ardaas-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Ardaas-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:48:47Z",
+  "remote_folder_id": 1753609,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124573",
+  "tmdb": {
+    "tmdb_id": 386587,
+    "title": "Ardaas",
+    "original_title": "\u0a05\u0a30\u0a26\u0a3e\u0a38",
+    "release_date": "2016-03-11",
+    "year": "2016",
+    "rating": 7.9,
+    "overview": "A city teacher finds alcoholism and lack of faith among the locals in his new rural posting.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ch6dE7bXJELXUM5QA48aoqx2ojH.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2wkxHV1cbv3l8vQfN8l2ItxV9Sw.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124573",
+    "status": "U",
+    "etag": "rFYhg3w2O7ogNW9QlbDwbA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124573",
+          "url": "/sapi/download/video?action=get&k=X2uD1d6-UJlGXhnKLciMoJHklsQq9ZBvscndQcwYnISmnKbhp4WrCWNaW9wvLMKa3vgxcYsaAm01pC4YwJg1gfPeV9sQ3W4CDkueAhrHYScTEmvTE4FMzroIIm7x9gjTHEJM3gcg8X-A73xbHdhiT-0004ecw1X-w7PjQLGu20S4jfHk7_I&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=GassoqpZqi7VVMAxHoZ8yz8LCafbWPRV-a-C--lfsmv7HsTau5pulZwr_VuO7LbLXnfoX6bhzr1hvjqBmiMWtHoPneUbZzw2ecgFb4PV9tsK8Ik9yNAcVTPXIp8Yv0UwMpRAMTQy0VuiDrTQpOSPT8vipA-xJNv7huU5QKhzF3KYOrhvIav2--_89hjVST63Ewc&node=1i204",
+          "date": 1777834126549,
+          "creationdate": 1777834065000,
+          "modificationdate": 1777834065000,
+          "uploaded": 1777834113329,
+          "size": 429329956,
+          "name": "Ardaas-2016-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8098090,
+            "bitrate": 424129,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=o_KQf3ojA6PSPdZa10EJEAiHsPXE_1hbfMcfkbMXMi16xKbf2ffp_xILsCKyp7APVVM7bK-LL7uBebwhm0FFBpyVB7jutGgdd6teXpXlRUneA8rXE80HZ_4xNU45cPrwaVANVgEXkGAc2O8HHBc0CH9PYyGpglzj_qzuBkcZr0bWQUNz_JCBF8ddob96xGGZpm8&node=1i204",
+              "etag": "0rFYhg3w2O7ogNW9QlbDwbA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GassoqpZqi7VVMAxHoZ8yz8LCafbWPRV-a-C--lfsmv7HsTau5pulZwr_VuO7LbLXnfoX6bhzr1hvjqBmiMWtHoPneUbZzw2ecgFb4PV9tsK8Ik9yNAcVTPXIp8Yv0UwMpRAMTQy0VuiDrTQpOSPT8vipA-xJNv7huU5QKhzF3KYOrhvIav2--_89hjVST63Ewc&node=1i204",
+              "etag": "0rFYhg3w2O7ogNW9QlbDwbA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "rFYhg3w2O7ogNW9QlbDwbA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834126615,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/vU_NOVNVSSaNqNuc8GhU7Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ardaas (2016)",
+  "media_kind": "movie"
+}
