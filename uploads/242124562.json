@@ -1,0 +1,81 @@
+{
+  "name": "Krazzy-Tabbar-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Krazzy-Tabbar-2017-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:46:05Z",
+  "remote_folder_id": 1753599,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124562",
+  "tmdb": {
+    "tmdb_id": 477761,
+    "title": "Krazzy Tabbar",
+    "original_title": "Krazzy Tabbar",
+    "release_date": "2017-07-07",
+    "year": "2017",
+    "rating": 6.0,
+    "overview": "An engaged couple believes that they are meant to be together, but their conviction shatters when their families meet each other.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2frglckhUDnbMncb7Fk8QUCPjxy.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4VbaPsrsjieroHhJyfMYfPV6o5d.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124562",
+    "status": "U",
+    "etag": "26SvTD3EP4PM3AL3y2hN/g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124562",
+          "url": "/sapi/download/video?action=get&k=F9FxCQ0vH1o8dyyDskZ512UwUML4_tSht7tcGQt_AkiAWgdOYOyWHrfvqQZlMWSXyUU84zSV2s5JZKCUMl8MnfwQofIphwm3nSqgrech6Zpy79pRPDKzAUJ9Z1eZ2sXNLcg9tLWi89FcLWbZS3WcCtWtWW0e5J95u4DQc3RGHLB0ZQ85JZo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=4eLIhcAsvI0eLyZGwffVfdtAraaKIh911N_uEKoyBQbloNCpFn4hayVifaH6H1QclXbL-MN-iMMN8zi15p3Zcuc0iM_ZNGIiFGOT-EfFOAk_0mSScKaWLqAYg-Hu1loCsx8TGM9X_MjGTrX3uPoxwC9-fbU8WJGdZzz0kKs2rNzQ-IjUG4JW6tLzD3wZM_Yj2Is&node=1i204",
+          "date": 1777833964355,
+          "creationdate": 1777833895000,
+          "modificationdate": 1777833895000,
+          "uploaded": 1777833951280,
+          "size": 380210357,
+          "name": "Krazzy-Tabbar-2017-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7113664,
+            "bitrate": 427583,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=-VNszU6jPByS8RNoYrAv4iAF28Lbz0T2YZQqwS8Na40Ex53cQgcosfWVqYVir9cuAj-CDRbXA9DWBsbHskg4HmESCJMQw4TudBsPbGJNYigO9C2O8IJzvLrMXsos1iZ_E8kFZ7DftoTQfE34M8poXi6PE1CkhOQuw3R31eeOwndsToDZ3IdelD9rGd-Vb_2-5no&node=1i204",
+              "etag": "026SvTD3EP4PM3AL3y2hN/g=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=4eLIhcAsvI0eLyZGwffVfdtAraaKIh911N_uEKoyBQbloNCpFn4hayVifaH6H1QclXbL-MN-iMMN8zi15p3Zcuc0iM_ZNGIiFGOT-EfFOAk_0mSScKaWLqAYg-Hu1loCsx8TGM9X_MjGTrX3uPoxwC9-fbU8WJGdZzz0kKs2rNzQ-IjUG4JW6tLzD3wZM_Yj2Is&node=1i204",
+              "etag": "026SvTD3EP4PM3AL3y2hN/g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "26SvTD3EP4PM3AL3y2hN/g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833964421,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kY_UvMtzRVCjknLo6leb8jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Krazzy Tabbar (2017)",
+  "media_kind": "movie"
+}
