@@ -1,0 +1,81 @@
+{
+  "name": "Mehar-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Mehar-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:14:49Z",
+  "remote_folder_id": 1753693,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124772",
+  "tmdb": {
+    "tmdb_id": 1541550,
+    "title": "Mehar",
+    "original_title": "Mehar",
+    "release_date": "2025-09-05",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "A father's silent struggle for dignity becomes a powerful journey of second chances, as Karamjit navigates life's challenges in his Punjab village to reunite his family.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/f6ygZaUcXcRJVgFVc7oIxR8uR5Y.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124772",
+    "status": "U",
+    "etag": "J/4JOuEJKr+eNBfyabwEEQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124772",
+          "url": "/sapi/download/video?action=get&k=YWNlPJbdXZxgljajfHHFjN-rTeTCr15sy5Yl77tuvAphxKwuZhQYJIOrJE5si2J1SnBLm-3SpUf56TilQ-2_Nmp9kpT3_WQLZpE7jNec0xqfFjiMZlJNAKVQ9IsNVmLuabqwjlvVVg5AM9PiQiYLWWSfzdzuJtfc9BpfAS9cggd7In0zD3s&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=ZdHU3doxzfXaCEVil7jq8TKdYURQFdhtzw2nO5TCHM5lNH1DrFEJLh-hL9MkWCgUwGbGnY9QzD6i1CrrQi45G1Wi-rDdmu0eICUlTmqtfa4jIDcynYs8bTRv6U7g04Kq97k2QxNrrYvklgrgANJNly22aBt66ieA3e7gPfKLI68TykmqhTfzzc0N-f60vUx254g&node=1i204",
+          "date": 1777835688937,
+          "creationdate": 1777835629000,
+          "modificationdate": 1777835629000,
+          "uploaded": 1777835672535,
+          "size": 455945390,
+          "name": "Mehar-(2025)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8534399,
+            "bitrate": 427395,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=dvz7TNGgyEMRFHhYiev0QJODRkUdVVemTMR7kH3dmtVluTk1gTkqUPUZW58ekTXNx6K0dk-4teBxPP2664WI8SNCfOXx2HRH632LjgiI-9RlrXs07PxV8RLtK4B9KDmIbT-_HLwy5heXmSc2SBsgNYdFV74Yonnw2BcNOrwix0GTjyPVyTJjBT2LWK11rDfzHf0&node=1i204",
+              "etag": "0J/4JOuEJKr+eNBfyabwEEQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ZdHU3doxzfXaCEVil7jq8TKdYURQFdhtzw2nO5TCHM5lNH1DrFEJLh-hL9MkWCgUwGbGnY9QzD6i1CrrQi45G1Wi-rDdmu0eICUlTmqtfa4jIDcynYs8bTRv6U7g04Kq97k2QxNrrYvklgrgANJNly22aBt66ieA3e7gPfKLI68TykmqhTfzzc0N-f60vUx254g&node=1i204",
+              "etag": "0J/4JOuEJKr+eNBfyabwEEQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "J/4JOuEJKr+eNBfyabwEEQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777835689000,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/gVzrGoNyTGm0dHTLOLonLTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mehar (2025)",
+  "media_kind": "movie"
+}
