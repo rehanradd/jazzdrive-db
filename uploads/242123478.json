@@ -1,0 +1,83 @@
+{
+  "name": "22-Chamkila-Forever-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\22-Chamkila-Forever-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:23:10Z",
+  "remote_folder_id": 1753528,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123478",
+  "tmdb": {
+    "tmdb_id": 970490,
+    "title": "22 Chamkila Forever",
+    "original_title": "22 Chamkila Forever",
+    "release_date": "2022-04-11",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "22 Chamkila Forever is a Punjabi film directed by Deepa Rai starring Deepa Rai, Yuvleen Kaur and Poonam Sood.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vJJOtwNpb8I3RhnoOv4h5J97uFH.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123478",
+    "status": "U",
+    "etag": "BQ0bxxBPrwufOKI7qJ7Ymw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123478",
+          "url": "/sapi/download/video?action=get&k=MDDGcxyETo91CMOu5oAQoYYFqOfg3g-9OD7SuUzcWaW70SEm4J4LS5gPX8QFhbI0E0iTkAV0xQPRXzqOo_4frXKYsviJ4Wmr5-Fk7e_XNOKfoviZoh5SLquHcg4IN-PQF4moAjHraAWGDrfhNp_WN6TzR5lTIrNxiO3ppF3WwjAYF2s7HYo&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=dS9-Ia4vBKOSJVY7WrdQgZo7nsHqhPFjkbG3LqTrJ8DUAROTFc9--FYlIax0tHMm8NrzP13n_FSw401um9Drn-Zx4s7hXsOIrpP5VgaCvapayB53mjnWKxq8VKPBKp_3i9PczkWhEmEagJRJ5NfK5x3dszwL9qPAwH77IvVyxsRdYsI989Xh2fQ3Mr8Hbc4drvo&node=1i204",
+          "date": 1777832589428,
+          "creationdate": 1777832530000,
+          "modificationdate": 1777832530000,
+          "uploaded": 1777832574499,
+          "size": 461394278,
+          "name": "22-Chamkila-Forever-(2022)-Punjabi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8703120,
+            "bitrate": 424118,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=rR90P_B9zrRGEZ0Cs_u5kCPu3bs8IeIvUcak7bBrJ3LAvBdZkB1ZbK_Gm4ng7C_WreehSAt5E9SfxkzilR3UV3hMzARVbcLZYuaZG_wyoUfl3NeAXenHIHkfZsZWOYnI1j1s83R0CEhqrFtl-yGNrrNVSSfgdLrgLpORslWyvCOoTIVtKsNA7OFNiT5mIfseER0&node=1i204",
+              "etag": "0BQ0bxxBPrwufOKI7qJ7Ymw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dS9-Ia4vBKOSJVY7WrdQgZo7nsHqhPFjkbG3LqTrJ8DUAROTFc9--FYlIax0tHMm8NrzP13n_FSw401um9Drn-Zx4s7hXsOIrpP5VgaCvapayB53mjnWKxq8VKPBKp_3i9PczkWhEmEagJRJ5NfK5x3dszwL9qPAwH77IvVyxsRdYsI989Xh2fQ3Mr8Hbc4drvo&node=1i204",
+              "etag": "0BQ0bxxBPrwufOKI7qJ7Ymw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "BQ0bxxBPrwufOKI7qJ7Ymw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777832589494,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/isI-Gl3_TFm-0eQPg-o7fzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "22 Chamkila Forever (2022)",
+  "media_kind": "movie"
+}
