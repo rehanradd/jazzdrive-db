@@ -1,0 +1,82 @@
+{
+  "name": "Jhalle-Pai-Gaye-Palle-(2021)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Jhalle-Pai-Gaye-Palle-(2021)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T19:02:48Z",
+  "remote_folder_id": 1753654,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124725",
+  "tmdb": {
+    "tmdb_id": 986578,
+    "title": "Jhalle Pai Gaye Palle",
+    "original_title": "Jhalle Pai Gaye Palle",
+    "release_date": "2022-02-04",
+    "year": "2022",
+    "rating": 0.0,
+    "overview": "Roop Kaur had to go to Canada due to some family reasons, leaving behind her childhood friend Pala. After 20-25 years, she doesn't remember much about him and because of the name Pala being so ambiguous in Punjab, it becomes a very chaotic task to find him. In this process, 4 men appear in front of her claiming themselves to be the one she is looking for.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/urxiiPQoBy6iZEVRERWgbeZF4Ov.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nZMReQ42RBTy0KymN6Mw0bAbs1R.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124725",
+    "status": "U",
+    "etag": "kphB/VXTXUNoHS0FOVXWiw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124725",
+          "url": "/sapi/download/video?action=get&k=IYkmooehaX0dcnTzz_UCo794GgXr3qZf-Ot9Q2PhX3BjAZR292c5EU24h2g8qfv5k6vyO1N75FGJexovlENFNAtGdDNlwdg7AfyNEWD9Ors3tUWkjlYEjJqYf6wp7c5XQrO1X61xXo5Ooq1VcNGbze2TlBsV9wMzjDdsvF6NY1E4_i1jJGA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=V6i3yXfDhUY-Z9l2hV8MzOtL_PO4iUzxsvCdVz6byC_MVLjdkbKpQAz8KhV1ELsUdFvMvOFDa-HTQIYc52Rt8xrCinP0dUs0v6eh7leJY9TxAdNUYmmxmr4-3ob6zbFgrcNOs8yQQpN1lrgOxFaW7OIDsB8nHG8qOH2-Rd4M0EepdEA_fOqPelVLppV1XOZ_HNI&node=1i204",
+          "date": 1777834967036,
+          "creationdate": 1777834922000,
+          "modificationdate": 1777834922000,
+          "uploaded": 1777834944247,
+          "size": 354939035,
+          "name": "Jhalle-Pai-Gaye-Palle-(2021)-Punjabi-WEB-DL--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6622933,
+            "bitrate": 428739,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=xQyhiXZIqPIxkYhcp_VKbx7xfOn6x-SG0OSfcC5O99niKB3ifVN7DluIajCTOulRY-sSFgFlbWDhzQuRWZqTsC48AZNhjRn1rvWE2OSOrwAirgqxeSyzuwoKS6j2H--ZAcTaxuRC2jujl1ue6Uat7web6m7qj8v0nl97y4kQqV-Vx6740gyh6oHY-Lg2lXVGn1M&node=1i204",
+              "etag": "0kphB/VXTXUNoHS0FOVXWiw=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=V6i3yXfDhUY-Z9l2hV8MzOtL_PO4iUzxsvCdVz6byC_MVLjdkbKpQAz8KhV1ELsUdFvMvOFDa-HTQIYc52Rt8xrCinP0dUs0v6eh7leJY9TxAdNUYmmxmr4-3ob6zbFgrcNOs8yQQpN1lrgOxFaW7OIDsB8nHG8qOH2-Rd4M0EepdEA_fOqPelVLppV1XOZ_HNI&node=1i204",
+              "etag": "0kphB/VXTXUNoHS0FOVXWiw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kphB/VXTXUNoHS0FOVXWiw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777834967103,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/S8LFbzsPTvCgBOj4RFuzUDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jhalle Pai Gaye Palle (2021)",
+  "media_kind": "movie"
+}
