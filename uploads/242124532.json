@@ -1,0 +1,79 @@
+{
+  "name": "Din-Dehade-Lai-Jaange-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\Punjabi\\Din-Dehade-Lai-Jaange-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-03T18:37:10Z",
+  "remote_folder_id": 1753571,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242124532",
+  "tmdb": {
+    "tmdb_id": 705756,
+    "title": "Din Dehade Lai Jaange",
+    "original_title": "Din Dehade Lai Jaange",
+    "release_date": "2018-11-30",
+    "year": "2018",
+    "rating": 0.0,
+    "overview": "The movie is directed by Romi and featured Kartar Cheema, Sapna Thakur, Ranjith and Nirmal Rishi as lead characters. Other popular actor who was roped in for Din Dehade Lai Jaange is Sardar Sohi.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5y7ICZnCdiSmRhBI4JwZo3new5z.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xaKJ9AibX8cQv3NdpXKg0x0j4o9.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242124532",
+    "status": "U",
+    "etag": "CRSrjFKBKo0s1lqjT/Ccbg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242124532",
+          "url": "/sapi/download/video?action=get&k=Jl1JK5WE80yIjYvy3gWhXhV_jPzkXczfwTIDybKQVqMVXTEhcdZl7zGW4-kBmEo3uOksotExA_UOGBZBtSaxXof2SSSqUBm1FOD5gNVfFE0C1V8-59gd9-kj6Wy7GiwZNYUFU9xUdBpsNkMlRJ5meZXuxwjaRnrGgR1U0JlZtpEi1PjHEMk&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=1RQ8B7u3-hFEA3GFYFCAGpyoN6FZsX9JZczitEqF5BlmmlZ4NVvjgk8LIQsfuGHoeuWktsQ0qaR3X9rZxfQ6Lyzs9qVSyi4lvh4U-wYyweX3er1oJZ77n9HLS-lM9k4qCJ9xHIpebwp61XXyLf6foSZVNjtlbvRr1pUT8o5Myo9RKAZVfj3ZlNqqcHW8-NhvK-c&node=1i204",
+          "date": 1777833429714,
+          "creationdate": 1777833363000,
+          "modificationdate": 1777833363000,
+          "uploaded": 1777833415420,
+          "size": 414569024,
+          "name": "Din-Dehade-Lai-Jaange-2018-Punjabi-Full-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7846672,
+            "bitrate": 422669,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_oNjTtk39t1ziDqwnHs01VuWPf44_Cklpay5SRHsDaMXM-RV_0MJkr0f2X0SArOTEol77-zmPpuw2sE8e2fUD-nRQp_S_dkxW736c5ITU0NXhrdmyeqLmRtfXEW1AZmbR2pDQueFIWm0mlmUnYjm9wKKUpKmw-OhCBQosh8sQG7Nmu32rN-fCuz9cuDBFc2c874&node=1i204",
+              "etag": "0CRSrjFKBKo0s1lqjT/Ccbg=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1RQ8B7u3-hFEA3GFYFCAGpyoN6FZsX9JZczitEqF5BlmmlZ4NVvjgk8LIQsfuGHoeuWktsQ0qaR3X9rZxfQ6Lyzs9qVSyi4lvh4U-wYyweX3er1oJZ77n9HLS-lM9k4qCJ9xHIpebwp61XXyLf6foSZVNjtlbvRr1pUT8o5Myo9RKAZVfj3ZlNqqcHW8-NhvK-c&node=1i204",
+              "etag": "0CRSrjFKBKo0s1lqjT/Ccbg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "CRSrjFKBKo0s1lqjT/Ccbg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777833429778,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/FsHetwFRS1W22iGTE913Bzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Din Dehade Lai Jaange (2018)",
+  "media_kind": "movie"
+}
