@@ -1,0 +1,83 @@
+{
+  "name": "Devaki Nandana Vasudeva (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+  "path": "D:\\New folder\\Devaki Nandana Vasudeva (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+  "uploaded_at": "2026-05-03T17:11:13Z",
+  "remote_folder_id": 1753511,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242123432",
+  "tmdb": {
+    "tmdb_id": 1390695,
+    "title": "Devaki Nandana Vasudeva",
+    "original_title": "\u0c26\u0c47\u0c35\u0c15\u0c40 \u0c28\u0c02\u0c26\u0c28 \u0c35\u0c3e\u0c38\u0c41\u0c26\u0c47\u0c35",
+    "release_date": "2024-11-22",
+    "year": "2024",
+    "rating": 7.0,
+    "overview": "Haunted by an astrological prophecy, Kamsaraja relentlessly torments his sister's family, believing her child will be his doom. Even in imprisonment, Krishna protects the family from Kamsaraja's evil plans.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2mXXuHkXfZrMjdCzbo2fo8E3bkn.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/9GoB8QJsKaP8RLJ9NPuDziQ1IVq.jpg",
+    "genre_ids": [
+      28,
+      10751,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242123432",
+    "status": "U",
+    "etag": "Bvl7WSg6fQMkP2pEbbR+jQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242123432",
+          "url": "/sapi/download/video?action=get&k=IB9FrAZ9omM3gI_s-sCa1RCszdqTyjnYfGUTrpMKsMHxfaepO16vv5-SVi7FHmgJpgqk5a2cRoYmolyhEFVQTl9hbIKCJ174O-UOGzcv4Jj03fGXs857XTZ8XYGwbQqU_dZZr8150gjZj05iIMMGzC236X6q5j1vx2podYqrYZQzuAQ_HWA&node=1i204",
+          "viewurl": "/sapi/download/video?action=get&k=rPPRP_POk3YcsyZ777Q7qTcnnKAPUODurET_GnGi2iOSguRbiNTEwnSEx14gLaMPnUs1baJRcINENwuMYWgkeeDi1_WNJGE7xS-9xH4POuwnT-_KkXPQF70aJlPt2NX7Y9uKGQEVN2bXOjAlWFV4elcPUVRBDAybsFd74meDEOPYkrX8oMdUY8Ta9ErqEyA_3Mc&node=1i204",
+          "date": 1777828272863,
+          "creationdate": 1777828061000,
+          "modificationdate": 1777828061000,
+          "uploaded": 1777828237590,
+          "size": 1010188301,
+          "name": "Devaki Nandana Vasudeva (2024) Telugu HQ PreDVD - 720p - x264 [DDN].mp4",
+          "metadata": {
+            "duration": 7506833,
+            "bitrate": 1076553,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "aac"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=omAYVcIR85znumUNqmDfqrMH_1r8Hh90-xDxBuO3JBKPVUzHQUSMgAUi5-vOT3Jung3KaIxbV0M__ZAezg2-dUONXgInXhCTaJObEcAHFjANvEnRiJF2E7jZ7xeg2ZFBGbZXq-bTkkhCFFwBBsUGyE3UgpjhG_W6C3tFAZX6649xh_mPt5Po4vQpP6Ef9qwgMr0&node=1i204",
+              "etag": "0Bvl7WSg6fQMkP2pEbbR+jQ=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=rPPRP_POk3YcsyZ777Q7qTcnnKAPUODurET_GnGi2iOSguRbiNTEwnSEx14gLaMPnUs1baJRcINENwuMYWgkeeDi1_WNJGE7xS-9xH4POuwnT-_KkXPQF70aJlPt2NX7Y9uKGQEVN2bXOjAlWFV4elcPUVRBDAybsFd74meDEOPYkrX8oMdUY8Ta9ErqEyA_3Mc&node=1i204",
+              "etag": "0Bvl7WSg6fQMkP2pEbbR+jQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Bvl7WSg6fQMkP2pEbbR+jQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777828272938,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pUY5bLxmT9edcQ1x3Yn1ljk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Devaki Nandana Vasudeva (2024)",
+  "media_kind": "movie"
+}
