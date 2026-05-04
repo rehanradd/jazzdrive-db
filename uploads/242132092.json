@@ -1,0 +1,82 @@
+{
+  "name": "Aankh-Micholi-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Aankh-Micholi-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:48:15Z",
+  "remote_folder_id": 1754160,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132092",
+  "tmdb": {
+    "tmdb_id": 679031,
+    "title": "Aankh Micholi",
+    "original_title": "\u0906\u0901\u0916 \u092e\u093f\u091a\u094c\u0932\u0940",
+    "release_date": "2023-11-03",
+    "year": "2023",
+    "rating": 5.1,
+    "overview": "A family of misfits is trying to hide some secrets from the NRI suitor and his family as they want their daughter to get married to a well-to-do NRI guy resulting in a series of comical twists and turns.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3di6GxX88WeMo9IjMt8BwW9wOq1.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sHf44hFaAGxBw98trWzlKJP5W0l.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132092",
+    "status": "U",
+    "etag": "JAFF83HQQH7VTalZpCnyCQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132092",
+          "url": "/sapi/download/video?action=get&k=zMq0Q_8zdZFoY5l9KYWvWZQqUMSIP36zm8QR5c5cvgE-8ttCsQpbpmDDqCAGlC5H1EXCJajbplG7pxRBPvagUTb8R3U1xDjzPPscPZp4B4GxEIdWJ1D1hRmcXv1lbXEUr08yFH3Usa2zbFErVEYRNZOXlJErBvrt7qS1HRbLpZIL1ZheByg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ww50aasLecgvI0JD9e9p63pOvlsXhWGqLXdi3VSrlvuz-sAc__gUi4BiTlHHSEXmWfLaJMz4n_BhxfRqgqF-2yUXzqFLrmfOfLE62HRwq3v1CxtwxcYV9Qq_RjFfZ0TSmEI2xPgXUQ1obdy2so82Oz9XvBlPvhvuTOumFzbmIl8STQSZFTlxEgei8HlLzEhk-ig&node=1i220",
+          "date": 1777909694569,
+          "creationdate": 1777909595000,
+          "modificationdate": 1777909595000,
+          "uploaded": 1777909673187,
+          "size": 447869031,
+          "name": "Aankh-Micholi-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8387903,
+            "bitrate": 427157,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Nb_RPdEqsoLGvxSsrQy2Yh3jufh0aAFRV04XRZdgQre6ByVcphrSs3AEZfisJzRVbcX0jb5bU0C3WhuR3FboCkMU_cDFJO2oGbQ7KggeGZf2ZkQstSCVKD_EMPTHgbv-2iC_YvcwLvyUxFVtUFhqNRWmOccOd5c_jcDktdJFkSmop2NfVa8K7FkiWSzvmHVROOQ&node=1i220",
+              "etag": "0JAFF83HQQH7VTalZpCnyCQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ww50aasLecgvI0JD9e9p63pOvlsXhWGqLXdi3VSrlvuz-sAc__gUi4BiTlHHSEXmWfLaJMz4n_BhxfRqgqF-2yUXzqFLrmfOfLE62HRwq3v1CxtwxcYV9Qq_RjFfZ0TSmEI2xPgXUQ1obdy2so82Oz9XvBlPvhvuTOumFzbmIl8STQSZFTlxEgei8HlLzEhk-ig&node=1i220",
+              "etag": "0JAFF83HQQH7VTalZpCnyCQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "JAFF83HQQH7VTalZpCnyCQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909694635,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MmG1bI0GT42bfeKLAfgsqTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aankh Micholi (2023)",
+  "media_kind": "movie"
+}
