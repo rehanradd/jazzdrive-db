@@ -1,0 +1,82 @@
+{
+  "name": "Apurva-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Apurva-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:46:13Z",
+  "remote_folder_id": 1754154,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132086",
+  "tmdb": {
+    "tmdb_id": 1046688,
+    "title": "Apurva",
+    "original_title": "\u0905\u092a\u0942\u0930\u094d\u0935\u093e",
+    "release_date": "2023-11-15",
+    "year": "2023",
+    "rating": 5.8,
+    "overview": "In the merciless Chambal ravines, a regular girl must outwit hardcore dacoits to survive one night before any help comes her way.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wpOTqABDilffZJttzW905FRIfNx.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/qDaX2hHX79BlkHNlENGryNi8L5e.jpg",
+    "genre_ids": [
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132086",
+    "status": "U",
+    "etag": "uyLheHuKdFoG10qQaIGmNQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132086",
+          "url": "/sapi/download/video?action=get&k=WNQmvHPznJINPdQk6d4QNZAdb6k_1he2hCChppR6fnYbYx_ZbUTwE8VKffNDiSY5iWuDjfq1yeU1hYZsqEYUrCq3csxvLBSRDHbrYaoKC2titEscDoop6mPSNkWJ8GBft70Bn-mIl4lyj6LhxCM_0NqkX-evx_gcf7vaHu9SEmbEpwOhBl8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=iJ80l07JRKCnfZVJXl2HPNcnsKvLh494_CpKuqnkCuo45GgIyrr4_XCeI_fFoisCz1tG8JtDdK73FND5eHUd0AWRt_i4pLnOXVV6sgRqo4vJYEBhfk_3PBNEji5HCLzvtuzISKTjDp2HvcpS0o9EUSd24jH3MPxqTHTKMUePnrtJsqvD40eeIONhBOIRqsPSJKU&node=1i220",
+          "date": 1777909572589,
+          "creationdate": 1777909498000,
+          "modificationdate": 1777909498000,
+          "uploaded": 1777909552163,
+          "size": 304265770,
+          "name": "Apurva-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5749168,
+            "bitrate": 423387,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_89HZIcBODHNkT0AEzy5dRsgnWkTHAgWWLID_e8sQfwK9zPsE0nSrWCTaAK00uEhx7RIXKv8TvINzG2ZuQO7ut9Eggb7CXFXGx3PjzSGgyZf4ouV3zHbUL8LngYSG-IiU5xjp8U9z-uaRn9quc4VZ2DQgq3xys73MTujeO-tG67MvFmk-_aXaqPUbV8QBBeRst4&node=1i220",
+              "etag": "0uyLheHuKdFoG10qQaIGmNQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=iJ80l07JRKCnfZVJXl2HPNcnsKvLh494_CpKuqnkCuo45GgIyrr4_XCeI_fFoisCz1tG8JtDdK73FND5eHUd0AWRt_i4pLnOXVV6sgRqo4vJYEBhfk_3PBNEji5HCLzvtuzISKTjDp2HvcpS0o9EUSd24jH3MPxqTHTKMUePnrtJsqvD40eeIONhBOIRqsPSJKU&node=1i220",
+              "etag": "0uyLheHuKdFoG10qQaIGmNQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "uyLheHuKdFoG10qQaIGmNQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909572671,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/w-XvjowMR0mRxsgPXat8-jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Apurva (2023)",
+  "media_kind": "movie"
+}
