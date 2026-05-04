@@ -1,0 +1,68 @@
+{
+  "name": "Deceptive-Diva-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Deceptive-Diva-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:53:04Z",
+  "remote_folder_id": 1754178,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132216",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132216",
+    "status": "U",
+    "etag": "6uiHSpaZTy9IgNEUdIZPYA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132216",
+          "url": "/sapi/download/video?action=get&k=JryD8rjrKVuH_ys7qfYlpn8roRZnt_04Vj1H0BAGivQdFXB4gfJA1HMqxe1C9RjY3-3bic0FsmsxXOLeuwuIWykAA9DyMP49PZoShVKcDcsdFgqOtjYomSif3iYF-mt7OYO8nHqHaeU3Voe5bFIvnK7Wbi4y0rMH9hsETABmttbwTTlg6nQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=bizomW6aSAuR0PSHV5DxMPD9Ci-VrlXhF0xmABIKrp9bbmgD4K4mmI4eGdGT3uYT1IuhAxlh8oYxdgIfCQApVevLbbQJvqul9O7RXw-7A1loUHPxx6PZpNusFWkZtE8dkElhKECNZKiXVb_lo6_m_qRoezoDbKxnK8GQiKMzFEj7aV6u_V-t-5_3NOkVlH9j3qc&node=1i220",
+          "date": 1777909983109,
+          "creationdate": 1777909922000,
+          "modificationdate": 1777909922000,
+          "uploaded": 1777909974059,
+          "size": 297928695,
+          "name": "Deceptive-Diva-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5554120,
+            "bitrate": 429128,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=RFpt7oJvQgnWemVBuM37JrAJA1jI-OZGF1MT107jqc0Jnx50IXnGI7Bu6m3vUdyYUCZYjTfJdXmM6uqnpIOqTaIUDFRroDqnac18JClMcK7caxMfNtoDkdSzRVu0-aF1RjBpLQxtXLAcjzNkHxBHA4DgoqbfrC0gumVl3HJtyRwVQxgEFklh8dT2MIlIgxTghaE&node=1i220",
+              "etag": "06uiHSpaZTy9IgNEUdIZPYA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=bizomW6aSAuR0PSHV5DxMPD9Ci-VrlXhF0xmABIKrp9bbmgD4K4mmI4eGdGT3uYT1IuhAxlh8oYxdgIfCQApVevLbbQJvqul9O7RXw-7A1loUHPxx6PZpNusFWkZtE8dkElhKECNZKiXVb_lo6_m_qRoezoDbKxnK8GQiKMzFEj7aV6u_V-t-5_3NOkVlH9j3qc&node=1i220",
+              "etag": "06uiHSpaZTy9IgNEUdIZPYA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "6uiHSpaZTy9IgNEUdIZPYA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909983164,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/dxqY68P7QP-X1ibcAW15-Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Deceptive Diva (2023)",
+  "media_kind": "movie"
+}
