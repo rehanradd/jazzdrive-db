@@ -1,0 +1,81 @@
+{
+  "name": "Parastree-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Parastree-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:43:59Z",
+  "remote_folder_id": 1753998,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132061",
+  "tmdb": {
+    "tmdb_id": 1148168,
+    "title": "Parastree",
+    "original_title": "Parastree",
+    "release_date": "2023-06-30",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "Dark thriller story occurring after an extramarital affair.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nTxhj8dY8VRACGD3i8stYUjkNQC.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ArUFp96ejv4EcsyQsl655zukaXe.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132061",
+    "status": "U",
+    "etag": "vmT/wr2H52jvn315oQU6sg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132061",
+          "url": "/sapi/download/video?action=get&k=q8rjh42FRnWQUzU-NM-fJrWP_j61MTvXsRpKQpie2MjXYNuIRUNJocmJdYIyHRG-GSxaenmIBSXAqr4GYXogSRBTannwmL402VVh7XVEeSTbFN0LFYQdo-ee8TsybCvl7OGHdoBiJSYuIfv6F31jtfaae7Sou5Eflby2hnthJPAMLCrpEGM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=hLzd5DGKTLVWVf3s4j4CGwBx7J9tnOhHJe9Nc3hNh9givlf2cdsx9Vsr-ycYJ06If1pM2SH2FG6erREqbbcrpt8N38-M5_0erhTScAkk_QWg9gQfvJeV2PHWOZqR88FD70nPQzHKhexL5lMiii1Wc-4sloPOcaI6qreZhjB-Lk36pP-in3xIX2Z7PIugiVvkmzs&node=1i220",
+          "date": 1777909438131,
+          "creationdate": 1777909380000,
+          "modificationdate": 1777909380000,
+          "uploaded": 1777909421638,
+          "size": 380527130,
+          "name": "Parastree-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7241812,
+            "bitrate": 420366,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6KYYz2pOTJSAlDn3krd8I__pam_pE0YWZ9MJKy8cZJznMNNwQ6JfyXPjPAjWW76E8_xb0GB7DQ89Wg1TpNV5FCOR8S1rIm2y_c_-b-rM6pOm7SKVYORD9V1Judba8d8gcmORc5r9wPSDiYi3V_h3WpQSZSz7Y4meM0D-qwD9U9owLm63YhXWLjOdRdV_I31EOdo&node=1i220",
+              "etag": "0vmT/wr2H52jvn315oQU6sg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=hLzd5DGKTLVWVf3s4j4CGwBx7J9tnOhHJe9Nc3hNh9givlf2cdsx9Vsr-ycYJ06If1pM2SH2FG6erREqbbcrpt8N38-M5_0erhTScAkk_QWg9gQfvJeV2PHWOZqR88FD70nPQzHKhexL5lMiii1Wc-4sloPOcaI6qreZhjB-Lk36pP-in3xIX2Z7PIugiVvkmzs&node=1i220",
+              "etag": "0vmT/wr2H52jvn315oQU6sg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vmT/wr2H52jvn315oQU6sg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909438201,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/BXD2xeSMTzyfold9tTUpdzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Parastree (2023)",
+  "media_kind": "movie"
+}
