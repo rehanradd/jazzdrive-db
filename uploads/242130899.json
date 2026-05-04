@@ -1,0 +1,81 @@
+{
+  "name": "Ruslaan-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Ruslaan-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:25:22Z",
+  "remote_folder_id": 1753923,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130899",
+  "tmdb": {
+    "tmdb_id": 1196940,
+    "title": "Ruslaan",
+    "original_title": "\u0631\u0633\u0644\u0627\u0646",
+    "release_date": "2024-04-26",
+    "year": "2024",
+    "rating": 5.0,
+    "overview": "The unstoppable force Ruslaan is coming to break free of the chains of conformity. With his gun and guitar, he's about to create a symphony of rebellion like no other.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/Wlxn5NCIcXeLrSn79wAtyFr2BD.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tvYP0sTbFoUalpMVTS6koawbnLz.jpg",
+    "genre_ids": [
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130899",
+    "status": "U",
+    "etag": "q/COQcbWycQyzHc2MpPsCw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130899",
+          "url": "/sapi/download/video?action=get&k=yYU2AHGhkLbsFpWmM7nw158ciZGBGR7N1gYm5hRh-fiwqB2h48LGqw6sSXK7qfsi8wCKL27iQ-yeEW7RVZzcbz9K6fSEJ40L7F-CFLPH4_KliJhAR1tL3e-IUniDzi3zVWOXAGluWrSuCg5YYnxIsIPPnjZ-WJ9vKXNhFIqjyauBWH3QKzM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=tEHblHgInW5LME9COl6qmFD88J2dTupxoAOeldRNH0-1tOLgugdNlb661hZZv-NvXIcH9TO51vmperLlrXDoNIkB9qJ1YX355c_rEm_F0dueGFVn-xSkvr_NfGX1wya4c1-Ty5NyIzERxUsvruugqFFWcSGJXVCewtV4XHI9-vjipvVGWBF6Y3xc3fTEYhre7lI&node=1i220",
+          "date": 1777904721746,
+          "creationdate": 1777904573000,
+          "modificationdate": 1777904573000,
+          "uploaded": 1777904662364,
+          "size": 767377986,
+          "name": "Ruslaan-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7993088,
+            "bitrate": 768041,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=H0kFE8co7cDW87Z0x6lmb8RkSxN7nQ-GNS73zSU0naeEtZvx8X5je4UFrEAq-wT5oXOeeLP1XozS8j1n5iaGK5dlfk2nEi-mQL5p4nTNusc-nfJT-nkTN_JqFDRXI7lCzD12DhxeSqxNTUzJOMaeftIb8ZJfl86zgv2NGZWRG8BbKfYMiLKpoQrtLtr-bMJk6xc&node=1i220",
+              "etag": "0q/COQcbWycQyzHc2MpPsCw=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=tEHblHgInW5LME9COl6qmFD88J2dTupxoAOeldRNH0-1tOLgugdNlb661hZZv-NvXIcH9TO51vmperLlrXDoNIkB9qJ1YX355c_rEm_F0dueGFVn-xSkvr_NfGX1wya4c1-Ty5NyIzERxUsvruugqFFWcSGJXVCewtV4XHI9-vjipvVGWBF6Y3xc3fTEYhre7lI&node=1i220",
+              "etag": "0q/COQcbWycQyzHc2MpPsCw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "q/COQcbWycQyzHc2MpPsCw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777904721815,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ub2y6yRBT5i9Fv1q9Nx-sjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ruslaan (2024)",
+  "media_kind": "movie"
+}
