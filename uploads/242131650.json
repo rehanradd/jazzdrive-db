@@ -1,0 +1,83 @@
+{
+  "name": "Auron-Mein-Kahan-Dum-Tha-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Auron-Mein-Kahan-Dum-Tha-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:21:37Z",
+  "remote_folder_id": 1753870,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131650",
+  "tmdb": {
+    "tmdb_id": 1083590,
+    "title": "Auron Mein Kahan Dum Tha",
+    "original_title": "\u0914\u0930\u094b\u0902 \u092e\u0947\u0902 \u0915\u0939\u093e\u0902 \u0926\u092e \u0925\u093e",
+    "release_date": "2024-08-02",
+    "year": "2024",
+    "rating": 4.6,
+    "overview": "After 20 years in prison, a man reunites with his lost love and the truth behind his crimes is revealed.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/cKvom4C6fGIM1sOKINkBi7oCqok.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/aMnRuVks72sikr3bQ8ywoBHcpEI.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131650",
+    "status": "U",
+    "etag": "33nfw7uBb+xUx5yHgn4MKQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131650",
+          "url": "/sapi/download/video?action=get&k=Oy7n48ZH3cuTnWsyKKCTBiMfbn7v6i9pnRoucT12PavVCESt4rRQri8dqtgwjZyjTWN31XBj70-O4qk20Jq9Hk8Qd-TuIqzpWCpp0b7B7RlA2B-g5WZ2dBoftz4RIR9ANnUxqo4n6zU2wf3h4JWSW76t-2KPiR63WqCRw5_Mt1zORXVU5-Y&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=tsZieX6befsaT3EETswtYJAEdU7WI3O8l9qWG5pQWR_04aMqL1XF0rlkX-n4c_w3NZifQwlVzsT6ALlEY-I3sGnp48IOs9WfETAe-qSY4lrVhnXI6oejDQ2FDecyqNxxdv72dGEbxfFp58R0wel6hcGU3cdob-SvElklJMyt2vB6Vr1wPTamzkn8ZWNFxT5dNSk&node=1i220",
+          "date": 1777908095991,
+          "creationdate": 1777908041000,
+          "modificationdate": 1777908041000,
+          "uploaded": 1777908071076,
+          "size": 462929962,
+          "name": "Auron-Mein-Kahan-Dum-Tha-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8695039,
+            "bitrate": 425925,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=9OX5rmXp5cRg0uZ1bWHQa7Fk0MQmxSELHnyxUMvDt3tNLFnfTW6HxlwydANmr99vGV-jLimoYGElqZctKD3qiieKph_YU6Za8BVfb9TYaKXvyiIjquFZxL2YkbkJOK6INgQMX7dCzlioFHDi8jLSo5r2BcMRFUQ1lwkm8X3EBPiYfcvPJgyNOG2p_vUt_YrvPug&node=1i220",
+              "etag": "033nfw7uBb+xUx5yHgn4MKQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=tsZieX6befsaT3EETswtYJAEdU7WI3O8l9qWG5pQWR_04aMqL1XF0rlkX-n4c_w3NZifQwlVzsT6ALlEY-I3sGnp48IOs9WfETAe-qSY4lrVhnXI6oejDQ2FDecyqNxxdv72dGEbxfFp58R0wel6hcGU3cdob-SvElklJMyt2vB6Vr1wPTamzkn8ZWNFxT5dNSk&node=1i220",
+              "etag": "033nfw7uBb+xUx5yHgn4MKQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "33nfw7uBb+xUx5yHgn4MKQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777908096046,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/b9Rye_9lROWc6iaX3q_wGjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Auron Mein Kahan Dum Tha (2024)",
+  "media_kind": "movie"
+}
