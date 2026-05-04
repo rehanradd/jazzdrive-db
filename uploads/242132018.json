@@ -1,0 +1,79 @@
+{
+  "name": "UnWoman-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\UnWoman-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:36:27Z",
+  "remote_folder_id": 1754108,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132018",
+  "tmdb": {
+    "tmdb_id": 1119413,
+    "title": "UnWoman",
+    "original_title": "UnWoman",
+    "release_date": "2023-05-05",
+    "year": "2023",
+    "rating": 1.0,
+    "overview": "Bhanwar, from a Rajasthan village, is coaxed by his uncle to buy a bride, leading to him selling his land and being sold Sanwri, a Transgender/Intersex person. Sanwri's gentle nature melts Bhanwar's heart, but tension arises when Bhairo sees Sanwri as an object to satisfy his lustful needs. Their love cannot survive society's harsh judgment and discrimination towards Transgender/Intersex people. The film also sheds light on bride trafficking, skewed female ratios in India, and derogatory terms such as 'Chakka,' 'Gud,' 'Hijda.'",
+    "poster_path": "https://image.tmdb.org/t/p/w500/54P4qVJjwlFb5O3QVyv3pjDQpyQ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/u6edze0urV2zahmWT5aOgwvJEHS.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132018",
+    "status": "U",
+    "etag": "TAlMejQiilg0KojgX95cxQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132018",
+          "url": "/sapi/download/video?action=get&k=Cud9ZA1Nz1QRT1Rh_B_XSCsMNdvB9OTOh5dGzOaHkioko9P-ldIVIzBSjYwOetZAsi3QOJvWnPXdIjyManEs-cNM41nTfRLXXglCY2TMNJR_8J-eZIRWpR-l6pKXBpM7eK1Bkm-OEEmOoty13BepZ4vpMiWI08QU_BU1lODfqK6bf9c8YGQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=gMVsRldmn-E8bdmhaH2bKz_IB41E6JjHpdTMtHhzY_aDCxG-idlP5h8D6cEdB896V-ubW1rx3eIDMFXJAd8ha5nR3BCagAAbjEUqbNUMv9hhQ7TC_iXX5xLFrgiMdMKKphPW9W0TiXTlBibEy5W00vWscuZmek_9lc0dnbSaPOBGwm6dcqV6ELpf8ZuZzjRQOw8&node=1i220",
+          "date": 1777908985977,
+          "creationdate": 1777908928000,
+          "modificationdate": 1777908928000,
+          "uploaded": 1777908960220,
+          "size": 354072728,
+          "name": "UnWoman-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6736929,
+            "bitrate": 420455,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=I2TjFiOCGTSNy_NFNuojmP41KKs3ed7mW-rITESWaSAJd2jiPOxe_AUgIsTUbIHK67YXzYOsDWza3V8TwA3odTAejP-QWCeZPhRXKNPGTuERvOKxKai6fdIN-1ua-7QY-bC5YRu5lhK0kZ2pRDHJ-EGApTQ12At3EI2X5fDpsV3aVjrshNeNCsUo72PnTlfC8qA&node=1i220",
+              "etag": "0TAlMejQiilg0KojgX95cxQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=gMVsRldmn-E8bdmhaH2bKz_IB41E6JjHpdTMtHhzY_aDCxG-idlP5h8D6cEdB896V-ubW1rx3eIDMFXJAd8ha5nR3BCagAAbjEUqbNUMv9hhQ7TC_iXX5xLFrgiMdMKKphPW9W0TiXTlBibEy5W00vWscuZmek_9lc0dnbSaPOBGwm6dcqV6ELpf8ZuZzjRQOw8&node=1i220",
+              "etag": "0TAlMejQiilg0KojgX95cxQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "TAlMejQiilg0KojgX95cxQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777908986036,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/haJ0qXpwTni25bD8rXYXODk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Unwoman (2023)",
+  "media_kind": "movie"
+}
