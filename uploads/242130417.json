@@ -1,0 +1,84 @@
+{
+  "name": "Deva-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Deva-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:11:28Z",
+  "remote_folder_id": 1753887,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130417",
+  "tmdb": {
+    "tmdb_id": 1195430,
+    "title": "Deva",
+    "original_title": "\u0926\u0947\u0935\u093e",
+    "release_date": "2025-01-31",
+    "year": "2025",
+    "rating": 6.016,
+    "overview": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4wKpglgZYMYpISMdThgdqS1TSQc.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
+    "genre_ids": [
+      28,
+      53,
+      9648,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130417",
+    "status": "U",
+    "etag": "8orG01TpcjlotLsmv7vrpw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130417",
+          "url": "/sapi/download/video?action=get&k=-1lJKsx4HOkfC97Z2E5m8Ba__U4CTdZ_x0CLwA_dl8ajsBG8jy1n3T0C-te4BwdBnLRqDwNfZF-02DANZsattEF2TwI0GZVUseYSZvqxiYNKup2tVsryl-x0qd10v80-9vxLzrIMJhaRCdxCcwfJqrwK88fdkUY7HX7ixIXXL_iRxiUkTNU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=8veA3bZrehdpXIDxoK-G6TPRunDk4KwtbAyw9jJ4OWnnUvJpYAyko3rRii-_jrSxRKb67vLm7sLlniaQYHoghTQ4UyzxF-PL_36Cu7pJnA2luNZ4gnqCnBnJjNPy_W5um2pnJv29pSiDgnZc760ZfDvAII7pKa4KQm8R18s6A1RK2mEttNTZSCxHZzQwlqjz2tY&node=1i220",
+          "date": 1777903887258,
+          "creationdate": 1777903753000,
+          "modificationdate": 1777903753000,
+          "uploaded": 1777903811694,
+          "size": 847129246,
+          "name": "Deva-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8683945,
+            "bitrate": 780409,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=5pD2WD16tjrP8EeVD47omozOO2iL-KjtqUHDkIAEdC23c_MpKl57bfJBw7PWHcjv6MelM34MoNeOL9QBDguV2UoOtBhNbut5rnsN6IgOEUjBCy79yUK0qpLfg-6v3cxGkwkNnFAMveeiCssMCgSJ7orw65Is7USHe5-OBkGy21b9vgG2nDpGK_QkbtM_ylB-184&node=1i220",
+              "etag": "08orG01TpcjlotLsmv7vrpw=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=8veA3bZrehdpXIDxoK-G6TPRunDk4KwtbAyw9jJ4OWnnUvJpYAyko3rRii-_jrSxRKb67vLm7sLlniaQYHoghTQ4UyzxF-PL_36Cu7pJnA2luNZ4gnqCnBnJjNPy_W5um2pnJv29pSiDgnZc760ZfDvAII7pKa4KQm8R18s6A1RK2mEttNTZSCxHZzQwlqjz2tY&node=1i220",
+              "etag": "08orG01TpcjlotLsmv7vrpw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "8orG01TpcjlotLsmv7vrpw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777903887323,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/FxTI9Wc-Svato0Hqa46G3zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Deva (2025)",
+  "media_kind": "movie"
+}
