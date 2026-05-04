@@ -1202,5 +1202,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "af5ef58d05722d45e7424104023e86d7c1609995de863fc3de9278d3d9cea6c9": {
+    "name": "Forbidden-Love-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\Forbidden-Love-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 555693037,
+    "uploaded_at": "2026-05-04T14:14:13Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130468",
+    "remote_id": "242130468",
+    "remote_folder_id": "1753895",
+    "tmdb_title": "Forbidden Love",
+    "tmdb_year": "2024",
+    "tmdb_rating": 0.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/Vw1fsB4msHkODNh8BIY8D6NzH4.jpg",
+    "tmdb_overview": "Neha, a simple small-town girl gets drawn to the glamourous world of advertising. Enamoured by her boss Rajeev, her life with Sameer takes a forbidden turn! Trapped in a triangle of Desire, Loyalty and Ambition, will she find a way out?",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242130468\", \"status\": \"U\", \"etag\": \"e6CxywfQYEyrH+Md9bYCFA==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242130468\", \"url\": \"/sapi/download/video?action=get&k=hnUM4DPTv01MMMd_iHpZ7UlML7Bw7pS8F6qqyvTahE_Ll_1ToruD9rks-Tb6WLlgqUK0x2uzX4x5ucYJTluxhWBxO9H7MBF5GN11Ag-NREnHekII7IafLeADDhYYoBxEIoJl3LGO3-Ef8cJo1aohbjJ6PgGzbXzjSV89XtZPQLdiAYdIjvg&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=EubV1c_rnIBmp-Fq67JeZRQXWiAbBrh3yq_I2d_5XV600CuXCeMg7RUgJ7vv0OYx3lqtIoHyE8hYq2ldWRl0s2B0FVMyeLCjqydOkYWrVIE1D5Un0MSKA4Zbm2fdSAjs1EJ4_aKGbDORPG1V1J-9qdPPZbUIqZwF4dqvkmAf0u_lbB3fcCkzDworykXfO3UNufw&node=1i220\", \"date\": 1777904052213, \"creationdate\": 1777903967000, \"modificationdate\": 1777903967000, \"uploaded\": 1777904012583, \"size\": 555693037, \"name\": \"Forbidden-Love-(2024)-Hindi-Movie--720p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 5773040, \"bitrate\": 770052, \"codec\": \"h264\", \"height\": 544, \"width\": 1280, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=1qqliuMErEUQ85Wm4gXTHWOpCtoCTNV7bCf_YoqYRs1hrFdZaOYoP0z9OEnmzHoB2ViAQ0Mo9nXWWIp0P6_gfVeEyzNE46muqBiWUsTelg8KJOF7S2cBOS11oBBDUhu8vUMZNaK4PWOIH9-BkPdzITDR5_ESq_vtkCJJGZTyQzi7VSMthe2LgIGEy6allHO19z4&node=1i220\", \"etag\": \"0e6CxywfQYEyrH+Md9bYCFA==\"}, {\"w\": 1024, \"h\": 435, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=EubV1c_rnIBmp-Fq67JeZRQXWiAbBrh3yq_I2d_5XV600CuXCeMg7RUgJ7vv0OYx3lqtIoHyE8hYq2ldWRl0s2B0FVMyeLCjqydOkYWrVIE1D5Un0MSKA4Zbm2fdSAjs1EJ4_aKGbDORPG1V1J-9qdPPZbUIqZwF4dqvkmAf0u_lbB3fcCkzDworykXfO3UNufw&node=1i220\", \"etag\": \"0e6CxywfQYEyrH+Md9bYCFA==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"e6CxywfQYEyrH+Md9bYCFA==\", \"favorite\": false}]}, \"responsetime\": 1777904052270, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/D_ef4_HjSAqgAH9_lM4yFDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67785",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Forbidden Love (2024)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
