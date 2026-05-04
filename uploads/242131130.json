@@ -1,0 +1,68 @@
+{
+  "name": "\u1d04\u029c\u1d00\u0274\u1d05\u1d1c-\u1d04\u029c\u1d00\u1d0d\u1d18\u026a\u1d0f\u0274-(2024)--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\\u1d04\u029c\u1d00\u0274\u1d05\u1d1c-\u1d04\u029c\u1d00\u1d0d\u1d18\u026a\u1d0f\u0274-(2024)--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:46:38Z",
+  "remote_folder_id": 1753965,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131130",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131130",
+    "status": "U",
+    "etag": "r9+qX4XoEI/oIJZJsqBCeg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131130",
+          "url": "/sapi/download/video?action=get&k=6MnT4LqurtwhOA_GqjAhfmvcBLErEIKJR4EID3rVKfcdfA_PTAmp-UgN63kmNPe0XYJNJ0dn31WaSIDyxWkuDO20pycaPCNg6nRWsMn5XvRFQls4rX-afYkZyiMidcT8q1yvq71zLZI7TBdWzoBALEnoHqfc6gPp_2jLVFnPwvynnhYwM1U&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=003Vd3ZMmAC7SG5JwjCqD_6SKcIRQ0wotEK-Xwvw0IPQberXXDN4s1I-eIBpXJPJnCmSVkZoQlQ48Ute4fQPHh8lsoWQMnThhCYJict955E7B3K4zs3y3Jk12xASSJvwZC34uLjoPBcs7hCMFwMqQJqWOlLEVbJwQr7VUtad20ek7ycIS734a4mDLCcQiHDQMRk&node=1i220",
+          "date": 1777905996579,
+          "creationdate": 1777905688000,
+          "modificationdate": 1777905688000,
+          "uploaded": 1777905946120,
+          "size": 824041455,
+          "name": "\u1d04\u029c\u1d00\u0274\u1d05\u1d1c-\u1d04\u029c\u1d00\u1d0d\u1d18\u026a\u1d0f\u0274-(2024)--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8572032,
+            "bitrate": 769051,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=AnU5Oc26kz2wayaZ8HSvm76e0ICKU7tZHOR62Qh2bmLpxIvg313N0dhZpdNs4vjXVoEcE8jbAlTBIpJoRd9ECtcHbIhMmS2cFS8fJ9egOD2zCdJxBT8tx6ZuhHW6__fLVcZ8_7xRi600SZmw431lrKX18jsfPDARXAXFfdxuxV20_g_iA4p7KN7EWQnKwmXAdEw&node=1i220",
+              "etag": "0r9+qX4XoEI/oIJZJsqBCeg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=003Vd3ZMmAC7SG5JwjCqD_6SKcIRQ0wotEK-Xwvw0IPQberXXDN4s1I-eIBpXJPJnCmSVkZoQlQ48Ute4fQPHh8lsoWQMnThhCYJict955E7B3K4zs3y3Jk12xASSJvwZC34uLjoPBcs7hCMFwMqQJqWOlLEVbJwQr7VUtad20ek7ycIS734a4mDLCcQiHDQMRk&node=1i220",
+              "etag": "0r9+qX4XoEI/oIJZJsqBCeg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "r9+qX4XoEI/oIJZJsqBCeg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777905996651,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Kx9f6FZuQT2ARCdnoCaD9zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "\u1d04\u029c\u1d00\u0274\u1d05\u1d1c-\u1d04\u029c\u1d00\u1d0d\u1d18\u026a\u1d0f\u0274-(2024)--720p-[Orgmovies] (2024)",
+  "media_kind": "movie"
+}
