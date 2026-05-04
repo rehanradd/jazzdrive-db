@@ -7220,8 +7220,8 @@
     "media_kind": "movie",
     "github_status": "ok",
     "github_synced_at": "2026-05-04T15:28:10",
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:28:17"
   },
   "e1a3315a0cad81b917df206feefccc8c5fdbea97badf77403e618f8ef4a717bb": {
     "name": "\u0299\u1d00\u1d0a\u0280\u1d00\u0274\u0262-\u1d00\u1d1c\u0280-\u1d00\u029f\u026a-2024--480p-[Orgmovies].mp4",
@@ -7248,8 +7248,8 @@
     "media_kind": "movie",
     "github_status": "ok",
     "github_synced_at": "2026-05-04T15:28:13",
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:28:22"
   },
   "2b67f18f8499ac7efc86cb0980ed6ce3e897623aee864aa698e8fef554a84a09": {
     "name": "\u029fs\u1d05-2-\u029f\u1d0f\u1d20\u1d07-s\u1d07x-\u1d00\u1d1c\u0280-\u1d05\u029c\u1d0f\u1d0b\u029c\u1d00-2-2024--480p-[Orgmovies].mp4",
@@ -7273,6 +7273,34 @@
     "share_validation_key": "",
     "share_folder_id": "",
     "share_folder_path": "S 2 S X 2 (2024)",
+    "media_kind": "movie",
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:28:19",
+    "gsheets_status": null,
+    "gsheets_synced_at": null
+  },
+  "cc0a182775f39df4fda1b706cd5e30a199ef0f0543774ac8de26b874ea50e2df": {
+    "name": "\u1d18\u029c\u1d0f\u1d0f\u029f\u026a-2024-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\\u1d18\u029c\u1d0f\u1d0f\u029f\u026a-2024-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 331148987,
+    "uploaded_at": "2026-05-04T15:28:25Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131683",
+    "remote_id": "242131683",
+    "remote_folder_id": "1754124",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242131683\", \"status\": \"U\", \"etag\": \"EKqHP+q5JCw72rCpXAGK2Q==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242131683\", \"url\": \"/sapi/download/video?action=get&k=Jz1OwLIn-Aj9-BZrvG9PNQQe-Gk53ls8oGSoIOxUMfw0bztYrY2R3tHbHRiKtT5QBnY2dY-mlkvKLlqp5s-ETxVG-W5xKBoijc07mXR90OAOeNhguJ2IXn-GN4af7cAJxY_99Es-axOB8DqeeS11m-GeHumWGz8squzFlYV8vcOAmnp9SCM&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=5IsLsmE5BSOziawv2QarJDp7H93UkK1la-TxUMjeBdFDJb3zE8AXQMWL08nDRKIADk4TipLpE380yZZm-tllC9giQk3zvxJfW0-WRagyWUA-Xjef1HCU6nElTQZlSgHaK2VGBFnEUXA09TyPIJswi0fD8CZB6vawqc5W7JnIcKQoPvcTkcW_yb4jBrxX8-SV90s&node=1i220\", \"date\": 1777908504257, \"creationdate\": 1777908473000, \"modificationdate\": 1777908473000, \"uploaded\": 1777908493436, \"size\": 331148987, \"name\": \"\\u1d18\\u029c\\u1d0f\\u1d0f\\u029f\\u026a-2024-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 6182911, \"bitrate\": 428470, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=j5OTvKrpIMAPON1V3Dnv5xQxtTFMoODXzDWBkpADEHtXWWP-jNNEsYju7u_gSGbckKHDaPdiKMBn8c5ibkDiSTAONL6EX88qr2HI2mv17N9hP8_e7tKDnyMKGQ7qiJ8pi_qx26srtodI-D1xs22m2OOjJZpd6pRHZBNBQ9Spy1zSopQ_ugkv3FiVbO1Wam6txtk&node=1i220\", \"etag\": \"0EKqHP+q5JCw72rCpXAGK2Q==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=5IsLsmE5BSOziawv2QarJDp7H93UkK1la-TxUMjeBdFDJb3zE8AXQMWL08nDRKIADk4TipLpE380yZZm-tllC9giQk3zvxJfW0-WRagyWUA-Xjef1HCU6nElTQZlSgHaK2VGBFnEUXA09TyPIJswi0fD8CZB6vawqc5W7JnIcKQoPvcTkcW_yb4jBrxX8-SV90s&node=1i220\", \"etag\": \"0EKqHP+q5JCw72rCpXAGK2Q==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"EKqHP+q5JCw72rCpXAGK2Q==\", \"favorite\": false}]}, \"responsetime\": 1777908504323, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/zBO0Api3RTqVVgt4VDx00jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67911",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "\u1d18\u029c\u1d0f\u1d0f\u029f\u026a-2024-Movie--480p-[Orgmovies] (2024)",
     "media_kind": "movie",
     "github_status": null,
     "github_synced_at": null,
