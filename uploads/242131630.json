@@ -1,0 +1,84 @@
+{
+  "name": "Singham-Again-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Singham-Again-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:17:32Z",
+  "remote_folder_id": 1753928,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131630",
+  "tmdb": {
+    "tmdb_id": 1014214,
+    "title": "Singham Again",
+    "original_title": "\u0938\u093f\u0902\u0918\u092e \u0905\u0917\u0947\u0928",
+    "release_date": "2024-11-01",
+    "year": "2024",
+    "rating": 5.0,
+    "overview": "The cop universe expands with newer additions while the old ones return led by Bajirao Singham. Singham Again interweaves the mythological epic Ramayana's good vs evil narrative when his wife Avni Kamath gets abducted by Danger Lanka setting Bajirao and his gang of Sangram Bhalerao and Veer Sooryavanshi along with Satya and Shakti Shetty on a mission to rescue her.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2JbNkHg8m7LaBy61LyrnnlenaxY.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kQGJ3Cv7AKAvmdUaCLihkxVMMqs.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131630",
+    "status": "U",
+    "etag": "uH1rEJN2E4T3aeXiSMzVnA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131630",
+          "url": "/sapi/download/video?action=get&k=P_MsQGFZWqX3mG-mj81Jg2DpYfpfuleIk7rX-m080nJJNMW_BDINslljcf1GxNYw4PMLK8ifGKSQiGNW4IW0dOKvSMU-5MPuuRSFIwXoD0nePT8DseDXntSxaqRRr2ESwKsW_NTZpnzQeOHbiG_xjj4lQTDlpA_300ScCzXiFFehJJXPZ58&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=JFjb8JDj4i2bRnc7JF6k94Rvgn-p6ZFgzCWAg_pzWLeso6C6AEWTRmjIXeyU9bQNctF8OMFfF9-gdRxNapfmt5c8lVWaKKMwTLCpMK5-IjWIKiw8D5z4OKcarZekOCOWnlhBCmG1pqBa9Z1nv4mq7BjsCXemND6F0F9_3rfWr493xpA4W3Bz-XuFjxh2x5z8i2g&node=1i220",
+          "date": 1777907851890,
+          "creationdate": 1777907799000,
+          "modificationdate": 1777907799000,
+          "uploaded": 1777907830240,
+          "size": 453832028,
+          "name": "Singham-Again-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8531647,
+            "bitrate": 425551,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=EUseDF4jnQFzFfzkxTljq0aJZXZyrdFCzU-EHPeeJQgnS2-Svu6fDRI1TVfZalXqn3XkdeYT0awi1OEg-3oV4flpKCR9YRQba9zoLNd-V-4eZsaLEHC5YpyC7UxRV7llBEK7Jkcn6kPrxK4CGb6GCATST3tYKGE-floDyu2ANHCF5SxXbF5M0YjaOHLGUl1cEes&node=1i220",
+              "etag": "0uH1rEJN2E4T3aeXiSMzVnA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=JFjb8JDj4i2bRnc7JF6k94Rvgn-p6ZFgzCWAg_pzWLeso6C6AEWTRmjIXeyU9bQNctF8OMFfF9-gdRxNapfmt5c8lVWaKKMwTLCpMK5-IjWIKiw8D5z4OKcarZekOCOWnlhBCmG1pqBa9Z1nv4mq7BjsCXemND6F0F9_3rfWr493xpA4W3Bz-XuFjxh2x5z8i2g&node=1i220",
+              "etag": "0uH1rEJN2E4T3aeXiSMzVnA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "uH1rEJN2E4T3aeXiSMzVnA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907851964,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/2W-e6YOTTzSxrzOOPJX6ojk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Singham Again (2024)",
+  "media_kind": "movie"
+}
