@@ -1,0 +1,81 @@
+{
+  "name": "Mere-Husband-Ki-Biwi-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Mere-Husband-Ki-Biwi-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:20:44Z",
+  "remote_folder_id": 1753912,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130852",
+  "tmdb": {
+    "tmdb_id": 1196942,
+    "title": "Mere Husband Ki Biwi",
+    "original_title": "\u092e\u0947\u0930\u0947 \u0939\u091c\u093c\u094d\u092c\u0928\u094d\u0921 \u0915\u0940 \u092c\u0940\u0935\u0940",
+    "release_date": "2025-02-21",
+    "year": "2025",
+    "rating": 5.944,
+    "overview": "A Delhi professional faces a love triangle when his old flame returns as he falls for someone new. This leads to a series of comedic misunderstandings in his relationships.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/fQMBYG4JOD6WN8QzViPYqxuIsru.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/s4CHQ8m27TPBji3ZQAzgEEg0X8U.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130852",
+    "status": "U",
+    "etag": "fNIfeDEG4JitUUeNJUs+XQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130852",
+          "url": "/sapi/download/video?action=get&k=v8z-lgB93CJgYeKoloBVa1cakSaKsA7wa1W9kYYkzE8lFbF8cZkoobHsXSwpperIqEq6hm4m41KMcxjul6hwNnNxLh1hKY_EeLsBNvFNWHHt3S8hfT3lYt3711_yfdceuikLPlz9Agh906SRrppBgxiEZrmu2BzxSqM1YPfI3fmsUmdN33c&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=C49E28a9etLtJRMeMPzLQb1tG9Ed_xqXTArrTRms6Lnk1xSqblSeuJ7gN7rUDsQwsGU84IRnWiQ4p7FACJ3gK2cymzP5HhSv7vbkaL3ogG6KWh8GTK-JcBf-rhh1VlVZvQ66UCLh2cGbJQaUreSWRQmspPhObal5P91FLjmkppZd7IUy0_g17gksEbL7OAyguWc&node=1i220",
+          "date": 1777904443366,
+          "creationdate": 1777904322000,
+          "modificationdate": 1777904322000,
+          "uploaded": 1777904395182,
+          "size": 822330080,
+          "name": "Mere-Husband-Ki-Biwi-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8366869,
+            "bitrate": 786272,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=y1Gy7f1_paAaPewY3r3Hgb-WZHv1s0Ul3lMX3bES5ISTGm5PIwX757uZnfVibQ2CAKOhBzqAqtd-8AqX91mHBTiNCUgBRKYhYCr1xBV1M9hoDclnnbjxAzP0SlXZ_AcZaEPRjHTMJPYNrBBkcdnFVoQDn4Q14UvyjCOIG6RjXSKm5xrKoB489DI5RRPa9gJyw68&node=1i220",
+              "etag": "0fNIfeDEG4JitUUeNJUs+XQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=C49E28a9etLtJRMeMPzLQb1tG9Ed_xqXTArrTRms6Lnk1xSqblSeuJ7gN7rUDsQwsGU84IRnWiQ4p7FACJ3gK2cymzP5HhSv7vbkaL3ogG6KWh8GTK-JcBf-rhh1VlVZvQ66UCLh2cGbJQaUreSWRQmspPhObal5P91FLjmkppZd7IUy0_g17gksEbL7OAyguWc&node=1i220",
+              "etag": "0fNIfeDEG4JitUUeNJUs+XQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "fNIfeDEG4JitUUeNJUs+XQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777904443425,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/BwL1Ef50QFuKvTAYsvnunTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mere Husband Ki Biwi (2025)",
+  "media_kind": "movie"
+}
