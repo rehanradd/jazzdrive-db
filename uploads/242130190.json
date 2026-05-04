@@ -1,0 +1,68 @@
+{
+  "name": "Chikoo-Bunty-In-The-Ultimate-Dream-Chase-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Chikoo-Bunty-In-The-Ultimate-Dream-Chase-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:06:18Z",
+  "remote_folder_id": 1753877,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130190",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130190",
+    "status": "U",
+    "etag": "4G1OGnysXdlKZgtSyYSDzw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130190",
+          "url": "/sapi/download/video?action=get&k=lEUzq8e3JPUMYOPU0pCgyfz4v9_-3xt7oGjZyeqQkmWT77kJbxMRCifJ482odXrKdYgb5ntfP6hjiL3ff248HF5RSZ6ckLBMuUTg14zoJn8Bf1Stg6DvM_hJiGukwUNiYtZ0CwNI1-ssVZJK7McaNpbp789_rlczB21XfRYtWge9at8umow&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=5yQBBMULmPKDvTuUkobb-BQBZz_gBOPihT4QhEL4KMymDLp2d84vYr65_5CEaPU2WDudJaz89gT-e2ZtjtvP31-f_pK5PtmeeeI6dI4P9folJI-fJct7IAqNQELlfFPLEw9s15ZrJg3M7Gmn38hA-oZnBAKgH6XVb6RcI8Mi9D0ezdKhrCY4-ms-yXb64BXRO9c&node=1i220",
+          "date": 1777903576865,
+          "creationdate": 1777903456000,
+          "modificationdate": 1777903456000,
+          "uploaded": 1777903505702,
+          "size": 516726950,
+          "name": "Chikoo-Bunty-In-The-Ultimate-Dream-Chase-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5289855,
+            "bitrate": 781461,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=a7nxbP4Ng5LVVFI1iyvUeS8jPhGB4sO61P6IgJytdSQpSumMM1xxg0TFIq04gO0870PmK7GP6-dPZc2WTP_KvcUrt3fzjAq7wnU1TK1HZGfryA2OZFGgG15f3zqTzKqSI-KtQoWjwB6UEO0hrg5K4WQiKvnkp8T6WoddfZUYKrswV6wkpBuGJ75CZV_-6Twx5Gc&node=1i220",
+              "etag": "04G1OGnysXdlKZgtSyYSDzw=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=5yQBBMULmPKDvTuUkobb-BQBZz_gBOPihT4QhEL4KMymDLp2d84vYr65_5CEaPU2WDudJaz89gT-e2ZtjtvP31-f_pK5PtmeeeI6dI4P9folJI-fJct7IAqNQELlfFPLEw9s15ZrJg3M7Gmn38hA-oZnBAKgH6XVb6RcI8Mi9D0ezdKhrCY4-ms-yXb64BXRO9c&node=1i220",
+              "etag": "04G1OGnysXdlKZgtSyYSDzw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "4G1OGnysXdlKZgtSyYSDzw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777903576925,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/d43cwmeSSfWx5h6vHvpTFDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Chikoo Bunty In The Ultimate Dream Chase (2024)",
+  "media_kind": "movie"
+}
