@@ -6940,8 +6940,8 @@
     "media_kind": "movie",
     "github_status": "ok",
     "github_synced_at": "2026-05-04T15:25:51",
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:26:00"
   },
   "28480afa0a28639060429f382b8008846ae32cc1c1faa320a30047762ed840c0": {
     "name": "s\u1d00\u0280f\u026a\u0280\u1d00-(2024)--480p-[Orgmovies].mp4",
@@ -6968,8 +6968,8 @@
     "media_kind": "movie",
     "github_status": "ok",
     "github_synced_at": "2026-05-04T15:25:52",
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:26:05"
   },
   "c8bde8e87712e7beac3942d3f7ddc3f566ec1c2130d642ac6507a04fa45f808a": {
     "name": "\u026as\u029cq-\u1d20\u026as\u029c\u1d0b-\u0280\u1d07\u0299\u1d0f\u1d1c\u0274\u1d05-2024--480p-[Orgmovies].mp4",
@@ -6993,6 +6993,34 @@
     "share_validation_key": "",
     "share_folder_id": "",
     "share_folder_path": "S Q S (2024)",
+    "media_kind": "movie",
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:26:02",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:26:10"
+  },
+  "e0341d8592df2dcc036a68537007209c7bf1291a2f6551046b2cb7a609950fba": {
+    "name": "\u1d18\u1d1cs\u029c\u1d1b\u1d00\u026a\u0274\u026a-2024--480p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\\u1d18\u1d1cs\u029c\u1d1b\u1d00\u026a\u0274\u026a-2024--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 272823560,
+    "uploaded_at": "2026-05-04T15:26:11Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131670",
+    "remote_id": "242131670",
+    "remote_folder_id": "1753931",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242131670\", \"status\": \"U\", \"etag\": \"OCSb2d52x2G87hS1E1W4cg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242131670\", \"url\": \"/sapi/download/video?action=get&k=_GhbA6clyzGQmG3nnKT6RqglHhyIlNTrqi1WaxZuGRuUZYwT1gt9vC9VjhCmUBNH_19EoKq3V2EskOCFipnHnT1GPdu4NDj4_0CIUL6b4oiXtH_gqdjL-aLoSbXAts95NG5Gk-O7OmhpGPi7Y-VafhgaPvPMV3bGqN5oDBIuJZBAF2Z1rGM&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=aDDacbgZq5fc43Y5w9Vsvh-UY2IvD9bLUGTl7WldTVp7Ybu1GgQDf_7ti3Xe2QbKjT5uFdyQ7f05o1LNWPp2xE3xFPlSJMyju1Z6nPwm1mCpIL_DQt0HHw_EzWGtiy7cRosv2M1rT-bA5gltya2eSBt23sQ5tFCeeKfUlklJibTk8xyH5dimZzao9wmSkb-ki9g&node=1i220\", \"date\": 1777908369767, \"creationdate\": 1777908342000, \"modificationdate\": 1777908342000, \"uploaded\": 1777908359837, \"size\": 272823560, \"name\": \"\\u1d18\\u1d1cs\\u029c\\u1d1b\\u1d00\\u026a\\u0274\\u026a-2024--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 5106922, \"bitrate\": 427378, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=V4hLsPM-nffSeTzV0IyFyxINDcUiACawWa4PuKF6v-va8oADLmtTm48FWlVrbpzxRnjr6qXtPuS1QQM99SkTccpm_xrpD5HUr75Zg-34bePpHs_e-Ec6qGMphRR0Ny-6hLxlRnUMppuZSHqS1_Xd3Ycc5upsffB2t8izTYD6USMkO0LiutxiGybut6-UHTVd4FA&node=1i220\", \"etag\": \"0OCSb2d52x2G87hS1E1W4cg==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=aDDacbgZq5fc43Y5w9Vsvh-UY2IvD9bLUGTl7WldTVp7Ybu1GgQDf_7ti3Xe2QbKjT5uFdyQ7f05o1LNWPp2xE3xFPlSJMyju1Z6nPwm1mCpIL_DQt0HHw_EzWGtiy7cRosv2M1rT-bA5gltya2eSBt23sQ5tFCeeKfUlklJibTk8xyH5dimZzao9wmSkb-ki9g&node=1i220\", \"etag\": \"0OCSb2d52x2G87hS1E1W4cg==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"OCSb2d52x2G87hS1E1W4cg==\", \"favorite\": false}]}, \"responsetime\": 1777908369823, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/5BpbKhwqR2GRO19iEM0pajk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67817",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "S (2024)",
     "media_kind": "movie",
     "github_status": null,
     "github_synced_at": null,
