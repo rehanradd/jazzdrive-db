@@ -4672,8 +4672,8 @@
     "media_kind": "movie",
     "github_status": "ok",
     "github_synced_at": "2026-05-04T15:08:11",
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:08:16"
   },
   "8d3815502a8e0213cbadd5db1030323f47538c72795627c5f492192bd17ef1d3": {
     "name": "Emergency-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
@@ -4698,10 +4698,10 @@
     "share_folder_id": "",
     "share_folder_path": "Emergency (2025)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:08:21",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:08:26"
   },
   "15800ad30758850bbf8ba0369a58e7227d25ae4650395356f7c6d11703daf0ae": {
     "name": "12\u1d1b\u029c-\ua730\u1d00\u026a\u029f-(2023)-Hindi-Movie--720p-[Orgmovies].mp4",
@@ -4726,10 +4726,10 @@
     "share_folder_id": "",
     "share_folder_path": "12 (2023)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:08:23",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:08:30"
   },
   "b4e45a4fb15c5d3421c259e62928ca56449212e45f30f1a89a3a1dfba9e6a6ff": {
     "name": "Be-Happy-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
@@ -4753,6 +4753,34 @@
     "share_validation_key": "",
     "share_folder_id": "",
     "share_folder_path": "Be Happy (2025)",
+    "media_kind": "movie",
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:08:25",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:08:34"
+  },
+  "67e862b747678ab5d179acfcb03626131adeb9f8ddbd46f1fad395962685e9ec": {
+    "name": "Mere-Husband-Ki-Biwi-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\Mere-Husband-Ki-Biwi-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 454487138,
+    "uploaded_at": "2026-05-04T15:08:54Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131281",
+    "remote_id": "242131281",
+    "remote_folder_id": "1753912",
+    "tmdb_title": "Mere Husband Ki Biwi",
+    "tmdb_year": "2025",
+    "tmdb_rating": 5.944,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/fQMBYG4JOD6WN8QzViPYqxuIsru.jpg",
+    "tmdb_overview": "A Delhi professional faces a love triangle when his old flame returns as he falls for someone new. This leads to a series of comedic misunderstandings in his relationships.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242131281\", \"status\": \"U\", \"etag\": \"ICbxnDNHHvnSuitcVam7iQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242131281\", \"url\": \"/sapi/download/video?action=get&k=_ehbOe6hgGE9RBYAL9lnCkUUumpLKEHJotCVWye4Ay-HgXHTn2BdgbOZr3Fn8Xkg3-4zyjgZK4Ss1p3BjWWjIkrzHUCeZtNLQyz2wS4yta6eFDJTEpCSDt7ZHIeAmUJrycZcMvvvqzAhwltx2OoRP1YZ7mVTDpxNAZmyw-cnELGcBE_4ZbM&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=9-zvbvkPFs6kLBfhiBOgQIkdN7KHpysdYenYx7oVjaoMStkzokqG2X6K8tDLVbQVdP6VATnxD-bs-1fyuiljW3SFrG0ZxRnCq2SvqboO1_g7kq0DKOjUlHFOSpU3g9SKA45ZP-SXDcXXe1DZMfjkqXh_WC_f-_BWMuc3rWslOe_KPIblKCFrs3VBXKdps2XLmj8&node=1i220\", \"date\": 1777907333062, \"creationdate\": 1777907268000, \"modificationdate\": 1777907268000, \"uploaded\": 1777907312410, \"size\": 454487138, \"name\": \"Mere-Husband-Ki-Biwi-(2025)-Hindi-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 8330943, \"bitrate\": 436432, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=f-euzwJV0MNEli_060PCdGLq6v9aIfOODPwReD0qzxhHmQM8y2xZvPoLCXtFSpKH-yv-VMWjjaHlOCZSCFlx4DvNXhronfNT5m7T6-swrCPIlmar7hFHt4lOgFG1c5cUhS-Yhvr4dHRFZreUWdl_lTgYFhbglb3vZ7Rlap32TmwFVTk4BDdcjaYFp0AHMuivaYA&node=1i220\", \"etag\": \"0ICbxnDNHHvnSuitcVam7iQ==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=9-zvbvkPFs6kLBfhiBOgQIkdN7KHpysdYenYx7oVjaoMStkzokqG2X6K8tDLVbQVdP6VATnxD-bs-1fyuiljW3SFrG0ZxRnCq2SvqboO1_g7kq0DKOjUlHFOSpU3g9SKA45ZP-SXDcXXe1DZMfjkqXh_WC_f-_BWMuc3rWslOe_KPIblKCFrs3VBXKdps2XLmj8&node=1i220\", \"etag\": \"0ICbxnDNHHvnSuitcVam7iQ==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"ICbxnDNHHvnSuitcVam7iQ==\", \"favorite\": false}]}, \"responsetime\": 1777907333129, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/BwL1Ef50QFuKvTAYsvnunTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67802",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Mere Husband Ki Biwi (2025)",
     "media_kind": "movie",
     "github_status": null,
     "github_synced_at": null,
