@@ -1,0 +1,82 @@
+{
+  "name": "The-Signature-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Signature-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:20:09Z",
+  "remote_folder_id": 1753939,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131644",
+  "tmdb": {
+    "tmdb_id": 989880,
+    "title": "The Signature",
+    "original_title": "The Signature",
+    "release_date": "2024-10-04",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Arvind\u2019s life comes crashing down when his wife Madhu falls into a coma and is put on life support. Will situations hold him back, or will he be able to save his wife with the hope of a life together?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nXrwCSHkQNlfzpIZPyN9IlYmINa.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/oLHpMxGqWVU2RdGSa7NDPGT8Qyq.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131644",
+    "status": "U",
+    "etag": "ySJ0OI0beCi/nZPkIjmfFw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131644",
+          "url": "/sapi/download/video?action=get&k=NP5g_b51yMqqzOF9XgZaNf1Z2bE-ynKgJ9duTfNevuV40IE83DcaXb_AJNCth6dMmmgusvWMYB5LWnDSWcZI4lpctCjncqq7lFQZHZl_lN6Zbyub5FsQcagL3XP0Wq5oeGDUjjNLmkXe31UPCf38lyfBZ2xdXUiO3-sHuUGKeLtxVkc_iVQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=GUSAqyo3vttxvZL-6fW_J6Zi4cx2HmGYfk3KaS98EZvua652yIo4m8ZjG7GRVCWgxpO3mM72gTOwah6_YAD0AvmiuRz1A1yEyVKnma1sGjptRmStq3NyQ_B41QL5bDSfjE2ZZk01-zPJJrvBM-37sg-td4OUUlNDffF9W6D_tzGEAoPTnsTIJe8isuLLWw7_H4k&node=1i220",
+          "date": 1777908008233,
+          "creationdate": 1777907966000,
+          "modificationdate": 1777907966000,
+          "uploaded": 1777907988306,
+          "size": 304323892,
+          "name": "The-Signature-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5768480,
+            "bitrate": 422050,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=uDUtg2co4ucLybd4ET5WYcdQlFl_cvMN63adcW6N8daC-4QnB_Ub67n63WZoXWARh8H7vSNYVUvn3x-JAgTXIcZ22E8tm34KpND1fOPTMH02UDXFEC1HM8dM1BHkbrIpZiZ6pdkF6_padJUpA0dGT-wnsJu8mHGbqWtRI5hDJUPll16JQ72u8L8_1ERTQBqmKeI&node=1i220",
+              "etag": "0ySJ0OI0beCi/nZPkIjmfFw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GUSAqyo3vttxvZL-6fW_J6Zi4cx2HmGYfk3KaS98EZvua652yIo4m8ZjG7GRVCWgxpO3mM72gTOwah6_YAD0AvmiuRz1A1yEyVKnma1sGjptRmStq3NyQ_B41QL5bDSfjE2ZZk01-zPJJrvBM-37sg-td4OUUlNDffF9W6D_tzGEAoPTnsTIJe8isuLLWw7_H4k&node=1i220",
+              "etag": "0ySJ0OI0beCi/nZPkIjmfFw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ySJ0OI0beCi/nZPkIjmfFw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777908008291,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/z5PyDPvjRimHfOa9ra_H6zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Signature (2024)",
+  "media_kind": "movie"
+}
