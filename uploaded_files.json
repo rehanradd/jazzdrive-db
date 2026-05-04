@@ -6914,5 +6914,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "c48702e685dd4cd43248a3692ec7b690e306610cee3130bc943378b7d0c012db": {
+    "name": "\u1d0d\u0280-\u1d00\u0274\u1d05-\u1d0d\u0280s-\u1d0d\u1d00\u029c\u026a-(2024)--480p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\\u1d0d\u0280-\u1d00\u0274\u1d05-\u1d0d\u0280s-\u1d0d\u1d00\u029c\u026a-(2024)--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 438295803,
+    "uploaded_at": "2026-05-04T15:25:38Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131665",
+    "remote_id": "242131665",
+    "remote_folder_id": "1753931",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242131665\", \"status\": \"U\", \"etag\": \"X2AFnL6ZQN51IPkD1lvo3g==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242131665\", \"url\": \"/sapi/download/video?action=get&k=EIAUSSS-7khjbQT2zyrTA6MfaFg5XtbqpDThou2tLSJPXerwS5TQOw9ZKtDSiTVZ4DPsoNnM2xZta9XeoouiOMcyHknB-j28rJCGm9nIxXrYMNVYupYTF12JjFWkGjbkJX3P6UoReLh5ML2e6piFG7o52F4pgFHz8uOkYpIuk6FuF1CJRCI&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=LEwL3wM-piAQe-gAoc_SheOn8bsNHuAQiooWYk3YEWOHXpO6qnoOE6INP3g269-JHc-KoCEXHXLkx9hFQfhmLDJvFy8caLd44yXq4yg2c3nqzijT4MMNm1n8Ej0MGXqenL_jPnT4eTnnKxTIl04NMT1lInrsDPYqbeYc1w5yGDupcW9tHwR-_nGtgsxy-H-0w8Y&node=1i220\", \"date\": 1777908335893, \"creationdate\": 1777908252000, \"modificationdate\": 1777908252000, \"uploaded\": 1777908299154, \"size\": 438295803, \"name\": \"\\u1d0d\\u0280-\\u1d00\\u0274\\u1d05-\\u1d0d\\u0280s-\\u1d0d\\u1d00\\u029c\\u026a-(2024)--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 8282816, \"bitrate\": 423330, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=mnorTPdsAu95C7_nTn8zUUIuwFBzs1XflwzMuBLlFrmKNIaWZhaQeesDaPqp4_ETOGfkODuJxUxfmHDz2pmlYRMArtAbQGNRe2x1UiBbbssZxPr5xtMpSBZzNO3Fs68wCmR4csSbkLHWbiUfVMu5aH7Jp7AVIdUMQaj5nXpKN0ehuKrkp6bpuFn6f7FPS2F80yU&node=1i220\", \"etag\": \"0X2AFnL6ZQN51IPkD1lvo3g==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=LEwL3wM-piAQe-gAoc_SheOn8bsNHuAQiooWYk3YEWOHXpO6qnoOE6INP3g269-JHc-KoCEXHXLkx9hFQfhmLDJvFy8caLd44yXq4yg2c3nqzijT4MMNm1n8Ej0MGXqenL_jPnT4eTnnKxTIl04NMT1lInrsDPYqbeYc1w5yGDupcW9tHwR-_nGtgsxy-H-0w8Y&node=1i220\", \"etag\": \"0X2AFnL6ZQN51IPkD1lvo3g==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"X2AFnL6ZQN51IPkD1lvo3g==\", \"favorite\": false}]}, \"responsetime\": 1777908335969, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/5BpbKhwqR2GRO19iEM0pajk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67817",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "S (2024)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
