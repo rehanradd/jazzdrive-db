@@ -1,0 +1,83 @@
+{
+  "name": "Jaane-Jaan-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Jaane-Jaan-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:51:30Z",
+  "remote_folder_id": 1754171,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132204",
+  "tmdb": {
+    "tmdb_id": 950071,
+    "title": "Jaane Jaan",
+    "original_title": "\u091c\u093e\u0928\u0947 \u091c\u093e\u0902",
+    "release_date": "2023-09-21",
+    "year": "2023",
+    "rating": 7.094,
+    "overview": "When a single mother her teenage daughter becomes ensnared in a deadly crime,  find an unexpected ally in their neighbor, a simple, doting but genius teacher math teacher comes to aid, while a tenacious cop digs into the case.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oaUOV9VCNM5MjrmonqgH4o3XNwQ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/eF8XLbbBd5cIfvS00tzl0jWAcOX.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132204",
+    "status": "U",
+    "etag": "J9DzEOgCBvZU4mJgEqXNHg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132204",
+          "url": "/sapi/download/video?action=get&k=TXrOT-w3QXhrtZxgUBBynkXLyMw8x_B29736Pb4EMo05-bjMIwgZBf6H0sudKHdLDkjC1lYEtCBI0RhnZ8YJBF6YL4iUa8v8ViwWtam2XlemgWQdKbfKHA8M9DD7cdnaVNLGbQzI99xvmKwn52RlFBJzPK3sfStV6cIJtLx75Sq7H1QRGOE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=K0x6jExhqp8otgpsHkDgkubxWs_4HFSMPeciZdq7wcNFdNfyqcAbD2FJnZyj1eniSrapd-h3Ttc7BWhVALgItoLsAVtkwsvu08EM1UMSOax11nige7NP5r0SZQNsEVJ-LMOVhDwxWJw0ZrLPFtyz6Dfa1WBS2jDtm_4263szceon7mc3-_rlWpaZm8cehKHeSdc&node=1i220",
+          "date": 1777909889542,
+          "creationdate": 1777909785000,
+          "modificationdate": 1777909785000,
+          "uploaded": 1777909865731,
+          "size": 442504970,
+          "name": "Jaane-Jaan-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8358267,
+            "bitrate": 423537,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=QzDVaHgJQ9NUXRT9et24Hx8XtmgbeY80jxuG1TP0whf77n6a4xgeUg3BzuIpfsEOLKy6WWtvc4Bop8Wo7qgnRHmOvjV15vds8ZhwVKTXgtEmI321feXWcm0PQbefLaw9TMExWR44P3wkgNkPkJWm7PP_HIECXBTU1J4bfhKTuUZUQWf5x2Dbl2DsNWr6cMCq4Uo&node=1i220",
+              "etag": "0J9DzEOgCBvZU4mJgEqXNHg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=K0x6jExhqp8otgpsHkDgkubxWs_4HFSMPeciZdq7wcNFdNfyqcAbD2FJnZyj1eniSrapd-h3Ttc7BWhVALgItoLsAVtkwsvu08EM1UMSOax11nige7NP5r0SZQNsEVJ-LMOVhDwxWJw0ZrLPFtyz6Dfa1WBS2jDtm_4263szceon7mc3-_rlWpaZm8cehKHeSdc&node=1i220",
+              "etag": "0J9DzEOgCBvZU4mJgEqXNHg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "J9DzEOgCBvZU4mJgEqXNHg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909889598,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/PEveIbSLTTytZ7YrI5yKvjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jaane Jaan (2023)",
+  "media_kind": "movie"
+}
