@@ -1,0 +1,81 @@
+{
+  "name": "Pad-Gaye-Pange-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Pad-Gaye-Pange-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:14:30Z",
+  "remote_folder_id": 1753920,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131616",
+  "tmdb": {
+    "tmdb_id": 1341538,
+    "title": "Pad Gaye Pange",
+    "original_title": "Pad Gaye Pange",
+    "release_date": "2024-08-31",
+    "year": "2024",
+    "rating": 10.0,
+    "overview": "Shastri Ji, a retired math teacher, shares his home with his son Nilesh and daughter-in-law Madhu. Madhu desires a new apartment, away from Shastri Ji's quirks. Ayush leads a monotonous life, brightened by his girlfriend Parul.  Shastri Ji (60), a retired and jovial maths teacher, lives in his 30-year-old house, filled with cherished memories of his late wife, Sudha. He shares the house with his son Nilesh and daughter-in-law Madhu, who is frustrated by Shastri Ji's quirks and the lack of privacy and wants to move to a new apartment with her husband. On the other hand, Ayush lives a monotonous life with his only sunshine mein being his long time girlfriend , Parul who is soon gonna be his wife. Things take a turn when Shastri ji and Ayush while attending a local health check up camp are diagnosed with cancer. Events that follow ensure the viewers a laughter ride.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sr4kVpnt7mBwyqbl1wFsPZrpbze.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xPg0BgTzJFrnNkWuxLMga2fPVWt.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131616",
+    "status": "U",
+    "etag": "TL8lCyCx4MCaZC78o9fhGw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131616",
+          "url": "/sapi/download/video?action=get&k=JbbyYDIwb17w4At4yIM2AjSp6bZ_mJ0ghkoqaeOjW__dLlUIJ7oEOd8-NfDrBfY_Wp5f6ya8s8zgMY66an9sCk52rjNpY9S3lwTi8uC4fF8tQE49fVdFNdtClse6g4cZ4zoLyd0RiHYJzQyF77sWhvAUoFxJ9jpSQ9o1dnrXehhxPokh9dM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=wmkCXHxPY8Z3Pfr7edemjAjMPkFL5Y1NmLB4BJTjrogvsfMViq1bfYkgu-JEWZMhs9kPowfJBxoNyLnJTbtS8vWKw4vPOJj7APsE-8h50mvTMAyQwzCxr96QzJNcxS9W4azIlx4OKXNAT4tNDK65JCbsaj3esms-evcWS9fZK4s_ItcVZyT26YDLymbTYxYfW_0&node=1i220",
+          "date": 1777907668896,
+          "creationdate": 1777907625000,
+          "modificationdate": 1777907625000,
+          "uploaded": 1777907655267,
+          "size": 371452200,
+          "name": "Pad-Gaye-Pange-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6994720,
+            "bitrate": 424837,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=JLT0ZX9qqzuFWgB1JQVSCTb1YoJxpoDEQm4NkdIMluLB3mXS-hfiFgoBcjNOWD3g__37Fgnek-v8IkxrEn2y4FgXrDOSr0uqg7Gdw9iQ57WIh9p-Mr0CRCCWoZgWcHAhhOt-CMV6egJSmt6FPveQ73rRsyxkXWVQpoj-Abb8Uh4vv1gpsULHD0rbHWKm0CdLqOg&node=1i220",
+              "etag": "0TL8lCyCx4MCaZC78o9fhGw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=wmkCXHxPY8Z3Pfr7edemjAjMPkFL5Y1NmLB4BJTjrogvsfMViq1bfYkgu-JEWZMhs9kPowfJBxoNyLnJTbtS8vWKw4vPOJj7APsE-8h50mvTMAyQwzCxr96QzJNcxS9W4azIlx4OKXNAT4tNDK65JCbsaj3esms-evcWS9fZK4s_ItcVZyT26YDLymbTYxYfW_0&node=1i220",
+              "etag": "0TL8lCyCx4MCaZC78o9fhGw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "TL8lCyCx4MCaZC78o9fhGw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907668953,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/75vUcBj1SISIvqC2_b4mujk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Pad Gaye Pange (2024)",
+  "media_kind": "movie"
+}
