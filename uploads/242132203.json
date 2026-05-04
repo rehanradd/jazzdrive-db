@@ -1,0 +1,83 @@
+{
+  "name": "Shanaya-An-Unsolved-Mystery-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Shanaya-An-Unsolved-Mystery-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:50:24Z",
+  "remote_folder_id": 1754170,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132203",
+  "tmdb": {
+    "tmdb_id": 1146132,
+    "title": "Shanaya - An Unsolved Mystery",
+    "original_title": "Shanaya - An Unsolved Mystery",
+    "release_date": "2023-06-27",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "Shanaya is found dead while on holiday with her elder sister Pragya, her husband and a few friends. The police investigates her death and unravels motives of lust, lies, revenge and deceit making everyone a suspect, but who is the killer?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oTpaw9dTBNUooqrQ9x9LyHmjBkx.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/qCZJGCwPuJsyjG8lhP3vMNnaB8K.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132203",
+    "status": "U",
+    "etag": "MzGMIn+eXfiqtLJYcB+W5g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132203",
+          "url": "/sapi/download/video?action=get&k=jRk61EhrKvMJL3u2ca7P4vrwYZIKT9v4WMDUEP13uxQYGkhqcg3VP9ioof1-hDCerfcfdNjZat5fO5-ptI8ylIPK5tWA4Hr7XVJ2JfBpL37Esve4Sg06CN1d3U0llpihepoY9WwLr8O33aLsdAd4q0_ixlAd3yNSABS_wkkLuMvgCDK4Mek&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=jzh1jhxYhmpfUAO9ABfobtLGfpSW2rdtzjw3f4zLF1iWwDYxC0td2O3UiEdS3OZEvZ06lBbT7EdL19f5Y_Mo38L5E9X4VEHj2r0VLj_oIXZh16rPioKrhTvID_Nh5PXjBbVGjpZkGlBWAyYqs6ntaGzQHZpUK11DIgRDNdxwGGDeqxS5tEHsLjVTIZcI2pCs-iE&node=1i220",
+          "date": 1777909823686,
+          "creationdate": 1777909778000,
+          "modificationdate": 1777909778000,
+          "uploaded": 1777909809640,
+          "size": 283354987,
+          "name": "Shanaya-An-Unsolved-Mystery-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5341920,
+            "bitrate": 424349,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=syk8CdnPIGQ2KPeVwCt7fOp9DtHCBhoKOseavhjm-CcWld87Zw0Up9YYzeegHoWB_PGnPu_ebLVASYZeI3KybOzHs8RHRl4Po5jRPrxY45IDozdY25E4X4BG_Mvw-1fJ58tJTdmRnWjHsdEWJ7Tkh3NMlX3irIPgs2saWLwilEBRs8fxWr5IljjJqSLvAMiWBBk&node=1i220",
+              "etag": "0MzGMIn+eXfiqtLJYcB+W5g=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=jzh1jhxYhmpfUAO9ABfobtLGfpSW2rdtzjw3f4zLF1iWwDYxC0td2O3UiEdS3OZEvZ06lBbT7EdL19f5Y_Mo38L5E9X4VEHj2r0VLj_oIXZh16rPioKrhTvID_Nh5PXjBbVGjpZkGlBWAyYqs6ntaGzQHZpUK11DIgRDNdxwGGDeqxS5tEHsLjVTIZcI2pCs-iE&node=1i220",
+              "etag": "0MzGMIn+eXfiqtLJYcB+W5g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "MzGMIn+eXfiqtLJYcB+W5g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909823750,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Weok3sb-TQqGruJYJMW9FTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Shanaya An Unsolved Mystery (2023)",
+  "media_kind": "movie"
+}
