@@ -1,0 +1,82 @@
+{
+  "name": "Crakk-Jeetega-Toh-Jiyegaa-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Crakk-Jeetega-Toh-Jiyegaa-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:08:31Z",
+  "remote_folder_id": 1753880,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130264",
+  "tmdb": {
+    "tmdb_id": 1215938,
+    "title": "Crakk: Jeetega... Toh Jiyegaa",
+    "original_title": "\u091c\u0940\u0924\u0947\u0917\u093e: \u0924\u094b \u091c\u093f\u090f\u0917\u093e!",
+    "release_date": "2024-02-23",
+    "year": "2024",
+    "rating": 5.5,
+    "overview": "It follows the journey of a man from the slums of Mumbai to the world of extreme underground sports.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tmrjo8M4rm6NhkBKk20wDSj91go.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xzwNTmJzCxn4gBpAsV9o2Krkx0C.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130264",
+    "status": "U",
+    "etag": "QtDOnUMdKGmF5TDr92Aq3g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130264",
+          "url": "/sapi/download/video?action=get&k=Ye9ZrtzGYVFBr8rcTAH-g6W3tC0W75QsuageaR1IoIZr5Ta1pKIwTZ-Vdb-wKliyQnYOgnWcVT8saaCjWJQHs3SSfldOP6f3n9LGvFBCziWLwEVbCeFZGw5nSb3kOkFeWXe8HfOiY_d41QWuTIKyfMCCPDAiIv7jq1Lr3IMGp6A2So8WL34&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=_NrwGgmCJ3T7CkAhMkl5KWrRZS1iQCxEk_tufy0v_jNzxvfuSO58wf6u4jV4qZBedJCU7eRKhx68Xpmfpz5j-qOTctj6HxB09iwmxFUxde6NoSh6Wb-roxIwvXZt5KnWzq_GmmhZBUrLjQGZOL4v2e9IJumF5roZKtm4V-ugyMsCkDOGQzv5GrdOYo8tTaFwIqU&node=1i220",
+          "date": 1777903710391,
+          "creationdate": 1777903592000,
+          "modificationdate": 1777903592000,
+          "uploaded": 1777903643298,
+          "size": 764555230,
+          "name": "Crakk-Jeetega-Toh-Jiyegaa-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7960384,
+            "bitrate": 768360,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=iJqC11E-GO_VGhXvQ4Hpx0wHwYmrynVvV-Bc7OnQU1jkGH0e9cPUeN31Ymi2xVOxsJwIsRkGAU3wmv9sVCpVd5OWN46f2JgS8E5FaMCGZq1X95dAXXWfie4J2nOwogblIVgxewgJiawD0CQsDYy3_NlsK8bHmWYHcrmCB6y0KnduZFstnu9SfmOtuPcY1wzVH58&node=1i220",
+              "etag": "0QtDOnUMdKGmF5TDr92Aq3g=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_NrwGgmCJ3T7CkAhMkl5KWrRZS1iQCxEk_tufy0v_jNzxvfuSO58wf6u4jV4qZBedJCU7eRKhx68Xpmfpz5j-qOTctj6HxB09iwmxFUxde6NoSh6Wb-roxIwvXZt5KnWzq_GmmhZBUrLjQGZOL4v2e9IJumF5roZKtm4V-ugyMsCkDOGQzv5GrdOYo8tTaFwIqU&node=1i220",
+              "etag": "0QtDOnUMdKGmF5TDr92Aq3g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "QtDOnUMdKGmF5TDr92Aq3g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777903710457,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sNNbpfuOTJC_saVhkZDAdTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Crakk Jeetega Toh Jiyegaa (2024)",
+  "media_kind": "movie"
+}
