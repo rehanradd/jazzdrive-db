@@ -1,0 +1,83 @@
+{
+  "name": "Yo-Yo-Honey-Singh-Famous-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Yo-Yo-Honey-Singh-Famous-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:16:13Z",
+  "remote_folder_id": 1753946,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131626",
+  "tmdb": {
+    "tmdb_id": 1252467,
+    "title": "Yo Yo Honey Singh: Famous",
+    "original_title": "Yo Yo Honey Singh: Famous",
+    "release_date": "2024-12-20",
+    "year": "2024",
+    "rating": 5.3,
+    "overview": "He was an ordinary boy with extraordinary dreams. This intimate documentary traces the rise, fall and comeback of Indian rapper Yo Yo Honey Singh.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/t4LAe1fwWmLEO8MH8U56uICxxU.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mHvvxntUAv3nrSAWzjPfMt4t1dQ.jpg",
+    "genre_ids": [
+      99,
+      18,
+      10402
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131626",
+    "status": "U",
+    "etag": "wGw7Ssvf4aUoLDJ1PXcvHA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131626",
+          "url": "/sapi/download/video?action=get&k=X5ywTYT3HtlSDX8KnqD4Uh8hDyDJjZG40XjVZlXhSaUAbR7c_CfMzaiL4RpVVwwjIQ1vEpTh0Lom_vQXf4YX5-v0LS57UZexedyU7c6ewjO3qameh4P5tHPpU-IUT495p6R9DY7_MwO-DOVcuBqyXPcaDPkpDFmQCugfnZiBNKz8iGl2om0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=fsMVRZyFWOFEP47pDBKlIe3CQaTCbrY-_HijsY550eqscVGFm0A8nWjCM20e7f0LlHGCwICs7QOlBPqHkgdTTpSqe6ILKTYRonirevFtdfynrIeeYF_gYO5Hrt1qAm6m6DThNHZEzhl7CWPme0THZAyKJxuNjeQSfHlaMAEwT0INA6VyHcrk6h-PMoKmOWKYuK4&node=1i220",
+          "date": 1777907772015,
+          "creationdate": 1777907735000,
+          "modificationdate": 1777907735000,
+          "uploaded": 1777907758279,
+          "size": 248082178,
+          "name": "Yo-Yo-Honey-Singh-Famous-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 4800480,
+            "bitrate": 413428,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ny1y5QeLG5W81vbXZhsWxmrkZ5Lo_ifqoX01wv7aDN3U2kz2KKAe8_dbcG-igIeHsQl4O8LtqAfSVGXk-OUP0pOlflKD-KuriEFexeVesjulyutXyn1Djc4LgBL8bG0utN4JG-IsADJNne4AZbZAD-yBIWt4BblCuJ0o4IOkPl3jhYVHrWUWC_CMTm_YefSPUQE&node=1i220",
+              "etag": "0wGw7Ssvf4aUoLDJ1PXcvHA=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=fsMVRZyFWOFEP47pDBKlIe3CQaTCbrY-_HijsY550eqscVGFm0A8nWjCM20e7f0LlHGCwICs7QOlBPqHkgdTTpSqe6ILKTYRonirevFtdfynrIeeYF_gYO5Hrt1qAm6m6DThNHZEzhl7CWPme0THZAyKJxuNjeQSfHlaMAEwT0INA6VyHcrk6h-PMoKmOWKYuK4&node=1i220",
+              "etag": "0wGw7Ssvf4aUoLDJ1PXcvHA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "wGw7Ssvf4aUoLDJ1PXcvHA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907772083,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/D2G7Yjk4RD2fVnmdOp_ymTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Yo Yo Honey Singh Famous (2024)",
+  "media_kind": "movie"
+}
