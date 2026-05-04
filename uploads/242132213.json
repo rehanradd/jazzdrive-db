@@ -1,0 +1,82 @@
+{
+  "name": "The-Vaccine-War-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Vaccine-War-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:52:30Z",
+  "remote_folder_id": 1754164,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132213",
+  "tmdb": {
+    "tmdb_id": 1046620,
+    "title": "The Vaccine War",
+    "original_title": "The Vaccine War",
+    "release_date": "2023-09-28",
+    "year": "2023",
+    "rating": 5.8,
+    "overview": "Faced with the catastrophic challenge of fighting a global crisis like no other, Indian scientists take on the mantle of producing vaccine despite not having enough resources and infrastructure to save the nation's sixteen million citizens.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ceWCWvbEogkXU1It8gH1l2rcfEJ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jtIjprJvfLeLWTZuVCo4zv13CvF.jpg",
+    "genre_ids": [
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132213",
+    "status": "U",
+    "etag": "Er8kI4gyfAQRRl62YlaH+A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132213",
+          "url": "/sapi/download/video?action=get&k=XSdFCJFGqxun7XMglriXkMwdUFgTL0O-0Dk6xpUW0aZYz-gIcxSweUYf8eTFMRgCtWjfAIe9k5zr98BzoeocgWVD1GTzV5fH1BlOXYnlc69Sd9W9VzRRVVcmM7Khr38oj18pG40w_tvcjwCQBhpyY4rK0WJ3pDgEZmYbb0XaZ0Bwalqe4fc&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=mNCZEQAqBmLffJGeIk7ZnJ2ivJxONQIMgtKkbwbpdE23dulmruv9dFUZFVG9DX3r7E_EzKhNeBtwgNzh7s8dhhPiDu8XQK-kC9ezG3v9N-7hT1EIa-bi_XWMyOSXIQukFWaeU_dgyWFhKQKyG8pSAA8Db4B5YQhVWRGcEDAb-ZpZQOans_4LEuy0DoRjbECKM0k&node=1i220",
+          "date": 1777909949255,
+          "creationdate": 1777909875000,
+          "modificationdate": 1777909875000,
+          "uploaded": 1777909932503,
+          "size": 477311821,
+          "name": "The-Vaccine-War-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8928675,
+            "bitrate": 427666,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=uAVIBu04ixL5Kg-aLo5cEd_udlWYDZO5apt6jDmqfDviLglt8rXkszGDJKDvP-u49UAsML1tc6cf77Unt5-PgtabTymUo_5mvNhLIqUOjBdpSk4penm1yO5GT3_QuGIAbeddpofDKPlUDK1WlXhdQOMfk9CjryOdJLATf2kcKYgz9Hm5076RKIvyW19LBuI5psw&node=1i220",
+              "etag": "0Er8kI4gyfAQRRl62YlaH+A=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=mNCZEQAqBmLffJGeIk7ZnJ2ivJxONQIMgtKkbwbpdE23dulmruv9dFUZFVG9DX3r7E_EzKhNeBtwgNzh7s8dhhPiDu8XQK-kC9ezG3v9N-7hT1EIa-bi_XWMyOSXIQukFWaeU_dgyWFhKQKyG8pSAA8Db4B5YQhVWRGcEDAb-ZpZQOans_4LEuy0DoRjbECKM0k&node=1i220",
+              "etag": "0Er8kI4gyfAQRRl62YlaH+A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Er8kI4gyfAQRRl62YlaH+A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909949321,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/y3sHHt14Ryiuq-bcnHbHtzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Vaccine War (2023)",
+  "media_kind": "movie"
+}
