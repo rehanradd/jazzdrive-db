@@ -5850,5 +5850,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "22d25159b42787fbfc2d950e82a630533999c6982457880fd8a0ba1907104c53": {
+    "name": "Agni-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\Agni-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 385882776,
+    "uploaded_at": "2026-05-04T15:17:05Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131629",
+    "remote_id": "242131629",
+    "remote_folder_id": "1753867",
+    "tmdb_title": "Agni",
+    "tmdb_year": "2024",
+    "tmdb_rating": 6.625,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/zx3UOe5rZ7uH5lMs3JxEMU0nNXB.jpg",
+    "tmdb_overview": "In a city plagued by a strange rise in fires, fireman Vithal and his policeman brother-in-law Samit reluctantly team up to solve the escalating crisis. Battling personal conflicts, they race against time to crack the case and save Mumbai.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242131629\", \"status\": \"U\", \"etag\": \"Osobk32qgXIjteBxq3eOTw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242131629\", \"url\": \"/sapi/download/video?action=get&k=G3EuJ-sWVN8kXYxS1Gs1Z4St7ZlPplHJiKy-Oc2TSUWPeWv1m-nipO9JD26cEnjfn5cs945Khirb8hYHBltjQaoJBi8Yuu-kf6kxa303zZIQBowUXFwnJ6fHTemeVtRzZMZiQ8WMZDQ3FGtsJFXAfyWaN8h1KJRftkmZHcLMMIyisjOFRZw&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=pi6Ntaylu_I7mwDL055u7fKvMRY-JHMk6sYJmPTlSVFQBEPGrcBw7wyA56-xwawcuNWu0KMDhCa4R4nWujj3KjXVM8bFRqd34jl1S7gNnNLGXJmwhObchVprJcAoWFxYyIpzikojkHsWFciQ87aqTI2fcLoIntxHv4Yx-bMAjl_pb-UOpMjZautFMyTN_OL9js4&node=1i220\", \"date\": 1777907824687, \"creationdate\": 1777907785000, \"modificationdate\": 1777907785000, \"uploaded\": 1777907808950, \"size\": 385882776, \"name\": \"Agni-(2024)-Hindi-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 7322720, \"bitrate\": 421573, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=MVVH7cep4gJA_kUksrpGo6svJpb1i2YpC1vtS0s2TIlfleq0KrDi6txJR9Po6jKh837yhn6ZvQW0tsj7Z5Ee9hC_q2sClNffDempac0IMjSWcSY54qXECCwD_HAs8u91zR9B7bR_WZudyBN3-YnOWtZK3wxJ7kM7iMaL2XTI-JHP2piBVjDSmUqQvchiXH0er6U&node=1i220\", \"etag\": \"0Osobk32qgXIjteBxq3eOTw==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=pi6Ntaylu_I7mwDL055u7fKvMRY-JHMk6sYJmPTlSVFQBEPGrcBw7wyA56-xwawcuNWu0KMDhCa4R4nWujj3KjXVM8bFRqd34jl1S7gNnNLGXJmwhObchVprJcAoWFxYyIpzikojkHsWFciQ87aqTI2fcLoIntxHv4Yx-bMAjl_pb-UOpMjZautFMyTN_OL9js4&node=1i220\", \"etag\": \"0Osobk32qgXIjteBxq3eOTw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"Osobk32qgXIjteBxq3eOTw==\", \"favorite\": false}]}, \"responsetime\": 1777907824753, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/EWG4hnQFQKu7MaCOTyP_CDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67754",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Agni (2024)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
