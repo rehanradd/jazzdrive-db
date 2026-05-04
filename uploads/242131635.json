@@ -1,0 +1,82 @@
+{
+  "name": "Do-Patti-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Do-Patti-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:18:40Z",
+  "remote_folder_id": 1753891,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131635",
+  "tmdb": {
+    "tmdb_id": 1148172,
+    "title": "Do Patti",
+    "original_title": "\u0926\u094b \u092a\u0924\u094d\u0924\u0940",
+    "release_date": "2024-10-24",
+    "year": "2024",
+    "rating": 6.856,
+    "overview": "A puzzling investigation leads a no-nonsense cop down a dark path involving the vicious rivalry between twin sisters and the volatile man they both love.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wbXSE68cDwqUPsHJcpdu7I5kSLK.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/g0VFxhLingCTYXL1z9nR8YD7WH4.jpg",
+    "genre_ids": [
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131635",
+    "status": "U",
+    "etag": "QNSp/bdv6rW4preBSsMITw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131635",
+          "url": "/sapi/download/video?action=get&k=9lkf6V7w2fk31NjPtp5_8z8sm-rPt_yk_r-4Pc9PcqdWoxWvkIcofX6R3P9FRLcbfNqfWadxeIQQ00l61mtL5WtUWJKmAlDZCsfPj5zt9P8xBeIDOPDCFvJ6YC0-tD1hQLsAdU1Hs-EygayQoLkyjm5O9k76FhIlOPh25srVkQ4pkLAp6iI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=OA2cO_i9g-sjXjEve8MIMh5TR20dIk4R0cqHDWq8htukL-35tmy6iHcchg8bM2Y4twJiWTxGAU_CwOyRnyoenGHfgbgawUzep9ucFW7FUCF0QWvF4itjp0Dr_UZqF7kV4GfbJ3qYAyjcvSG_1AeJ9T-EPcvQMa1hnyRWkBOj3O59ARJnI_CnaQRLQy2b-9x00b4&node=1i220",
+          "date": 1777907919670,
+          "creationdate": 1777907868000,
+          "modificationdate": 1777907868000,
+          "uploaded": 1777907905199,
+          "size": 402275097,
+          "name": "Do-Patti-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7648064,
+            "bitrate": 420786,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=maRk7aB8Hp_UI_IdfbiUFiCoksPbV3-nQ7iihxLz3uovGqpPINkyY9LX1mWrMknYF7801wy-eHyZbD_Ooqy6ZFi2aq2SA7lAlsebN17YyD4QPPBanrqtZ_3_ceGQGvh7QCMr0f7Vt0b1mPTSXnSCbnuHUenlxcDxIQ5hEQDR_C__cKFVncDNcjqmnfAjvn9mN08&node=1i220",
+              "etag": "0QNSp/bdv6rW4preBSsMITw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=OA2cO_i9g-sjXjEve8MIMh5TR20dIk4R0cqHDWq8htukL-35tmy6iHcchg8bM2Y4twJiWTxGAU_CwOyRnyoenGHfgbgawUzep9ucFW7FUCF0QWvF4itjp0Dr_UZqF7kV4GfbJ3qYAyjcvSG_1AeJ9T-EPcvQMa1hnyRWkBOj3O59ARJnI_CnaQRLQy2b-9x00b4&node=1i220",
+              "etag": "0QNSp/bdv6rW4preBSsMITw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "QNSp/bdv6rW4preBSsMITw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907919730,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/y0C0-KFCR9ON27Vg1Zwxlzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Do Patti (2024)",
+  "media_kind": "movie"
+}
