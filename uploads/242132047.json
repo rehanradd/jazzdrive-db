@@ -1,0 +1,81 @@
+{
+  "name": "Orange-Lilly-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Orange-Lilly-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:43:08Z",
+  "remote_folder_id": 1754114,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132047",
+  "tmdb": {
+    "tmdb_id": 1218599,
+    "title": "Orange Lilly",
+    "original_title": "Orange Lilly",
+    "release_date": "2023-12-16",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "Pratik intends to spend some romantic time with his mistress, Lily, at his farmhouse. However, the situation takes a worrisome turn when Lily goes missing unexpectedly. What twists and turns await him in this unforeseen situation ?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lYKhXtKEngSP0GE8Uax1I74Azzw.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132047",
+    "status": "U",
+    "etag": "2MFr13dLlficf84TA7sCcw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132047",
+          "url": "/sapi/download/video?action=get&k=dteO2Rh_ODT-vwF576_GKRA3K_G2fWg0i5yvvdGpkjevnRFRpjBi-U1bJ28DZLbWQh7pLDP50minJ9U3mW4eY1SWzAEHbLy4FLHrIygg3KfWihxwmLREVjR7aoBbwatneHzQ4ICyrS-X6SEnP0KpFk2tVLBEdQ08dFuHDvy17KaDhiy8_b8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=c7laoXwJbZf7fxXUc2AWPdDKD1QlzxPL6VLsabz9ruUas0R1Oly5ejqBxz2xgPTcPaflAkrhNiUgSIPAdWH483edhhH_mT0_Z-yvcYmMtPM432PTUC0hAmQVCEWyXYgS4-uwoYP6RlX-U1ZToY89YBxhzbDW53JXSc9MKK4LB01nA1nmhQVa4JLs3ljYSEsx13I&node=1i220",
+          "date": 1777909387877,
+          "creationdate": 1777909324000,
+          "modificationdate": 1777909324000,
+          "uploaded": 1777909375269,
+          "size": 279315314,
+          "name": "Orange-Lilly-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5276053,
+            "bitrate": 423521,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=RWFTQTWFjuJsvqwQRJAFd6KdwpawnMbSNXlPeTBGjwCJUoBXm2w2_0R0W1AiaGPagXYoNnzFBfryZpb8qLns2CfnSk9MSRLuPQJ6GeIKyKyMzGTlr7bOu7JkYLMpQWNxZigjGZugRum2UEm7G07e9Y0CtF1bwDIGOsFxM4B-VQN1RXpacOYTKJdqz4mGcHPshIo&node=1i220",
+              "etag": "02MFr13dLlficf84TA7sCcw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=c7laoXwJbZf7fxXUc2AWPdDKD1QlzxPL6VLsabz9ruUas0R1Oly5ejqBxz2xgPTcPaflAkrhNiUgSIPAdWH483edhhH_mT0_Z-yvcYmMtPM432PTUC0hAmQVCEWyXYgS4-uwoYP6RlX-U1ZToY89YBxhzbDW53JXSc9MKK4LB01nA1nmhQVa4JLs3ljYSEsx13I&node=1i220",
+              "etag": "02MFr13dLlficf84TA7sCcw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2MFr13dLlficf84TA7sCcw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909387947,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/JkjcLWlVS2W5GSc6ynHDIjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Orange Lilly (2023)",
+  "media_kind": "movie"
+}
