@@ -1,0 +1,82 @@
+{
+  "name": "I-Want-to-Talk-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\I-Want-to-Talk-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:17:50Z",
+  "remote_folder_id": 1753899,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131633",
+  "tmdb": {
+    "tmdb_id": 1263031,
+    "title": "I Want to Talk",
+    "original_title": "I Want to Talk",
+    "release_date": "2024-11-22",
+    "year": "2024",
+    "rating": 6.8,
+    "overview": "'Sometimes life gives us a second chance,' and for Arjun settled in the USA in pursuit of The American Dream, it's an opportunity to rediscover and embrace precious relationships, especially with his daughter as they both try to navigate through whatever life throws at them. Whatever!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rqzv36dIy15ZdJvud02mYKKCRyT.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uUWSjtMgt5hh73pB3GrNBv7FFLd.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131633",
+    "status": "U",
+    "etag": "H9edwXUgDjbwLOgvONma6g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131633",
+          "url": "/sapi/download/video?action=get&k=W1ugBxrZx0M970qiTxMxIX7zcUKLubqLJXo1lDA7C2k8dtW9LibG_hCqBh2sHG9xHTYWt9-rBDcZrAfBbzWVlEjiZhGok2S_gygK7B0sRV0nwJ-TGMAnh043Q9TvkmGODSyAFZvG464gB575PQGz4E5ePvhPH0jhk_7zI6ZwhNZi2yAGtQU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=0sFwjaEGWwttyEd3uEbY6KDwU2WLgNDBMUNpEO4-ZWZQEIqDbrP64zz8WWN3RefCaMsZguAx7ZVFOFDJUkSdimLfjhRUM5jlcuN4H2yr9ga4ZKD2b-bw9LNmqFZFrgIbL63g5NoiSVEQU90mMIxcqpE0iFNJhL09dP4maK5-EkCchiy5VlyhLzy6bFPTRF-7zpo&node=1i220",
+          "date": 1777907869967,
+          "creationdate": 1777907836000,
+          "modificationdate": 1777907836000,
+          "uploaded": 1777907856883,
+          "size": 367396079,
+          "name": "I-Want-to-Talk-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6908692,
+            "bitrate": 425430,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=9i6gUSnYijKTYOxmqmVD9IeHZDXnng0YN2clGJ_yBg63K-TyDSp7PlhGJClmrSlJO2FCxOsaAdnEQTDEjoCle99LR9yO3AbEVtA-M3nbMaihip20UKfVEKbjPqeX2fZWHUKOK3tqOvNjKJO0M-2lA77s5VZdC5tlIfrcwnR_MATmX8ql5hrob69woEm2hxe8dIs&node=1i220",
+              "etag": "0H9edwXUgDjbwLOgvONma6g=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=0sFwjaEGWwttyEd3uEbY6KDwU2WLgNDBMUNpEO4-ZWZQEIqDbrP64zz8WWN3RefCaMsZguAx7ZVFOFDJUkSdimLfjhRUM5jlcuN4H2yr9ga4ZKD2b-bw9LNmqFZFrgIbL63g5NoiSVEQU90mMIxcqpE0iFNJhL09dP4maK5-EkCchiy5VlyhLzy6bFPTRF-7zpo&node=1i220",
+              "etag": "0H9edwXUgDjbwLOgvONma6g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "H9edwXUgDjbwLOgvONma6g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907870044,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/lIbJd0HBScixHzisf16MQjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "I Want To Talk (2024)",
+  "media_kind": "movie"
+}
