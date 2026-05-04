@@ -1,0 +1,79 @@
+{
+  "name": "Marriage.com-(2024)--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Marriage.com-(2024)--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:20:21Z",
+  "remote_folder_id": 1753911,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130849",
+  "tmdb": {
+    "tmdb_id": 1195228,
+    "title": "Marriage.com",
+    "original_title": "Marriage.com",
+    "release_date": "2023-11-03",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "Marriage.com. is scheduled to release on 3rd November 2023. It's a action romantic thriller.  Ashutosh Aparna and Seema is living happily. Gharana also  loves to Aparna and he tried to impress her in any way. For this he took many steps. The films gives msg to  the persons that a  indian  girl loves to his husband only nothing else.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/fvmoPUbo3BoTAfboT9TsnQwPdnP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/13nltpisOy25DnN6bqmDoJhnmcq.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130849",
+    "status": "U",
+    "etag": "Qu7FC3LS34UzJLE4gHYeQw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130849",
+          "url": "/sapi/download/video?action=get&k=JvC3ARY3rrECDAi-AfCsgQrV0oNtFYLBm9zWPiSjYV_Uk-T3_2bJL08TGwbSh11yUdIx_EPyKT17gfW0vOKx9rHvZ5KUaFDb8l8L6zLA5KXrgjt8sEL7C7XpveaHrHzfD29lhFCo2zQguQzzRBnztmTaloivK397E5zrMgx4PPeUAexnp5I&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=sk-SJjc551pC6iKnYGbGBluUSC42oHCcOJCX_2d2mNs9iQrpF-rY2ZBOGfSvTb-aLUnCB3-NTr8L6XsY9AfGtebvIzgdLxeM2pdL_ciWcaCFTIhjwFLHZFGzgbyN3TegggL1Fq93r_NX_GFi4-E36wdgn02NMPq_h7SSfUnqyCDEJWpUJLHqXJqKBKJBqkc67-o&node=1i220",
+          "date": 1777904420196,
+          "creationdate": 1777904318000,
+          "modificationdate": 1777904318000,
+          "uploaded": 1777904374591,
+          "size": 564588588,
+          "name": "Marriage.com-(2024)--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5741930,
+            "bitrate": 786618,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=B15kZVWpTq0XF7LrY7B4Y7OCSWCrYVRp1rG-M49ZVn0P4R0JAlVomLR_s5jCT0RcOTgwszy34K6hKNzXA7_kr8XcI8RTVXFdGmigSV4OwBz-BXX6AZxRRHaXo-8Ga3DfMmgDbAhXPPDMV7Z1tGrQmEgSGbzPAuj4PLq2HO8Fot4j6hWmeaig53v1gRPvBi-v_mM&node=1i220",
+              "etag": "0Qu7FC3LS34UzJLE4gHYeQw=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=sk-SJjc551pC6iKnYGbGBluUSC42oHCcOJCX_2d2mNs9iQrpF-rY2ZBOGfSvTb-aLUnCB3-NTr8L6XsY9AfGtebvIzgdLxeM2pdL_ciWcaCFTIhjwFLHZFGzgbyN3TegggL1Fq93r_NX_GFi4-E36wdgn02NMPq_h7SSfUnqyCDEJWpUJLHqXJqKBKJBqkc67-o&node=1i220",
+              "etag": "0Qu7FC3LS34UzJLE4gHYeQw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Qu7FC3LS34UzJLE4gHYeQw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777904420258,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fpfA1t2KROGkDh8Wbs8_azk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Marriage Com (2024)",
+  "media_kind": "movie"
+}
