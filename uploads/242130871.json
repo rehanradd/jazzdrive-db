@@ -1,0 +1,83 @@
+{
+  "name": "Murder-Mubarak-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Murder-Mubarak-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:22:20Z",
+  "remote_folder_id": 1753917,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130871",
+  "tmdb": {
+    "tmdb_id": 1051023,
+    "title": "Murder Mubarak",
+    "original_title": "\u092e\u0930\u094d\u0921\u0930 \u092e\u0941\u092c\u093e\u0930\u0915",
+    "release_date": "2024-03-15",
+    "year": "2024",
+    "rating": 6.3,
+    "overview": "When a gym trainer is murdered at an elite Delhi club, a wily investigator unravels the sordid secrets of its ultrarich members to find the killer.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/joU5VihgUvkhyPnhzxfjmWk32rd.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mw6ucZfre773Fb1BSSsvsvV8a9m.jpg",
+    "genre_ids": [
+      35,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130871",
+    "status": "U",
+    "etag": "FiGHd3DWq9Ph/AS67B6dug==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130871",
+          "url": "/sapi/download/video?action=get&k=AYKmQx5WHwpfxDyz4q67PrBkSVYp9XtzbalRtThWh1TL_c2-el69ifhIe5PAfP4uDJTDxnPGGVsuZnpNFbM5FluYNY8PhAIMyc0k1TrkS0L0R-TbosL1Uzk_yNV87ojZ3rN--Tx3cc-GowE416H4PDbtykpzmtiSjfvMlMCcRpMtk5YlhGA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=8Rk3TYfvqBcuXVnKY0I9hZEtk1rhKv1D9_yiKHQAkTH1DW6IOtHfrIJozfHZ8fVZ0kyLsllEBl2CDsyjUN99GklMZkZ0hfjwWKwRf_ldllhbW6mJuDP8vAUOhrWXTrFh3Rfze4naOfcHgjraiqrZq9wei4Tt5mW99JCNYSTgNmfLEaIBSYrGtEXio_1wX-v94M8&node=1i220",
+          "date": 1777904540154,
+          "creationdate": 1777904403000,
+          "modificationdate": 1777904403000,
+          "uploaded": 1777904485659,
+          "size": 814437012,
+          "name": "Murder-Mubarak-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8502708,
+            "bitrate": 766284,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=s8h9bnBZAx-wraAHBgGsKJMVsrPCgXDP8fcfdhVtnkiEbCGiFFfvSRo6VuwjfUFMXeVBbNiz2SGOO-5YjTx2_l19bThImA9JDVLjwqJ1CgM2Qexrb9z_3pNmcoVbBdTCyEd74zD44bnjXh-Op2_BJSqzpqprq8jsEXQA0RGqTDrUxSTrBqO_67zLEiZ28zzjoFI&node=1i220",
+              "etag": "0FiGHd3DWq9Ph/AS67B6dug=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=8Rk3TYfvqBcuXVnKY0I9hZEtk1rhKv1D9_yiKHQAkTH1DW6IOtHfrIJozfHZ8fVZ0kyLsllEBl2CDsyjUN99GklMZkZ0hfjwWKwRf_ldllhbW6mJuDP8vAUOhrWXTrFh3Rfze4naOfcHgjraiqrZq9wei4Tt5mW99JCNYSTgNmfLEaIBSYrGtEXio_1wX-v94M8&node=1i220",
+              "etag": "0FiGHd3DWq9Ph/AS67B6dug=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "FiGHd3DWq9Ph/AS67B6dug==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777904540210,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/dPQk4M6iRGK1nfHLnczgGjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Murder Mubarak (2024)",
+  "media_kind": "movie"
+}
