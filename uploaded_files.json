@@ -9546,5 +9546,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "7cb35072c2343bed8127a920e4269f1dfdb15124537fea4fad44f7497c84fdca": {
+    "name": "Dhak-Dhak-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\Dhak-Dhak-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 393389808,
+    "uploaded_at": "2026-05-04T15:49:24Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132200",
+    "remote_id": "242132200",
+    "remote_folder_id": "1754168",
+    "tmdb_title": "Dhak Dhak",
+    "tmdb_year": "2023",
+    "tmdb_rating": 6.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/l3VtG2LeHL0AGnDC8dsDwmPu5PK.jpg",
+    "tmdb_overview": "Four women \u2014 a travel blogger, her friend's biker granny, a makeshift mechanic and a young girl set to be married \u2014 ride to the highest motorable pass in the world on an extraordinary journey of self-discovery.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242132200\", \"status\": \"U\", \"etag\": \"lL9OIKG44INtCupc0ioYog==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242132200\", \"url\": \"/sapi/download/video?action=get&k=w5WQQE8O-0pyyLND6lDhwI3gPHs7gjM88HHEJ8VFvJcXRwqPRGxnqfM_j2fIF92iq1j1DBxFwGHTbU_5GxSJ1xhZ_ImjLNcSZJg7YAQEhFF6ivaaw4updKrfoeTs_WfdqR944vV_uvcZQuintQcPxszCHcISCYGz-5TZP65xHokb4xOOY6I&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=3GYnuadl0GOtd2trqziDQt_A8UfW7AJCGjHad_6oxpAshINXSxiMUUIVWQ0pbmyYLKJYBqB1TvRnMlNIPu6Mw4AyDtYQeDsoCYcONj-ITGGXPZwtGzcD-QtFSsYr8NFP6A7Fi27B9Cs0gs0cVXdrIrF3tFLA8TMv41h0G4HeuD_MeEZ530cqs4yByNGPH8Lcnz0&node=1i220\", \"date\": 1777909763216, \"creationdate\": 1777909723000, \"modificationdate\": 1777909723000, \"uploaded\": 1777909748572, \"size\": 393389808, \"name\": \"Dhak-Dhak-(2023)-Hindi-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 7345834, \"bitrate\": 428422, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=HVvAMbasxS-uOS3eWQHyAvgvPYvda1hNy0Yqb8xnq0oub_xMypIaoo2iTCWzIdjuLPNDpsiplrljfRaC_yB28JNLYyAXrit7Ua599bmP8Qai8AeffST7G3nJ2SOLVSq4LaLqVGBwxGdTwpaUCYHdMoeqepdhnCjVHYIlcV2jD24_xy_BFTq7-S3AH-yqMS8iCH8&node=1i220\", \"etag\": \"0lL9OIKG44INtCupc0ioYog==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=3GYnuadl0GOtd2trqziDQt_A8UfW7AJCGjHad_6oxpAshINXSxiMUUIVWQ0pbmyYLKJYBqB1TvRnMlNIPu6Mw4AyDtYQeDsoCYcONj-ITGGXPZwtGzcD-QtFSsYr8NFP6A7Fi27B9Cs0gs0cVXdrIrF3tFLA8TMv41h0G4HeuD_MeEZ530cqs4yByNGPH8Lcnz0&node=1i220\", \"etag\": \"0lL9OIKG44INtCupc0ioYog==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"lL9OIKG44INtCupc0ioYog==\", \"favorite\": false}]}, \"responsetime\": 1777909763274, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/kboGu_cwT4mJiyM5I1VCCDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67953",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Dhak Dhak (2023)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
