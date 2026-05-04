@@ -1,0 +1,82 @@
+{
+  "name": "Mahadev-Ka-Gorakhpur-(2024)-Hindi-Dubbed--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Mahadev-Ka-Gorakhpur-(2024)-Hindi-Dubbed--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:20:36Z",
+  "remote_folder_id": 1753910,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130846",
+  "tmdb": {
+    "tmdb_id": 1231925,
+    "title": "Mahadev Ka Gorakhpur",
+    "original_title": "\u092e\u0939\u093e\u0926\u0947\u0935 \u0915\u093e \u0917\u094b\u0930\u0916\u092a\u0941\u0930",
+    "release_date": "2024-03-29",
+    "year": "2024",
+    "rating": 2.0,
+    "overview": "",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4EiX4tCXxd4Avk7IVNouGgCR4Ba.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1rIpKM5yUsVlOl6rWvWb76YsZFz.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130846",
+    "status": "U",
+    "etag": "XzkGZP2YU8fPnffLKo0kjA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130846",
+          "url": "/sapi/download/video?action=get&k=nA1fTqktzRQ08LY37aOteUwqPLHpuGhUcWIQLZLRmhMM16rmkbwTYNDO6zzj2dX9dydUriO85we1tEQkA5Mv12_MPW3ex9oUJvT2_lTye5-WfQQudaPNxiPSKo7C5a_64t3bXqBMF9pkxKhxTN7biTpC4YTDwkjfXt9CgPshPKzhBRvWtEE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=DVWNSm9Kbqqg_6KwXX-RiSywA94ts96D3Si5YmSwuAe8mE_RGyCobwstwT4WePXSQTOZnM7KKa5Dbrwn-qSgQ8SE9VCJla4AOAx3f3t0F8ujfx2UA-8qfB8w9rUSI3SqEE7Y9UmFVYLcY3XzRuCl4bLKETR2hOTO0b0orXveUjnWt9N93X6LLhrpnPvBl7MqgsY&node=1i220",
+          "date": 1777904435898,
+          "creationdate": 1777904310000,
+          "modificationdate": 1777904310000,
+          "uploaded": 1777904382639,
+          "size": 727342100,
+          "name": "Mahadev-Ka-Gorakhpur-(2024)-Hindi-Dubbed--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7477374,
+            "bitrate": 778179,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_k3z_APfQuRYVkho0MjxUFf6zUQW7BOCAuJ_Zdu3PeomrbVh9hsbrdEY_s-Syu0W4qNxYn78l8KA-30mnJji_W2Y2uUckx18KpuKKX72uf9Hfo4nHytfR1jMXkHnhWKeC3CYHTUyxCYblspFziV-GxEb_2KDMM7S5lE86wfoYWkAp8mfQ0QuTNVpow5STA1VRNw&node=1i220",
+              "etag": "0XzkGZP2YU8fPnffLKo0kjA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=DVWNSm9Kbqqg_6KwXX-RiSywA94ts96D3Si5YmSwuAe8mE_RGyCobwstwT4WePXSQTOZnM7KKa5Dbrwn-qSgQ8SE9VCJla4AOAx3f3t0F8ujfx2UA-8qfB8w9rUSI3SqEE7Y9UmFVYLcY3XzRuCl4bLKETR2hOTO0b0orXveUjnWt9N93X6LLhrpnPvBl7MqgsY&node=1i220",
+              "etag": "0XzkGZP2YU8fPnffLKo0kjA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "XzkGZP2YU8fPnffLKo0kjA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777904435961,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/oQ5_yQHMSOKDfLG1VRiZlDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mahadev Ka Gorakhpur (2024)",
+  "media_kind": "movie"
+}
