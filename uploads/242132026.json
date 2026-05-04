@@ -1,0 +1,68 @@
+{
+  "name": "K\u029c\u026a\u1d04\u029c\u1d05\u026a-2-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\K\u029c\u026a\u1d04\u029c\u1d05\u026a-2-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:38:26Z",
+  "remote_folder_id": 1753986,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132026",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132026",
+    "status": "U",
+    "etag": "/mIxTBG/ZjjSdvf/2Dw2Kw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132026",
+          "url": "/sapi/download/video?action=get&k=GHJgBxbd-FsVPKPA-IIPQKT58cIgaustxXsUqFvDFlEDpYLaJiyVFRpsO1QvJQRLXjrSKKjj6FZhr9_pebByyu2pYbvzEZTPz9d-ivh0-VlJ6z7uaQ0nSynvxrxh3t701rzRXL9i2ktQPGq0Oz5uZLFhMQAuxOu1BTqshHtNhPTOnGbJRNU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=guG1soblgkb-gdPAogdv1wQaFp8ABOTXe2TIjlWysmXY9c5dzvdsN8M4FjiRc0R6TUG7dFcYwjFzPd0CwIahfo4Q_wPEVpAXA8RiVDaLs1lOoP_9poB1ovYfFgFva-2cVj9qn-aNdVd12QA1UG_ej2JH8vT-0JHs0NIg65Zw4TR2iquQeMN3gUGH_GPkanYMu_o&node=1i220",
+          "date": 1777909105297,
+          "creationdate": 1777909059000,
+          "modificationdate": 1777909059000,
+          "uploaded": 1777909092485,
+          "size": 373356072,
+          "name": "K\u029c\u026a\u1d04\u029c\u1d05\u026a-2-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7017302,
+            "bitrate": 425640,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=dr6clm0E_FOeqHBdt8ba1EXtvvkTkkKENp6fUgW4PJ9zKrNhnpBmHXMGIx0zr3SJEHlvh_R0ee99cLOBHx41jIOU78omxg_plV9wYiUjYCFLzeKgF8_tP3hznZoMcz7ubFXy1XkRBM9c6MhqYYH7EjKVKfgyCJfHUqzM8y6RgQZ_BPXms-9mDNZsX01kfv2C4mo&node=1i220",
+              "etag": "0/mIxTBG/ZjjSdvf/2Dw2Kw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=guG1soblgkb-gdPAogdv1wQaFp8ABOTXe2TIjlWysmXY9c5dzvdsN8M4FjiRc0R6TUG7dFcYwjFzPd0CwIahfo4Q_wPEVpAXA8RiVDaLs1lOoP_9poB1ovYfFgFva-2cVj9qn-aNdVd12QA1UG_ej2JH8vT-0JHs0NIg65Zw4TR2iquQeMN3gUGH_GPkanYMu_o&node=1i220",
+              "etag": "0/mIxTBG/ZjjSdvf/2Dw2Kw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "/mIxTBG/ZjjSdvf/2Dw2Kw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909105354,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/NbASm5bbSAOzkhuYBHDBIzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "K 2 (2023)",
+  "media_kind": "movie"
+}
