@@ -1,0 +1,82 @@
+{
+  "name": "Ghudchadi-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Ghudchadi-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:22:42Z",
+  "remote_folder_id": 1753897,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131656",
+  "tmdb": {
+    "tmdb_id": 942561,
+    "title": "Ghudchadi",
+    "original_title": "\u0918\u0941\u0921\u093c\u091a\u0922\u093c\u0940",
+    "release_date": "2024-08-09",
+    "year": "2024",
+    "rating": 2.0,
+    "overview": "The movie revolves around a guy named Chirag (Parth Samthaan) and his grandmother Kalyani (Aruna Irani) wants him to get married soon. He meets a girl named Devika (Khushalii Kumar) at a wedding, love at first sight situation and then they start dating. Chirag's father Veer (Sanjay Dutt) is a widower and one day he meets his ex-girlfriend Menaka (Raveena Tandon) who is the mother of Devika. Now, one side the kids are romancing, and on the other side, the parents are romancing. What will happen next when they all will come to know about this situation...",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eExcwj19vMOCMopBY8GhWzyqg6j.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jkrNpRbBgEFZc5cBm1aJ8cm5Nuk.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131656",
+    "status": "U",
+    "etag": "ZHSDslyulnCWhEQGGzDCLg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131656",
+          "url": "/sapi/download/video?action=get&k=wScUCeXDJNKHXa1x6u6xdDfnVeKfcCuCn8hrSGvF98jxH195vHkQXjCKggtH4Capeoys7_LqvpoQg_NMuyiwAElSWMnBVb_UJqKHAAHRikUn7HFItM08Hvs5rsG7j6yYij744x9jOlvicRVgBP_c-5xh5Tzroa8HC2WbNjOoefGv365Z9EI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=lJWlsF0CTmcgPC6Qgt1qtMzm7VuP8R0Ohl3cdUlsmO_l9SSOpdYzh0DKDdA82lBVMT5Kk14PYr4kaPK12n3NoJfC3P1LfGXFDTdCxDqy3lQRRJcBHF_fr-i6X2THsDRL2uQw7gwALXvW0jBikR7Zev3lczZOeKsVQYiPX5FKeUAbjYqLFYlBdBRkJTy8c6YcvUs&node=1i220",
+          "date": 1777908160914,
+          "creationdate": 1777908124000,
+          "modificationdate": 1777908124000,
+          "uploaded": 1777908146855,
+          "size": 360500944,
+          "name": "Ghudchadi-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6833024,
+            "bitrate": 422068,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=F9Nop4Igd_xTLx-Db8rJaPJWk8O8F02dXDW51gjAi0RnrfO-W5UPRGO_cAGxVNYpthQtcTXu9TZO_n-mrES-KjZfA1EVwe584HRfk3eHn47v6HbIuQ00OVWgk63dFTwh0G_OzbJci3MuUtG7s7LRHIRapPtMfYVPuGYIp-MLJ6ZJoEchRMSzp8CJzvykgjWHLl0&node=1i220",
+              "etag": "0ZHSDslyulnCWhEQGGzDCLg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=lJWlsF0CTmcgPC6Qgt1qtMzm7VuP8R0Ohl3cdUlsmO_l9SSOpdYzh0DKDdA82lBVMT5Kk14PYr4kaPK12n3NoJfC3P1LfGXFDTdCxDqy3lQRRJcBHF_fr-i6X2THsDRL2uQw7gwALXvW0jBikR7Zev3lczZOeKsVQYiPX5FKeUAbjYqLFYlBdBRkJTy8c6YcvUs&node=1i220",
+              "etag": "0ZHSDslyulnCWhEQGGzDCLg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ZHSDslyulnCWhEQGGzDCLg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777908160977,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/L4Mt4c5iS-uCDrFZX8q-cDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ghudchadi (2024)",
+  "media_kind": "movie"
+}
