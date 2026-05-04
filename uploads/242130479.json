@@ -1,0 +1,68 @@
+{
+  "name": "Golmaal-Jr-Humshakals-Ka-Golmaal-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Golmaal-Jr-Humshakals-Ka-Golmaal-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:14:11Z",
+  "remote_folder_id": 1753898,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130479",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130479",
+    "status": "U",
+    "etag": "6jT4nncxIlHfT0RRsYBefg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130479",
+          "url": "/sapi/download/video?action=get&k=LE6VAsurFp6WaVQDHZEhbZVN_WiTkE41im32MJsG-317XEpmCVSLvL6mgnWTXNADx-Fu9L8cNzQ2ph6gxiUaY_yc5sQwNf3PIz5nBfa4cx9vyIvfV4hUIYxYL8zU7VXY2t0JjwW-r-vbqx2JkP3cptsxU7DxsSo1qjBoDdi-jf3iwVpOyDU&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=udVF4PG7euiBb40gd6JUfJ3rTRFBj5Klk38I9bDXVS6c93BXcMGgT2wkcQc8j-Wv1Ties8a78ZhA3Ed_y6qe5LeC32l-2HY5jnDsqXOed4lvUau3HBp0-DA4jMNUJJbDV2wkEQxoBGDDXZ0NDNDUc5hWjB7IgD26zqDlbswzNh-_plFXdDU2Uce2I_4dLnX1flY&node=1i220",
+          "date": 1777904049887,
+          "creationdate": 1777904015000,
+          "modificationdate": 1777904015000,
+          "uploaded": 1777904033550,
+          "size": 271237367,
+          "name": "Golmaal-Jr-Humshakals-Ka-Golmaal-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 2765000,
+            "bitrate": 784773,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=OxNXNqJ1v7_WHWvDTlmbaeTeY-nvyNkAD1TGciTD9rSpDCRGV5zXGJYWMkbSF3HOWCbCXHDue66RFyXVkeB9cPcdzxQh7FBFVkzR3qaSsTM5nv7aHMZzYT7Niop2zjLIEsIPNwZ12QpRidAFu_OWS7qp9dxd0S4eH-Un88r5JatowYIwBrVmgMy7u8I9oooiQU0&node=1i220",
+              "etag": "06jT4nncxIlHfT0RRsYBefg=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=udVF4PG7euiBb40gd6JUfJ3rTRFBj5Klk38I9bDXVS6c93BXcMGgT2wkcQc8j-Wv1Ties8a78ZhA3Ed_y6qe5LeC32l-2HY5jnDsqXOed4lvUau3HBp0-DA4jMNUJJbDV2wkEQxoBGDDXZ0NDNDUc5hWjB7IgD26zqDlbswzNh-_plFXdDU2Uce2I_4dLnX1flY&node=1i220",
+              "etag": "06jT4nncxIlHfT0RRsYBefg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "6jT4nncxIlHfT0RRsYBefg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777904049949,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/8ApibCqLSWW9bSZVxV908Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Golmaal Jr Humshakals Ka Golmaal (2024)",
+  "media_kind": "movie"
+}
