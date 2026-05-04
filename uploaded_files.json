@@ -810,5 +810,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "a4bb2e6bd66bdd8a6eb93511a33eaf40dbc3c685d727f146e6bdc70e6bf6a381": {
+    "name": "Crazxy-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\Crazxy-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 531653024,
+    "uploaded_at": "2026-05-04T14:08:55Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130275",
+    "remote_id": "242130275",
+    "remote_folder_id": "1753882",
+    "tmdb_title": "Crazxy",
+    "tmdb_year": "2025",
+    "tmdb_rating": 5.5,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/nWxEtbryAPP7gI0TtNYejoAUJlr.jpg",
+    "tmdb_overview": "A renowned surgeon, Abhimanyu Sood is carrying \u20b95 crores for a hush hush settlement that will save him from going to jail, when he gets a chilling phone call\u2014his 16-year-old daughter, Vedica, has been kidnapped. The ransom? The exact amount he is carrying right now. Is this even a real kidnapping\u2014or an elaborate trap?",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242130275\", \"status\": \"U\", \"etag\": \"XwVXrzphXGwlxI01+DJrzw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242130275\", \"url\": \"/sapi/download/video?action=get&k=Iur6fPOfJPmmxQGWFi3LSWWXlcWrdrMspGKO5_Hw0Lhx3YZ6-b3_h47dlfCRCk2iA0VTDFTpN8lwYyDySfgIAmFw8sEx02FuN37e_JT9WualPvIUPm6nq_JHMo-kQjvZ7lA6wSZ-1RWPxCigWDSEs8epT-dnXjNoDi8AWrZvDAqDXDMrqLA&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=phy-5fDHwIxdVKlQ-3d78wNwfJiD-sdTxWpGt3rrHEIIfy-mY4r1FVML04upuHg3F6PcRmD0qD6n4GJ2vU6kcn2Dlyd66d9kVLBmpeDPi_M9F3voc8A20iTTajvcYlHLDbC2CPd_X6LdQVpgaKEgffI-_HYQwFNA--EjvWc2DZzZxBKMherenuBtZW6mrJCXVqw&node=1i220\", \"date\": 1777903734944, \"creationdate\": 1777903616000, \"modificationdate\": 1777903616000, \"uploaded\": 1777903671948, \"size\": 531653024, \"name\": \"Crazxy-(2025)-Hindi-Movie--720p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 5501738, \"bitrate\": 773069, \"codec\": \"h264\", \"height\": 544, \"width\": 1280, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=SvzTf_log8IEcAFNVNzrM50W78TSUsOUTSraJgw9cMZJ8gIoNGeBsa7J6LN3GK8_Gy0ApUQJcMiKOCAbzghRcf0GzWpvRdTVFGV72_U7NnsObsbZ3FUOePoPdmxmV8QGHgvkyNiNXdBf6dr7KnxBpW42Oqt4CJd_0O7zQ_JSMWLc5S6zfkjPvUs9JUXH0cZWn6I&node=1i220\", \"etag\": \"0XwVXrzphXGwlxI01+DJrzw==\"}, {\"w\": 1024, \"h\": 435, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=phy-5fDHwIxdVKlQ-3d78wNwfJiD-sdTxWpGt3rrHEIIfy-mY4r1FVML04upuHg3F6PcRmD0qD6n4GJ2vU6kcn2Dlyd66d9kVLBmpeDPi_M9F3voc8A20iTTajvcYlHLDbC2CPd_X6LdQVpgaKEgffI-_HYQwFNA--EjvWc2DZzZxBKMherenuBtZW6mrJCXVqw&node=1i220\", \"etag\": \"0XwVXrzphXGwlxI01+DJrzw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"XwVXrzphXGwlxI01+DJrzw==\", \"favorite\": false}]}, \"responsetime\": 1777903735007, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/dBbhnJFrQcOW6Aw7HOpcWDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67771",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Crazxy (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
