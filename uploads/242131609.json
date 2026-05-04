@@ -1,0 +1,81 @@
+{
+  "name": "Aayushmati-Geeta-Matric-Pass-(2024)-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Aayushmati-Geeta-Matric-Pass-(2024)-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:13:13Z",
+  "remote_folder_id": 1753864,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131609",
+  "tmdb": {
+    "tmdb_id": 1373129,
+    "title": "Aayushmati Geeta Matric Pass",
+    "original_title": "Aayushmati Geeta Matric Pass",
+    "release_date": "2024-10-18",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Follows real-life scams involving corrupt educational boards, showcasing their impact on students' lives through a gripping narrative based on true events.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/snUfealex5cEPtJCZOLHQhtnxrQ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/x8cnUXdwIjcwOerEcwDtGoXsql1.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131609",
+    "status": "U",
+    "etag": "kA+qJUQfi6I3f1hTEtNaQQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131609",
+          "url": "/sapi/download/video?action=get&k=MdzFJQFnx5ESsC27jBnamIQW6ZnGiuD0imjxSLG5mY4ApTYCbvtu_SnFgzZUvGA_MmrLmDEDXfP5qr7LkXL3Rsm0ABIRV9zcEEvSmcgkNciVW6QTZZ5ykX26UXZzhqaVo4LVHomuXYwtM_xXD33YVO_hD0mFsmJr5m-xzCI6vfXllVEHR_I&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=4hnaxifnXBxsQsiE8cWIuCFWm6ymLa9jlnbj9BD-_vxWc262hPcG1rosHeCLmZoz60o8-KpumUKmPcMhYkocWsVDCboA2ChUMOVpNaXoq1yOTcky26C1egbpqydYc_Y8B4cV_wjnVw4lYvPVB-Y3jyOOCM1c6rihyHXHES1bfd0nFnBnKztn4t0fDMIOieqBZOk&node=1i220",
+          "date": 1777907592084,
+          "creationdate": 1777907542000,
+          "modificationdate": 1777907542000,
+          "uploaded": 1777907570278,
+          "size": 440310299,
+          "name": "Aayushmati-Geeta-Matric-Pass-(2024)-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8266729,
+            "bitrate": 426103,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Bb2M1d59YuhE8ttTYSTojfWM1cTWC02w8T2X_t8c1gY7PFLZ7AKPRJ5_26yQ9fHdGCiqni1BwKmg2DAoNDLK9u9KyBgqHL5Mn8nNklwww88KzrNr87_9U-i2KDZ2lKCUeEPwodOdfIaW17qu08LejFcfPd_sh28FN3AohzKfwAkfe3P67GAChAQc9rmjnf0myE4&node=1i220",
+              "etag": "0kA+qJUQfi6I3f1hTEtNaQQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=4hnaxifnXBxsQsiE8cWIuCFWm6ymLa9jlnbj9BD-_vxWc262hPcG1rosHeCLmZoz60o8-KpumUKmPcMhYkocWsVDCboA2ChUMOVpNaXoq1yOTcky26C1egbpqydYc_Y8B4cV_wjnVw4lYvPVB-Y3jyOOCM1c6rihyHXHES1bfd0nFnBnKztn4t0fDMIOieqBZOk&node=1i220",
+              "etag": "0kA+qJUQfi6I3f1hTEtNaQQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "kA+qJUQfi6I3f1hTEtNaQQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907592152,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/eRVz_w9bRGuGBqivz4hu8zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Aayushmati Geeta Matric Pass (2024)",
+  "media_kind": "movie"
+}
