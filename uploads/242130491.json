@@ -1,0 +1,82 @@
+{
+  "name": "Jhansi-ka-Rajkumar-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Jhansi-ka-Rajkumar-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:15:36Z",
+  "remote_folder_id": 1753901,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130491",
+  "tmdb": {
+    "tmdb_id": 1414280,
+    "title": "The Prince of Jhansi",
+    "original_title": "Jhansi Ka Rajkumar",
+    "release_date": "2024-08-18",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "A stay-at-home husband struggles with societal judgment as his ambitious wife becomes the primary breadwinner. In a small-town setting, their unconventional roles spark humor, conflict, and self-discovery. As they navigate expectations and personal growth, the story unfolds with warmth, challenging stereotypes and celebrating love and equality.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iQMp8Y0g1SPrgXkgf5msGXeMjGc.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4HHh3UgOi8EcaUIlk0QkeVErCkX.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130491",
+    "status": "U",
+    "etag": "Wg9an3W31xOU7rbQ5V+QRw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130491",
+          "url": "/sapi/download/video?action=get&k=PbvA7bYeKJ5M7iwyLIgn3GIMCBqUwPF9N4IMGQrRTH-ZXdyw6-sZOAg1w70Rr6XRhjB5h52KT_wli25_8TCuCYFEWPwQ__xxqOO7qh4kifuaf81Pqv8h9iIxVU8OFBmgFL8224oqe_hOjTcPZNHxZ8JrEY25me_G_WZyz9RhTGXTTqqbCAw&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=9W6Ht-VcOIjDEWfnKmSWpGbEgue_Rph6DTo4t6H9G-Th3ZYJN2-D6XotmT005qavGn6GBwJwbJWdAwZPlFRBd_TfKxCg5wo_o1mZq_MpNeH1OAoHkSEWNLyMUrbJ8ZRVePXR9wWxzwAMkL7Cif5EkXisAFsB7kc_Nrbnlo_0XR5_CwTJE20vYOCSXvuWjLimHtM&node=1i220",
+          "date": 1777904136042,
+          "creationdate": 1777904064000,
+          "modificationdate": 1777904064000,
+          "uploaded": 1777904097647,
+          "size": 525906523,
+          "name": "Jhansi-ka-Rajkumar-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5460760,
+            "bitrate": 770451,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=l7TI6avIHzMGwK_ckndoRZFq8eQmg0SM3JJXe7hczu7cxPoUi1zAM20hvEjwr1CLaEZYmNHPyg7Y4KDxbgA7v0A18SYEY1CaWP1vFUtQf9PqZU5M7YU0eucpmCkpMR2bxyZCgV31HkspASZah6Xg0gy500w3SPrvnoS8XkO0yAQOiZGZn5l7SZfzXzLNJUg6F_Y&node=1i220",
+              "etag": "0Wg9an3W31xOU7rbQ5V+QRw=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=9W6Ht-VcOIjDEWfnKmSWpGbEgue_Rph6DTo4t6H9G-Th3ZYJN2-D6XotmT005qavGn6GBwJwbJWdAwZPlFRBd_TfKxCg5wo_o1mZq_MpNeH1OAoHkSEWNLyMUrbJ8ZRVePXR9wWxzwAMkL7Cif5EkXisAFsB7kc_Nrbnlo_0XR5_CwTJE20vYOCSXvuWjLimHtM&node=1i220",
+              "etag": "0Wg9an3W31xOU7rbQ5V+QRw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Wg9an3W31xOU7rbQ5V+QRw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777904136113,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/CEdNZQW_Q_6nPuK7ywBibDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jhansi Ka Rajkumar (2024)",
+  "media_kind": "movie"
+}
