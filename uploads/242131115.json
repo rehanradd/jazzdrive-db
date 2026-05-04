@@ -1,0 +1,68 @@
+{
+  "name": "\u029fs\u1d05-2-\u029f\u1d0f\u1d20\u1d07-s\u1d07x-\u1d00\u1d1c\u0280-\u1d05\u029c\u1d0f\u1d0b\u029c\u1d00-2-2024--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\\u029fs\u1d05-2-\u029f\u1d0f\u1d20\u1d07-s\u1d07x-\u1d00\u1d1c\u0280-\u1d05\u029c\u1d0f\u1d0b\u029c\u1d00-2-2024--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:39:42Z",
+  "remote_folder_id": 1753959,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131115",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131115",
+    "status": "U",
+    "etag": "ppnKf6v23NM49u3Gjoiiig==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131115",
+          "url": "/sapi/download/video?action=get&k=ULzgaV_eML-JQN7-y_LDeHmG3fcs96BeM5SH7kGOKPVS-bxTcICS2n12gcUrCzfIxKvHD9P07F2S76jWYiD_8ByA-6lxxd_6cSHctty-gdIOymeTu8o1y_ad4fnChsMfZBhtacqls5Z30aoAolY0f2Ayh4VrRAniMPFhu3vlyQ6_1_1AJAo&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=IGsRS6Gg2nxdEo0SKYNUPf-jFUwk6j6Wvz1hn-kD6ptb87vVxicl4iqx1Zc230-69JJ04hfPwkbdhuAp4scXL9nv8M6Qb2w9YAiT0nb7P0QuWt0l6wHAlKphsmt5ED_L1sA0RdeiMWXxbuDs7WsHQ0md7jn-P-_HB7Otzfd5Gts0sSRO7H4mZtWKxG8mARZTnoQ&node=1i220",
+          "date": 1777905581140,
+          "creationdate": 1777905489000,
+          "modificationdate": 1777905489000,
+          "uploaded": 1777905536161,
+          "size": 689185703,
+          "name": "\u029fs\u1d05-2-\u029f\u1d0f\u1d20\u1d07-s\u1d07x-\u1d00\u1d1c\u0280-\u1d05\u029c\u1d0f\u1d0b\u029c\u1d00-2-2024--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7142048,
+            "bitrate": 771975,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=1qTYnieg0yfg-K_c8qFS5JVAUSMNKHdifuTekohXf6uFa4b2GBYJNGDApCeUFdLvx43SQRLwS4zwRvaIOE3wa4_jq1QhQ_ptu8UHJ6sszXe_0OQ8tV1B1HPcA8nrFv9e4FB6XX_Z3z8PyGu9eYmO3JLgQn4aL7lZbWmUz2tM62QjG4OCZtmeeGjq8hxwxll3-Ak&node=1i220",
+              "etag": "0ppnKf6v23NM49u3Gjoiiig=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IGsRS6Gg2nxdEo0SKYNUPf-jFUwk6j6Wvz1hn-kD6ptb87vVxicl4iqx1Zc230-69JJ04hfPwkbdhuAp4scXL9nv8M6Qb2w9YAiT0nb7P0QuWt0l6wHAlKphsmt5ED_L1sA0RdeiMWXxbuDs7WsHQ0md7jn-P-_HB7Otzfd5Gts0sSRO7H4mZtWKxG8mARZTnoQ&node=1i220",
+              "etag": "0ppnKf6v23NM49u3Gjoiiig=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ppnKf6v23NM49u3Gjoiiig==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777905581211,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/VwMTKXUtT-irsvLzHKg4Szk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "S 2 S X 2 (2024)",
+  "media_kind": "movie"
+}
