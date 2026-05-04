@@ -1,0 +1,79 @@
+{
+  "name": "The-Super-Husband-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Super-Husband-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:30:54Z",
+  "remote_folder_id": 1753940,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130964",
+  "tmdb": {
+    "tmdb_id": 1534090,
+    "title": "The Super Husband",
+    "original_title": "The Super Husband",
+    "release_date": "2024-05-24",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "The Super Husband is a family-friendly film that follows the story of a father who believes he is a superhero with superpowers. Despite his incredible abilities of travelling back in time, he struggles to keep his family happy, especially his wife, who feels neglected and overworked.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oxXVyTzjJ15Z9332TKhLvCuSCZ2.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130964",
+    "status": "U",
+    "etag": "IwoVa/9ka2Py7n9H779WyQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130964",
+          "url": "/sapi/download/video?action=get&k=zPzhJ5iAZWAcWT5tAs6RcYAPxAuDCjmcCirVHoE1Av51Upf9P-PFNuTt-SEuBx4-LrZgLNZT8o51x_ZPemmzfzWiU3wQx7vZMjNjeLf3mu89kyZWxkDHv7xFYSqVDOdJ3cbqfLCFEEPVxpo4NdKKJzvk0NtHujUkOGZeQFS4zoeBGaGPnY0&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=XWnS97jdG9ObcQNkRCdcKxtXqsylqq5WWez2gX3j1ZFwHDRCbYLc-mPjOfv4fegnlWHMn-40_w60p9ukWyYCDmmpZoG6lYJsqleZT0k45Vx6DaFDgn9OMcmlMpsa4jX_BsC5ZawNvCg6fz9LWM1MNjcC2gBT2lYgdYc2nywOETtunG2Bksz0ibhkMIQC9CTqg14&node=1i220",
+          "date": 1777905054064,
+          "creationdate": 1777904996000,
+          "modificationdate": 1777904996000,
+          "uploaded": 1777905035742,
+          "size": 374232885,
+          "name": "The-Super-Husband-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 4066440,
+            "bitrate": 736236,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=HVQdSPAU2rb1xQglWsjRybwai9uCfFAvx9gDIKQaFsS_rEbDDPbonU52PnmYtwlh6xVC2uoLRw8eWL-JCJKhYqwHGBaCWyv5GPF8rzeh7ksVrP_BiVCa2LIW1JpiR56EaxcdOgDJWnHS2md3y04myCHs6L4DCkYSYQp_aR-NOlIGjE7gVCYDKH_eVQmX1anyH30&node=1i220",
+              "etag": "0IwoVa/9ka2Py7n9H779WyQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=XWnS97jdG9ObcQNkRCdcKxtXqsylqq5WWez2gX3j1ZFwHDRCbYLc-mPjOfv4fegnlWHMn-40_w60p9ukWyYCDmmpZoG6lYJsqleZT0k45Vx6DaFDgn9OMcmlMpsa4jX_BsC5ZawNvCg6fz9LWM1MNjcC2gBT2lYgdYc2nywOETtunG2Bksz0ibhkMIQC9CTqg14&node=1i220",
+              "etag": "0IwoVa/9ka2Py7n9H779WyQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "IwoVa/9ka2Py7n9H779WyQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777905054142,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/EKMNXYkuRQum55RpgL69Czk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Super Husband (2024)",
+  "media_kind": "movie"
+}
