@@ -1,0 +1,81 @@
+{
+  "name": "Choices-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Choices-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:06:17Z",
+  "remote_folder_id": 1753878,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130199",
+  "tmdb": {
+    "tmdb_id": 1282154,
+    "title": "Choices",
+    "original_title": "Choices",
+    "release_date": "2024-04-29",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Choices follows a young man who can be seen experiencing the same day twice, but the choices he makes throughout the day have an impact on his life.",
+    "poster_path": null,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130199",
+    "status": "U",
+    "etag": "2TNLn+/x8JC/NFnttWm9vQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130199",
+          "url": "/sapi/download/video?action=get&k=PIa19nf5j9sILaWN5rURI_DRxSDo6RJmXxRUtZKoqNhJXYeT9ITOQisF0Kemz9z9SE4PlTzMZbf9NdmZxKFJoZI6qogVON3kbigqn9KcTsPKmFtXTQVqHV-sLZQW1ckqiOgAUoPOsYNSpyD4iOps5_V0sFOFRoAA_I41WYMX32sJpSfVmIE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=C20krjDTHRPyy8lRdwffLisuKSrVTR8RB6MhU8QG010fTB6TcbDWltxa8fgNX6Bqao3qINiP1wE7pTsIJRr30a2h1wAP8YB1yI5o4gY_myTKKVujqRmIiow3Vrp5Hz41prqsGEvDnj_iY21_nemuTTFetkH69mNBc-5S4gmPqsJPEoL5bw5XjywOdMkDUvjTFkc&node=1i220",
+          "date": 1777903576959,
+          "creationdate": 1777903467000,
+          "modificationdate": 1777903467000,
+          "uploaded": 1777903508359,
+          "size": 510949678,
+          "name": "Choices-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5217080,
+            "bitrate": 783502,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=DTvJCZzIiQ9Pw75JYoFL1HO1zPJMHON62pxBJspXcdteZx1kpN2fFwId8BgA0L21s32jNGBB1If2ajqtbRHTd1XhlGyfkhi7u8wwOWJTr3nbJzEyCAuEop1bJoSxXVQApSOd2w7lIBrlBt_LTfikxdC2D3AUs0A7zq9JjMKwMqysc7W6urlS3ZehFtwMwSyUWYU&node=1i220",
+              "etag": "02TNLn+/x8JC/NFnttWm9vQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=C20krjDTHRPyy8lRdwffLisuKSrVTR8RB6MhU8QG010fTB6TcbDWltxa8fgNX6Bqao3qINiP1wE7pTsIJRr30a2h1wAP8YB1yI5o4gY_myTKKVujqRmIiow3Vrp5Hz41prqsGEvDnj_iY21_nemuTTFetkH69mNBc-5S4gmPqsJPEoL5bw5XjywOdMkDUvjTFkc&node=1i220",
+              "etag": "02TNLn+/x8JC/NFnttWm9vQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "2TNLn+/x8JC/NFnttWm9vQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777903577043,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/btCleq5vTGKWF7GZ1drpVzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Choices (2024)",
+  "media_kind": "movie"
+}
