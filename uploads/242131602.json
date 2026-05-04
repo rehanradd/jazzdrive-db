@@ -1,0 +1,83 @@
+{
+  "name": "Kaushaljis-VS-Kaushal-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Kaushaljis-VS-Kaushal-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:11:55Z",
+  "remote_folder_id": 1753904,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131602",
+  "tmdb": {
+    "tmdb_id": 1436133,
+    "title": "Kaushaljis vs Kaushal",
+    "original_title": "\u0915\u094c\u0936\u0932\u091c\u0940 \u0935\u0930\u094d\u0938\u0947\u0938 \u0915\u094c\u0936\u0932",
+    "release_date": "2025-02-21",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "Yug Kaushal, a 27-year-old, leaves behind his small-town roots in Kannauj and moves to Delhi. Always cribbing about his parent not adapting to the modern lifestyle and more urban way of living their life, Yug gets the shock of his life when the senior Kaushals consider mutual separation as the situation spirals into chaos.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ulr4CICHijcXZaeS4M7KupyCu0x.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/r6sKI2rJt7mXbETyRIb0z47AZtg.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131602",
+    "status": "U",
+    "etag": "gPO9bMaLV8CEwgdv/gX0LQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131602",
+          "url": "/sapi/download/video?action=get&k=vUwvawciKM19NxmUMtP5Nbv2SxTSjKXlPcsQY9Vzipa6PxFOeBAe47WHzOZ-EqQHXk1gg6HYWCjIDQpSOmhqUHTL_Q7jnMrKA6kts7Kh85yfoIzRIgd94RstxjJH2UVxRcHBk3oHosCmK5KH1ZnSnQyFDAsHbDnzDgSmK9SJFDVtqhlvEPs&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=JNFW48NxEc4YaPA2K6m7n4SuFlfi0M_-qujhp9lXQi-8XuuOdUNQlTDX2DkqnMbNTTq1FuoQsY8qXFs8SK-_ovlTGr8Grey7bc7ImyODs-KLtDik2I9dyNLKPgMwcahaFjAjZqpY7xMBWh-wekTtsrxf-1_0Otrywig24WJQ7z26iBiCtahmhlZBsb3oVeijH1c&node=1i220",
+          "date": 1777907514051,
+          "creationdate": 1777907442000,
+          "modificationdate": 1777907442000,
+          "uploaded": 1777907480229,
+          "size": 419860579,
+          "name": "Kaushaljis-VS-Kaushal-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7910624,
+            "bitrate": 424604,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=vyWz8sGqJiYENygXGH8X4Me6Mlyfv9P8GvdBNtkvKOLISygpBHi6-bGjXToedlER51I34Gxu27mllU84OhDzwLChdOOF0euFdaXunq2WUs0ejMlAtVDsLQV3yuhOYsX3GcP8HFYuZr3ik-AsRP14YLRRd8IngDa7RMLbWBsaxltdh1JNwaxQB0dqkwjhKyssLro&node=1i220",
+              "etag": "0gPO9bMaLV8CEwgdv/gX0LQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=JNFW48NxEc4YaPA2K6m7n4SuFlfi0M_-qujhp9lXQi-8XuuOdUNQlTDX2DkqnMbNTTq1FuoQsY8qXFs8SK-_ovlTGr8Grey7bc7ImyODs-KLtDik2I9dyNLKPgMwcahaFjAjZqpY7xMBWh-wekTtsrxf-1_0Otrywig24WJQ7z26iBiCtahmhlZBsb3oVeijH1c&node=1i220",
+              "etag": "0gPO9bMaLV8CEwgdv/gX0LQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "gPO9bMaLV8CEwgdv/gX0LQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907514114,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Dce9XSVETPO3d8OJQ62B8Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Kaushaljis Vs Kaushal (2025)",
+  "media_kind": "movie"
+}
