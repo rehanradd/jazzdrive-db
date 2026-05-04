@@ -1,0 +1,83 @@
+{
+  "name": "Gadera-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Gadera-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:13:32Z",
+  "remote_folder_id": 1753896,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131611",
+  "tmdb": {
+    "tmdb_id": 1286981,
+    "title": "Gadera",
+    "original_title": "Gadera",
+    "release_date": "2024-05-10",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "In 1912, driven by greed, the British embark on a Himalayan expedition in colonial India. Yet, the Kumaoni and Garhwali people retaliate, highlighting the grave consequences of imperial ambition through guerrilla warfare.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vqdfPNWgMeRAa3MA7tQ6RjOFPgB.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tdso9uZWkB1qEb7H9pKtiMINIVB.jpg",
+    "genre_ids": [
+      18,
+      36,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131611",
+    "status": "U",
+    "etag": "lvAQ1LT8RviGBz77vn6e3A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131611",
+          "url": "/sapi/download/video?action=get&k=Kumhmigy1vtyvhwkmoKc3KgNrFSh3EfkZjLQwtgqNW5Db4p93kktzEqKZcqaGCtV_mvN5pEY39ZrC0wAlPIck_cww_KCDQNdvnEv-FGCDkQAf8txOfzGkxTJuijH74agxMf4gifAhArZMTfJJNItdonilCHD57sGN_bpwET-_BuQMcutzok&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=qn-hLceomVXwCFQqH71l7r0PXmJcA_2dhWUfDMWxo26QyzlzI4Ju_XQ1Hi-Jrj4VY89Nq85pBzy4lhMfdlH1Kot_PuxQHs6iC_SJXULrwkB1vUTVB984HSX8NKnPcyVtoAC2EnchL0fBVed5imeH92ns1OoQRs6iHv284jVeGA4uoc7_9hxACFdQlmBSWD_64k4&node=1i220",
+          "date": 1777907611653,
+          "creationdate": 1777907575000,
+          "modificationdate": 1777907575000,
+          "uploaded": 1777907600249,
+          "size": 325552582,
+          "name": "Gadera-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6187080,
+            "bitrate": 420945,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=JtM83lraSJQOG-8WAOcA5NVJcwGwndXcYxWfe1wlQ6oL0mKR18Erwj8ohdE2iuYQV-faC_dfxkq0S5BspC5eSldqrSLOeLr4OnfLmDbspLfJ1wuM7RiU6gwH6OCCYZO4Z4rbZSgzV-hrTFYxpf_zsPmDvElaUJ9oP6V6SjRmbgwAYa0SugUZvS3iqpXs0Ta_NwE&node=1i220",
+              "etag": "0lvAQ1LT8RviGBz77vn6e3A=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=qn-hLceomVXwCFQqH71l7r0PXmJcA_2dhWUfDMWxo26QyzlzI4Ju_XQ1Hi-Jrj4VY89Nq85pBzy4lhMfdlH1Kot_PuxQHs6iC_SJXULrwkB1vUTVB984HSX8NKnPcyVtoAC2EnchL0fBVed5imeH92ns1OoQRs6iHv284jVeGA4uoc7_9hxACFdQlmBSWD_64k4&node=1i220",
+              "etag": "0lvAQ1LT8RviGBz77vn6e3A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "lvAQ1LT8RviGBz77vn6e3A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907611714,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/EjGi-bH_REOURRDm0NznuDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Gadera (2024)",
+  "media_kind": "movie"
+}
