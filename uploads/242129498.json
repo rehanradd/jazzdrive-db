@@ -1,0 +1,82 @@
+{
+  "name": "Agni-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Agni-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T13:59:14Z",
+  "remote_folder_id": 1753867,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242129498",
+  "tmdb": {
+    "tmdb_id": 1238167,
+    "title": "Agni",
+    "original_title": "\u0905\u0917\u094d\u0928\u093f",
+    "release_date": "2024-12-06",
+    "year": "2024",
+    "rating": 6.625,
+    "overview": "In a city plagued by a strange rise in fires, fireman Vithal and his policeman brother-in-law Samit reluctantly team up to solve the escalating crisis. Battling personal conflicts, they race against time to crack the case and save Mumbai.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zx3UOe5rZ7uH5lMs3JxEMU0nNXB.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ey0MV3MzQnDQmonzKqHxnjCGrze.jpg",
+    "genre_ids": [
+      28,
+      12
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242129498",
+    "status": "U",
+    "etag": "7g6Kn3jXsWMs9ATbP55tRw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242129498",
+          "url": "/sapi/download/video?action=get&k=wDNh6US8gXTBH12biPzuvXAy0w_2_AUyF0kLcgFy2xo9D7RbE5Y97Z-kqgYNdK0T8XR6LSvaIeEgYHbkQu9ZrDRTUu6IbKyFqJucb6Uo8Cf6CGy9YO6zZ59C3h7IYKFDT_o_LwRHH8JEKG9VgdohyQA7M6K-tteZO2XbfNq7aCDXAme3Ubs&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=4RU4M2mLkhVYg9K6Rt_KL2M8VZVWqKzlVQssBfY76rQ8zpDrem8-T5KRXES10E-1ITFw6lk-JUibYwDf3tiOyE5EFQX6NeEztiYPD6ETHyrBUyB1YGn1YA3jSmfr7Ipp-z64KpJ198xONZn9vmSI_bi8Gtsufa5VwdL2PrQXwHBYppy8Im5W6Ap_ck_1gENWxq0&node=1i220",
+          "date": 1777903153840,
+          "creationdate": 1777903066000,
+          "modificationdate": 1777903066000,
+          "uploaded": 1777903123906,
+          "size": 698540340,
+          "name": "Agni-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7322720,
+            "bitrate": 763148,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=7xSAGvqcEsbcUq4N4E6j5cgTLNMGwCs34zAy6PwEya6912LNBSF0eKAoFI2B6aNWleeo9KGBIEk2_ClXBr_Bjusfh0ozcP1tfnNiQMVVTA-_rqY6Seqqtqdq_5zk3HJjSrsExDtVugrwVfFAu4vj_IQr0O-O3k6gI3aIuOQgcnJKP6OMkEmy2CS2ERPQUzlaJXg&node=1i220",
+              "etag": "07g6Kn3jXsWMs9ATbP55tRw=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=4RU4M2mLkhVYg9K6Rt_KL2M8VZVWqKzlVQssBfY76rQ8zpDrem8-T5KRXES10E-1ITFw6lk-JUibYwDf3tiOyE5EFQX6NeEztiYPD6ETHyrBUyB1YGn1YA3jSmfr7Ipp-z64KpJ198xONZn9vmSI_bi8Gtsufa5VwdL2PrQXwHBYppy8Im5W6Ap_ck_1gENWxq0&node=1i220",
+              "etag": "07g6Kn3jXsWMs9ATbP55tRw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "7g6Kn3jXsWMs9ATbP55tRw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777903153896,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/EWG4hnQFQKu7MaCOTyP_CDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Agni (2024)",
+  "media_kind": "movie"
+}
