@@ -1,0 +1,68 @@
+{
+  "name": "[18\uff0b]-Game-Over-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\[18\uff0b]-Game-Over-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:34:36Z",
+  "remote_folder_id": 1753950,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130982",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130982",
+    "status": "U",
+    "etag": "ebfsJrgQ8TfpDKuQQd4ENQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130982",
+          "url": "/sapi/download/video?action=get&k=JOTOTEQXyPkkUWo6TE3w9FEzT722kI7t9GTPqwwoopwfbo2xHA6OvAeyPvURHmsuMp8xDxxMzdqaMpUJhuYDjwuVAScZW-rtbHSzRJmcaS4-M88lhtTHk79fhanJ5eZDDJkH2fliYXmgkUeUry9-Bl6C2U1BUAP4uh6CyGyUnF-RK2CI7mY&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=T6AEEKAcmpzprLn7TX8cfJXVf2ebP_NtVHgoDvHU_CJFXjceH4903qreGd_LJUx9gvicNe-EkNMUBqVHRISiVn5r9ONIyWA45Jv7oASOzCTwW5EDBVeAqjOeVE3PxUMisZxJCTW8VR4k2brGint2huAKJpPdXVpe3S7zSQsqKwLmJLnxLBgxfBsG_J1QuFiC_5A&node=1i220",
+          "date": 1777905275108,
+          "creationdate": 1777905196000,
+          "modificationdate": 1777905196000,
+          "uploaded": 1777905242077,
+          "size": 426285869,
+          "name": "[18\uff0b]-Game-Over-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 4470080,
+            "bitrate": 762914,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=OrNX1GeXghLGguZ7Z2MCWO-wq8j9yxqAeHp7uqQY23yvmAELvvHCr05NjC91jhUbBQfxEM39FvHkr3JkCoYZIL8oAMh_n584ilo9bppN_v3VqlNzdHCzDIVxYw-166a4evXPCim5fMIaMqXD9YGpakXYbXr_uiePJPyuEROvFv4ZAyy82iIIZaWaYArRwbOmfok&node=1i220",
+              "etag": "0ebfsJrgQ8TfpDKuQQd4ENQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=T6AEEKAcmpzprLn7TX8cfJXVf2ebP_NtVHgoDvHU_CJFXjceH4903qreGd_LJUx9gvicNe-EkNMUBqVHRISiVn5r9ONIyWA45Jv7oASOzCTwW5EDBVeAqjOeVE3PxUMisZxJCTW8VR4k2brGint2huAKJpPdXVpe3S7zSQsqKwLmJLnxLBgxfBsG_J1QuFiC_5A&node=1i220",
+              "etag": "0ebfsJrgQ8TfpDKuQQd4ENQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ebfsJrgQ8TfpDKuQQd4ENQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777905275180,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/U_vBlM26QAeVQTbYuDuvwjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "18 Game Over (2024)",
+  "media_kind": "movie"
+}
