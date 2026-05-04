@@ -1,0 +1,83 @@
+{
+  "name": "Mission-Grey-House-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Mission-Grey-House-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:12:44Z",
+  "remote_folder_id": 1753916,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131606",
+  "tmdb": {
+    "tmdb_id": 1419486,
+    "title": "Mission Grey House",
+    "original_title": "Mission Grey House",
+    "release_date": "2025-01-17",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "Mission Grey House is a suspense thriller. A boy wants to become a police officer by any means, and to suffice his hunger he wears a police uniform on his own and starts fighting with goons and all. Knowing this Kiara's father who is an IG, asks about Kabir and he warns him about the consequences. She pleads his father to help Kabir to become an officer and she assures him that he will do his job with great responsibility, IG calls him and says 'main tumhe ek mission de raha hoon- Grey House. Tumhe ye pata karna hai yahan murder kyun ho rahe hain aur kaun kar raha hai, agar tumne ye pata kar liya to tumhara sapna main poora karunga and Kabir accepts. He goes to Grey House and gets trapped there. How he comes out of this? And how he finds the killer? How he saves his life? To know all of this you have to join us in the theatres and enjoy the film \"Mission Grey House\" with us.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eeepVS81yLGvPC9dE35KW75dX5Y.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/glL4pz6WUtzAc8j3sAxaz4uLwmy.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131606",
+    "status": "U",
+    "etag": "0V+SHHhHpx6OZyBQatpQpA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131606",
+          "url": "/sapi/download/video?action=get&k=rZD9AlKbS_g_4oaaIrmLf8c1Ps0VZUdL0RPVVs41-5QyTmqqATGEH1ECEdtK2lKI69lV04QXwQTIZg5XD2u_raEe5GXfenevpBipQoJ_vJv5H8QgX6H13GaGDqxM20iwugEOkYgOnZWVzBmHVqW2TaRe33cHPZnEcCEB1R1wVJCrdmqbfyE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=Wj5XzS4dTAmdrJCUdVV0QZCbkW-fZWkYtE-bwdLTT5xPrLEmzK53KEcIHO_4-wTEGE5eOVJfTeqW4ZncABicKd1R3weAL8lm-p4J47OgGB60eVk13cyx-4OsKuW2XVPV-ldpCdvOf5CkihCay601L3BN-wujw1y0Mt3jJMYSeU4FGMKtpukqB6Rb8dr9Y4BhKuM&node=1i220",
+          "date": 1777907563654,
+          "creationdate": 1777907521000,
+          "modificationdate": 1777907521000,
+          "uploaded": 1777907546294,
+          "size": 350451820,
+          "name": "Mission-Grey-House-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6546537,
+            "bitrate": 428259,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=PFZK4ajQOwrUChMRDbwavZrtEpzMrstRyar5jZYCYkaTAkZQIoUUOGC-rGsRTw-ogpd3UWzDPFr0cLq43IXTL7DFTY31Gk277DkaTybdSxHL33s9Zv9Lp1z57NK5vlX-Co6OnSZ-VnehNjonzo8ov-5a4i4n4J_ZHrYfRRGweOIdwHgZb_687YQ8oIAGAhWHuQc&node=1i220",
+              "etag": "00V+SHHhHpx6OZyBQatpQpA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Wj5XzS4dTAmdrJCUdVV0QZCbkW-fZWkYtE-bwdLTT5xPrLEmzK53KEcIHO_4-wTEGE5eOVJfTeqW4ZncABicKd1R3weAL8lm-p4J47OgGB60eVk13cyx-4OsKuW2XVPV-ldpCdvOf5CkihCay601L3BN-wujw1y0Mt3jJMYSeU4FGMKtpukqB6Rb8dr9Y4BhKuM&node=1i220",
+              "etag": "00V+SHHhHpx6OZyBQatpQpA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "0V+SHHhHpx6OZyBQatpQpA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907563722,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Bym3LIdOQNqRpB74Oz-YPDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mission Grey House (2025)",
+  "media_kind": "movie"
+}
