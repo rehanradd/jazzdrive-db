@@ -1,0 +1,83 @@
+{
+  "name": "Mirg-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Mirg-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:19:34Z",
+  "remote_folder_id": 1753913,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131642",
+  "tmdb": {
+    "tmdb_id": 1241707,
+    "title": "Mirg",
+    "original_title": "\u092e\u093f\u0930\u094d\u0917",
+    "release_date": "2024-02-09",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Anil, an obedient boy, experiences a transformation following a pivotal event, as a bond with a colleague reshapes his worldview. This journey reveals the complexities of his life and relationships.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/j18KqNmNjs3SDzb3C469cELIFNZ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/3tU6mG7ph7QQ7PEk2rfdDzxqrSj.jpg",
+    "genre_ids": [
+      80,
+      28,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131642",
+    "status": "U",
+    "etag": "+rvgWEw+454dUHJJj/BNiQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131642",
+          "url": "/sapi/download/video?action=get&k=10WwCttrOwbHA1kPzq3oK5bQFmJY2Z7rvtc8BerVckuGFkfDcVUXszFd_1dvctBfVDjZlycUG-8JobIuwxVnVS1SLUB9nN9XRO26vfsdFC1R-ZkmDcxYcuDzN9hdjnLiLld_PuUKbB23LqmDMaC1ED7dmQAA0SXG3GFt_7pgF5BmeBGZjzM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=u0M0dtIFxHVOgKesDGEa8k3XSBLbsbhs37J7cQLLAWddK7PyWIyLs8bk5D6hJnKmMm4mdIMP2TFPp_1KV1ECij0X7xdH0aqwQ9Sy3a-n6eBAEcqh5vIyvWBhhO54ywEALIjkdnLsO0HKTi9l_hct4emqOrTAnHPZ-ms2MejXqNkKdcXeRmOWxt-_0edZQFNTL_M&node=1i220",
+          "date": 1777907973246,
+          "creationdate": 1777907949000,
+          "modificationdate": 1777907949000,
+          "uploaded": 1777907964462,
+          "size": 265060220,
+          "name": "Mirg-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 4994080,
+            "bitrate": 424599,
+            "codec": "h264",
+            "height": 400,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 142,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=mHLlpoEfoKhxgTy3IMJCvb4Qc8jDcIwK4V48Yv7Ste0jORKFV4Pnnt6d1kvsrJzh1eXeMm7chVeSrdTzwXaYo1nH1N-zRtLo8D6XMEwJwB_po4QIu0ejwlnmOTJVpiTDRG4yWKxf5JYUOUzZzFIqY1f2Rf7_D-WeF0IRJFuH0ODic7IK2P-HqveW1ogro9msJTc&node=1i220",
+              "etag": "0+rvgWEw+454dUHJJj/BNiQ=="
+            },
+            {
+              "w": 720,
+              "h": 400,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=u0M0dtIFxHVOgKesDGEa8k3XSBLbsbhs37J7cQLLAWddK7PyWIyLs8bk5D6hJnKmMm4mdIMP2TFPp_1KV1ECij0X7xdH0aqwQ9Sy3a-n6eBAEcqh5vIyvWBhhO54ywEALIjkdnLsO0HKTi9l_hct4emqOrTAnHPZ-ms2MejXqNkKdcXeRmOWxt-_0edZQFNTL_M&node=1i220",
+              "etag": "0+rvgWEw+454dUHJJj/BNiQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "+rvgWEw+454dUHJJj/BNiQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907973304,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/1e053OViS-eHJOSmrnx9ETk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mirg (2024)",
+  "media_kind": "movie"
+}
