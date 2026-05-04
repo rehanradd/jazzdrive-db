@@ -1,0 +1,82 @@
+{
+  "name": "All-India-Rank-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\All-India-Rank-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:53:44Z",
+  "remote_folder_id": 1753980,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131233",
+  "tmdb": {
+    "tmdb_id": 1064356,
+    "title": "All India Rank",
+    "original_title": "\u0905\u0916\u093f\u0932 \u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0948\u0902\u0915",
+    "release_date": "2024-02-23",
+    "year": "2024",
+    "rating": 6.4,
+    "overview": "Set in the 90s, seventeen-year-old Vivek is sent away from home to attend a rigorous program to prepare for the highly competitive IIT entrance exams. Over two years, Vivek goes through the motions of Indian adolescence, but it is his parents who do the growing up.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xPV6gfhmybAUg8TebT9PKlV8EkE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/94bFUEN3JgE9579y6B3AOfRyVHD.jpg",
+    "genre_ids": [
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131233",
+    "status": "U",
+    "etag": "ViOeDMIxC3D4Sud1qpokxQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131233",
+          "url": "/sapi/download/video?action=get&k=ts3W1zSnBJtX2_Gi9y2YKksa8vR9nqa2RfVFYDpdrxXmhaLxI-Zzw_piD7PW0TFLYAVYjecvJuWJMgwy9roMto9iKiRfNqlvGxDPXblruohmHBOqoqpsRAPNnRX1doQdUlNJ1IKtYXd0eTu4o2z0jshAnZ9b3grOsIJYJTIc_led8B2mLaM&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=aFE9FJNYFpVVNtPjMCGJJD6F7hiIscEXNXdn_bhIr61ujpJkQbEga4Pixc3TmfhT8ZeIILU0aqaXsVDjywYQlBtdeOXjsTfZawCKU7mwTIfDwNhdVx9ftcpv1evt86LpaiIq_g6nKv5IGmM0febZwyaIdaj4uiAkbz7mqbakioGXmX8I2EDcHuVr9WG2A-qZ1-8&node=1i220",
+          "date": 1777906423766,
+          "creationdate": 1777906346000,
+          "modificationdate": 1777906346000,
+          "uploaded": 1777906389080,
+          "size": 562816468,
+          "name": "All-India-Rank-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5897088,
+            "bitrate": 763517,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=c1CBLls4wQJbcuLXXcqtEbZ_VECqqphOVz2FhiBQG8VRg-fLAKprbeoR93kt5xFFeCMmPZOLyqW4FW5pG29AuFJW1p0FX_6rTCELUnn8ocZ_OEtJqMPqWVW8uBMabQwPDrlqEA_vkCW1Egpx4CM5fpIcUfVsoKNFkpumqew5sSKORyBw7AzCBQ9CbK7y-lVQQKg&node=1i220",
+              "etag": "0ViOeDMIxC3D4Sud1qpokxQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=aFE9FJNYFpVVNtPjMCGJJD6F7hiIscEXNXdn_bhIr61ujpJkQbEga4Pixc3TmfhT8ZeIILU0aqaXsVDjywYQlBtdeOXjsTfZawCKU7mwTIfDwNhdVx9ftcpv1evt86LpaiIq_g6nKv5IGmM0febZwyaIdaj4uiAkbz7mqbakioGXmX8I2EDcHuVr9WG2A-qZ1-8&node=1i220",
+              "etag": "0ViOeDMIxC3D4Sud1qpokxQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ViOeDMIxC3D4Sud1qpokxQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777906423830,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/X91BOFGyTK-JOw-v1CEcojk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "All India Rank (2024)",
+  "media_kind": "movie"
+}
