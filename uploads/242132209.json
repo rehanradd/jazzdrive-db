@@ -1,0 +1,82 @@
+{
+  "name": "OMG-2-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\OMG-2-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:51:41Z",
+  "remote_folder_id": 1754174,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132209",
+  "tmdb": {
+    "tmdb_id": 888710,
+    "title": "OMG 2",
+    "original_title": "\u0913\u090f\u092e\u091c\u0940 \u0968",
+    "release_date": "2023-08-11",
+    "year": "2023",
+    "rating": 7.306,
+    "overview": "Life is bliss until one day Kanti Sharan Mudgal\u2019s son Vivek is blamed for immoral conduct and expelled from school. Overwhelmed, Kanti plans to leave town until a divine intervention leads him to seek justice by taking those responsible to court.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kApiO3oL6t100aCtkcwEhk2kqgK.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/9wmSV9Nk3j7GIEBQghJIGI0U2Nk.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132209",
+    "status": "U",
+    "etag": "47mMBkEvMGCorhsro89v3g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132209",
+          "url": "/sapi/download/video?action=get&k=vxMTBmiz5DJa4QzCTLJ8s0WAk1c7lYBEX6ifPMQcWj08ZzW2PtYbvzozKXkQN4rrCmXk-JTME3mNFpGKtIJSO-B1G5mADaEkkS7OpdxFUbytn6Nw4YuT_u9VCbHsmRtJUAYoOchkftOpgzKoRzX4chldP4D8jFUMvBYoYCqxs5T_amuOsDQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=k7-M60xxbkWqMxHnq7BSo3-QA2cjqcTTG5g7c7_2tXelTrBZ6AD95O-emR4ukjPk9kOCJvVuaO6J4ObotaOcE5XOtPsacyNhNNBflNEx2CHaFCg1anVxnPWUurUOXRZMdTSQJtY0J-bjsuSQfQPLC8BFUrrzRjhltPZ1rrTrMRdMIc_3FguUceA4v-HxWnuz8rw&node=1i220",
+          "date": 1777909900944,
+          "creationdate": 1777909838000,
+          "modificationdate": 1777909838000,
+          "uploaded": 1777909874886,
+          "size": 493592232,
+          "name": "OMG-2-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 9301664,
+            "bitrate": 424519,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=HtIxb5DzQkl9jz5HktL9PLriUrpnj8gC9V0P_JVFPWrb3z59P6Sdi2RC195eX_mZJYr-5jk_KxqS8-HM3vE08ExZWVp4vv68OQHVk_qZ1vnRsV5Fg2x4B2A0Sx3VuZ5IV8OHWVUHDmuBxSeJwJDsb8p96o0lShPNBHFZdtJzvOYtK4thNktc190RkAY1YjcMWnw&node=1i220",
+              "etag": "047mMBkEvMGCorhsro89v3g=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=k7-M60xxbkWqMxHnq7BSo3-QA2cjqcTTG5g7c7_2tXelTrBZ6AD95O-emR4ukjPk9kOCJvVuaO6J4ObotaOcE5XOtPsacyNhNNBflNEx2CHaFCg1anVxnPWUurUOXRZMdTSQJtY0J-bjsuSQfQPLC8BFUrrzRjhltPZ1rrTrMRdMIc_3FguUceA4v-HxWnuz8rw&node=1i220",
+              "etag": "047mMBkEvMGCorhsro89v3g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "47mMBkEvMGCorhsro89v3g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909901004,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/u2qYugrDRiOaa6D6OTI-1zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Omg 2 (2023)",
+  "media_kind": "movie"
+}
