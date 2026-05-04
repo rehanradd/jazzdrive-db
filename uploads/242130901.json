@@ -1,0 +1,81 @@
+{
+  "name": "Sadabahar-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Sadabahar-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:25:07Z",
+  "remote_folder_id": 1753924,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130901",
+  "tmdb": {
+    "tmdb_id": 1414672,
+    "title": "Sadabahar",
+    "original_title": "\u0938\u0926\u093e\u092c\u0939\u093e\u0930",
+    "release_date": "2024-12-01",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "An elderly woman resides in her long-time home, leading a rather uncomplicated existence. Each day, she listens to a radio that was gifted to her by her late husband. One morning, she awakens to discover that her radio has ceased functioning. In an effort to have it repaired, she contacts the radio company, hoping for assistance.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1JP14i2n2Evp3tlBz1wYL1NSnHs.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fQvBq7sZQU62VHKmwN27ruMPENB.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130901",
+    "status": "U",
+    "etag": "TR0mWo/VnY5BejVkpna2dQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130901",
+          "url": "/sapi/download/video?action=get&k=Znv3J7LesqF9VHCqHgISEOv_lm86YKAZfYIjIj4Z8YV6Af9OkNk-gVxPtLHE_mvkRiJXnAwin1Z6G1DQR4TOHDAL47_qLlvwlTFb-_Xu3Ls1P3L725GfvM1UZevt5zd38MDx60OqxgAtPdfXY69BdzCgfsapHNGf2Mm3ETkyhfYq5lhhnBQ&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=BN-NoemYzOtuRd_ZpWl7ZmRiPlO50xcxvxA0NRtfVLvMuPA902VYsb9qwjNJmnrAnSYLrxR-Yq7ciMHgrx2XeH0PGUnk95EESUAXCGuUIeelTpMXEGtMNbm_57Vp4B0xAbYYnZvE2Fjsb0hwV_Y6XLbnn2zjqJiMEBAhsoNPhZwY5WnqSqK470-pEpmSo0NKef8&node=1i220",
+          "date": 1777904706888,
+          "creationdate": 1777904581000,
+          "modificationdate": 1777904581000,
+          "uploaded": 1777904659709,
+          "size": 535445594,
+          "name": "Sadabahar-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5521200,
+            "bitrate": 775839,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=jwfMPajI-4S9tBLfZgzzvPC_dc3LQM_E1X5_qOmDF0swuOk54IW5IFzd_PkyIRZ000XZCqeTesm852hVO6EJ-3IOnkga-GqayAG_di4pmR9M5Vzcj6B9ZrkykkBzeghqDxyXfMqLrPaiEuGk8SvUirNTdXONSIoTGdp1G8DWu_0Fq8vT_raPpM-xy5trVI3oJQo&node=1i220",
+              "etag": "0TR0mWo/VnY5BejVkpna2dQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=BN-NoemYzOtuRd_ZpWl7ZmRiPlO50xcxvxA0NRtfVLvMuPA902VYsb9qwjNJmnrAnSYLrxR-Yq7ciMHgrx2XeH0PGUnk95EESUAXCGuUIeelTpMXEGtMNbm_57Vp4B0xAbYYnZvE2Fjsb0hwV_Y6XLbnn2zjqJiMEBAhsoNPhZwY5WnqSqK470-pEpmSo0NKef8&node=1i220",
+              "etag": "0TR0mWo/VnY5BejVkpna2dQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "TR0mWo/VnY5BejVkpna2dQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777904706969,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/B7ZPBJZdTISLdqVlIgMI9zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sadabahar (2024)",
+  "media_kind": "movie"
+}
