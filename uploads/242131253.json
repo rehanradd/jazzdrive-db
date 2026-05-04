@@ -1,0 +1,68 @@
+{
+  "name": "\ua731\u029c\u1d00\ua731\u1d1b\u0280\u028f-\u1d20\u026a\u0280\u1d1c\u1d05\u1d05\u029c-\ua731\u029c\u1d00\ua731\u1d1b\u0280\u028f-(2023)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\\ua731\u029c\u1d00\ua731\u1d1b\u0280\u028f-\u1d20\u026a\u0280\u1d1c\u1d05\u1d05\u029c-\ua731\u029c\u1d00\ua731\u1d1b\u0280\u028f-(2023)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:00:18Z",
+  "remote_folder_id": 1753991,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131253",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131253",
+    "status": "U",
+    "etag": "vMmdFrHManxSD0L/JIihpQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131253",
+          "url": "/sapi/download/video?action=get&k=N3p0g6Ko5I_DY8dtuwLDGmLimEINfrNmTa4jWgovYSyqK72mRIz4j3KOyqCZxsdLeysb0qc-wZrFFcQiuhUg-DWx_0-rPUkv3Qi3pOtQtlhxWvNzybAkOKqIDmsWdXF45WcnC6wwmpqPPJXwSCq-h_xaZZ0jVE17hfZxMiS0coi-5C5ced8&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=e_RyJnqYHw-cWGYMXOotUGNf2ZXsO4Hqzgzfi-_b68PJo5GamKSQeAUsmmCpU6xjuLyF_TP5PRzeGPitIiMLPx7KcD8L43eEdfQfMPh6Y-6HGvIX6Cd8VNh5SX5eGdbigCEvzWRxwPvv1R0AhEEgf78Gg1gLEFBc8tMfssN8Bm6Z47ciWM27KjxpdPeQnvXbTG4&node=1i220",
+          "date": 1777906816812,
+          "creationdate": 1777906696000,
+          "modificationdate": 1777906696000,
+          "uploaded": 1777906766317,
+          "size": 809003774,
+          "name": "\ua731\u029c\u1d00\ua731\u1d1b\u0280\u028f-\u1d20\u026a\u0280\u1d1c\u1d05\u1d05\u029c-\ua731\u029c\u1d00\ua731\u1d1b\u0280\u028f-(2023)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8355882,
+            "bitrate": 774547,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=S__4sDKT7VZTvuQyRqfFwYn7_Jjta37a4cVa1cq8RdpRXrpGz3CBzYq6umkZrjDR6SQMQ6RrlrWcLUQlbjIRn4dJrUtBQwnfrkSimJtFyN2vYFQgYHUoKFkYGKKzVcAn4F_pzGfpm1wgaQtWv6A0DH4I27opSB5tliMfhv3xvC1cJ7r9Za7FJGfsHdK-zwO6tq0&node=1i220",
+              "etag": "0vMmdFrHManxSD0L/JIihpQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=e_RyJnqYHw-cWGYMXOotUGNf2ZXsO4Hqzgzfi-_b68PJo5GamKSQeAUsmmCpU6xjuLyF_TP5PRzeGPitIiMLPx7KcD8L43eEdfQfMPh6Y-6HGvIX6Cd8VNh5SX5eGdbigCEvzWRxwPvv1R0AhEEgf78Gg1gLEFBc8tMfssN8Bm6Z47ciWM27KjxpdPeQnvXbTG4&node=1i220",
+              "etag": "0vMmdFrHManxSD0L/JIihpQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vMmdFrHManxSD0L/JIihpQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777906816863,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Slzxala6SP6Ol3-mBQouOzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "\ua731\u029c\u1d00\ua731\u1d1b\u0280\u028f-\u1d20\u026a\u0280\u1d1c\u1d05\u1d05\u029c-\ua731\u029c\u1d00\ua731\u1d1b\u0280\u028f-(2023)-Hindi-Movie--720p-[Orgmovies] (2023)",
+  "media_kind": "movie"
+}
