@@ -1,0 +1,81 @@
+{
+  "name": "Welcome-Wedding-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Welcome-Wedding-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:33:10Z",
+  "remote_folder_id": 1753944,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130970",
+  "tmdb": {
+    "tmdb_id": 1408634,
+    "title": "Welcome Wedding",
+    "original_title": "Welcome Wedding",
+    "release_date": "2024-03-29",
+    "year": "2024",
+    "rating": 2.0,
+    "overview": "It is a light hearted surreal comedy target to attract masses and is a hilarious family entertainer. It tells the story of a bet between father and son where son says that he will earn 100 cr in 90 days on a condition that his father will follow whatever he says without any rebuttals. This bet then leads to many funny situations, twists and turns and finally son does win the bet however what had he done to win this is the high point of climax.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iijXp5jRvfmBDrNN45WJgP6TqWU.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130970",
+    "status": "U",
+    "etag": "GnWcXEVSSvd79NS18OtxSg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130970",
+          "url": "/sapi/download/video?action=get&k=bMphqDiB0ZC8FC4mkUHPGvVkXe3s04paaId4GxafAA5fJ2SgGg6AX7yOeAULRYDD_LQoGDnm6opih08EjPZz7DHB7dbYRYXMsG5am3Pdysps9wGHn26ojDcgmWxihOozFuT6_vIpKOd4VleNOLX1ao48NBsu4k5mx4lj6QAUqeGb4WUoONI&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ivftoIEezxxmA66iGS7K-PFTapabloQ3Y_wiDZpfvv9FgJXlNauVbUuET3Pg4ReW3uLAVtnCkb6iSsVg_OFiI1Tvkvi-Jv7To4NjFgvSe0YPTxmi-BJrSWt3BBFDh3V5FGwP5URdDz7Zkb2jk13YBUETXskkCl-YiUGhNwXd63KafbTBtnnSfcc7qhxQsHygIzg&node=1i220",
+          "date": 1777905189903,
+          "creationdate": 1777905088000,
+          "modificationdate": 1777905088000,
+          "uploaded": 1777905147097,
+          "size": 660598326,
+          "name": "Welcome-Wedding-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6801200,
+            "bitrate": 777037,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ynPzk_NdH9yxvFgBL5r3A63byqeXgwWDb8Lb-fIvFD-Uc4nryFHVyaVpfFpSU9d65NkMeMlmGMWVnt62L5SZZXLaRCJkOuC65RUda34bfCrlK6scctLhG78LkCx-0vTsmUNpGGtyaHgI9EdF49etxJTMrLuVThEcZVS9tNU6wlEOoXCFzvMlUlIiC-ogAAqMhOI&node=1i220",
+              "etag": "0GnWcXEVSSvd79NS18OtxSg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ivftoIEezxxmA66iGS7K-PFTapabloQ3Y_wiDZpfvv9FgJXlNauVbUuET3Pg4ReW3uLAVtnCkb6iSsVg_OFiI1Tvkvi-Jv7To4NjFgvSe0YPTxmi-BJrSWt3BBFDh3V5FGwP5URdDz7Zkb2jk13YBUETXskkCl-YiUGhNwXd63KafbTBtnnSfcc7qhxQsHygIzg&node=1i220",
+              "etag": "0GnWcXEVSSvd79NS18OtxSg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "GnWcXEVSSvd79NS18OtxSg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777905189964,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xFdA1wfTRyWVCutFc49ruDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Welcome Wedding (2024)",
+  "media_kind": "movie"
+}
