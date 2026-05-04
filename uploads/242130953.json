@@ -1,0 +1,81 @@
+{
+  "name": "The-Fridge-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Fridge-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:29:46Z",
+  "remote_folder_id": 1753935,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130953",
+  "tmdb": {
+    "tmdb_id": 1549268,
+    "title": "The Fridge",
+    "original_title": "The Fridge",
+    "release_date": "2025-09-20",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "After being left home alone, the protagonist begins to notice strange noises and odd occurrences centered around his refrigerator. What starts as mild unease escalates into terrifying confrontations with the unknown, forcing him to face both his deepest fears and the sinister truth lurking inside his kitchen appliance.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qd0kSAWBq4UJPqwEErhOCuI2EZc.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130953",
+    "status": "U",
+    "etag": "9sHhmciVshq0AvGYamNEtw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130953",
+          "url": "/sapi/download/video?action=get&k=Lw7cUfkRIKMbGKErUjdnCqpT_UgcinVQOb1jXlgIfNk_oaVPQ-7Hjt6zSaMTVw5k4cFUL4mDFWgEo54C64-QUg01oqL11nEybFCztlIeMZT9U_hlFtvs9F7UKUz4C3j_1mhD9KZgBVFN3GxD5Ax_wdSNEvt9sS75sbMaU_iQxg6-Oqp4288&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=_hshj7i7ixpLd_tOroE8mjYztsfTztbd5po_s0LSJGyw7LtI6BKi9LbR_mQdX2dj6JEbOBsIbnGj-si6HZQnTR3koVMns8C-TN8xMrJT6XwfEi1r2eXAYKO64fKAmY_GNweqAKyOw4FsAj9eehit1Ogk27mxjcKUJBN72H5LAdR9Ph9Sp1CmTv1VRM1jXNbw4YA&node=1i220",
+          "date": 1777904986042,
+          "creationdate": 1777904857000,
+          "modificationdate": 1777904857000,
+          "uploaded": 1777904948959,
+          "size": 531124648,
+          "name": "The-Fridge-(2025)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5523434,
+            "bitrate": 769267,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=UUr5fBhckRAlxIasPPJl9ODFy-msq5OfI9g7TN1YxEAiNn6pF6jEBJS1022wjYns7TCMP8D9DAn7jyLr73_gdae3ApiskBLsrtBfWgMs2qcu7n3Vcy7n7bn4FsHBJKAghFYITSFGapTgm69HmbDjEXARYXnEwk3N1MMWkJr-uFqjDFst11ob2WOhpsKZSFpPy7g&node=1i220",
+              "etag": "09sHhmciVshq0AvGYamNEtw=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_hshj7i7ixpLd_tOroE8mjYztsfTztbd5po_s0LSJGyw7LtI6BKi9LbR_mQdX2dj6JEbOBsIbnGj-si6HZQnTR3koVMns8C-TN8xMrJT6XwfEi1r2eXAYKO64fKAmY_GNweqAKyOw4FsAj9eehit1Ogk27mxjcKUJBN72H5LAdR9Ph9Sp1CmTv1VRM1jXNbw4YA&node=1i220",
+              "etag": "09sHhmciVshq0AvGYamNEtw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "9sHhmciVshq0AvGYamNEtw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777904986135,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/btu-budESlW3zujQJ1DkyTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Fridge (2025)",
+  "media_kind": "movie"
+}
