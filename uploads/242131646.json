@@ -1,0 +1,82 @@
+{
+  "name": "Love-Sitara-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Love-Sitara-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:20:21Z",
+  "remote_folder_id": 1753907,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131646",
+  "tmdb": {
+    "tmdb_id": 807222,
+    "title": "Love, Sitara",
+    "original_title": "\u0932\u0935, \u0938\u093f\u0924\u093e\u0930\u093e",
+    "release_date": "2024-09-27",
+    "year": "2024",
+    "rating": 4.7,
+    "overview": "Tara and Arjun travel to her hometown to work on their relationship before marriage. What happens when her family starts sharing their darkest secrets?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xwOKKJYlxRK0jIbjWCCJ5aeADrA.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wfkweqiA4IrWJkZIx8pQ7kRiEFw.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131646",
+    "status": "U",
+    "etag": "V3GtP4YxlakbvwEEoGx3Zg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131646",
+          "url": "/sapi/download/video?action=get&k=rWCjNktOiXeOntiYLkcTTfGGbkpfuODXP1thopEX9fMKBPm6tf4Gh2ZRTJs3H_bnzptLGqAG5iDBpoIn7FUgk9XGOO7QHNnoZ8po9eSDs6kjZnq7ONGyYcKmrYK8_o731Y1Tkhxim1YN1Kvqa9K27Lm7rQZx0WDJ1YzuR3YMzneIpQlJBhA&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=NIUHu-idMuSL9DzaR-qx9QKYd9KOZ60IC_RKpf-J_zXjVNgnEc9aPyq70Zqo8JRaPPAV5lHXThgtWV7y0wQHgx-ilnw2hepN25dbbqYR3tHe9_74B9j_AoMNYNOq00_zJpfbEr-In-dceNaMXMPolD8_qxQj5UOwXTdqRhu4hh1iPwR9ppIsm_xvhzrjQ9CXeA4&node=1i220",
+          "date": 1777908020069,
+          "creationdate": 1777907976000,
+          "modificationdate": 1777907976000,
+          "uploaded": 1777907997427,
+          "size": 336597672,
+          "name": "Love-Sitara-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6331488,
+            "bitrate": 425299,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=dskKHtj0dbAuVoJ9ClREWQMV4U_h41VZlLsAf8dbBrUhw8LuaGzH2x7jNNmmFBxjejRGqubLEWI09tZqKHANsJWiAe7pExonkh-Xfs9VfghYFujo_8O0RmTIZkO1E9P6wp42W_MYbHWFbkjyR9G_B2fsMiL12hwIbqht2z0rf0s7OYwepN24AAQ7w2vW1Ji4DZI&node=1i220",
+              "etag": "0V3GtP4YxlakbvwEEoGx3Zg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=NIUHu-idMuSL9DzaR-qx9QKYd9KOZ60IC_RKpf-J_zXjVNgnEc9aPyq70Zqo8JRaPPAV5lHXThgtWV7y0wQHgx-ilnw2hepN25dbbqYR3tHe9_74B9j_AoMNYNOq00_zJpfbEr-In-dceNaMXMPolD8_qxQj5UOwXTdqRhu4hh1iPwR9ppIsm_xvhzrjQ9CXeA4&node=1i220",
+              "etag": "0V3GtP4YxlakbvwEEoGx3Zg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "V3GtP4YxlakbvwEEoGx3Zg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777908020147,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/-ALKfKHfRd-l8el3y74Vbzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Love Sitara (2024)",
+  "media_kind": "movie"
+}
