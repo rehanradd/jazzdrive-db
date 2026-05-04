@@ -1,0 +1,79 @@
+{
+  "name": "The-Lost-Girl-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Lost-Girl-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:14:12Z",
+  "remote_folder_id": 1753936,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131614",
+  "tmdb": {
+    "tmdb_id": 1493423,
+    "title": "The Lost Girl",
+    "original_title": "The Lost Girl",
+    "release_date": "2024-04-05",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "\"The Lost Girl\" follows 5-year-old Suhani separated during the 1984 Sikh riots, surviving 15 years with strangers. Memories haunt her until she escapes, embarking on a journey to find her true identity and family.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/mPPfEY70sUoUmvGduKOYayCyQje.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ptjNrsNfJDWdPUhII1rALl1xZZB.jpg",
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131614",
+    "status": "U",
+    "etag": "AM7TYNoEhBZds3RgMtxFUQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131614",
+          "url": "/sapi/download/video?action=get&k=Q5q2KcFXaxG1xRAPjRjs1zhgJKlyfzGQCGSWr04jxL2t2C8dL003Gol4mo7Db07lMrSh9_DzY9PdDJbjMdXu2npVmip05q1dgIIZq7fKxrBply_k1ZbLDMKcK07qFobKVzoIJs5GV1NvhqY-ghaffgteushUs1gQeH1IPLPQzQ6xRwuwyZ4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=x2WX2jLAyL-L36_9QcX4CajrMlby03NsqFcQMqI5Dz0n1OcuKIaqBr44zxkhoBoQZeJ4CUJkHTjmrsrMG7-MCS_-6ST9CTL0qwNzxhYOKu7Ta3jIhB9cF6rQI3cDlSVfeqVspvwdaF2_5bEe4v2bLrOoqbTRTnGuoHg7B1YXdhNN6yg5TV1YkdWTMvSi8NgfRWg&node=1i220",
+          "date": 1777907650932,
+          "creationdate": 1777907605000,
+          "modificationdate": 1777907605000,
+          "uploaded": 1777907632401,
+          "size": 425103161,
+          "name": "The-Lost-Girl-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8019068,
+            "bitrate": 424092,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Ys_NSfdpHxbmiXlMl0jHkyZMCAuWMSyxoiB0TMYn58zFCy9ksW8yyyJmhYK5ltidVu-mmtpdyQRHRqGW2MfWUz7WnbZ53yvGNQNaibSNA-epk41QHuwhNly36hazluLHI2l_6F56-T-ijVMYGTSQS1HrC278_p1pI6bFtzYr21z0sivc5xoBQnxZpaus_HSStlw&node=1i220",
+              "etag": "0AM7TYNoEhBZds3RgMtxFUQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=x2WX2jLAyL-L36_9QcX4CajrMlby03NsqFcQMqI5Dz0n1OcuKIaqBr44zxkhoBoQZeJ4CUJkHTjmrsrMG7-MCS_-6ST9CTL0qwNzxhYOKu7Ta3jIhB9cF6rQI3cDlSVfeqVspvwdaF2_5bEe4v2bLrOoqbTRTnGuoHg7B1YXdhNN6yg5TV1YkdWTMvSi8NgfRWg&node=1i220",
+              "etag": "0AM7TYNoEhBZds3RgMtxFUQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "AM7TYNoEhBZds3RgMtxFUQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907650994,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/W4zpUanTR2y7HtANenYStTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Lost Girl (2024)",
+  "media_kind": "movie"
+}
