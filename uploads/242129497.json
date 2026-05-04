@@ -1,0 +1,81 @@
+{
+  "name": "A-Stranger-by-the-Hill-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\A-Stranger-by-the-Hill-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:00:07Z",
+  "remote_folder_id": 1753863,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242129497",
+  "tmdb": {
+    "tmdb_id": 1525025,
+    "title": "A Stranger by the Hill",
+    "original_title": "A Stranger by the Hill",
+    "release_date": "2024-06-21",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "Mahi, an NRI photographer visiting her late mother's beloved Manali, meets charming teacher Angad. After a passionate night together, she finds herself locked in and trapped in an increasingly dangerous situation.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1DK8gt7H99ctCPKt57lyoDG5dpe.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/pnaImWrmaEa7xvRXgtiLbUJR8wL.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242129497",
+    "status": "U",
+    "etag": "mebqicBCo9inMfqCIwPiPg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242129497",
+          "url": "/sapi/download/video?action=get&k=kGGA5KJw80-o6oSVAqkuLX25XgSyloFX30WLMZPabNQaTuAkt-zwFhY2c7uNFbM7NcleealKOvYupf2lA7HHHz7okRqDvo5xMj0GiZrcIOUWKtLZuzdWyHxNH80rR9CfV20NW4rBaVMSwxxy_PhQaedGFdR7V84DM9k7K5nmZ3MXBNscT-w&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=ZlCcJ0SLAJn8097AXfjeCgktzj9lJ3eXq_d-wsWgBBK1xt-xO9mgmQAe5mthAZoxTieJuaaysQGmGnxWCmCKNgSL1O2qTpyFb7VyctiTNBl3cZbgh3cvlQr8HnDruuEJzC1hSBS8nkyC4H_nvCTzdwEt0Z0yrb4E3Soc_W2i00Y4TzG3vMvbWSxvt2_ViiQ4U6Y&node=1i220",
+          "date": 1777903206686,
+          "creationdate": 1777903064000,
+          "modificationdate": 1777903064000,
+          "uploaded": 1777903170703,
+          "size": 575314911,
+          "name": "A-Stranger-by-the-Hill-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6016352,
+            "bitrate": 765001,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=tANBBrsJ0Zxh5ojEFKIjzgVnFksB2j6pZSVBw-dwGqiEdRYuEyokMSYxeN6O6OiH9b15cMJqKUKyHScIuOgERx30JcSJiQrtpw142DImwboXFq8RrKF-VJ6Ep2usTuOahkedOof1l0UIgybDqTTzNkiXm7PfuZdkulLWIBMgj8vad89pC1wh0cPrzqHor9kgwVM&node=1i220",
+              "etag": "0mebqicBCo9inMfqCIwPiPg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ZlCcJ0SLAJn8097AXfjeCgktzj9lJ3eXq_d-wsWgBBK1xt-xO9mgmQAe5mthAZoxTieJuaaysQGmGnxWCmCKNgSL1O2qTpyFb7VyctiTNBl3cZbgh3cvlQr8HnDruuEJzC1hSBS8nkyC4H_nvCTzdwEt0Z0yrb4E3Soc_W2i00Y4TzG3vMvbWSxvt2_ViiQ4U6Y&node=1i220",
+              "etag": "0mebqicBCo9inMfqCIwPiPg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "mebqicBCo9inMfqCIwPiPg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777903206750,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/vD6ue40BSYeemB3yFe2Jzjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "A Stranger By The Hill (2024)",
+  "media_kind": "movie"
+}
