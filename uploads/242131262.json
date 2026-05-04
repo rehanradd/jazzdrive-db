@@ -1,0 +1,68 @@
+{
+  "name": "dl_140.mp4",
+  "path": "D:\\New folder\\dl_140.mp4",
+  "uploaded_at": "2026-05-04T15:04:00Z",
+  "remote_folder_id": 1753999,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131262",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131262",
+    "status": "U",
+    "etag": "pDEh9b0TtLqddU51yYWbiQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131262",
+          "url": "/sapi/download/video?action=get&k=5ibrI-tu73MWycBKyWMKnxKnXOyT_tJqXB17ycswdlyEBSdr7WhC8O3c0EVwVPsWsbiRJLpa_95mqGgMqvSIA2bulh95A0nkFQHQX1wn2Jlza-efe5x0C_gv9sjH4fygqZBhNtNRTGN-N5rJdQXtjqtjLmbV9c1Hdfr8ziGIrF3sc3D0VIg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=t-ZuV38ebnMmTUtAxMvFRalaSS98Pb77k6AXLZkc1LQvgHQGgskuZ7T6R2hNe-_u_bHNs13hch4LOQmBDluBKxqn8IM-lryjMa7ktBAUmpPQwpLDQS-2iFa53YWXLP60TpWEM0nJ5L_AVY35t5EoqRPT4kQq0GKLTQEFj8jLe6ltnyqRWQMU-7D0-ho8qFmzGYQ&node=1i220",
+          "date": 1777907039445,
+          "creationdate": 1777906889000,
+          "modificationdate": 1777906889000,
+          "uploaded": 1777906969356,
+          "size": 738309476,
+          "name": "dl_140.mp4",
+          "metadata": {
+            "duration": 7692800,
+            "bitrate": 767792,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=4BstHhYdBhLq9kmbgzuBX-zkJvB_MkF5nL0mGbYgJ9PPKA1ipjovs4sC9Ss0GA1vYtWsS1ZtCxgLCLJSLeODRIILFwXpIJ1LX8dQhhHndedcEej6BliotEGk852d5So_lsJHDaWuvrf8rYsVWnBTpqSLWSDXDPeOxB5hZ2h8SR41LaqrHbmf4b2VA0wigxvp1KI&node=1i220",
+              "etag": "0pDEh9b0TtLqddU51yYWbiQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=t-ZuV38ebnMmTUtAxMvFRalaSS98Pb77k6AXLZkc1LQvgHQGgskuZ7T6R2hNe-_u_bHNs13hch4LOQmBDluBKxqn8IM-lryjMa7ktBAUmpPQwpLDQS-2iFa53YWXLP60TpWEM0nJ5L_AVY35t5EoqRPT4kQq0GKLTQEFj8jLe6ltnyqRWQMU-7D0-ho8qFmzGYQ&node=1i220",
+              "etag": "0pDEh9b0TtLqddU51yYWbiQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "pDEh9b0TtLqddU51yYWbiQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907039511,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/EAFeFtlaS3WErjcBkGcZ3Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dl 140",
+  "media_kind": "file"
+}
