@@ -1,0 +1,82 @@
+{
+  "name": "Dry-Day-(2023)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Dry-Day-(2023)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:01:49Z",
+  "remote_folder_id": 1753996,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131259",
+  "tmdb": {
+    "tmdb_id": 1216709,
+    "title": "Dry Day",
+    "original_title": "\u0921\u094d\u0930\u093e\u0908 \u0921\u0947",
+    "release_date": "2023-12-22",
+    "year": "2023",
+    "rating": 7.7,
+    "overview": "When his wife makes a vow to abort their baby due to his alcoholism, Gannu, the biggest loafer of Jagodhar sets out on a protest to ban alcohol in his town all the while grappling with his own drinking habits!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lse7qPwWpYi0bdjmjrXfam7KpXg.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/oweut3EYuRba00Xv0o0G6JUrLua.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131259",
+    "status": "U",
+    "etag": "mj/Y4Rs5Z+v8vl9hv4xvtg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131259",
+          "url": "/sapi/download/video?action=get&k=eO2eld84FFao3-C5Ar3WfzIKiKnOMtPeEhjVG3JD1EaJQrQZYSOLnSWwaWNbCrzi_G5RcIGLH7ZMLEX3O5SYntY4jkuNh4SoeqJIrzmfh3f8pgwNy6nMxO-mpV-snmxr9w5f_aLjDhq7-hHlNvZG6bebDUF000AmDXIRp4o6hf0Wf_W2sVg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=toOqztWtH0wfrwMzcmzkXf2Q61mXDwjyTpsTLNAvkOlplyV8_Q29ru8CR8-53fm3XpdhpvzmCz9A-unv5XYrDEjhaz04tYCk-MVNWU6pjA5jOVvNE8rnarlsHJM0gdRVyKJIundREP1KZ1Eofmc446prX9FnszZE3SjTcWwYw16BGO3ErsZbydE-n58X5TwuWxM&node=1i220",
+          "date": 1777906909075,
+          "creationdate": 1777906830000,
+          "modificationdate": 1777906830000,
+          "uploaded": 1777906883048,
+          "size": 729555612,
+          "name": "Dry-Day-(2023)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7692288,
+            "bitrate": 758739,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=DocpgfitJthHloFKyrxFD45bh5dD9_9UTM8WKxjPjMGCsiqbWtelNCpz14FUCcJvCsYfIrJ5lg1Kfm74PDUHdeTm5ruQFTmL-kfW2b5WjxGCt_y_mq-3J5vDtHyqlV4FuvnSbaGh6drUI9eBLomCBziypXr_aMDr4ek3U5E78XatMuf1Ecr9CigpMmDmsnZypoI&node=1i220",
+              "etag": "0mj/Y4Rs5Z+v8vl9hv4xvtg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=toOqztWtH0wfrwMzcmzkXf2Q61mXDwjyTpsTLNAvkOlplyV8_Q29ru8CR8-53fm3XpdhpvzmCz9A-unv5XYrDEjhaz04tYCk-MVNWU6pjA5jOVvNE8rnarlsHJM0gdRVyKJIundREP1KZ1Eofmc446prX9FnszZE3SjTcWwYw16BGO3ErsZbydE-n58X5TwuWxM&node=1i220",
+              "etag": "0mj/Y4Rs5Z+v8vl9hv4xvtg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "mj/Y4Rs5Z+v8vl9hv4xvtg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777906909143,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/rgcPxbHBSP-tbAjGV4_G9Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dry Day (2023)",
+  "media_kind": "movie"
+}
