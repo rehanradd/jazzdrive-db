@@ -1,0 +1,68 @@
+{
+  "name": "\u029c\u1d00\u026a\u1d21\u1d00\u0274-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\\u029c\u1d00\u026a\u1d21\u1d00\u0274-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:34:55Z",
+  "remote_folder_id": 1754135,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132009",
+  "tmdb": null,
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132009",
+    "status": "U",
+    "etag": "mH42pUzOflPflJ0sTbRhCQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132009",
+          "url": "/sapi/download/video?action=get&k=vOrNm9SkOYi9OO0T5louxH8D1yzEaJZnyY_Bl4aqzXblCR_jpiRM4e2LQGnW8j6tx76zx-8btJJlwL3dyAHUcy6lMPhsLCHMxAd8Y-l8ja1KOHKVB7VmwnQYXw-7juWR9TDtTqUMTRwha_YtB6QRk5l8db7rOeh0XKavNfDd8dXUbF-8_PE&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=xl55ntxzMz-lqCsfaiMypmbtkAksgiat9epEeZD4fXWXy8KmNQm1QTc43oFXthKPPyUFJAsDArKSXysk-_NqZqohRZ-foQHdocRWG6HSzEbbor5kcVa0xEddQe-w_oTvNNSuzKyuVADYnq7DlXJpuCHtTEHfCf-8najJd2tq2W6GL_k77uIh5N6BU3AIpOUD-T4&node=1i220",
+          "date": 1777908893554,
+          "creationdate": 1777908814000,
+          "modificationdate": 1777908814000,
+          "uploaded": 1777908867250,
+          "size": 428747650,
+          "name": "\u029c\u1d00\u026a\u1d21\u1d00\u0274-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8006356,
+            "bitrate": 428407,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=4m7-4wv51z-Nzt5AA8I8IPDGvUaSufbOPLZyXtI3TpOETQpfOaEHkAr0-niiBHVMHhbo1hF519jVU7N5qgEQh-HDKUbvHvd02d_TerkaeUgv-3nHM9UvSZg2jEm6aXA_Q1WZ4HHtWXQl76NMs3VawaTx2yazIy5-1ak45AFsIIQAR6XmUbYS23maq77hSK2rOG8&node=1i220",
+              "etag": "0mH42pUzOflPflJ0sTbRhCQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xl55ntxzMz-lqCsfaiMypmbtkAksgiat9epEeZD4fXWXy8KmNQm1QTc43oFXthKPPyUFJAsDArKSXysk-_NqZqohRZ-foQHdocRWG6HSzEbbor5kcVa0xEddQe-w_oTvNNSuzKyuVADYnq7DlXJpuCHtTEHfCf-8najJd2tq2W6GL_k77uIh5N6BU3AIpOUD-T4&node=1i220",
+              "etag": "0mH42pUzOflPflJ0sTbRhCQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "mH42pUzOflPflJ0sTbRhCQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777908893616,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/g3M-2pvtQFiiVRz7wozT7zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "\u029c\u1d00\u026a\u1d21\u1d00\u0274-(2024)-Hindi-Movie--480p-[Orgmovies] (2024)",
+  "media_kind": "movie"
+}
