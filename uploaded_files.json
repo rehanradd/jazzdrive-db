@@ -6294,10 +6294,10 @@
     "share_folder_id": "",
     "share_folder_path": "Ctrl (2024)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:20:32",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:20:40"
   },
   "df149683ad28baec9996c952a84fe526b43db2342f0e1b20d12f8731fb5317dc": {
     "name": "Love-Sitara-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
@@ -6324,8 +6324,8 @@
     "media_kind": "movie",
     "github_status": "ok",
     "github_synced_at": "2026-05-04T15:20:27",
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:20:33"
   },
   "bb7a3e99bef65aac89bdea7f6288cf2deada075cc9991ebe701af7ad13d64cfd": {
     "name": "Yudhra-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
@@ -6350,10 +6350,10 @@
     "share_folder_id": "",
     "share_folder_path": "Yudhra (2024)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:20:34",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:20:47"
   },
   "d7e1c116eecb69666f1dd87aa7ffbdd9cedf1ee2bd6578551569823cdafde231": {
     "name": "Colourrs-of-Love-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
@@ -6377,6 +6377,34 @@
     "share_validation_key": "",
     "share_folder_id": "",
     "share_folder_path": "Colourrs Of Love (2024)",
+    "media_kind": "movie",
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:20:38",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:20:52"
+  },
+  "a80dea34ea3441e5eb36714ee2aff5e8424f1057475ac83198842e3b827b4b6a": {
+    "name": "Kooki-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\Kooki-(2024)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 366532144,
+    "uploaded_at": "2026-05-04T15:21:14Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131648",
+    "remote_id": "242131648",
+    "remote_folder_id": "1753906",
+    "tmdb_title": "Kooki",
+    "tmdb_year": "2024",
+    "tmdb_rating": 0.0,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/eKqmGSFR5MLnUr6ayU3IVzLuqOt.jpg",
+    "tmdb_overview": "A 16-year-old girl Kooki's beautiful present life and dreamy future are destroyed by a gang rape, and after the incident, the court's verdict against the culprits makes her feel betrayed and not served justice as a victim.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242131648\", \"status\": \"U\", \"etag\": \"Yin60E3SBgjuL+CR0b6z6w==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242131648\", \"url\": \"/sapi/download/video?action=get&k=HTEWdJ6CmC52F6JfGeUKfil__D_bZ5LcJzbnyCGKVl7LmOOhR5IKby4KYy1sLPFLTsvPe7whWgXiUVfhFfGojLI_VJIF9uB0Uz-2OD5BjRF6K1H8pyOjCWvTssKs384MxXr7b4pnDU9IoWomExDIUdNw-bHU8sqZLpIJxnIzm9ou6_6IUvE&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=XK5XgVo-0aS-w66eG2UplIUMYQbneZgjxN65qQT3rg_K8uk0d4Cn6A9XsCbheDKjkAyjPEKlbAkV8ZVv837uHye52uv-kmu6cD0TYoEvE9kqhe9K6TdDClGKgQtMzQqJjg2MVL9fDm_XlVSdUzyKLu-QVL9zdC8oRk3nAmK7U9QYcyg0R44439WWnzdmps_6OYc&node=1i220\", \"date\": 1777908071533, \"creationdate\": 1777908022000, \"modificationdate\": 1777908022000, \"uploaded\": 1777908049909, \"size\": 366532144, \"name\": \"Kooki-(2024)-Hindi-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 6873280, \"bitrate\": 426616, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=e_6SfockmU026_iEWk3x5949GXqMqwEN5uKdzxHJ9exneMQ_rZcyACbb9eusQu8pOcl6IvEFoVBMjB0aX4qMIozE2F82PHpbZk_i5jHTC7sjv9AUErZGXY25KnB0dWkJNwsJAeJyj9SvQo0q7QVgm4gs-AR7EjmbCNGXjL08rh3a6ScvA6diC7yoRlmqB9eAFQM&node=1i220\", \"etag\": \"0Yin60E3SBgjuL+CR0b6z6w==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=XK5XgVo-0aS-w66eG2UplIUMYQbneZgjxN65qQT3rg_K8uk0d4Cn6A9XsCbheDKjkAyjPEKlbAkV8ZVv837uHye52uv-kmu6cD0TYoEvE9kqhe9K6TdDClGKgQtMzQqJjg2MVL9fDm_XlVSdUzyKLu-QVL9zdC8oRk3nAmK7U9QYcyg0R44439WWnzdmps_6OYc&node=1i220\", \"etag\": \"0Yin60E3SBgjuL+CR0b6z6w==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"Yin60E3SBgjuL+CR0b6z6w==\", \"favorite\": false}]}, \"responsetime\": 1777908071600, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/xBlliYEeSSyBS7IfPStysjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67795",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Kooki (2024)",
     "media_kind": "movie",
     "github_status": null,
     "github_synced_at": null,
