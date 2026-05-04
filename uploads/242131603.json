@@ -1,0 +1,82 @@
+{
+  "name": "Azaad-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Azaad-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:11:54Z",
+  "remote_folder_id": 1753871,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242131603",
+  "tmdb": {
+    "tmdb_id": 1379877,
+    "title": "Azaad",
+    "original_title": "\u0906\u091c\u093c\u093e\u0926",
+    "release_date": "2025-01-17",
+    "year": "2025",
+    "rating": 6.7,
+    "overview": "In 1920s India, a young stable boy bonds with a spirited horse. Amid rebellion and tyranny, his quest to ride the majestic animal becomes a journey of courage, awakening him to the country's fight for freedom.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yWFpiJcUJfXRbm3om48kNJ0MU7A.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zUCDf87awNIwV5N4NQdA807dGTP.jpg",
+    "genre_ids": [
+      18,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242131603",
+    "status": "U",
+    "etag": "VVpeEOG7/1U2jRPGMto9uA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242131603",
+          "url": "/sapi/download/video?action=get&k=4VW9hS3E-4zeNon12WoGVDpJEogxOSfrRtD3MCxWU9pYFS6q78rEx-l-hGJkk2-GtJYgjyU2iSK6Ftj7FawsFKsoZ1lw5vlzU1jUKGQy8nhaughjvVSwlJR9H5QwPu1eZO4S0kComH6avVUmOJhBin1HK1OWPAG0u1tl86Jg3CY1iHHZRJg&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=o0Mjy9ngW2xWg0PH_yhl-2kc9fNd_GhszPY14P3yNhbzHap7KDDvaAKpj_feCCC87pnc6rSwR0_s5Gjyd-ck6rN2A42DgcxH6NPTtK0HNpYwqN1TVPU0QdXfR-oFN3RxYiagnClq00FZiFnRIz5nxy-Vy-joX-ty_NQnbTGUHDVUw0sGcucZNnAlpON56XxW5sQ&node=1i220",
+          "date": 1777907513233,
+          "creationdate": 1777907448000,
+          "modificationdate": 1777907448000,
+          "uploaded": 1777907476544,
+          "size": 435468040,
+          "name": "Azaad-(2025)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8110634,
+            "bitrate": 429527,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=kfx-CQI9WTtOGn688WFwyA5M2bVX0kbC88bF86bwb4qN8_IuzKQ9RSAMi5iDVzcuvp6OOWJqW_XfLWJ5fRPUnafqlYoXMuMIEVxx3L9MZDM4y-7SWPGFFl6K3polrwwHpz5IZSjEVIW2kP-0vagP_mNLN_I7tkCw1HvlgmY0br01PdQeYOuect3hlnNZWRivTBc&node=1i220",
+              "etag": "0VVpeEOG7/1U2jRPGMto9uA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=o0Mjy9ngW2xWg0PH_yhl-2kc9fNd_GhszPY14P3yNhbzHap7KDDvaAKpj_feCCC87pnc6rSwR0_s5Gjyd-ck6rN2A42DgcxH6NPTtK0HNpYwqN1TVPU0QdXfR-oFN3RxYiagnClq00FZiFnRIz5nxy-Vy-joX-ty_NQnbTGUHDVUw0sGcucZNnAlpON56XxW5sQ&node=1i220",
+              "etag": "0VVpeEOG7/1U2jRPGMto9uA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "VVpeEOG7/1U2jRPGMto9uA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777907513305,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/UWDk2hxrTQOieNR88glfqTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Azaad (2025)",
+  "media_kind": "movie"
+}
