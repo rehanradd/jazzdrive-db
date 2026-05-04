@@ -1,0 +1,81 @@
+{
+  "name": "Majbooriyan-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Majbooriyan-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:45:18Z",
+  "remote_folder_id": 1754153,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132085",
+  "tmdb": {
+    "tmdb_id": 1209321,
+    "title": "Majbooriyan",
+    "original_title": "Majbooriyan",
+    "release_date": "2023-11-24",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "When Sonali's 'wild past' resurfaces in the form of raunchy videos and photographs, her happy family life runs the risk of complete devastation! Will this blackmail seal her fate?!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/i2JlsD6OzrXm2LOC4OCWlWXOyyD.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132085",
+    "status": "U",
+    "etag": "CRjVjuUchHoQtZVYwYh1aQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132085",
+          "url": "/sapi/download/video?action=get&k=5fAWzfK4BBB4PpMAPdgjUaed0n6vwkFjPSqFLTEYPDzDGXBfYN6mu8jprBmlbIMXW2gwlcuLAYoPdJDR5x2PYHCaRj-_X69vkRfmNJ1mLmS3i0vjcev-kBLczOSpyITAVa9FaF4-1JDC2o7WHCovXwTvL-c8VYIOK0-clqbBDGoYV2BTvik&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=x65snh06sDRkL1zYAnSrnrSPZ4yiJsYiVhTjY76bHCELnuiK2cCmXyVpyuGCaX_1K8P_o49_-TFY_FDPzdRifwr7ViUBoDiA6h5QByXVfs6vq_M7bCfCdH8qOEIzIRlEttO2jPajlMAKXehHy-E5uOCj3k6LONzqcgcqkBL8aFSnrsPRNZmeV2G18kI0rTICDlM&node=1i220",
+          "date": 1777909517173,
+          "creationdate": 1777909482000,
+          "modificationdate": 1777909482000,
+          "uploaded": 1777909500826,
+          "size": 285035940,
+          "name": "Majbooriyan-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5368113,
+            "bitrate": 424783,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=PXJXqtPoMBMb1-2xhhmHd6A6deTO29FjD6-eFfuWUTHLHjIQF0eolpWRkfnZLALfaDupwGmKcSi2mknIHSCFD6ThzBjOSoLyqrKslvoyYzgp-JpFOXszt9ho9SLxKbphR-NG1H39UMkO8gNr1AHKsEYjTlMSV5aQ6-UQtJRCzZaziQFQbvOfSn1XaGPjvqTXZUw&node=1i220",
+              "etag": "0CRjVjuUchHoQtZVYwYh1aQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=x65snh06sDRkL1zYAnSrnrSPZ4yiJsYiVhTjY76bHCELnuiK2cCmXyVpyuGCaX_1K8P_o49_-TFY_FDPzdRifwr7ViUBoDiA6h5QByXVfs6vq_M7bCfCdH8qOEIzIRlEttO2jPajlMAKXehHy-E5uOCj3k6LONzqcgcqkBL8aFSnrsPRNZmeV2G18kI0rTICDlM&node=1i220",
+              "etag": "0CRjVjuUchHoQtZVYwYh1aQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "CRjVjuUchHoQtZVYwYh1aQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909517242,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/_whL53URSZqA-P20kBSJOTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Majbooriyan (2023)",
+  "media_kind": "movie"
+}
