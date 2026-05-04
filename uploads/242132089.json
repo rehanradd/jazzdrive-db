@@ -1,0 +1,82 @@
+{
+  "name": "Bad-Boy-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Bad-Boy-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T15:47:18Z",
+  "remote_folder_id": 1754157,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132089",
+  "tmdb": {
+    "tmdb_id": 604198,
+    "title": "Bad Boy",
+    "original_title": "Bad Boy",
+    "release_date": "2023-04-28",
+    "year": "2023",
+    "rating": 0.0,
+    "overview": "A light comedy about a good-for-nothing boy who falls in love with a studious girl from a conservative family. Thus the funny conflict and situations that pop up.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1GW9dRhoy7ahG4rIFbZkPPwFae0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7843Ecmas8f48gSFfwCMM5XLFWe.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242132089",
+    "status": "U",
+    "etag": "jvsgQnZzUZv5bac3AolefA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242132089",
+          "url": "/sapi/download/video?action=get&k=z7DgZF0JeOe9FgqmCDkVStwbk6cFfNgaQibI0jIU8tzFwEm-1MnWMXHjPdS0B9kbRVPvaKh7-SKZ5jkrNwqgpkMNqckAUwJ0owFbFeQIocU7K9Ol1CTe-LSwfTbK0KvuQdtUj2e-eQVwbudaiYacCZgfxk2ugfWg4P-K0yap4RTSOyd2oZ4&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=oFKysG-miPSJWgWzpHgMugfgS_lzA4tqzDswVsqE0wRrTNIAvKJNvKc0EmvHW1SBdXSGMgM1oLFfmip3j9HlXLwFeQBSfUo_tmIC65SDrkoLzUh7iDKXTzjoJF4HfH_ToNq6GSMv-47SoJueub835ML9Z6fE2Uc9BukZrjRTuehYUGKjBJA1Rfw78Q65sA-t0s0&node=1i220",
+          "date": 1777909637257,
+          "creationdate": 1777909553000,
+          "modificationdate": 1777909553000,
+          "uploaded": 1777909622468,
+          "size": 371413942,
+          "name": "Bad-Boy-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7032400,
+            "bitrate": 422517,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=331k0VDMd-gBeuYSgKy2soNM_DwJY8SZJapQE1nGLYJ_gspDENHdVquteLMhXaORWNNdWLauQ7z4HZ953VKqlA_W-Sjo759l87P6T_FWPYJDa7esebxK64VhPc6wBST1dZtlesZY3GoNl6CQ1DBrzrX8xniEwYy8adT5lVvzaj4t7Ca3nsQgjdA0iKUhNCPDDRA&node=1i220",
+              "etag": "0jvsgQnZzUZv5bac3AolefA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=oFKysG-miPSJWgWzpHgMugfgS_lzA4tqzDswVsqE0wRrTNIAvKJNvKc0EmvHW1SBdXSGMgM1oLFfmip3j9HlXLwFeQBSfUo_tmIC65SDrkoLzUh7iDKXTzjoJF4HfH_ToNq6GSMv-47SoJueub835ML9Z6fE2Uc9BukZrjRTuehYUGKjBJA1Rfw78Q65sA-t0s0&node=1i220",
+              "etag": "0jvsgQnZzUZv5bac3AolefA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "jvsgQnZzUZv5bac3AolefA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777909637318,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/dHeUpBuzQPS8Ulnw8CsEJDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Bad Boy (2023)",
+  "media_kind": "movie"
+}
