@@ -1,0 +1,83 @@
+{
+  "name": "Binny-and-Family-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Binny-and-Family-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-04T14:06:46Z",
+  "remote_folder_id": 1753875,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242130171",
+  "tmdb": {
+    "tmdb_id": 1341476,
+    "title": "Binny and Family",
+    "original_title": "Binny and Family",
+    "release_date": "2024-09-27",
+    "year": "2024",
+    "rating": 3.0,
+    "overview": "Binny's life in London turns upside down when her grandparents visit her and try to insist living her life according to them. Binny and Family throws light on the widening generation gap and that neither generation are being able to understand the other one.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lXmsRFM9Ih6yLu0jsxarTyAfWH3.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/g1wfg7MAXSURHE6a8iepZ7iZQqP.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242130171",
+    "status": "U",
+    "etag": "YajJvZHmyBHrqIVzuednmA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242130171",
+          "url": "/sapi/download/video?action=get&k=aYBjC0AUkEVu3QlkJznizyODuFZaty10HZLhyhMYilzo_JhUugOPXfWnydLvK5e3-nC7_Peu43jDA-Km6jMKtj7UPCj1v5OFEM-5wo9wlBoN932NbG2HetpZB4kY_OMqCCPJwnbdYIyxuNAV1VXWWgYh0kBCK70odCFCrzb99_y-J2QinyY&node=1i220",
+          "viewurl": "/sapi/download/video?action=get&k=iKjTrIGUgQRrpB43rd5i4pjug879Jf9hYaVrV8TKAs3l0josN2FkBDhwMNy2SJpoj1S4HkLZHy4CNJ5vtUCzjKdOtXl3obPfd6YOcawUaM8ulueA0ttWTwyW_k0EYmaydToK3dL10dmJs3tyB559m3tzAYaZi7KlkUHpxfS7ViBd4-VW21rN3O9a4JnJB-RAwtY&node=1i220",
+          "date": 1777903605607,
+          "creationdate": 1777903422000,
+          "modificationdate": 1777903422000,
+          "uploaded": 1777903503904,
+          "size": 724708826,
+          "name": "Binny-and-Family-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7574880,
+            "bitrate": 765381,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=tJYF845qNaYW1UN6JHYySd-ejHUjCwXody-2yi9onYfxggD2BB407HbRy2gIEJwW6KT6qZxy0Yz-yOmvQ5UBSQuhcg2MbuWiP4KKD7bga6Jr4Bqra3BhSPTe6x95R8LfAf7oyrJ7WHYxNJsAMtSk1Yq8kz2gjvEFsI-WcYh0LOvUqwk33FKg2EIkLGnb3hm8UXU&node=1i220",
+              "etag": "0YajJvZHmyBHrqIVzuednmA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=iKjTrIGUgQRrpB43rd5i4pjug879Jf9hYaVrV8TKAs3l0josN2FkBDhwMNy2SJpoj1S4HkLZHy4CNJ5vtUCzjKdOtXl3obPfd6YOcawUaM8ulueA0ttWTwyW_k0EYmaydToK3dL10dmJs3tyB559m3tzAYaZi7KlkUHpxfS7ViBd4-VW21rN3O9a4JnJB-RAwtY&node=1i220",
+              "etag": "0YajJvZHmyBHrqIVzuednmA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "YajJvZHmyBHrqIVzuednmA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1777903605673,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/yXotY0UVSnabi0ib4daKxzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Binny And Family (2024)",
+  "media_kind": "movie"
+}
