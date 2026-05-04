@@ -726,5 +726,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "4fcd8395f229e05c64951dde241402008a609ce142c47a8e64fc611eec8d055e": {
+    "name": "Bhool-Bhulaiyaa-3-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\Bhool-Bhulaiyaa-3-(2024)-Hindi-Movie--720p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 918459815,
+    "uploaded_at": "2026-05-04T14:06:48Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242129679",
+    "remote_id": "242129679",
+    "remote_folder_id": "1753874",
+    "tmdb_title": "Bhool Bhulaiyaa 3",
+    "tmdb_year": "2024",
+    "tmdb_rating": 5.5,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/3AfHD1HoaQpQwKH8kxRdBKVmzeU.jpg",
+    "tmdb_overview": "Rooh Baba ventures into a haunted mansion in the kingdom of Raktaghat in West Bengal, where he confronts two vengeful spirits, both asserting to be Manjulika.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242129679\", \"status\": \"U\", \"etag\": \"hg9VmW2rLcoBdwUHiQ004A==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242129679\", \"url\": \"/sapi/download/video?action=get&k=abUm9rbW8FWFHunC9Vrqb7GxLbP4-UQr-EYGnJIruy46_o6I9b6xUt51h8Gm3ISAkeioWEGeNzKFa6TAdefOf9DEGsmw9Kk3d1ou4x4k6gKuMZ8jXzc7SJ8MzQgC705VcOAIZtRdYw-dliWAN2NSKWMNyzuRSZd271alRNPkbFahgmlEbk0&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=PO3bvw0VjlzooX3KbUTpYw18cIACPyPDB2wMxWx0oo_4HNx2W04Tr_UY_RePpom-cUXFDsJXuyjRBnWPm_WK2HyPnTgyd_92aNB5JkIB40qVna5CuF7L4MiLDEBJkaqsETWXuu32dMQrrI4fav4QaE06NRyie6_KrrswFvnYedzYIVC2Wz0lVu4fLH5m1lXnPcc&node=1i220\", \"date\": 1777903606935, \"creationdate\": 1777903300000, \"modificationdate\": 1777903300000, \"uploaded\": 1777903495978, \"size\": 918459815, \"name\": \"Bhool-Bhulaiyaa-3-(2024)-Hindi-Movie--720p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 9488833, \"bitrate\": 774350, \"codec\": \"h264\", \"height\": 544, \"width\": 1280, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=VIK_irq0sGm8QhuUPN0n5VKv8LYhmcSyvWJDzu4i29-KBiOuUnW4_cPgQYt91Y3PGegRcLr1iO2hppv6AGrjUsj1wfMRlk248qSwgeF1G_rikh5NINCjs2wDDCBUqMc-wqZev-2wVOMqn2Ey_rWBgtt_WBX5ExauNg7zOhS4Eijjo2YIbXN_FAeeNnaxLO95p7k&node=1i220\", \"etag\": \"0hg9VmW2rLcoBdwUHiQ004A==\"}, {\"w\": 1024, \"h\": 435, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=PO3bvw0VjlzooX3KbUTpYw18cIACPyPDB2wMxWx0oo_4HNx2W04Tr_UY_RePpom-cUXFDsJXuyjRBnWPm_WK2HyPnTgyd_92aNB5JkIB40qVna5CuF7L4MiLDEBJkaqsETWXuu32dMQrrI4fav4QaE06NRyie6_KrrswFvnYedzYIVC2Wz0lVu4fLH5m1lXnPcc&node=1i220\", \"etag\": \"0hg9VmW2rLcoBdwUHiQ004A==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"hg9VmW2rLcoBdwUHiQ004A==\", \"favorite\": false}]}, \"responsetime\": 1777903606998, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/NOi6fN98QVyqL0t59x7xnDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67768",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Bhool Bhulaiyaa 3 (2024)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
