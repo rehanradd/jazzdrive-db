@@ -8534,10 +8534,10 @@
     "share_folder_id": "",
     "share_folder_path": "\u1d0f\u0274\u1d04\u1d07-\u1d1c\u1d18\u1d0f\u0274-\u1d1b\u1d21\u1d0f-\u1d1b\u026a\u1d0d\u1d07\ua731-(2023)-Hindi-Movie--480p-[Orgmovies] (2023)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:39:44",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:39:48"
   },
   "545b26c018cc5304eece80b8ace8eb6e566df87a0219d43193951be81ee9bac1": {
     "name": "\u0262\u1d1c\u1d1b\u029c\u029f\u1d07\u1d07-\u029f\u1d00\u1d05\u1d0f\u1d0f-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
@@ -8562,10 +8562,10 @@
     "share_folder_id": "",
     "share_folder_path": "\u0262\u1d1c\u1d1b\u029c\u029f\u1d07\u1d07-\u029f\u1d00\u1d05\u1d0f\u1d0f-(2023)-Hindi-Movie--480p-[Orgmovies] (2023)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:39:46",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:39:53"
   },
   "4e18f2b40cf6d3ec1d67abf26ab288ebc278195719646d062cd1fe05f8f39e0e": {
     "name": "\u1d0a\u1d0f\u0280\u1d00\u1d0d-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
@@ -8590,10 +8590,10 @@
     "share_folder_id": "",
     "share_folder_path": "\u1d0a\u1d0f\u0280\u1d00\u1d0d-(2023)-Hindi-Movie--480p-[Orgmovies] (2023)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:40:08",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:40:12"
   },
   "b41def9dea65165ae3c15d11b8bd807d666c086e78ba0f9cb2ec4ddb8af53e49": {
     "name": "\u028f\u1d00\u1d00\u0280\u026a\u028f\u1d00\u0274-2-(2023)-Hindi-HQ-Movie--480p-[Orgmovies].mp4",
@@ -8618,10 +8618,10 @@
     "share_folder_id": "",
     "share_folder_path": "2 (2023)",
     "media_kind": "movie",
-    "github_status": null,
-    "github_synced_at": null,
-    "gsheets_status": null,
-    "gsheets_synced_at": null
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:40:10",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:40:16"
   },
   "dd4d20a257b97e393c053bb55463f6b75f9634dcd120b9eb6131c1dfeddc591e": {
     "name": "\u1d0b\u1d00\u1d05\u1d00\u1d0b-\ua731\u026a\u0274\u0262\u029c-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
@@ -8645,6 +8645,34 @@
     "share_validation_key": "",
     "share_folder_id": "",
     "share_folder_path": "\u1d0b\u1d00\u1d05\u1d00\u1d0b-\ua731\u026a\u0274\u0262\u029c-(2023)-Hindi-Movie--480p-[Orgmovies] (2023)",
+    "media_kind": "movie",
+    "github_status": "ok",
+    "github_synced_at": "2026-05-04T15:40:14",
+    "gsheets_status": "ok",
+    "gsheets_synced_at": "2026-05-04T15:40:21"
+  },
+  "db6405d993fb1af2c42a649d1627ab88802fa2df014d44e88c77c5676450c277": {
+    "name": "H\u1d07\u1d0d\u029f\u1d0f\u1d04\u1d0b-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\H\u1d07\u1d0d\u029f\u1d0f\u1d04\u1d0b-(2023)-Hindi-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 111094570,
+    "uploaded_at": "2026-05-04T15:40:45Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242132036",
+    "remote_id": "242132036",
+    "remote_folder_id": "1753994",
+    "tmdb_title": "",
+    "tmdb_year": "",
+    "tmdb_rating": null,
+    "tmdb_poster": "",
+    "tmdb_overview": "",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242132036\", \"status\": \"U\", \"etag\": \"VRizfrEUkiH8qiwZKhpjvw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242132036\", \"url\": \"/sapi/download/video?action=get&k=aWTtk04047XfmLiGqnK9I6dVY-9Ukv-uj1iy5E-zFePfmcjdcD5IWx1TeRrJKEr-5XiM0FUXfTDIzxeffDEtYjNsru6lP0RmnO_iQyfsD1UkUJq9pLps5YexqSasTqP5E2ZHPI9iQyuTdRBf2b_-1ob6NhDnpvuHUV2dS7IsmRoW45LdqPo&node=1i220\", \"viewurl\": \"/sapi/download/video?action=get&k=rDTA46ttg7_k6WifM4Pq14_Yjs81wHvF3rTrRK9--igIZ2593WPGC68WjeJ_dXb2OdaKqlHuhpEjKhNhMHkOL6VRTBBJzsX_UvqJOPgoTZ59P3DaoaMtq6D07AGvpzF8vSwn4olSz4Qjy1FW_L3Gk8CW9cBO5_GQL_4rwkSU5sy15R_rn7sXII5YPXNNwdZyTd8&node=1i220\", \"date\": 1777909244455, \"creationdate\": 1777909218000, \"modificationdate\": 1777909218000, \"uploaded\": 1777909237723, \"size\": 111094570, \"name\": \"H\\u1d07\\u1d0d\\u029f\\u1d0f\\u1d04\\u1d0b-(2023)-Hindi-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 2159551, \"bitrate\": 411546, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=dArucXAxWcmoiDwL8CitiYg20m9lrv6kBp0MhMR61VuUy8JWtZsoYZ82gRZwNzkJ-kRnIDaHt4D6wZ6J2Wfxq6mV_5n5GcIyL_aMahyBLXq42dSdHJSiJyK7Sl_oRFpQYTUzhPHCSzzxxZlx7M8b2wTGAuJyZGsQfF-Q1U1_XN2OTZaVjwcIBQWftUdDouT97_0&node=1i220\", \"etag\": \"0VRizfrEUkiH8qiwZKhpjvw==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=rDTA46ttg7_k6WifM4Pq14_Yjs81wHvF3rTrRK9--igIZ2593WPGC68WjeJ_dXb2OdaKqlHuhpEjKhNhMHkOL6VRTBBJzsX_UvqJOPgoTZ59P3DaoaMtq6D07AGvpzF8vSwn4olSz4Qjy1FW_L3Gk8CW9cBO5_GQL_4rwkSU5sy15R_rn7sXII5YPXNNwdZyTd8&node=1i220\", \"etag\": \"0VRizfrEUkiH8qiwZKhpjvw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"VRizfrEUkiH8qiwZKhpjvw==\", \"favorite\": false}]}, \"responsetime\": 1777909244529, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/ADIKyiwOSNeNiyys4yfBzDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "67878",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "H (2023)",
     "media_kind": "movie",
     "github_status": null,
     "github_synced_at": null,
