@@ -20,13 +20,13 @@
   "share_link_id": null,
   "share_folder_id": null,
   "download_url": null,
-  "uploaded_at": 1778085969,
+  "uploaded_at": 1778089675,
   "scanned_at": null,
   "is_ready": 1,
-  "github_status": null,
-  "github_synced_at": null,
-  "gsheets_status": null,
-  "gsheets_synced_at": null,
+  "github_status": "ok",
+  "github_synced_at": 1778087639,
+  "gsheets_status": "ok",
+  "gsheets_synced_at": 1778087642,
   "raw_json": null,
   "tmdb_title": null,
   "tmdb_year": null,
@@ -34,5 +34,5 @@
   "tmdb_overview": null,
   "tmdb_rating": null,
   "tmdb_numeric_id": null,
-  "uploaded_at_iso": "2026-05-06T16:46:09"
+  "uploaded_at_iso": "2026-05-06T17:47:55"
 }
