@@ -1,0 +1,83 @@
+{
+  "name": "She-Rides-Shotgun-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\She-Rides-Shotgun-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:22:06Z",
+  "remote_folder_id": 1755592,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194645",
+  "tmdb": {
+    "tmdb_id": 1196573,
+    "title": "She Rides Shotgun",
+    "original_title": "She Rides Shotgun",
+    "release_date": "2025-07-31",
+    "year": "2025",
+    "rating": 7.0,
+    "overview": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 9-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive\u2014and she teaches him the true meaning of unconditional love.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194645",
+    "status": "U",
+    "etag": "turEKDLXM8/tCmAw2wCaHw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194645",
+          "url": "/sapi/download/video?action=get&k=rEu3WolKu-v0LTV4u_vQebdoEXoDTFIOILEk1O2PGUgz78-EsnoG5mUotv_r0RrlXo6uCwJOCIQTR2wMxtkerPWq-rQt-kg16qzbrNOxmMYRvMssKtvF9d83zeZ8p0zxB3lWrDnvG1xTFxH_PlusELz1iXK0SRSRECDKgLj9r74YM4p8O-0&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=kWva0wF9ZZIhhx16h74oitXnclVl_l9e0Nzg8jj12ohbpKNMClBHEmDQYHEITkj8AiqYiuIya5-KVcDvFO8YG7LN0hZujqgzkz-6TgEROaaMdZ36-RpjSbrNsYgRXLifraJ-4wdDCVM6QGV0XPZ32DUbaCrUUZSzp2TRk8yHB8F61FriOMr8jXGxc73ybOxX15w&node=2i226",
+          "date": 1778268125300,
+          "creationdate": 1778268046000,
+          "modificationdate": 1778268046000,
+          "uploaded": 1778268112972,
+          "size": 382837653,
+          "name": "She-Rides-Shotgun-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7335333,
+            "bitrate": 417527,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=uaimgW5Ii4JzYwd1cjVo2RVTsuAxug-cl0gRT7lL506DhsM9AM85RZ1laGYr7frqhshP-Fr2GDmxD6ZSaK6fsfoh7LijLLMyQSyiq3l7HkvCxiX1ayim3VUKQGJztiJR-8vxTCBji4p9sxqVr7vXv9SrP8vv0t0hZlvCrDk3iQb3VQd7pFHJiy-hD6BmGJUwPoU&node=2i226",
+              "etag": "0turEKDLXM8/tCmAw2wCaHw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=kWva0wF9ZZIhhx16h74oitXnclVl_l9e0Nzg8jj12ohbpKNMClBHEmDQYHEITkj8AiqYiuIya5-KVcDvFO8YG7LN0hZujqgzkz-6TgEROaaMdZ36-RpjSbrNsYgRXLifraJ-4wdDCVM6QGV0XPZ32DUbaCrUUZSzp2TRk8yHB8F61FriOMr8jXGxc73ybOxX15w&node=2i226",
+              "etag": "0turEKDLXM8/tCmAw2wCaHw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "turEKDLXM8/tCmAw2wCaHw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778268125371,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Rdaf9XuHTHuR8GF1M3AYejk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "She Rides Shotgun (2025)",
+  "media_kind": "movie"
+}
