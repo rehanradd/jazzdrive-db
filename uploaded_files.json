@@ -3442,5 +3442,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "6b7e9b2bbf7f65e4f1d08bf721b9835a4edeadf87bd35e9e1c94403ced1c371e": {
+    "name": "Cover-Up-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+    "path": "C:\\Users\\RDP\\Downloads\\Video\\Cover-Up-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 374589616,
+    "uploaded_at": "2026-05-08T18:45:35Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194338",
+    "remote_id": "242194338",
+    "remote_folder_id": "1755550",
+    "tmdb_title": "Cover-Up",
+    "tmdb_year": "2025",
+    "tmdb_rating": 7.085,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
+    "tmdb_overview": "He's devoted his career to uncovering stories the powerful want buried. From My Lai to Abu Ghraib, dig into the life's work of journalist Seymour Hersh.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242194338\", \"status\": \"U\", \"etag\": \"WqUsE0zL0xlhJIKBdOGLcQ==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242194338\", \"url\": \"/sapi/download/video?action=get&k=PMMyxSwUUDynzPArr7ABfwhYNeuJ-rACi3cLhN4_9tz6USHVS8yXmxwSvIcmPSZM_ImWJu6vjcS0Z71fvz1Ex8eY__hd4Kxed99d2REzHE1nXQRAMXuhLjboatpkvVqqHiP_Pa3hukNNUMNL6BPnLQuWC7SIyH7Go-2IZUIMzjAI1dpYWvY&node=2i226\", \"viewurl\": \"/sapi/download/video?action=get&k=fmpAcpuOPchObrND5PBRb0Mj15cq4prM35vNlMC_NNG2LflKWAEkdrb8mc6ua_5ZwJi-_BT8EpxLJQE1jiv5OIbcQxy8wwRxK70RQu8UFddWI-GisoWKQrCqVaaOeScywbf2qzZ8fnhEX_-NPa_FpDUyT2BPa8vthulGH9agymlUvEzBaXonejSCw61nmOLuLLY&node=2i226\", \"date\": 1778265933857, \"creationdate\": 1778265858000, \"modificationdate\": 1778265858000, \"uploaded\": 1778265920509, \"size\": 374589616, \"name\": \"Cover-Up-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 7092137, \"bitrate\": 422540, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=qWN6K8SeVXnU0MDWajIB5mCpZpg1XszJSn0Uf4vNt4YI6poelwGOCnFBc7-t0sVwroHBFXk9wYhpQDXBpiVyA3LOSFf7DspgIkaa65ljPsIiNxW9XdSN9zPrC6ZqzSrCoCPhJL4HGas1RHCCxmYqfPnmJB_ZtpcgiG43pVn-FQawmBBTHcjS5JwX-v9sATB17J8&node=2i226\", \"etag\": \"0WqUsE0zL0xlhJIKBdOGLcQ==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=fmpAcpuOPchObrND5PBRb0Mj15cq4prM35vNlMC_NNG2LflKWAEkdrb8mc6ua_5ZwJi-_BT8EpxLJQE1jiv5OIbcQxy8wwRxK70RQu8UFddWI-GisoWKQrCqVaaOeScywbf2qzZ8fnhEX_-NPa_FpDUyT2BPa8vthulGH9agymlUvEzBaXonejSCw61nmOLuLLY&node=2i226\", \"etag\": \"0WqUsE0zL0xlhJIKBdOGLcQ==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"WqUsE0zL0xlhJIKBdOGLcQ==\", \"favorite\": false}]}, \"responsetime\": 1778265933943, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/J_FKGTCUR-my7-ocL7jvrDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "69218",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Cover Up (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
