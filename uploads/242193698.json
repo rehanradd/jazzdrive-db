@@ -1,0 +1,81 @@
+{
+  "name": "Witchboard-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Witchboard-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:36:43Z",
+  "remote_folder_id": 1755540,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193698",
+  "tmdb": {
+    "tmdb_id": 1107325,
+    "title": "Witchboard",
+    "original_title": "Witchboard",
+    "release_date": "2025-08-14",
+    "year": "2025",
+    "rating": 5.902,
+    "overview": "A cursed Witchboard awakens dark forces, dragging a young couple into a deadly game of possession, deception, and supernatural terror in New Orleans.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8RcN5FHkJVNJdOaL6WtTePU7CyF.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sQqdvDQET5pr7PbVAtPsYYucZoR.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193698",
+    "status": "U",
+    "etag": "K3BGhZ9vPD+PaumWFec26Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193698",
+          "url": "/sapi/download/video?action=get&k=MEJjsH34ve6JBEmOgZR1RObtyy5PcbIyg8FRixTM8g7xo5wusKFSBY2ak-Jum4jl5Wi9XxAXEIe2aEh7mmQt3NQGbPDZYXVWMnqtMNSWDr1JF3SeuNI8NyfJ9jY_952NvRrHwEhSlIi1wojdWu0M5dc6Plm01eAI2T8XtRVSTLJkbouEZCQ&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=EBuVFXpFMrRwTdDd827Kt_bwuDThQa4Z6JVfQgg-WBX2ZOtAoyX7XjFXC_T5dQW2_eF5fbg6LR6hCplx5-kSTVg2fqRKmjyhu6e994T1lIgAt0dcyFFhN69OKnnh2Fb4T2RzIS-sBVbvDXk4qLZdOnqzb3JfV1n5WM8RgaH9xRQ-P8xLakcUqx1xSfs6U3IPN6U&node=2i226",
+          "date": 1778265402579,
+          "creationdate": 1778265329000,
+          "modificationdate": 1778265329000,
+          "uploaded": 1778265390647,
+          "size": 360774561,
+          "name": "Witchboard-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6771801,
+            "bitrate": 426208,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=JOrfocv2jcWPahda7YtDJcx56LAoiFVWSj97wQxd8Rmwo1gics9lcjd2VRsuQZ5OomZwRB56EEMTzak-ZmUXDv1Rc9lKs907VoJmmLnR8-IvqBuXsxXPniuvk1zofMIQoI6RMxf1DIsGuZTwdSViZsjDhgifHB6Akba0sstcVNng9B-Don8twhsqvDN3g0GyPtI&node=2i226",
+              "etag": "0K3BGhZ9vPD+PaumWFec26Q=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=EBuVFXpFMrRwTdDd827Kt_bwuDThQa4Z6JVfQgg-WBX2ZOtAoyX7XjFXC_T5dQW2_eF5fbg6LR6hCplx5-kSTVg2fqRKmjyhu6e994T1lIgAt0dcyFFhN69OKnnh2Fb4T2RzIS-sBVbvDXk4qLZdOnqzb3JfV1n5WM8RgaH9xRQ-P8xLakcUqx1xSfs6U3IPN6U&node=2i226",
+              "etag": "0K3BGhZ9vPD+PaumWFec26Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "K3BGhZ9vPD+PaumWFec26Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778265402657,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/YocnyTOkQU6z55-DgXeYJzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Witchboard (2025)",
+  "media_kind": "movie"
+}
