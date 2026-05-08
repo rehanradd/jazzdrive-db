@@ -1,0 +1,83 @@
+{
+  "name": "The-Great-Flood-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\The-Great-Flood-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:56:50Z",
+  "remote_folder_id": 1755562,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194390",
+  "tmdb": {
+    "tmdb_id": 982843,
+    "title": "The Great Flood",
+    "original_title": "\ub300\ud64d\uc218",
+    "release_date": "2025-09-18",
+    "year": "2025",
+    "rating": 6.005,
+    "overview": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/218MafWtM9XpPRuNdh0uhrNezi5.jpg",
+    "genre_ids": [
+      878,
+      12,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194390",
+    "status": "U",
+    "etag": "dv3AZoPINmqjvnKfvqjh2g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194390",
+          "url": "/sapi/download/video?action=get&k=gpZqkoomLpgwgqw2_68Tb_Lw6t-Aj961cmlGrdJrz4oj12c4ZoRiYNJvM4OF92z61k6MmqrXG92SzqBOReczVS8Dq75RHI4KnVMgRsd0b434GCD2_Go_FLR10huGULhmLtcoffcHYz9dY5WcTy0QPxsTvSS7n0ZWhJMTqb9bQD20RBtg90w&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=CAnJqOA2W0CoieGmBWsva-ael7w5gWI4GcLUZftoEsg7kAKDd4oQ60ZVWNBcRny_GekW-WROeLhmXAYkta_FegHILUZwoNw9BOZIrd0jBiDj6MAEdNa8ClENGGCdFqRCd-kU4p7CHVZFvqplEjA3Bj72vCMUYYmbObg_YRAseeDEVtwimfwGx4Sg3tvnavanr2M&node=2i226",
+          "date": 1778266610097,
+          "creationdate": 1778266540000,
+          "modificationdate": 1778266540000,
+          "uploaded": 1778266598332,
+          "size": 346118680,
+          "name": "The-Great-Flood-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6532607,
+            "bitrate": 423865,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=u8oRVh-gVN87FREU6E9SFLr_uc3dTBNm4AkFwLU-n_qlvBHuQibMxPIwL91KmaR2xwk2r2iCJd7Z0z7VkjCfDtXWNfEjoKOqnuCiortcb-JICmUmna3-5_vxdsbegmqquxfI7bh32Tz013TzO1HyFEQiIa8ca1uIEc3jOPBgSKaXelMbr5Akean1-sEZhGD7ikE&node=2i226",
+              "etag": "0dv3AZoPINmqjvnKfvqjh2g=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=CAnJqOA2W0CoieGmBWsva-ael7w5gWI4GcLUZftoEsg7kAKDd4oQ60ZVWNBcRny_GekW-WROeLhmXAYkta_FegHILUZwoNw9BOZIrd0jBiDj6MAEdNa8ClENGGCdFqRCd-kU4p7CHVZFvqplEjA3Bj72vCMUYYmbObg_YRAseeDEVtwimfwGx4Sg3tvnavanr2M&node=2i226",
+              "etag": "0dv3AZoPINmqjvnKfvqjh2g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "dv3AZoPINmqjvnKfvqjh2g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778266610178,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Tm_4TjyVQQSOPvGmSq8stTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Great Flood (2025)",
+  "media_kind": "movie"
+}
