@@ -1,0 +1,83 @@
+{
+  "name": "The-Secret-Agent-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\The-Secret-Agent-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:39:08Z",
+  "remote_folder_id": 1754787,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193613",
+  "tmdb": {
+    "tmdb_id": 1220564,
+    "title": "The Secret Agent",
+    "original_title": "O Agente Secreto",
+    "release_date": "2025-07-23",
+    "year": "2025",
+    "rating": 7.297,
+    "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193613",
+    "status": "U",
+    "etag": "GL2lPFnr4bvmLJ2vQs9+yQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193613",
+          "url": "/sapi/download/video?action=get&k=QZ8jMoSnKSTKW0W2UZibuNN9DZB4pbw6IwR-U01rAsQievW8ZFYpwVbH9er445ZcZZRdkQyEe_pazcTdxOW19eludH0SSnmFNKiHqcX40odrci1hvdwwaz9lDNCE2SgU1I6ZG31v5EsLt98a-q1hoW3dBaRaAO9J3NP415md6UF3uBWJFQI&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=luSM3HFMAX387_0lh7WWd-_Y2dbOD9m0U9CjL3SeDRdlig_vkbv0Ghi6c3EHMCCkPkUY0ooJJlhal5RY_10f_UD5coo39osix1H1OmfaLHOuexcObY4Ud873hTxil3_uwls5lvbcEoLVtbubefgRkHo-DY15asb_dCcYXZkbmfsX2ae3aZ2H3S8qfWeJ-3yY1p4&node=2i226",
+          "date": 1778261948199,
+          "creationdate": 1778261839000,
+          "modificationdate": 1778261839000,
+          "uploaded": 1778261932425,
+          "size": 512499092,
+          "name": "The-Secret-Agent-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 9640800,
+            "bitrate": 425275,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=mB4zk-KXuDP1eWtjb4W6M0C4Vc_ZqnmSHSnGyBkeXplZsQ-90cQzT7BqsHEyORUZH_5q6ISCU95dB2YL-hhOhKllCWAAnn5PXj9x_S-8wEp24TKCWzx26amsOiyUrdsAR1THViDXxnm1kkajpyOW-eHgokMHkQXM4ZgLpIAWGs-ni4LXdh9nCqxj7PLfMG8Yah8&node=2i226",
+              "etag": "0GL2lPFnr4bvmLJ2vQs9+yQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=luSM3HFMAX387_0lh7WWd-_Y2dbOD9m0U9CjL3SeDRdlig_vkbv0Ghi6c3EHMCCkPkUY0ooJJlhal5RY_10f_UD5coo39osix1H1OmfaLHOuexcObY4Ud873hTxil3_uwls5lvbcEoLVtbubefgRkHo-DY15asb_dCcYXZkbmfsX2ae3aZ2H3S8qfWeJ-3yY1p4&node=2i226",
+              "etag": "0GL2lPFnr4bvmLJ2vQs9+yQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "GL2lPFnr4bvmLJ2vQs9+yQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778261948272,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/X7Q0LJQeSBqojBxgef5Xbjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Secret Agent (2025)",
+  "media_kind": "movie"
+}
