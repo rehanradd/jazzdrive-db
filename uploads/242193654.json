@@ -1,0 +1,82 @@
+{
+  "name": "F-Plus-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\F-Plus-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:18:49Z",
+  "remote_folder_id": 1755516,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193654",
+  "tmdb": {
+    "tmdb_id": 1165096,
+    "title": "F+",
+    "original_title": "F+",
+    "release_date": "2025-06-06",
+    "year": "2025",
+    "rating": 6.611,
+    "overview": "A group of young teenagers plan the perfect heist by breaking into their middle school to change their failing test grades.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/f0qeTgIcGZ6s3jz5xg8PQ7K0MZO.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/drvgeMannksKpZNFd1fFCkFrmRM.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193654",
+    "status": "U",
+    "etag": "/NSc0+R2HYogoIm3iJ7+OA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193654",
+          "url": "/sapi/download/video?action=get&k=xqUvenrIGGZ7cmZWoraTUh8Drr2rXgWBPcLC3Q_LlBvB6pBWJiRzSoSq8uzEe8XMtY9DQaOxCB7d5jZy77IePkEYSRB-_SFc4_lG_VIATjB4Ad1OrSjjYeHgJ660aQoIoz4_LP8-9FKvtUu_uu8hkUWY0RxF0VOqmVR1XCHwNvLdXQ9rqnM&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=idXnzHVkPdTcs5o3AjG4xrzDP5hHy6YkzNaO3V73Hcl-BWd7Hm-Dm_rjVdjfnBJKCHiwXgCQ0O-obEKi9eW7XcwySY2QE7BJPoAXZyxatussMKDByiWuueuvaYCS9dE-6GXsnZNL8aSs6ipnutsZQ7trgJBXxbsqWP_r2yTxAnsg3miDM2hQ9ebBfcSDD8bvRfA&node=2i226",
+          "date": 1778264327855,
+          "creationdate": 1778264271000,
+          "modificationdate": 1778264271000,
+          "uploaded": 1778264318747,
+          "size": 294700317,
+          "name": "F-Plus-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5579407,
+            "bitrate": 422554,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=JvadmSNYhWbNplByX04VSHuXvK6UgP8DL9soJdn8BBJTED1XAx5sSLtVp67U6CbXo2YbHIpzmJOJw4snGwJWGa4UhFRerKj2DTS9r-0tHr-s-HfVQz0F8VPZczmtbbBH5KHWjTzQLis_PtXUsontV28n7uL6SvEb6HaoN9eAiTbJ6qEQJWg8DUIPp-b0Y2vW5oQ&node=2i226",
+              "etag": "0/NSc0+R2HYogoIm3iJ7+OA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=idXnzHVkPdTcs5o3AjG4xrzDP5hHy6YkzNaO3V73Hcl-BWd7Hm-Dm_rjVdjfnBJKCHiwXgCQ0O-obEKi9eW7XcwySY2QE7BJPoAXZyxatussMKDByiWuueuvaYCS9dE-6GXsnZNL8aSs6ipnutsZQ7trgJBXxbsqWP_r2yTxAnsg3miDM2hQ9ebBfcSDD8bvRfA&node=2i226",
+              "etag": "0/NSc0+R2HYogoIm3iJ7+OA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "/NSc0+R2HYogoIm3iJ7+OA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778264327927,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/td2YD0DEQ0utr2AD8VZn-zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "F Plus (2025)",
+  "media_kind": "movie"
+}
