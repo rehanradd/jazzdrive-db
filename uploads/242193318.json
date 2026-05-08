@@ -1,0 +1,81 @@
+{
+  "name": "Queen-of-Chess-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Queen-of-Chess-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:01:10Z",
+  "remote_folder_id": 1754760,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193318",
+  "tmdb": {
+    "tmdb_id": 1596291,
+    "title": "Queen of Chess",
+    "original_title": "Queen of Chess",
+    "release_date": "2026-01-27",
+    "year": "2026",
+    "rating": 7.6,
+    "overview": "A Hungarian girl dreams of conquering international men\u2019s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polg\u00e1r revolutionizes the sport\u2019s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
+    "genre_ids": [
+      99
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193318",
+    "status": "U",
+    "etag": "FETiooUmeeB/t1KOZfuZJQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193318",
+          "url": "/sapi/download/video?action=get&k=VvAMj4owzSMcqhCaMRonchb__AsdUP0kbneBZKhlEAKFbaVqgLHjbgs8loh6aX-8CxDim4ukjfv3AGlRvMjYSCRb40ik7W1fkQyncm4crCRkF3L-Ev05T1ecU2rNxDUlld40pwsPLXXpK35e2pGEpyMD10kaIiDAYQxQNHoN0PmCOinrGo8&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=JGlFxPb-ZjzbPN_I7U-WlppsX1GiZHsNAVmn7K4SEvnj7iGDz0j-t7Al0NtYIVIviEtc-usSSmKQTbGtyFlCO1Gg8-Q355NSze1FeafBtBYyU2giOFf2FidlL73vcGoBZ2rUwhzule_m9AlhgDG--KTqi2hHhBB7iNUb-9HaJHTh1KcLyQjJ3recFHsJB3foxRg&node=2i226",
+          "date": 1778259669299,
+          "creationdate": 1778259640000,
+          "modificationdate": 1778259640000,
+          "uploaded": 1778259660430,
+          "size": 295407590,
+          "name": "Queen-of-Chess-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5679296,
+            "bitrate": 416118,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=jNnaR8SP3f9NeXnzCr2sAIIXZHbYYPG2TTmQRWza8wXj4OOSTs-L6-sxfjLLXyvpr8vGbiGFuULW9snAB0DcO2arZWdbUOv3vBTByBEJIHicqmzbWhQYbkO3pAebarDh1VN1kbtRxCPEJzMsiFTHBjDItXTl4f0Ay227UMfp8qoj2XLL4iYnml2v8sfAFdIVGO0&node=2i226",
+              "etag": "0FETiooUmeeB/t1KOZfuZJQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=JGlFxPb-ZjzbPN_I7U-WlppsX1GiZHsNAVmn7K4SEvnj7iGDz0j-t7Al0NtYIVIviEtc-usSSmKQTbGtyFlCO1Gg8-Q355NSze1FeafBtBYyU2giOFf2FidlL73vcGoBZ2rUwhzule_m9AlhgDG--KTqi2hHhBB7iNUb-9HaJHTh1KcLyQjJ3recFHsJB3foxRg&node=2i226",
+              "etag": "0FETiooUmeeB/t1KOZfuZJQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "FETiooUmeeB/t1KOZfuZJQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778259669384,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/JIyZtW6ITAaa702nkqZPhzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Queen Of Chess (2026)",
+  "media_kind": "movie"
+}
