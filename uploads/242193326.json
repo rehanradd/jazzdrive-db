@@ -1,0 +1,82 @@
+{
+  "name": "The-Investigation-of-Lucy-Letby-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\The-Investigation-of-Lucy-Letby-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:07:29Z",
+  "remote_folder_id": 1754766,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193326",
+  "tmdb": {
+    "tmdb_id": 1620991,
+    "title": "The Investigation of Lucy Letby",
+    "original_title": "The Investigation of Lucy Letby",
+    "release_date": "2026-02-04",
+    "year": "2026",
+    "rating": 6.265,
+    "overview": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qhNThwc72GqihJhXaP29Af5hJ2A.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/qhSfXdkrIzwYsyQ3Z9ehFmO3zjy.jpg",
+    "genre_ids": [
+      99,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193326",
+    "status": "U",
+    "etag": "rb/A657yKNVAVcFR3uk+EQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193326",
+          "url": "/sapi/download/video?action=get&k=PmD68rqihUx99Rui0wIQ9qSRkHiBMl3NpxL9UE02X38MRlC3n7z93h-HkN9qRgOoHCIfzXQjTcJGYsHCUBQ-ZL4-1i8OP6t1Z-trgdO8n2Cozm4GEeoeP5fJkeEZTXWD1vdUICcgHGoDLfyRaPu4oTfpv_WSkq0lepnN4X4Ea0gbVnpPfsc&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=836XwO_klUa1rSKDNYsn9oNIf84sGIuRpnhrC6KVVAemHbVEmFce7cMtiuN7J7vz11GjjX-4FIG5eRABnNAtZD-zLMsdundlbugU9BaZXblaC_6Oq3tEj17BBF_mwFbnFeEvezfl8ahrIQiBg_XX9-vh1yn7aJ_eHjXmaGYmBA3KJg6oPXFayrj5LqSzxLSMJxM&node=2i226",
+          "date": 1778260049108,
+          "creationdate": 1778260026000,
+          "modificationdate": 1778260026000,
+          "uploaded": 1778260039911,
+          "size": 296472244,
+          "name": "The-Investigation-of-Lucy-Letby-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5680832,
+            "bitrate": 417505,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=AvSYzsOCCK2ONxWjGR6ofim9SkO3F1Sxf4BtKzHHoaLi6YydJoIQRlWQz0YL_gUA8gbIFy8dUInYupUtA4vMSzY0lwhqhHFYK1GnhZXqMmneGXi8h5UAhrN9QTYo9GTp2T1vXAQgM0Z_SiC4nRfA3Q_smUpdmt6RXrn5rl_EQIYtouBcZ3QeWXXtleWn9mnXyD0&node=2i226",
+              "etag": "0rb/A657yKNVAVcFR3uk+EQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=836XwO_klUa1rSKDNYsn9oNIf84sGIuRpnhrC6KVVAemHbVEmFce7cMtiuN7J7vz11GjjX-4FIG5eRABnNAtZD-zLMsdundlbugU9BaZXblaC_6Oq3tEj17BBF_mwFbnFeEvezfl8ahrIQiBg_XX9-vh1yn7aJ_eHjXmaGYmBA3KJg6oPXFayrj5LqSzxLSMJxM&node=2i226",
+              "etag": "0rb/A657yKNVAVcFR3uk+EQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "rb/A657yKNVAVcFR3uk+EQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778260049177,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/6XSx1MGrQOu_DPQJVQ7lhTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Investigation Of Lucy Letby (2026)",
+  "media_kind": "movie"
+}
