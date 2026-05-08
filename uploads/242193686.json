@@ -1,0 +1,82 @@
+{
+  "name": "The-Negotiator-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\The-Negotiator-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:30:28Z",
+  "remote_folder_id": 1755532,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193686",
+  "tmdb": {
+    "tmdb_id": 1192174,
+    "title": "The Negotiator",
+    "original_title": "Il Nibbio",
+    "release_date": "2025-03-06",
+    "year": "2025",
+    "rating": 7.165,
+    "overview": "Baghdad, 2005. After Italian journalist Giuliana Sgrena is kidnapped by insurgents, veteran SISMI negotiator Nicola Calipari is tasked with rescuing her, but interference from US forces in Iraq compromises his mission.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ns0qUI7Y8cK5g6XSvRHmNANAN99.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/qElvJvnwPBYu9JOM9nrsvHbdfE.jpg",
+    "genre_ids": [
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193686",
+    "status": "U",
+    "etag": "AsJznIRdxdjN8GG3DnvpMg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193686",
+          "url": "/sapi/download/video?action=get&k=fAUH2ytctB55ZRnsrSkJq8nfhEEoKDi2FBzL9DJI8qdZT7oa9Pq8M-16DLnfdkfNwoiEHQGhPRYHjsBJjbMb6L9eaYGTp9NCInHCarEd_o4K_6awelJvEjnqrlegAlz3tF1v0LxKmHKIMX_b_7i0oRl-WG5_e9Tv6LA6ZFr-_Kgm5fzmbps&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=sMrM2c3uRhP21uEpFsOsv8_jnWj0y1e4r5njwvXaP630umRR5ud5KBANOVUDzxq8gJoUz6MVmI8mKRRDFxJFl7MG_y268OMFpdtIUEIYwcBbxr9Wf5VBAZ3GIJclxI-63g_6l9yZeXyuGg7BLUkM6Deqsk8MrNTj2vc9erOn6XWQyDa3jJCmuwRQxw9yM7nijyE&node=2i226",
+          "date": 1778265027494,
+          "creationdate": 1778264955000,
+          "modificationdate": 1778264955000,
+          "uploaded": 1778265016793,
+          "size": 350986687,
+          "name": "The-Negotiator-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6525048,
+            "bitrate": 430325,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=68IsodANUemmJc4-0kZ_IO3YyC4rif2DF2QEbXLl95gVw1tJl_jkGi0Uo7qnXVvXHpiUSV7cOPfNzAjbf1XMUuaxCP7T3ZwCg9jKQgBIcLOqqTd3Jy05OBxgICNr7RnOGVltq_odNIruo7xd7umeKKJJFNFHAvjbFwDKkBDkH76KXtWFc8WMUadX26v8Qv6Y9ME&node=2i226",
+              "etag": "0AsJznIRdxdjN8GG3DnvpMg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=sMrM2c3uRhP21uEpFsOsv8_jnWj0y1e4r5njwvXaP630umRR5ud5KBANOVUDzxq8gJoUz6MVmI8mKRRDFxJFl7MG_y268OMFpdtIUEIYwcBbxr9Wf5VBAZ3GIJclxI-63g_6l9yZeXyuGg7BLUkM6Deqsk8MrNTj2vc9erOn6XWQyDa3jJCmuwRQxw9yM7nijyE&node=2i226",
+              "etag": "0AsJznIRdxdjN8GG3DnvpMg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "AsJznIRdxdjN8GG3DnvpMg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778265027570,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/iT5vWZ-qS0WbCz1oGA3Anjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Negotiator (2025)",
+  "media_kind": "movie"
+}
