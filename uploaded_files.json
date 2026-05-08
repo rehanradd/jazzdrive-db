@@ -2238,5 +2238,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "78bcb67d0faf57d843d2e1ecc925c01f85479a560741347b085b9e9187280c8e": {
+    "name": "Zootopia-2-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+    "path": "C:\\Users\\RDP\\Downloads\\Video\\Zootopia-2-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 342083691,
+    "uploaded_at": "2026-05-08T18:16:26Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193649",
+    "remote_id": "242193649",
+    "remote_folder_id": "1755512",
+    "tmdb_title": "Zootopia 2",
+    "tmdb_year": "2025",
+    "tmdb_rating": 7.613,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+    "tmdb_overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242193649\", \"status\": \"U\", \"etag\": \"Z9inxaL8duULWd/5WBGOqg==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242193649\", \"url\": \"/sapi/download/video?action=get&k=n460oY4Nx5rV-xlV-hfwQMgyTP9NruDMYw9_RXhUXD6dhfBd8KetmjyLovTSBDRgKNbSFZAvo4CK79adKDnVQrqqMlvB1R4jmoiJa9almJ3sDzr8mIXb0y3EcSPgqG2wDvdtdn8kyfDwKV2OcLZxU87UKjqg_fxkOfNwvvTaF3-DHpgEffU&node=2i226\", \"viewurl\": \"/sapi/download/video?action=get&k=OKwu5ACoiDKqP36hGOudG62OzQTpRqYkN1c43lLGcEwTLeuA3cbuORkDFyPBfapImjJ9O3yEQqzmXX4UrfPe3WRdHLt6PWREiht9qY7062FZcdo0WSL--9NfKEl-juhOyZxGo-DRPzi4-V9pv8_69ipsrLf559mDHzFazqum7GT5JvNpdn6HsFLFHC2MZbL6MAo&node=2i226\", \"date\": 1778264185342, \"creationdate\": 1778264117000, \"modificationdate\": 1778264117000, \"uploaded\": 1778264174293, \"size\": 342083691, \"name\": \"Zootopia-2-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4\", \"metadata\": {\"duration\": 6458509, \"bitrate\": 423730, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=sjJna0ZpHxU0wdwwQd9crIOqK1s12aak0_67BJ7FR255fr8kGcs9_QloSdHyvmISN3EmnU9_kGkIUO3TSZyDRH6j8wWBtGZUhQVnHYXcqEQaEh8aoXlhgjMUkDNcr7u7T9fbCSbEjD2IvaJCJohcPqVfuuMI2rwm5vyDmyQdicThRAquANSgz4DqbDgvTbvD6EU&node=2i226\", \"etag\": \"0Z9inxaL8duULWd/5WBGOqg==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=OKwu5ACoiDKqP36hGOudG62OzQTpRqYkN1c43lLGcEwTLeuA3cbuORkDFyPBfapImjJ9O3yEQqzmXX4UrfPe3WRdHLt6PWREiht9qY7062FZcdo0WSL--9NfKEl-juhOyZxGo-DRPzi4-V9pv8_69ipsrLf559mDHzFazqum7GT5JvNpdn6HsFLFHC2MZbL6MAo&node=2i226\", \"etag\": \"0Z9inxaL8duULWd/5WBGOqg==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"Z9inxaL8duULWd/5WBGOqg==\", \"favorite\": false}]}, \"responsetime\": 1778264185414, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/sY_XNI7-S2SBWgFZ1vVJoTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+    "share_key": "",
+    "share_link_id": "68481",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "",
+    "share_folder_path": "Zootopia 2 (2025)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
