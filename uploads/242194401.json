@@ -1,0 +1,83 @@
+{
+  "name": "Alarum-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Alarum-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:58:00Z",
+  "remote_folder_id": 1755563,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194401",
+  "tmdb": {
+    "tmdb_id": 1249289,
+    "title": "Alarum",
+    "original_title": "Alarum",
+    "release_date": "2025-01-16",
+    "year": "2025",
+    "rating": 5.643,
+    "overview": "Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194401",
+    "status": "U",
+    "etag": "5tTgp9tqhT5gzn+tYNQBXA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194401",
+          "url": "/sapi/download/video?action=get&k=ilWEZd7Aa8alu45zlpgWXPYkIE1x2eUbfltgvbSlrEeKxHZ-Qs_2oYSRoitYGJ664VVuVfc1F6nLL9wGwvU0nrB6lcMdQJIkV1jPmECvQ7rg30UcXCIxBNME8LsMwACWp2X23AYoSJUOdQmr7cLcq-OOSnUG8tfNyfNTelSoaLjQO3lvmuk&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=s2i7PwJYzEiSvZ5-zSxoUfi7OwZ3LXUgwnaaUv2AXa_QCUNAxANT97DQs100AomYO2AGEO9kccXf53u14CEG0rvtWMFkYQ1gZRm8YHN2Zx-p425vWphD8mE31PaV1DA_Vc5LIj_JGpy3yn4bnitShsuMRUTcz3nymwOMKMXfaxmr6UQSSLog8Wm0Nx_-JTuQZwE&node=2i226",
+          "date": 1778266679285,
+          "creationdate": 1778266615000,
+          "modificationdate": 1778266615000,
+          "uploaded": 1778266668342,
+          "size": 304567376,
+          "name": "Alarum-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5706752,
+            "bitrate": 426957,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=pXcqAUBWoaoWoycpFgFKMiESqh_TwtkhjmdKNpvS2RnlvZ9BtdE3ohblvjTj5pHyMREuROxDy0ZX7j0CrAlLlE8ZSI5OZtQX94GJzI1K6AeiVj0W9MMBPf0L4_NRPh4cYp7NWNoZx9v91FZyuHhF-HzcSmolvXrz1wQmMcRxKQ47Tp5v0suP9g3Pd76IBmshHFY&node=2i226",
+              "etag": "05tTgp9tqhT5gzn+tYNQBXA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=s2i7PwJYzEiSvZ5-zSxoUfi7OwZ3LXUgwnaaUv2AXa_QCUNAxANT97DQs100AomYO2AGEO9kccXf53u14CEG0rvtWMFkYQ1gZRm8YHN2Zx-p425vWphD8mE31PaV1DA_Vc5LIj_JGpy3yn4bnitShsuMRUTcz3nymwOMKMXfaxmr6UQSSLog8Wm0Nx_-JTuQZwE&node=2i226",
+              "etag": "05tTgp9tqhT5gzn+tYNQBXA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "5tTgp9tqhT5gzn+tYNQBXA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778266679353,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/f_u50zimRNCpflgiaDUnZTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Alarum (2025)",
+  "media_kind": "movie"
+}
