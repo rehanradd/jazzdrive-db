@@ -1,0 +1,83 @@
+{
+  "name": "Fuck-Marry-Kill-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Fuck-Marry-Kill-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:48:04Z",
+  "remote_folder_id": 1755554,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194362",
+  "tmdb": {
+    "tmdb_id": 1200801,
+    "title": "F Marry Kill",
+    "original_title": "F Marry Kill",
+    "release_date": "2025-03-06",
+    "year": "2025",
+    "rating": 6.1,
+    "overview": "When true-crime junkie Eva Vaugh is shoved into the dating app world by her besties on her 30th birthday, she suddenly finds herself at the center of a real-life murder case. As new details about the murders are revealed on her favorite podcast, she realizes that one of the three men she\u2019s dating could be the infamous \"Swipe Right Killer\" terrorizing the city.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/v7eHvzCoRFXhqt0XM2d8MQ1FBKa.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kYC6Z4XUvZ9JQKhrkvsif4bAJl3.jpg",
+    "genre_ids": [
+      35,
+      53,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194362",
+    "status": "U",
+    "etag": "LJGcCNGH2HqpzT9sztOxwg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194362",
+          "url": "/sapi/download/video?action=get&k=EQJj9s6asARJgv8ZfyWG-_xLujd_gleKRuvImxGzmsE66AiHY683HSTKZrYIAOtFCQdigtKf4OuydS4zrzlNUKwQ9CXmVmKcMl_fnyW-MIxGiZ3Loj7gBfPybPIGvo9VSm3MTX182FSkt6ovSgsOntNxcKVv_y9uNLTnsXhXWnGtzCwci_I&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=sN1JwX9LvvACh4UlogxGdl7OkxnA8pePVWpG2aRskIkS4AnP77iKdWjGvCkWqGfa_5OEwdFDhS-lfjoArNeMCuVA-9714aQuaEj2ZJLZCFqBpGA_cfRnv71OBTGOophrMWMgyB5-gMn5YrL4ByIJ9fUdPOZhjBRaBh2Jn4NLErCCkAML8ORdm2ag88CgA2yooC4&node=2i226",
+          "date": 1778266084113,
+          "creationdate": 1778266021000,
+          "modificationdate": 1778266021000,
+          "uploaded": 1778266073872,
+          "size": 308789640,
+          "name": "Fuck-Marry-Kill-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5846036,
+            "bitrate": 422562,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=u3mA0OzLQXsxelkiV4eBxKIze6zDqv3kZmQQue0heNlKeyRj0PMRIvoOMQPSnG6OtePnvQunAaQVQbwI4yDP_O8LAvwP6TGrrqwF0c8iWOjD5MvyEu-fWlRC2SakvEdiu91tYSbM9BWSd37KQyHg7do5kakJj4QKl7gmqxZTfOCH2H_-7tLpaRnsI9oMMYeaYZs&node=2i226",
+              "etag": "0LJGcCNGH2HqpzT9sztOxwg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=sN1JwX9LvvACh4UlogxGdl7OkxnA8pePVWpG2aRskIkS4AnP77iKdWjGvCkWqGfa_5OEwdFDhS-lfjoArNeMCuVA-9714aQuaEj2ZJLZCFqBpGA_cfRnv71OBTGOophrMWMgyB5-gMn5YrL4ByIJ9fUdPOZhjBRaBh2Jn4NLErCCkAML8ORdm2ag88CgA2yooC4&node=2i226",
+              "etag": "0LJGcCNGH2HqpzT9sztOxwg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "LJGcCNGH2HqpzT9sztOxwg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778266084196,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/u2tGn67aRsuQg_8L0ndMCTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Fuck Marry Kill (2025)",
+  "media_kind": "movie"
+}
