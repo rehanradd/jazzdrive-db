@@ -1,0 +1,83 @@
+{
+  "name": "Stand-Your-Ground-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Stand-Your-Ground-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:28:37Z",
+  "remote_folder_id": 1755598,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194666",
+  "tmdb": {
+    "tmdb_id": 1296504,
+    "title": "Stand Your Ground",
+    "original_title": "Stand Your Ground",
+    "release_date": "2025-05-09",
+    "year": "2025",
+    "rating": 4.537,
+    "overview": "Former Special Forces operative, Jack Johnson, uses the Stand Your Ground law to seek vengeance for his wife\u2019s murder, igniting a brutal war against a local crime lord\u2019s family and ending in an explosive showdown.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/u4GW1qTNjooEFSXDBVDMmYb52qC.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wE1TZtB5G1fdiln3PPnnLhExuCz.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194666",
+    "status": "U",
+    "etag": "Bsinh7o8IdKDfuM7oXBs7w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194666",
+          "url": "/sapi/download/video?action=get&k=F236ho_CuvHbOBIwR2YE2I8rP6TESq3cm41yV9-DkNIzYaJJrdA35QLec0CAjFGtej3Ioyghayxinzfys_ehKIJvbHP4ugBfKa-uIsF7wRlFdJZmsO3VueaZ9taSKQOBoOrt5pTUS-xRz2Elb8NnZS99c12IUdzkLCX2-mM5RYzNR1NjwnM&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=SNBzP3ZEppRwHMH-nly51GcgHnsEI5yot2X3UyChyo5rpNPwRBxLnQInz0RUNLfVZ7yQ4WzZpblSvVX81WUj8Yn-5O0I3xnR1kFBmncWOmbfn4WekI8jybsChd6FFbb7zubkTmq6tTWHomLqN02jwEhtcE9fgxbUaSc_tpj-kzd0SzGoj3W9Kc4aHbObsHkKpnQ&node=2i226",
+          "date": 1778268516996,
+          "creationdate": 1778268455000,
+          "modificationdate": 1778268455000,
+          "uploaded": 1778268507035,
+          "size": 316855263,
+          "name": "Stand-Your-Ground-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5982351,
+            "bitrate": 423720,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=gn20KC3NThGfVVF9nVQpQcRdEU_HqhH6klWtTooWiikm9Q6py9j3OlaMlsH72KOcwm46DYjspmEXQnrkDw23P49oKx_3v7mj_jyiyLPYXddIaPYyUxjNNbIM6wxqsyi6XtyKL4MkwH3BYyo5p3HsaZpBqmUdYApzNVVNFpAhaconVzPHO0-ryIar-5HnyvuRW3A&node=2i226",
+              "etag": "0Bsinh7o8IdKDfuM7oXBs7w=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=SNBzP3ZEppRwHMH-nly51GcgHnsEI5yot2X3UyChyo5rpNPwRBxLnQInz0RUNLfVZ7yQ4WzZpblSvVX81WUj8Yn-5O0I3xnR1kFBmncWOmbfn4WekI8jybsChd6FFbb7zubkTmq6tTWHomLqN02jwEhtcE9fgxbUaSc_tpj-kzd0SzGoj3W9Kc4aHbObsHkKpnQ&node=2i226",
+              "etag": "0Bsinh7o8IdKDfuM7oXBs7w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Bsinh7o8IdKDfuM7oXBs7w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778268517074,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Zzgx-A61SKe4ZrE1xg1Vpjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Stand Your Ground (2025)",
+  "media_kind": "movie"
+}
