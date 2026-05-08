@@ -1,0 +1,82 @@
+{
+  "name": "Aileen--Queen-of-the-Serial-Killers-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Aileen--Queen-of-the-Serial-Killers-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:43:12Z",
+  "remote_folder_id": 1753004,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194723",
+  "tmdb": {
+    "tmdb_id": 1550569,
+    "title": "Aileen: Queen of the Serial Killers",
+    "original_title": "Aileen: Queen of the Serial Killers",
+    "release_date": "2025-10-29",
+    "year": "2025",
+    "rating": 6.698,
+    "overview": "Aileen Wuornos remains a rarity: a female serial killer. From childhood abuse to death-row revelations, this documentary revisits her life and crimes.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iBCorGTwpXhIOeWwTA21HC5Rprx.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mrYoBknZhVI7jMsEe4nbbHLgLKa.jpg",
+    "genre_ids": [
+      99,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194723",
+    "status": "U",
+    "etag": "dOCnSh/A52PpkKnjA3cvVA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194723",
+          "url": "/sapi/download/video?action=get&k=kb4LXtabFo5kAslSr3ERr1NVqDjnS34rx0y_M3dRtlcsgTLbB-j2cBlciYcI9vQ-yOwGUQuepXAzceYRnSxDxenOf6PmdgN-4e3J6nFPEVu5sH6AonsZxWWIrnliRqWkjPDex4RQZtirKTHHou8Dguc0vh8TNCUrgJJ5Npt6Vri9bbEGSkY&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=sV5hmL8Khve5X6iNvJAzLbv4NxafCTzM5ck7kIdOKYI1d5gOSQr0Gkl6AaPnMX2BnkcDu2c4D6ShnEjSmO__ELvOAdjdlW3Bfh1dzdb3DTvbEAqWNJDSQca7gxEJ32aTOz_ptjbvKPBL5F4BE9g13rVZIvq-Wg8GzH1E8qp78ejKcTfzBPdygpJzfH8zAJeX-2U&node=2i226",
+          "date": 1778269392201,
+          "creationdate": 1778269328000,
+          "modificationdate": 1778269328000,
+          "uploaded": 1778269382355,
+          "size": 322172042,
+          "name": "Aileen--Queen-of-the-Serial-Killers-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6231892,
+            "bitrate": 413578,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=1WsuDYZa8rebGTs9JIS9fn6vaJRHu_7ODfg8YFS2ad6PkgPfFvuJXhEwf8Bym1FV4bv5gesO8YLT8obCPO_nA-_BrUm9g4F54MBKWogz9MpzNRd9KqwfX4wnCe_11rybRSWR9pHDJvgEZ_efK8FQxbhpENqHTLXZ2tL0PDjPjMGxV1N4yMTJSke9O62o8EQ5Dp0&node=2i226",
+              "etag": "0dOCnSh/A52PpkKnjA3cvVA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=sV5hmL8Khve5X6iNvJAzLbv4NxafCTzM5ck7kIdOKYI1d5gOSQr0Gkl6AaPnMX2BnkcDu2c4D6ShnEjSmO__ELvOAdjdlW3Bfh1dzdb3DTvbEAqWNJDSQca7gxEJ32aTOz_ptjbvKPBL5F4BE9g13rVZIvq-Wg8GzH1E8qp78ejKcTfzBPdygpJzfH8zAJeX-2U&node=2i226",
+              "etag": "0dOCnSh/A52PpkKnjA3cvVA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "dOCnSh/A52PpkKnjA3cvVA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778269392272,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xmE-0tt4Ra-O8LR3q7zztTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "1753004",
+  "share_folder_path": "Aileen Queen Of The Serial Killers (2025)",
+  "media_kind": "movie"
+}
