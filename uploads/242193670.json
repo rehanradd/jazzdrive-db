@@ -1,0 +1,82 @@
+{
+  "name": "The-Strangers--Chapter-2-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\The-Strangers--Chapter-2-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:23:52Z",
+  "remote_folder_id": 1755522,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193670",
+  "tmdb": {
+    "tmdb_id": 1010756,
+    "title": "The Strangers: Chapter 2",
+    "original_title": "The Strangers: Chapter 2",
+    "release_date": "2025-09-25",
+    "year": "2025",
+    "rating": 6.111,
+    "overview": "After learning that one of their victims, Maya, is still alive, The Strangers return to finish the job. With nowhere to run and no one to trust, Maya soon finds herself in a brutal fight for survival against psychopaths more than willing to kill anyone who stands in their way.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pqADzs5SJvI2jC0DThPVMuNJcWS.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/AkzGC9vQbKMHGebetpjBF4bU4VS.jpg",
+    "genre_ids": [
+      27,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193670",
+    "status": "U",
+    "etag": "U9gFIrImBLa3UWxtgnyw4w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193670",
+          "url": "/sapi/download/video?action=get&k=Hh0X2EMIWr2bFs5OsE1lJ_I4aoLPM0zlFMe6NtzpJaG2fLJ5NoX6duoWF2Xx_Ba6pUXTdoZcNotfDdoPUM1i8n-Tv9JpnLxlM4Ld2wekrMGKLvY1oF_EQP81ZyHb6ZOMfRIMWUOzccMVxTNgrGzlUly3gkTWOX-gcsmrMIuQs0lDikrz634&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=EPR3UUgdfq_JRf4-miAc7IDYoFJ63ZbnEFI5Nhq_l9eQWsB-3ImsV85dcR8SNZbKhGk6LFNZL3wjcSDDYxRHyAyVzkMDfMwJv5p1PcNf5KWQC3ld1CwXx4Ovow77YQS14Xod_iPKifyaHMk6gm4Ly9ohNi4o4E7lWVWWxsTSTf80klmiosbNVmqEehNaL5O7vmg&node=2i226",
+          "date": 1778264631903,
+          "creationdate": 1778264570000,
+          "modificationdate": 1778264570000,
+          "uploaded": 1778264622029,
+          "size": 313549050,
+          "name": "The-Strangers--Chapter-2-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5931884,
+            "bitrate": 422866,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=DvxPkD1-oqeoOIIw5aYiqjCMtnZDB0NaH5m1ZhUhORoHUF0eSgy7-NdHdKbaj2JVFHjfEK7BzKuQN7DMgIlYevhKp6IVcv0FXWE-EdmdWkHmS_JXLioi6kveiH4BjvTcV9r6V4mOpMhOIZUuAeURtXGP1yQW6ttrd1D1bm2chZep6fq3fwLZamp2J3IBah6kRDM&node=2i226",
+              "etag": "0U9gFIrImBLa3UWxtgnyw4w=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=EPR3UUgdfq_JRf4-miAc7IDYoFJ63ZbnEFI5Nhq_l9eQWsB-3ImsV85dcR8SNZbKhGk6LFNZL3wjcSDDYxRHyAyVzkMDfMwJv5p1PcNf5KWQC3ld1CwXx4Ovow77YQS14Xod_iPKifyaHMk6gm4Ly9ohNi4o4E7lWVWWxsTSTf80klmiosbNVmqEehNaL5O7vmg&node=2i226",
+              "etag": "0U9gFIrImBLa3UWxtgnyw4w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "U9gFIrImBLa3UWxtgnyw4w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778264631979,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/whBOJYhhQ_OZvTPRTiqvZDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Strangers Chapter 2 (2025)",
+  "media_kind": "movie"
+}
