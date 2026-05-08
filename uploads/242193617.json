@@ -1,0 +1,84 @@
+{
+  "name": "Sorcerer-Heavenly-Master-Dark-Hades-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Sorcerer-Heavenly-Master-Dark-Hades-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:50:51Z",
+  "remote_folder_id": 1754790,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193617",
+  "tmdb": {
+    "tmdb_id": 1673401,
+    "title": "Sorcerer Heavenly Master \u00b7 Dark Hades",
+    "original_title": "Sorcerer Heavenly Master \u00b7 Dark Hades",
+    "release_date": "2025-01-05",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "The ancient heavenly demon is reborn after a hundred years, attempting to unify the three realms. The disciples of the Heavenly Master Way fiercely resist. As the heavenly demon is on the brink of death, it captures its primordial spirit into the body of the next leader, Wang Xuanzhi, waiting for a chance to be reborn. As an adult, Wang Xuanzhi, , in order to suppress...",
+    "poster_path": "https://image.tmdb.org/t/p/w500/m8qxW6QOOxV1teMzsHGIQwAcNgM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mLuBXTg5F6sCeWmYPY09iDFNlWQ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193617",
+    "status": "U",
+    "etag": "I+lVfC7xOJZU/XEe4T6eQw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193617",
+          "url": "/sapi/download/video?action=get&k=qmsB6k3a67iH431C-fCzH-I_1-1k1T0EWpVnuEDvWRc6Am951R8tmNnUMr9SKwnjVMw7xgAS3pwlv5FD4PInynpazKmP5X3YCuRbnN2M00Zn4Gr0PS_xX4WkvASiI3vz3vpVh4qcFdVX4jAJyUT5OzJzDZARgK9i7ZuHe7DVjF2Dd0Q2q8U&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=A90umaHSrVw98mkLktC5vcod0Nec862-kCBoTF2kpWEzGy9X8-AP-t7rolLvmTHHIQa0DgSs01HwI6-pAKTtgNBxPUgfps_A9YTfes5BcZu_jG91y6A7WR4bmLboJDx3TajonxCVetq_vPlKKThUFGf2yToFqgVBR-yjB2iXE2x2fUvrYBw2LzoAn1F_h0-8q2I&node=2i226",
+          "date": 1778262651148,
+          "creationdate": 1778262601000,
+          "modificationdate": 1778262601000,
+          "uploaded": 1778262643102,
+          "size": 245703896,
+          "name": "Sorcerer-Heavenly-Master-Dark-Hades-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 4648120,
+            "bitrate": 422887,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=EBoyjouhn2Mo6Lm46Cs7A3L4aaXlqslvJ_OgOYuTonukcaHChO7fqi7eLekbk4VqiDisfaV_i5-3wFtGg1DiSIz9VMI_hwoXso4q7LaouyAfIEHj7DLgfyhkw06tH8f22PZE-D30B8JtDOfaVs2JlmrDN7Gk193HV1pQ0NdL87TbvisOPFZNYLYA2LiRcr43HTg&node=2i226",
+              "etag": "0I+lVfC7xOJZU/XEe4T6eQw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=A90umaHSrVw98mkLktC5vcod0Nec862-kCBoTF2kpWEzGy9X8-AP-t7rolLvmTHHIQa0DgSs01HwI6-pAKTtgNBxPUgfps_A9YTfes5BcZu_jG91y6A7WR4bmLboJDx3TajonxCVetq_vPlKKThUFGf2yToFqgVBR-yjB2iXE2x2fUvrYBw2LzoAn1F_h0-8q2I&node=2i226",
+              "etag": "0I+lVfC7xOJZU/XEe4T6eQw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "I+lVfC7xOJZU/XEe4T6eQw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778262651253,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/YKq7LnYTSHCQy_hAXhBMTDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Sorcerer Heavenly Master Dark Hades (2025)",
+  "media_kind": "movie"
+}
