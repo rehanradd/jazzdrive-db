@@ -1,0 +1,84 @@
+{
+  "name": "Pets-on-a-Train-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Pets-on-a-Train-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:31:27Z",
+  "remote_folder_id": 1755533,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193687",
+  "tmdb": {
+    "tmdb_id": 1107216,
+    "title": "Pets on a Train",
+    "original_title": "Falcon Express",
+    "release_date": "2025-07-02",
+    "year": "2025",
+    "rating": 6.8,
+    "overview": "When a train unexpectedly starts up, taking only pets with it, the animals discover that Hans, a badger with a grudge is behind it all. While the crash seems inevitable, the animals can count on Falcon, a roguish Raccoon who will do anything to save them.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/b10qy1KwrfmH0MGS2rBUJ0BxgYB.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/3Gjo73aMqNWxNdBa7PeEj7AXJ3E.jpg",
+    "genre_ids": [
+      16,
+      35,
+      12,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193687",
+    "status": "U",
+    "etag": "hff3q6bHwxIkaVr0jtSdAQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193687",
+          "url": "/sapi/download/video?action=get&k=PVtdpHb4qdaBU5RcYW-OTYLTaTHfBPbr6s_LlII6cTFeQ2K8lozM1NYlgOGTEnp30p__iBUjND9oMt9Lzl6V9qVARf8mGRPfe4ZZSd28sOh2fHFkY7x6nUgTrDbufUZmv78fEIjAOoItKByaOspvmBEiR_-nuOOz1l4Ag2aNkMKNiGO4pLI&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=hdy-eKUZY9y5mfgY7L3vipP1SLgU2pAwU_nzi2HTEDgtahfYSp3GCWwXo5jQ2YDyrLKDJOD5v8-fSPQ1dGw9hlSZUNb7ZQWT4Cg8GKgoao-hECtJTlz5ZVXKKd-UEH9Rr9SL5aFHcmZnlq_mMnxDbtRs2-_PAqg7o3wnUVN5pZXp-zbLqlSqK5AA1JyLolhB76A&node=2i226",
+          "date": 1778265086312,
+          "creationdate": 1778265030000,
+          "modificationdate": 1778265030000,
+          "uploaded": 1778265077601,
+          "size": 274358694,
+          "name": "Pets-on-a-Train-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5185376,
+            "bitrate": 423280,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0gBE8eB0dO62Z8f3y4USDwM2WQG_8F84r2nmDACfU6n929JVcpKgjQu8nohfWFdeAcRk7u47PiWtvpY4ANPBuZV6mcpqml148JcvhsKsEioUFT2uTnsNSIsw7CyCudUAO20YvZpKl5xG63FTe_GAGn_M17eGSa8geiAZYPnYAQkYWoSneLrQHRuLkUtdi03Ajwk&node=2i226",
+              "etag": "0hff3q6bHwxIkaVr0jtSdAQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=hdy-eKUZY9y5mfgY7L3vipP1SLgU2pAwU_nzi2HTEDgtahfYSp3GCWwXo5jQ2YDyrLKDJOD5v8-fSPQ1dGw9hlSZUNb7ZQWT4Cg8GKgoao-hECtJTlz5ZVXKKd-UEH9Rr9SL5aFHcmZnlq_mMnxDbtRs2-_PAqg7o3wnUVN5pZXp-zbLqlSqK5AA1JyLolhB76A&node=2i226",
+              "etag": "0hff3q6bHwxIkaVr0jtSdAQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "hff3q6bHwxIkaVr0jtSdAQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778265086385,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/vCavw-DfSBOdxdZu0VNbmjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Pets On A Train (2025)",
+  "media_kind": "movie"
+}
