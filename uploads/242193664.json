@@ -1,0 +1,82 @@
+{
+  "name": "Xeno-(2025)-Hindi-Dubbed--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Xeno-(2025)-Hindi-Dubbed--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:22:39Z",
+  "remote_folder_id": 1755521,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193664",
+  "tmdb": {
+    "tmdb_id": 1119377,
+    "title": "Xeno",
+    "original_title": "Xeno",
+    "release_date": "2025-09-19",
+    "year": "2025",
+    "rating": 5.5,
+    "overview": "A teenage girl develops an otherworldly bond with an alien after it crash-lands in the desert. As government agents close in, she must protect her new friend, while uncovering a secret that could change the fate of both their worlds.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/bXJD04oDre4ZiW6CapzBuJyyp4w.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xZjnJupgEYI5fDVY9siyiiGKtK6.jpg",
+    "genre_ids": [
+      12,
+      18,
+      9648,
+      878
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193664",
+    "status": "U",
+    "etag": "RactlGjliIIidtZ07KnZVA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193664",
+          "url": "/sapi/download/video?action=get&k=KhIGOQMdV4uyIWlwIxcbsf3ScNknZNZsBvETgzYvscn71zjnyFrs8gpzMMwhATdjfxfWYE5io8tbcOd80fFGq_DnJqtY_ThqUQjl9lAnwi7fyTx4G4ZvYR64wqzkPNGaWKSkHRIQvZSme4rREj9FHgCQgmlP3h3KgD68EOT64cdrqnL9mk4&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=cDdaL3gVjRk19HpWFza4oi8Q0BS17_1bXBoRK5YBeCMnxPfZJvSJDqZbZ5WrQRTCGPJq87kX0GBdo6X8qYRB7BVePsDx9nRxYS8HKP9EoIKVDd4P_1Yk4Z3II5vC1hkwm6eXnY8QWKrPS_ShfSfYgp74NKkaNKUdHph-Lw2KPao8cVMdgcCinzIITYmBZ4UPlfI&node=2i226",
+          "date": 1778264558964,
+          "creationdate": 1778264491000,
+          "modificationdate": 1778264491000,
+          "uploaded": 1778264548197,
+          "size": 332663294,
+          "name": "Xeno-(2025)-Hindi-Dubbed--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6228448,
+            "bitrate": 427282,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=2BRB-nUfsfGCGOaOw8PRip_6kTo6a3miX7uy9y3tq9p0NUhJabSSIX3NSvCQjXxsfjZXl9eCkt80XxVi81g82GG22ftE9SsT5yJbJkAxNWXJ_OBS8VdEb6fQXK2NEh7h-b8GqGeZHmOmio6NHkySLgTDxhDQ4TAJIfcaGk_IATaqXG4MfjWWBpXKTRkoxyQwGO4&node=2i226",
+              "etag": "0RactlGjliIIidtZ07KnZVA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=cDdaL3gVjRk19HpWFza4oi8Q0BS17_1bXBoRK5YBeCMnxPfZJvSJDqZbZ5WrQRTCGPJq87kX0GBdo6X8qYRB7BVePsDx9nRxYS8HKP9EoIKVDd4P_1Yk4Z3II5vC1hkwm6eXnY8QWKrPS_ShfSfYgp74NKkaNKUdHph-Lw2KPao8cVMdgcCinzIITYmBZ4UPlfI&node=2i226",
+              "etag": "0RactlGjliIIidtZ07KnZVA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RactlGjliIIidtZ07KnZVA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778264559063,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/JYS2xtEfSBCC407XG40SyTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Xeno (2025)",
+  "media_kind": "movie"
+}
