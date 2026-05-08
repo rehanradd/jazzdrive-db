@@ -1,0 +1,81 @@
+{
+  "name": "It-Feeds-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\It-Feeds-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:37:58Z",
+  "remote_folder_id": 1755520,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194306",
+  "tmdb": {
+    "tmdb_id": 1145221,
+    "title": "It Feeds",
+    "original_title": "It Feeds",
+    "release_date": "2025-04-17",
+    "year": "2025",
+    "rating": 6.738,
+    "overview": "A clairvoyant therapist confronts her own personal demons while trying to save a young girl who believes a malevolent entity is feeding on her.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/uC3lzzgOUgkubje7HR20qznAAGj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/vyJxZSLdgCmUEZlc6OhyJUDqTjA.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194306",
+    "status": "U",
+    "etag": "dWfBD2WKSHACqksAJDaYQQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194306",
+          "url": "/sapi/download/video?action=get&k=ojc4c0nqVrPpYYNgwUCahquuofOy77Q68yrtPgF82UUN38oqN_nEaa4uOIIlbuJmARRvPGJ63gvubmnSktHK7mLsfX87iqlybL9eGy7pAyvo1m9dxIZ4wo2OGOUCQDWpkv3d_S-qXTGFV8ugFRrIFCA4evQVWBYcEug3SBn48MBHm63Bfec&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=yYBg-svPt7WP0svsBTcns_g58JdXJOHb9ubB8exy53pG_XLqZgmUVo2tJ_KlS5Tkz1jO18sr_YJRZ0oJKug3aEzX-4cNsdlhxIoFNC4nMo0i_LLPr8AaR58KCJDeC-7FfYBwazhR8fC7yDyHAtsTaz_ux1w2Cq2zaTAukbZfspIjJhqRjit1TFndZ1wpqhGsLD4&node=2i226",
+          "date": 1778265478097,
+          "creationdate": 1778265414000,
+          "modificationdate": 1778265414000,
+          "uploaded": 1778265467665,
+          "size": 330290805,
+          "name": "It-Feeds-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6112403,
+            "bitrate": 432289,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=1e3Q3dmdFVjPRzIEEO8NFksSMAjZ5vjH9WGSPU9tTiMFfeBrX-5-u14lx8OoY5l7HbUGgQTejPhaU33KPk3U3N-50tDI7f6-6dgXdXkYFVHMv8MwsvgJbbFAJM32kSihxZTWfGYYJs4sscBnSEaLM_OQIRvE0EFScAGSqak_L8PyGIxKu3jJkGazl81VIrCkYZ4&node=2i226",
+              "etag": "0dWfBD2WKSHACqksAJDaYQQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=yYBg-svPt7WP0svsBTcns_g58JdXJOHb9ubB8exy53pG_XLqZgmUVo2tJ_KlS5Tkz1jO18sr_YJRZ0oJKug3aEzX-4cNsdlhxIoFNC4nMo0i_LLPr8AaR58KCJDeC-7FfYBwazhR8fC7yDyHAtsTaz_ux1w2Cq2zaTAukbZfspIjJhqRjit1TFndZ1wpqhGsLD4&node=2i226",
+              "etag": "0dWfBD2WKSHACqksAJDaYQQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "dWfBD2WKSHACqksAJDaYQQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778265478174,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/-nALAMBdRJ-ethvEsh5EmDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "It Feeds (2025)",
+  "media_kind": "movie"
+}
