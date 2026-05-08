@@ -1,0 +1,82 @@
+{
+  "name": "Love-Me-Love-Me-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Love-Me-Love-Me-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:00:04Z",
+  "remote_folder_id": 1754758,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193312",
+  "tmdb": {
+    "tmdb_id": 1317672,
+    "title": "Love Me Love Me",
+    "original_title": "Love Me Love Me",
+    "release_date": "2026-02-12",
+    "year": "2026",
+    "rating": 5.741,
+    "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James\u2014hiding a dangerous life in clandestine MMA fights\u2014sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193312",
+    "status": "U",
+    "etag": "Ft30796CZkX3AzdSgibGOw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193312",
+          "url": "/sapi/download/video?action=get&k=1STMcJ9X3rjYiAdPkRyjUwRfpSQc-RrezXaOfFLLjUlb6K5HqCXgW9eTUO2Pt6whq07ecW3lf4jAID_OV7LcPm2rURWo1MsMmhGqOBH2L0N9nYmP7k5EEzytXf--XJAE7woCog5X0LXgrRJg0UzORiwOe22u6NclHFEOswSK0uzfPaRzZ3Y&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=9edHt91xhkr3X8ifRDYQ_PPObMCPE-uydRI3p7hcad-oQN0Ue2X3jzqThRnOsVWyO1uESU-qy2iZx8fWy0HsnVOhWJvXJyMse19nKO5gq4B-r88JU7fNEoXKfzDF_Y3Vn4itSs4lQ6Gj15apGsYGdrKohAcE1OjW2meJOPhTfllrs7lraKDjfklcHIEGAUdOXlc&node=2i226",
+          "date": 1778259602996,
+          "creationdate": 1778259560000,
+          "modificationdate": 1778259560000,
+          "uploaded": 1778259590830,
+          "size": 311375078,
+          "name": "Love-Me-Love-Me-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5990944,
+            "bitrate": 415794,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=T-Rc8Pka19PtKezD3Fy5sW44hB9jUY8DgoGUAHTEGGTL0QSQsGIy-JD8TsUMa-OsjbJ9XchThSuv89xhoXYhra-z1ECdUU1_6n1bPdu3m24ERd9q-xMEpXbMGUjvaP63ro0NCQg6PNdZKO83Wv0xIxL7R3JMWnXnUCnCmc8cvgDEw4ao5FYA_HFxvHX_OtkHQPQ&node=2i226",
+              "etag": "0Ft30796CZkX3AzdSgibGOw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=9edHt91xhkr3X8ifRDYQ_PPObMCPE-uydRI3p7hcad-oQN0Ue2X3jzqThRnOsVWyO1uESU-qy2iZx8fWy0HsnVOhWJvXJyMse19nKO5gq4B-r88JU7fNEoXKfzDF_Y3Vn4itSs4lQ6Gj15apGsYGdrKohAcE1OjW2meJOPhTfllrs7lraKDjfklcHIEGAUdOXlc&node=2i226",
+              "etag": "0Ft30796CZkX3AzdSgibGOw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Ft30796CZkX3AzdSgibGOw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778259603342,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/DUAPXP-kR4OMR_h6_C4msjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Love Me Love Me (2026)",
+  "media_kind": "movie"
+}
