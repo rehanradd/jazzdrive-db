@@ -1,0 +1,82 @@
+{
+  "name": "Jay-Kelly-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Jay-Kelly-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:09:36Z",
+  "remote_folder_id": 1755580,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194485",
+  "tmdb": {
+    "tmdb_id": 1069905,
+    "title": "Jay Kelly",
+    "original_title": "Jay Kelly",
+    "release_date": "2025-11-14",
+    "year": "2025",
+    "rating": 6.149,
+    "overview": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wR9D9hQvCVBux16NauY4b7letdU.jpg",
+    "genre_ids": [
+      18,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194485",
+    "status": "U",
+    "etag": "Yz7utIgyHXme59FixML9Aw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194485",
+          "url": "/sapi/download/video?action=get&k=RyqmyjrTfaPl5Ui10WmbRRvIMXvndsFGAJ8OQzonjC1R0Jzwo3cTNvKxPXHYWAuJlpX91pgQH0ZuprGIqFwEgWfmmOXHhGFxuU2YgZdGS2ECDAcbwuEWLHQJLELLpFpnhK6QVeUTb45VVgVfm_E__I2i-5xt-KErovaM4EsgChI-BxbJrow&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=Itnt9bkcvG2xo6ISJgh8OQJLORWByKF0hMezDtJFXeyB8aHTh1Uv1hxz54-gErBSy3e5jT6D8WbrCZwSDGgVY42iIZMOCXF_lySGIIxhimdtQB2wVXLzeroLCQU4K1jQiOHqk382uYPxH_wl_3M2AAN-2YcKePWirj8QcxdTCvM6QsM7vvOr3ZHGy4Ze4xroZHY&node=2i226",
+          "date": 1778267375558,
+          "creationdate": 1778267294000,
+          "modificationdate": 1778267294000,
+          "uploaded": 1778267362654,
+          "size": 415376130,
+          "name": "Jay-Kelly-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8029440,
+            "bitrate": 413853,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=wCgTrXPi4ZvzWGm3CANFlaLlySYqZGqvq-QU1wYhnQh4opaAD_mr8K7vqzlDJcowl63a8cfJk1hCSVWLwUbcT91a96YkxpyJT6eyiWR5o1QtEyiLqxZEKwDKPsF9ihXNUbdE-PORdltoUMc1QvTQIraLFNJfneaRSkIwh9CikojI7_9CRcp6sYW0NXyMm7LLyUI&node=2i226",
+              "etag": "0Yz7utIgyHXme59FixML9Aw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Itnt9bkcvG2xo6ISJgh8OQJLORWByKF0hMezDtJFXeyB8aHTh1Uv1hxz54-gErBSy3e5jT6D8WbrCZwSDGgVY42iIZMOCXF_lySGIIxhimdtQB2wVXLzeroLCQU4K1jQiOHqk382uYPxH_wl_3M2AAN-2YcKePWirj8QcxdTCvM6QsM7vvOr3ZHGy4Ze4xroZHY&node=2i226",
+              "etag": "0Yz7utIgyHXme59FixML9Aw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Yz7utIgyHXme59FixML9Aw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778267375655,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/-XARUs--QemxZI2ztYc2Ejk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Jay Kelly (2025)",
+  "media_kind": "movie"
+}
