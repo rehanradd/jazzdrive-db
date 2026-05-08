@@ -1,0 +1,82 @@
+{
+  "name": "Twinless-(2025)-Hindi-Dubbed--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Twinless-(2025)-Hindi-Dubbed--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:01:51Z",
+  "remote_folder_id": 1755567,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194449",
+  "tmdb": {
+    "tmdb_id": 1245347,
+    "title": "Twinless",
+    "original_title": "Twinless",
+    "release_date": "2025-09-04",
+    "year": "2025",
+    "rating": 7.258,
+    "overview": "Two men who lost their respective twin brothers develop a growing friendship after meeting in a support group. However, both harbor long-hidden secrets that threaten to tear them apart.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9vaw9Az5tPLMjNLj426KgKsp0k8.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fnvTC96lA7pf8ZlMKI2FgBZ86AP.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194449",
+    "status": "U",
+    "etag": "dI+L+wjhKLfIXo1dVEz7tg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194449",
+          "url": "/sapi/download/video?action=get&k=4DHclHdg_v5gN3oV6GbBWWSZMmuFnl0W_5XZ4ZRE7aqNQM-cOpWOLXNBVu-VeiU6dRNcm-q4URaVYAxLzKHQBlYx8nPSIAeyMOo_70uXfY2zIJumBt04sUklezw6KrD00qIGFel8s_1_JUPtqfHo5EaocUf3470yZmBBADBnL7MgtRqNY-Q&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=NV_GWvDmzuCiOLK2vpVEwqX5GRLZUZLt0lWeCTD572y17EQd1U-l4_rWUQ5ScFAGoJDP650SuqVXRWViqxM5pu1QzEvRfAb-rDk6gGSaj4uh5BkWaSyw1yXwcCWKBRHtrSn7FUaEPeAsssHen1CFa4Afg3yDt09HhXurX96HCl44PiLW21Y_r_QKBpQSygynx-U&node=2i226",
+          "date": 1778266910675,
+          "creationdate": 1778266844000,
+          "modificationdate": 1778266844000,
+          "uploaded": 1778266900176,
+          "size": 329098381,
+          "name": "Twinless-(2025)-Hindi-Dubbed--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6175571,
+            "bitrate": 426322,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Apnp9CORY4pRjAMKRKw2wDOXQCXW6PwRfwAOrEz65T9CHdS3upa7TSTniNZ0AUD8tVfQ1-9D01-DvFHE5NkXQq5O3hqAP3sZEB62MyONFxtejh0SLB5Smlj8MK4poIfH2ljvF47R-LhgU3rSM1r_VDhFNZ41CM3zFOMGhpymu7TJxyjXLM7-w6Bo0diyLGbrc64&node=2i226",
+              "etag": "0dI+L+wjhKLfIXo1dVEz7tg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=NV_GWvDmzuCiOLK2vpVEwqX5GRLZUZLt0lWeCTD572y17EQd1U-l4_rWUQ5ScFAGoJDP650SuqVXRWViqxM5pu1QzEvRfAb-rDk6gGSaj4uh5BkWaSyw1yXwcCWKBRHtrSn7FUaEPeAsssHen1CFa4Afg3yDt09HhXurX96HCl44PiLW21Y_r_QKBpQSygynx-U&node=2i226",
+              "etag": "0dI+L+wjhKLfIXo1dVEz7tg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "dI+L+wjhKLfIXo1dVEz7tg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778266910748,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/FiIzHZxDS2CD7fMphwJz_Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Twinless (2025)",
+  "media_kind": "movie"
+}
