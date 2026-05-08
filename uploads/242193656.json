@@ -1,0 +1,82 @@
+{
+  "name": "Wanted-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Wanted-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:19:57Z",
+  "remote_folder_id": 1755518,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193656",
+  "tmdb": {
+    "tmdb_id": 1462471,
+    "title": "Wanted",
+    "original_title": "\u6c5f\u6e56\u901a\u7f09\u4ee4",
+    "release_date": "2025-04-13",
+    "year": "2025",
+    "rating": 3.8,
+    "overview": "When one of three sworn brothers betrays the others in a ruthless bid for power, the bond they once shared is shattered. Years later, the youngest brother, Ye Liang, rises from near death to protect his fallen brother\u2019s daughter and fulfill a blood oath\u2014risking everything to bring the traitor to justice.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/s8fTavgqVsjXQNP048NaL7Q0EuP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/5QXzYHhodJorIOMjL5EtG0Egc7L.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193656",
+    "status": "U",
+    "etag": "seUg8mpdZHEH7Zl73DemfA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193656",
+          "url": "/sapi/download/video?action=get&k=TdmaA6th3au2ybRpc946NKgIghtlkkr8_t8JsFxkwsfJhiAQR4JGbDapok2vJU06G_HkJXlr--oAQYaock8BOwx17B0HMJidKRcKGQyJfXoqE0qvIabRzdMu_Mq2FdaKVHAEt-qtgnk_yDWxe35icpIWXxUorCQmzDWKCifZ3riGfr0L_Zo&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=eRpgrS8984FGIAOhltRjzYZf08HSh5kUBVEyU4nOKLndkXIcJKgFxT4r4KhKNC2dbnYnktqmD8loYeEp7fVCXqlKNUhuJ97zQ2l2KZrB6kNKv2aHsdd5l9yFhFr1qXoQN1BBLsO7xw2icTVWbF4I7uawafSzCk9puJ_hx_Vwsa2UhbEuBdTIdmkmMwmQFS3Vn-k&node=2i226",
+          "date": 1778264397058,
+          "creationdate": 1778264339000,
+          "modificationdate": 1778264339000,
+          "uploaded": 1778264383666,
+          "size": 267459038,
+          "name": "Wanted-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5173280,
+            "bitrate": 413600,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ZtKMMQ7heLjBuAwU2eBTeuS9rQykOxc-oIjBCONAZnAs_kKXoMRSXt5tguoyQJnz7LhbqRCCEIotSuAp2Zw5afoajWzINhVdW-w06LEkO6lYo94mRP3zxmO17Nukv7N1bDAoJXOHo73meMDgRSnT4VCnlbyKsWNlDnxUYPIo7xQTrNFwbkxL7R4ksCFI31wgfw0&node=2i226",
+              "etag": "0seUg8mpdZHEH7Zl73DemfA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=eRpgrS8984FGIAOhltRjzYZf08HSh5kUBVEyU4nOKLndkXIcJKgFxT4r4KhKNC2dbnYnktqmD8loYeEp7fVCXqlKNUhuJ97zQ2l2KZrB6kNKv2aHsdd5l9yFhFr1qXoQN1BBLsO7xw2icTVWbF4I7uawafSzCk9puJ_hx_Vwsa2UhbEuBdTIdmkmMwmQFS3Vn-k&node=2i226",
+              "etag": "0seUg8mpdZHEH7Zl73DemfA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "seUg8mpdZHEH7Zl73DemfA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778264397214,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/hmFRc-odQcWxrLWJBrMUbzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Wanted (2025)",
+  "media_kind": "movie"
+}
