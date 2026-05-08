@@ -1,0 +1,83 @@
+{
+  "name": "The-Big-Fake-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\The-Big-Fake-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:09:02Z",
+  "remote_folder_id": 1754767,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193328",
+  "tmdb": {
+    "tmdb_id": 1443762,
+    "title": "The Big Fake",
+    "original_title": "Il falsario",
+    "release_date": "2025-10-19",
+    "year": "2025",
+    "rating": 6.58,
+    "overview": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere \u2014 from art galleries to state secrets. Between art, crime, and power, his signature ends up everywhere \u2014 even in the history of Italy.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/A188B94iDLdB6499QBYbz74WgOF.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uHavtqbnMDcwqVK9Y94ZQSWxtCw.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193328",
+    "status": "U",
+    "etag": "1aK0X6W60qcY/HWLGr3nEw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193328",
+          "url": "/sapi/download/video?action=get&k=aj2vE74Vim8eZhN8X--UZBtLaT61cfSNa6eZwmkA1JbW6r9Ljj1MOcy_fOClkBt-3SZN2-2_Ui95O4ZxKPvupfwZ7T5EdA83Nh3i1Z02W41XYIlAPPaI8_-auNvhKlcmmwxnfWlk3ZgN_eHK6IZitxzzNNhyr2nNN6DeiReFboodWblL2Lc&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=GP4RP0SHm_hCzGGB6fzctNyzqDComAv5vlX4hGijEpO_ViaaugG_CJpl_Qyu0Ya4pjxLH9lpcMzl9eGZ0EJokj0E9jScBmr6LMhaUDCH_Us8oFYXpz3uLGu9RyUy7Se13TNuyj_DSfyt11TfafeXPtphq-NrE_pJsOqN_C5XPOyhCKp2E07g1TOxXpkxnXH3Nr0&node=2i226",
+          "date": 1778260141352,
+          "creationdate": 1778260071000,
+          "modificationdate": 1778260071000,
+          "uploaded": 1778260130497,
+          "size": 362433012,
+          "name": "The-Big-Fake-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6936921,
+            "bitrate": 417975,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6N3BuQLnaPUOCpPp-TYScHvr2w8IdU2UgFcxNzAw7Luonw2sO24FGSMWlCl1dZdWVOV4zN1PDx_Tl7pOjdp7u6jYjOKUYM7-mjuZYtSGMvLUXT_Ebx3bDsS6YnkE3q3hjYHMBEj4qJHIBI2JndGSvZKnDQf1iPcdG5ZPwl7yO7B41EuzNkS2mDKVlnnbl-ABYtY&node=2i226",
+              "etag": "01aK0X6W60qcY/HWLGr3nEw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GP4RP0SHm_hCzGGB6fzctNyzqDComAv5vlX4hGijEpO_ViaaugG_CJpl_Qyu0Ya4pjxLH9lpcMzl9eGZ0EJokj0E9jScBmr6LMhaUDCH_Us8oFYXpz3uLGu9RyUy7Se13TNuyj_DSfyt11TfafeXPtphq-NrE_pJsOqN_C5XPOyhCKp2E07g1TOxXpkxnXH3Nr0&node=2i226",
+              "etag": "01aK0X6W60qcY/HWLGr3nEw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "1aK0X6W60qcY/HWLGr3nEw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778260141423,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/8HxExpv_Tke-6x8TjYtv3Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Big Fake (2026)",
+  "media_kind": "movie"
+}
