@@ -1,0 +1,82 @@
+{
+  "name": "Shark-Terror-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Shark-Terror-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:02:52Z",
+  "remote_folder_id": 1755569,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194455",
+  "tmdb": {
+    "tmdb_id": 420074,
+    "title": "Shark Terror",
+    "original_title": "Shark Terror",
+    "release_date": "2025-07-11",
+    "year": "2025",
+    "rating": 3.25,
+    "overview": "After falling overboard during a cruise, a young woman washes ashore \u2013 injured, stranded, and stalked by sharks \u2013 as her desperate mother races to find her.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hPRoBl2iaE2RIIFkUfwgXWSuBy9.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wTlbCRdP7ptrQmMQsl1pLkdAWKE.jpg",
+    "genre_ids": [
+      27,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194455",
+    "status": "U",
+    "etag": "c0UHYEB8W6TDNCdMQz2brg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194455",
+          "url": "/sapi/download/video?action=get&k=uO7NyanwP-hpXotT6AwXp0ouITXMmBE9eNZvBK9ewus4coPF5zsLweAkwB75dlSsYoIDq3pEWNIIArFB694npbN245FaN5o6VuhDRfuy7lfj9ixp2pqP7riRQOoB7l1tcd1F8uid-97Vw4gz3jL468V07v5DJjkq09HLyM0I0exu0lgGMGU&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=VPSoiGRFgBmUrKqwDaYkCdWHLxSZEOtLnwpTT2q2OBgO7gjIsw_KG41p-Z5AdfwZe0rhOR-GIkQ0cJ5xHyzBAWwPW7UGSGMSXYTySgshCyiDusH2J0hFlJZZ-tmdXvQXlqtdmj6psO-klWpp5vZT0e1bm6WrpRk8WOlKyW007DTxaEk5mL_QgBapssr2Tj-2an4&node=2i226",
+          "date": 1778266971842,
+          "creationdate": 1778266920000,
+          "modificationdate": 1778266920000,
+          "uploaded": 1778266963372,
+          "size": 267692192,
+          "name": "Shark-Terror-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5113156,
+            "bitrate": 418828,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=7OP8YxeQbc-AcYYdvOYlNL8U1Tm07gOaIInj5qyCZvUVdSfaSNNLqPvbp6OZhBss5vwDrFa0uwpzd4uIn6hNEMuQTLdvk5T4lAwGDvPRRe_eolK_gHg1VwdK6_WsbNZkZZ5Z4Uq7stDajbOibnDyX9yjs92xCb9qirBRgAtc4hJiWKlx_s78cTDLe2IdzvfhHJM&node=2i226",
+              "etag": "0c0UHYEB8W6TDNCdMQz2brg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=VPSoiGRFgBmUrKqwDaYkCdWHLxSZEOtLnwpTT2q2OBgO7gjIsw_KG41p-Z5AdfwZe0rhOR-GIkQ0cJ5xHyzBAWwPW7UGSGMSXYTySgshCyiDusH2J0hFlJZZ-tmdXvQXlqtdmj6psO-klWpp5vZT0e1bm6WrpRk8WOlKyW007DTxaEk5mL_QgBapssr2Tj-2an4&node=2i226",
+              "etag": "0c0UHYEB8W6TDNCdMQz2brg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "c0UHYEB8W6TDNCdMQz2brg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778266971915,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/nM9vFN5GScKm5X__6I6pZjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Shark Terror (2025)",
+  "media_kind": "movie"
+}
