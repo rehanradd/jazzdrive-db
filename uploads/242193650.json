@@ -1,0 +1,85 @@
+{
+  "name": "Turbulence-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Turbulence-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:16:24Z",
+  "remote_folder_id": 1755513,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193650",
+  "tmdb": {
+    "tmdb_id": 1401778,
+    "title": "Turbulence",
+    "original_title": "Turbulence",
+    "release_date": "2025-11-26",
+    "year": "2025",
+    "rating": 6.7,
+    "overview": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pilot Harry are joined by a third passenger, Julia, events unfold in ways they could never imagine five thousand meters in the air.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
+    "genre_ids": [
+      53,
+      28,
+      12,
+      18,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193650",
+    "status": "U",
+    "etag": "LrHiMwTBqA3IIInxeBC+2g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193650",
+          "url": "/sapi/download/video?action=get&k=vu8_eWuwVjuFeMcALW-yiBCFmFL6L14QXuIQmcqQxhnuEY3ax4kIMBBpXcX0U3z5fRigtbgY8xasa59fa0_XYp6j6gmPSuvJR75vTzmSt7altivlvcx3UEUQpGqiM3EWhzvQeLNZCJCbfDbK7xtOlVvzkA_1Nyo6fUsXeRX7CO_NFL3jEyo&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=KcArUp0sXuJB65wUMLVXXV484ltffmRIBUipQxdLJAWAcZWy4YmOgHoQfAZmRHskWSyEknwhKBQ2HPQLIlpKa_Sn5H7LsZTHxj5Nl7UyByi8oBO_2ed89PnPNJVtrdb9ROO4cuf8q8LhG9jXDhtvnsKI-qW7EvftIAixI87zgFVJqL38WdSqDmqgNLvPHp-irIs&node=2i226",
+          "date": 1778264183601,
+          "creationdate": 1778264123000,
+          "modificationdate": 1778264123000,
+          "uploaded": 1778264173834,
+          "size": 304759373,
+          "name": "Turbulence-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5753096,
+            "bitrate": 423784,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=GxM2iDaZCG2iBRrAu2A2uuGy2FfM70UVhljSFshOprJDP6coNAF5L3H9k_2fgPWxiCHEgAaWUYx9p8ylezSlRfrzq8kB-4NK_UIduMmKu2HfkJlWSX14h_dp6t-4auygu0elVpbCzjbxjVkywP-L8FTpGGa6DSBMiGYTy4qWRAOTfVbS8koQG8_39V3ppFDVDWw&node=2i226",
+              "etag": "0LrHiMwTBqA3IIInxeBC+2g=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=KcArUp0sXuJB65wUMLVXXV484ltffmRIBUipQxdLJAWAcZWy4YmOgHoQfAZmRHskWSyEknwhKBQ2HPQLIlpKa_Sn5H7LsZTHxj5Nl7UyByi8oBO_2ed89PnPNJVtrdb9ROO4cuf8q8LhG9jXDhtvnsKI-qW7EvftIAixI87zgFVJqL38WdSqDmqgNLvPHp-irIs&node=2i226",
+              "etag": "0LrHiMwTBqA3IIInxeBC+2g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "LrHiMwTBqA3IIInxeBC+2g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778264183685,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/X5zFE5jiRp2O0mq8o6Ju-Tk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Turbulence (2025)",
+  "media_kind": "movie"
+}
