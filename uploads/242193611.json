@@ -1,0 +1,84 @@
+{
+  "name": "Scarlet-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Scarlet-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:36:47Z",
+  "remote_folder_id": 1754785,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193611",
+  "tmdb": {
+    "tmdb_id": 1406657,
+    "title": "Scarlet",
+    "original_title": "\u679c\u3066\u3057\u306a\u304d\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8",
+    "release_date": "2025-11-21",
+    "year": "2025",
+    "rating": 7.3,
+    "overview": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not achieve her revenge against her nemesis and reach the \"No End Place,\" she will become \"Void\" and cease to exist. Can Scarlet find a way to live at the end of her endless journey?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4ZZiOP4Imzv6ULF9QczvfQ1VdEO.jpg",
+    "genre_ids": [
+      16,
+      28,
+      18,
+      878
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193611",
+    "status": "U",
+    "etag": "VcMxcdlzouty6bf7Cqp/mQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193611",
+          "url": "/sapi/download/video?action=get&k=wR4uVY1HDS8vZi5pKMbOk-C1k5G_VjQ3CJsnPA7RCiHJznn2ExDSxy1Ld9OnOUWtLeJv4xvFDoQc1bfQouUU-l6Sf-Rzevynp0eGNZhf4l5eA2ifv6_GcLYbr50GTjdVnU3pp36VXSCGjn2pYhr_bXlIWD6d9kWxY8boHDqeW9TJQXoynG0&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=IJshHXCX2l6cNP5FjQje3uoeTvgbaGkR2Dks_8WOCv6VZsle3jJY5k3ihpQJO4AhINrGjhidnnZw-lUGkE7YbfXZRm_1jN4bXVa1ttDpqXj2NHNdx-DxNnI5roFwFUC33zLd1_2OBgQ8quwirALrx02fNV6ju11t4Q_duLAvOJfx-jqDqGci6rAU8UHSLIY06GM&node=2i226",
+          "date": 1778261806733,
+          "creationdate": 1778261731000,
+          "modificationdate": 1778261731000,
+          "uploaded": 1778261793492,
+          "size": 353451883,
+          "name": "Scarlet-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6786989,
+            "bitrate": 416622,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=i-emkk_E5KhxlNv96fdlTgYCsBTL-9tw524mtq2Ye67seWaR6ahnUqnaU_VkhaGjX4_VHdrycsVt6E0SvhVQfPwVyWjBSbpdE5GKanThNtVQOQKcd8lCLKYnLTDv0Vusm3lmPalLPbxQUuRVmOefNYESxykBzXW0_SZ7TsR9izi8dYNK39KajnIkKItOxNgKeXQ&node=2i226",
+              "etag": "0VcMxcdlzouty6bf7Cqp/mQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=IJshHXCX2l6cNP5FjQje3uoeTvgbaGkR2Dks_8WOCv6VZsle3jJY5k3ihpQJO4AhINrGjhidnnZw-lUGkE7YbfXZRm_1jN4bXVa1ttDpqXj2NHNdx-DxNnI5roFwFUC33zLd1_2OBgQ8quwirALrx02fNV6ju11t4Q_duLAvOJfx-jqDqGci6rAU8UHSLIY06GM&node=2i226",
+              "etag": "0VcMxcdlzouty6bf7Cqp/mQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "VcMxcdlzouty6bf7Cqp/mQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778261806798,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/PCXgy81CThyFNpJXHEI-Pzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Scarlet (2025)",
+  "media_kind": "movie"
+}
