@@ -1,0 +1,82 @@
+{
+  "name": "This-is-I-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\This-is-I-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:00:32Z",
+  "remote_folder_id": 1754759,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193314",
+  "tmdb": {
+    "tmdb_id": 1570282,
+    "title": "This Is I",
+    "original_title": "This is I",
+    "release_date": "2026-02-10",
+    "year": "2026",
+    "rating": 6.895,
+    "overview": "Bullied for wanting to be an idol, Kenji finds belonging in a cabaret and help from a trailblazing doctor, emerging onstage as her true self, Ai Haruna.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3aMYB238ZU2GPjP7YAvcIzPjQaN.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6aa0MMYI0cnrAw2ra3E5CmfHfUV.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193314",
+    "status": "U",
+    "etag": "ffcduC+tM23TrDsCGvO7sg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193314",
+          "url": "/sapi/download/video?action=get&k=UdZCocs6_kQL29xrKUlDH-KhUZgPQdrnguPiffNBnbKlwYPSrDhMNRr6jOQaYRO7nqwBH9DCP7xsTquthgi7xiGEi5WyzFBhPbWrE_F5cpH-roiGFK7XenxESQbJY7L71HXV0NI0ybZlqb16xEsoDjbm8hr6uZ4QiCt1qtJ8bRnMwCU6euA&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=Sl5DWbBXCPzUwTlnIvxCI8awkxIRggKSLPDCV1nT_-DwPjZgegGyHwQ7g05oT58OOLSs7wu7I0qqdedcRE5viKafroCPWImv1VqG511VW9ifCyEVuQWUktmNpuMnOSgpWKLzk9jj5K6qGIdTsXjB1qnexgYKrR0pc7OWbd8UgW62bTUsEjUS26seQGQBfRI78a8&node=2i226",
+          "date": 1778259632010,
+          "creationdate": 1778259584000,
+          "modificationdate": 1778259584000,
+          "uploaded": 1778259618300,
+          "size": 409457622,
+          "name": "This-is-I-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7840597,
+            "bitrate": 417782,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=MZiNI3m7ZzmqjQb5mC5e_kZ4L8UFgEXKNb6pGkA6miwy7U8dT6Kav2YMi6wYxFv31zJRLdSww0VA9agdrz4RO7ty_DxEH_phbiS4pBJoiYWo8hC5s2-rL1FtCwnNgUgI44cdTvWF3v1f0PF4O6YoTyX2G-uewfndcLQq1wFV9roRRM43zaE4s8sObDvYGQV7wrc&node=2i226",
+              "etag": "0ffcduC+tM23TrDsCGvO7sg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Sl5DWbBXCPzUwTlnIvxCI8awkxIRggKSLPDCV1nT_-DwPjZgegGyHwQ7g05oT58OOLSs7wu7I0qqdedcRE5viKafroCPWImv1VqG511VW9ifCyEVuQWUktmNpuMnOSgpWKLzk9jj5K6qGIdTsXjB1qnexgYKrR0pc7OWbd8UgW62bTUsEjUS26seQGQBfRI78a8&node=2i226",
+              "etag": "0ffcduC+tM23TrDsCGvO7sg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ffcduC+tM23TrDsCGvO7sg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778259632104,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/qSfhIJedTWSgM8_7CqMfjTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "This Is I (2026)",
+  "media_kind": "movie"
+}
