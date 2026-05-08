@@ -1,0 +1,84 @@
+{
+  "name": "Chainsaw-Man-The-Movie-Reze-Arc-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Chainsaw-Man-The-Movie-Reze-Arc-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:14:17Z",
+  "remote_folder_id": 1754774,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193356",
+  "tmdb": {
+    "tmdb_id": 1218925,
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "original_title": "\u5287\u5834\u7248 \u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3 \u30ec\u30bc\u7bc7",
+    "release_date": "2025-09-19",
+    "year": "2025",
+    "rating": 8.318,
+    "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/rI4waA7VlRAynrYUUpiPScsdPm8.jpg",
+    "genre_ids": [
+      16,
+      28,
+      10749,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193356",
+    "status": "U",
+    "etag": "LoxFBOu+MIQhxhxMCxwv2g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193356",
+          "url": "/sapi/download/video?action=get&k=aQSqlu8E64AdcjJC9vKFpxO6pT1I_COJnxJIrujwsi6HGWZc3nIPZzUGw5-04FFKhetfbp5pucQRFK3WLkIKuURbM7LtPAfeKpe3UUrvWtX-1bjBb8buDtEE60XzTuNqZS8EC2_XhT08EUlbKuZ9xSVMcPUq1NiCTpiMGpzVTeROYJT742o&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=w5wkJNWnwB6235dmj6lp3henIS-nf3AITBdFfs4RYXM7RV8wmvKREM_x4X3eHSZAGQyCWuH18WVMVjVQhkgEFX6H9ScXuXPcoq_i4_YSL_bxfcbUdh3PHwaU775GcvCD1zPxBghn07i-gRfcBQe6P_GMXSLfaRiTrn3T9ruwBz_aI1lEBMPdA1Aaq6pfgCpB4Cs&node=2i226",
+          "date": 1778260456605,
+          "creationdate": 1778260431000,
+          "modificationdate": 1778260431000,
+          "uploaded": 1778260446693,
+          "size": 316817305,
+          "name": "Chainsaw-Man-The-Movie-Reze-Arc-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6002528,
+            "bitrate": 422245,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Z5Aq1Hk5sCXxmfjTITbC_ZgqTsmI13UZTlHhR7TCGP7QNLM-QreDgRNaotPsLR0UkzfpFDAuUruznwhLA__RxZ4vCtDsEDci8ozKNH-VWYtbcUxPsc_nZ2hZAVH4bXMQKeVjBDnatYV091cHAI12t41iQcuC3ecrJsLT7iuMG7BTovXeA40ODH71EdgH9vZ9TvQ&node=2i226",
+              "etag": "0LoxFBOu+MIQhxhxMCxwv2g=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=w5wkJNWnwB6235dmj6lp3henIS-nf3AITBdFfs4RYXM7RV8wmvKREM_x4X3eHSZAGQyCWuH18WVMVjVQhkgEFX6H9ScXuXPcoq_i4_YSL_bxfcbUdh3PHwaU775GcvCD1zPxBghn07i-gRfcBQe6P_GMXSLfaRiTrn3T9ruwBz_aI1lEBMPdA1Aaq6pfgCpB4Cs&node=2i226",
+              "etag": "0LoxFBOu+MIQhxhxMCxwv2g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "LoxFBOu+MIQhxhxMCxwv2g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778260456700,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/B-729LPcQa6FHfVSAGvZ7zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Chainsaw Man The Movie Reze Arc (2025)",
+  "media_kind": "movie"
+}
