@@ -1,0 +1,78 @@
+{
+  "name": "Avatar--Fire-and-Ash-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Avatar--Fire-and-Ash-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:50:09Z",
+  "remote_folder_id": 1751756,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194372",
+  "tmdb": {
+    "tmdb_id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "original_title": "Avatar: Fire and Ash",
+    "release_date": "2025-12-17",
+    "year": "2025",
+    "rating": 7.367,
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+    "genre_ids": [
+      878,
+      12,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194372",
+    "status": "U",
+    "etag": "UOQGi9nNNYXm/GD25Ja9Cw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194372",
+          "url": "/sapi/download/video?action=get&k=_-ILatcOAMx88l0HXoi7_7YmKCuEY7Ifx-mg46QkTq8dPgj8GZPXdi1DoBQGuXLsCjBeJsrwnlgrbA0AfyB8r7Qk0C4whknGO2i8PnYC89yI3tko3EPyNsoUvlSajlHPHlc8s8_W_10RZ_THXTXL54Z45p3sc19E7DY7UHSdB-ilxOgUUkQ&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=GYuVmOTjk--IZhW3O_QJDRipYp5zGI03I5xnJr2Ihzic895TwviOWQchbOQa5q-MfOjNZmo1CUhGp3H9YN5Bpn1Zt2pmTc1K4AB8DMa8UTAYGuKaVgQascJsQtqIKxxYCH6ZagJHuFUsTMeiDusXAi6Up5S_7eZ6ikapEO1x0xEjP_M3bkpUTs5090eze3zyRzE&node=2i226",
+          "date": 1778266209265,
+          "creationdate": 1778266092000,
+          "modificationdate": 1778266092000,
+          "uploaded": 1778266190618,
+          "size": 601792736,
+          "name": "Avatar--Fire-and-Ash-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 11277738,
+            "bitrate": 426888,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VLRteODSqQD7uqR52gxYRrxTgqPOVj7FnF7O2bq5asZl5KIrW0HUgYkEqOWuV_mzpNtVTIr37kauBR1FEGR6FwJMVeseLeIBhAtRD8Jxf9AkftGCCv2njOYDxbxMCCjHSgwnFST37z6W1ebOhwdsp33kE9lAOdt0ucJAAkOIuJIxYLBR-SY8F-ILEmKGMqS-En0&node=2i226",
+              "etag": "0UOQGi9nNNYXm/GD25Ja9Cw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GYuVmOTjk--IZhW3O_QJDRipYp5zGI03I5xnJr2Ihzic895TwviOWQchbOQa5q-MfOjNZmo1CUhGp3H9YN5Bpn1Zt2pmTc1K4AB8DMa8UTAYGuKaVgQascJsQtqIKxxYCH6ZagJHuFUsTMeiDusXAi6Up5S_7eZ6ikapEO1x0xEjP_M3bkpUTs5090eze3zyRzE&node=2i226",
+              "etag": "0UOQGi9nNNYXm/GD25Ja9Cw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "UOQGi9nNNYXm/GD25Ja9Cw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778266209338,
+    "type": "video"
+  }
+}
