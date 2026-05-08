@@ -1,0 +1,83 @@
+{
+  "name": "Playdate-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Playdate-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:33:25Z",
+  "remote_folder_id": 1755603,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194699",
+  "tmdb": {
+    "tmdb_id": 1248226,
+    "title": "Playdate",
+    "original_title": "Playdate",
+    "release_date": "2025-11-04",
+    "year": "2025",
+    "rating": 6.036,
+    "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian\u2014totally unprepared\u2014must survive one absurd obstacle after another.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194699",
+    "status": "U",
+    "etag": "zPIdZ7j6np5tRclj+5lqgw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194699",
+          "url": "/sapi/download/video?action=get&k=pE2D7B3i-zxmVGLdinCF1o_5Fcd5FKx-FMfAb6tWx8mavNDOiBMN3B4ftWaamjzFJzyjOoemYX7f4Y3vbVneqW-QgpCIRwKptu8EUAKHNSp6WpogSbuwxqPxRunE6Pf7TT_RQ7g2Cc7pVBZbN4a0J_Qmyc12f-0g1mCmDxssPLVsDoGcv8E&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=RFVFTTaCfjnfd50Qx0u6y_lZ2S2VKT3Uhahp08P0woYOlaqoNla11FuJ6B-1K9tSYW8Jz54ENG-5nY0EeyQuupmULLZrRnYz3rgLRMAsgzBk7JJ03CrKG82oz9jbPeG-JIn8_XrPh-cDNg5oh_b9WMc1IZIbXSvnPEWwPH86J_B9jSoo7zYZLIGSIgZUmhwOOrY&node=2i226",
+          "date": 1778268805052,
+          "creationdate": 1778268744000,
+          "modificationdate": 1778268744000,
+          "uploaded": 1778268796262,
+          "size": 295486994,
+          "name": "Playdate-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5671288,
+            "bitrate": 416818,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=iU7apSsMHtPmvTmgskBTtXZXxkHeEPiw4tEKYBuBvxCCyZ3aTRmACDEmZJEMCtCq3v96tLWrFqEwlLtHr68VHshdle2_MzwJ1X2EawblIlUG9eLelOTYL6x2NzsDoToCNcFXu6y9AurC9o4gHwKLhXJb5X0q6uXLvTQAivQdr44-icl-lpVGZFkbdmAL_NNeDM4&node=2i226",
+              "etag": "0zPIdZ7j6np5tRclj+5lqgw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=RFVFTTaCfjnfd50Qx0u6y_lZ2S2VKT3Uhahp08P0woYOlaqoNla11FuJ6B-1K9tSYW8Jz54ENG-5nY0EeyQuupmULLZrRnYz3rgLRMAsgzBk7JJ03CrKG82oz9jbPeG-JIn8_XrPh-cDNg5oh_b9WMc1IZIbXSvnPEWwPH86J_B9jSoo7zYZLIGSIgZUmhwOOrY&node=2i226",
+              "etag": "0zPIdZ7j6np5tRclj+5lqgw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "zPIdZ7j6np5tRclj+5lqgw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778268805132,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/YbcmYUBiSTiUYIPz6_rW-jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Playdate (2025)",
+  "media_kind": "movie"
+}
