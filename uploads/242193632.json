@@ -1,0 +1,82 @@
+{
+  "name": "The-Ugly-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\The-Ugly-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:03:31Z",
+  "remote_folder_id": 1754797,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193632",
+  "tmdb": {
+    "tmdb_id": 1316719,
+    "title": "The Ugly",
+    "original_title": "\uc5bc\uad74",
+    "release_date": "2025-09-11",
+    "year": "2025",
+    "rating": 7.06,
+    "overview": "One day while overseeing a documentary crew filming his blind father at work, Im Dong-hwan gets a phone call that his missing mother\u2019s remains have been found after forty years. Determined to find the truth of her disappearance, Dong-hwan embarks on a twisted odyssey through his family\u2019s traumatic past, uncovering dark secrets along the way.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sNLTSYHRfQJ2gpdrA2UXjkfEije.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wduUhYLGaYSD2mSu7YHd09l1N6j.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193632",
+    "status": "U",
+    "etag": "8vPDmT3wBuZRkBDS7Y0lzg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193632",
+          "url": "/sapi/download/video?action=get&k=T_UWoKiDNY3baJAFcIO-xtUEZhz4WdUb7OMPzpsGysGaiVQGoeeU8LwcfzfOC1axISna3d62TXDlms39yb15IM98M7ypVfO0YtoBhFAV0gJufOrBIi_TB058UC7eHp3_ydJv2Rt7x5Hf2H2TjVi5jy0TQkDHaslWG4juVTirCKF2etObCPA&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=GFL7W6HToQqoszE6L0Ply9U81AnVpwtRWZoqotxpXsf7zTZ6Om1bbirLIFHA7HTW1a7xBjysq2j3nEynsPJvpTIb70O4LaT-JctAUARpwAsYGBw5y2CpOfaKdV7_E3bxAGJtyYX_QTgnOG2kO8mPfM-8Wo3a_IrMoJZg0qT0J1TzD73d03qSrcCF4b_lowtqRQQ&node=2i226",
+          "date": 1778263410517,
+          "creationdate": 1778263342000,
+          "modificationdate": 1778263342000,
+          "uploaded": 1778263399962,
+          "size": 327733882,
+          "name": "The-Ugly-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6187456,
+            "bitrate": 423739,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=8O1UKZHkGKdDJTpdH6OUcqBMi-tQs-K5GOjMAKdHs-_llzFWk1Sr03y7tyiI5FqmMUYUcmYPJhmYmx4VSAvqUrg63ZsBwFUnzavCSnQgT7b1oBW6CuoTFvTYU6UiIQ0Y_cQG5-ub8hKyOKHrHv-l5vz9Z2BIYXobg6H2V-w60wHkF_o_kwAS6w7D86Ao0eM6yLY&node=2i226",
+              "etag": "08vPDmT3wBuZRkBDS7Y0lzg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GFL7W6HToQqoszE6L0Ply9U81AnVpwtRWZoqotxpXsf7zTZ6Om1bbirLIFHA7HTW1a7xBjysq2j3nEynsPJvpTIb70O4LaT-JctAUARpwAsYGBw5y2CpOfaKdV7_E3bxAGJtyYX_QTgnOG2kO8mPfM-8Wo3a_IrMoJZg0qT0J1TzD73d03qSrcCF4b_lowtqRQQ&node=2i226",
+              "etag": "08vPDmT3wBuZRkBDS7Y0lzg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "8vPDmT3wBuZRkBDS7Y0lzg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778263410608,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/vIns94GRSsiqSD4Icscf6jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Ugly (2025)",
+  "media_kind": "movie"
+}
