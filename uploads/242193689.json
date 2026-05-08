@@ -1,0 +1,84 @@
+{
+  "name": "Evil-of-the-Rat-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Evil-of-the-Rat-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:31:37Z",
+  "remote_folder_id": 1755534,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193689",
+  "tmdb": {
+    "tmdb_id": 1411393,
+    "title": "Evil of the Rat",
+    "original_title": "\u9f20\u738b",
+    "release_date": "2025-01-02",
+    "year": "2025",
+    "rating": 5.0,
+    "overview": "Five Chinese young people go for an outing, encountering a little girl blocking the road for help. To save the girl, they got into a chemical factory and got involved in a catastrophe of mutant rats attacking human beings.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/mt6ymKwwMbSxcpDFnkgzPpqDXzn.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/yv6wphHJWuBSNdAdOg89OLwigaa.jpg",
+    "genre_ids": [
+      28,
+      53,
+      14,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193689",
+    "status": "U",
+    "etag": "ZP0uFr0Lraabm+Mpp0IdKQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193689",
+          "url": "/sapi/download/video?action=get&k=J1mJ2JjGrZQkTEW3Z--oDU14Ho1f1GI9HpMvrPdDVZGYCjkPigvQyrfCgNxbsyUCA2mdh3XYO2p31ZvDXhAVB1S0vARrG8UdhbmU9l_dogi-1RBc2iXYgq_y2r-u8Plhaq0g7EJH6DpbRaLkMZp7sV75PJxP5VY01pE8az2ZgLkF9oxLd6Q&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=b4w0B1XSHcdy4uEw-uB1hWAjkj1GC81g-yXwB1VkF9_qR_4j9FCSxcUdvvZOqUrHD6BtcSqRVWprHZWhpFDyTo6H55s2t0qeBckY1HO7_lF0hHdf5OGkUOlZFeotzWL_nrOB8lRz8gGy-R5kp0ppw5MgaJta3ZZmttJfO9u6KYq-X8dVWzB3ZCmYPTIKeg7BJZc&node=2i226",
+          "date": 1778265096515,
+          "creationdate": 1778265039000,
+          "modificationdate": 1778265039000,
+          "uploaded": 1778265087690,
+          "size": 288235861,
+          "name": "Evil-of-the-Rat-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5419008,
+            "bitrate": 425518,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=KB3RKUOxHW7HBdVdD4TggmwXD7KgRn6GBOyaCZ-WN40uAsYjZIIJaOkShrgLVOzpH04xq3uysnj_LYCLxvDWMfuqUQBM55Fr01jN5NzUDuLb8tPRj8kTf9wefoxDGtvwV5dQDJ2YGScMbq4hRi2qBmoMsCacUf1gF9QGT0bcXK0gC61UVX3m_x3K1_8ixAjuseE&node=2i226",
+              "etag": "0ZP0uFr0Lraabm+Mpp0IdKQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=b4w0B1XSHcdy4uEw-uB1hWAjkj1GC81g-yXwB1VkF9_qR_4j9FCSxcUdvvZOqUrHD6BtcSqRVWprHZWhpFDyTo6H55s2t0qeBckY1HO7_lF0hHdf5OGkUOlZFeotzWL_nrOB8lRz8gGy-R5kp0ppw5MgaJta3ZZmttJfO9u6KYq-X8dVWzB3ZCmYPTIKeg7BJZc&node=2i226",
+              "etag": "0ZP0uFr0Lraabm+Mpp0IdKQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ZP0uFr0Lraabm+Mpp0IdKQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778265096586,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/0hgQ_DgQRP6JLVbAgH-nhzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Evil Of The Rat (2025)",
+  "media_kind": "movie"
+}
