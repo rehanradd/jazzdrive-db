@@ -1,0 +1,83 @@
+{
+  "name": "GOAT-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\GOAT-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T16:53:40Z",
+  "remote_folder_id": 1755413,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242192890",
+  "tmdb": {
+    "tmdb_id": 1297842,
+    "title": "GOAT",
+    "original_title": "GOAT",
+    "release_date": "2026-02-11",
+    "year": "2026",
+    "rating": 7.949,
+    "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242192890",
+    "status": "U",
+    "etag": "xayGYrkCJuM+eATkm8gjiQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242192890",
+          "url": "/sapi/download/video?action=get&k=A0uaxBa5dznp8TdiHuIuUw03s5egQHBZv6e-LayTQR77q2bEKRAB4_J_RCAeVczMvVJ9tDO6T_Mg2TENM-qqfocsljGpB0ey3ZmCT4SRcY-zoDmQ0aU6NTaBkU3_ndb1Hufman_bO5-j1VpNRODa0VhmG7NjKKmxm8HLQcHHdH96zEtpqgA&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=s77_phWjqqjRP5mekPyQ_mQ3p5f8cBpVC7X5Qse8NlD3jTibhovlRipSaU8Ue0fk0eJJ7Z244-YBsehgyR3JqJeDsUHL14iHZ32pO8Mi-7Xd0k-0-OCekghtXYUwp7D3bmOY_k8TFcLrHaNWeDxAhcYoxncFtWnt_UvrdLttco__xM0utDhYouzgnfW9h8mlqic&node=2i226",
+          "date": 1778259219896,
+          "creationdate": 1778259195000,
+          "modificationdate": 1778259195000,
+          "uploaded": 1778259209890,
+          "size": 313977190,
+          "name": "GOAT-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5876287,
+            "bitrate": 427449,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=wwW3RrGsqcQ2sXEwgnV10KKy8rorUed2RZGoMuZdZ3bRhjBMkA3WGHNfezYCndGsiLFEDEXW-Q2nnNV15ow2oJbDWJrVTu9lBwhkNWfKlE3eHd9cVwT1pjKRRojvo_qVjM4Aerl3cfZS1RtNtF1bMuJozRupb-lsudsakuTIZM9R6t_xm3ox2dV6CKv5uKe_rmk&node=2i226",
+              "etag": "0xayGYrkCJuM+eATkm8gjiQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=s77_phWjqqjRP5mekPyQ_mQ3p5f8cBpVC7X5Qse8NlD3jTibhovlRipSaU8Ue0fk0eJJ7Z244-YBsehgyR3JqJeDsUHL14iHZ32pO8Mi-7Xd0k-0-OCekghtXYUwp7D3bmOY_k8TFcLrHaNWeDxAhcYoxncFtWnt_UvrdLttco__xM0utDhYouzgnfW9h8mlqic&node=2i226",
+              "etag": "0xayGYrkCJuM+eATkm8gjiQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "xayGYrkCJuM+eATkm8gjiQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778259219970,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/thTT40Y2SsayES2roKabgjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Goat (2026)",
+  "media_kind": "movie"
+}
