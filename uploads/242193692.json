@@ -1,0 +1,83 @@
+{
+  "name": "Song-Sung-Blue-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Song-Sung-Blue-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:34:25Z",
+  "remote_folder_id": 1755536,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193692",
+  "tmdb": {
+    "tmdb_id": 1371185,
+    "title": "Song Sung Blue",
+    "original_title": "Song Sung Blue",
+    "release_date": "2025-12-25",
+    "year": "2025",
+    "rating": 7.383,
+    "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/wLauNnJYmvVLN0MiOv0tjdiPs0J.jpg",
+    "genre_ids": [
+      10402,
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193692",
+    "status": "U",
+    "etag": "vK4CtDuhsRwFBVY4vTTsTw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193692",
+          "url": "/sapi/download/video?action=get&k=f6JWGg5o4iFBKtEotDIJy-Lkf2ywZmuBFBu9M2WqqY81v-TsdpWjVUFKdjMWIs0xY06GHCE4C2wrxQ1e-8wmcyfPHapnWAVHwI8DIsiU4gWERqit3pW0FjxPPCJqDLpdp6TbH7SpY50SjXqWhnfovhRQZf2mvWqef42shW6jPqoGqz3OThE&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=Va9hv9SYPXYYGgYSOJNdHkf5A0flp9zLeQyG_fLhhjcxpuZZQ4AGI3950BE_JFSczzM-HsA9zCVK2JkJ8Qaw50_kEVtbWQrFm_AUBHi9MZLQsZ8S6VjZni6RT2cgE6MPQNfKhx-Kp6LQuvMO-jxjJThWLjSrH9E8LTzdR8Npkm8Q9-WmCpasOLYudG3F3vk_KXU&node=2i226",
+          "date": 1778265264868,
+          "creationdate": 1778265181000,
+          "modificationdate": 1778265181000,
+          "uploaded": 1778265252131,
+          "size": 418678597,
+          "name": "Song-Sung-Blue-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7948545,
+            "bitrate": 421388,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=jJCYiMpRmxVug3gyLXnLw9luTfmZqbxezErbJvYQRr0KArGR6GuVGMa6uSLdQQnaRziJJG_3aJ6lHrs7febdZ3FUw_9oZy-rSOrXHOkj6ZmzxtGkquB3_gpdMhkMG5DP834lb2KoS-n9DLG3ez4F7NDGlJbX3EtfqfiENqbdsrNx9LE63mRxFw8UBDIosH-lh5E&node=2i226",
+              "etag": "0vK4CtDuhsRwFBVY4vTTsTw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Va9hv9SYPXYYGgYSOJNdHkf5A0flp9zLeQyG_fLhhjcxpuZZQ4AGI3950BE_JFSczzM-HsA9zCVK2JkJ8Qaw50_kEVtbWQrFm_AUBHi9MZLQsZ8S6VjZni6RT2cgE6MPQNfKhx-Kp6LQuvMO-jxjJThWLjSrH9E8LTzdR8Npkm8Q9-WmCpasOLYudG3F3vk_KXU&node=2i226",
+              "etag": "0vK4CtDuhsRwFBVY4vTTsTw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vK4CtDuhsRwFBVY4vTTsTw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778265264942,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/99ZLmOHnTw2PKfPKlyRHCDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Song Sung Blue (2025)",
+  "media_kind": "movie"
+}
