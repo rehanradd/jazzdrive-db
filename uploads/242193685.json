@@ -1,0 +1,82 @@
+{
+  "name": "The-Things-You-Kill-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\The-Things-You-Kill-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:30:19Z",
+  "remote_folder_id": 1755531,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193685",
+  "tmdb": {
+    "tmdb_id": 1001270,
+    "title": "The Things You Kill",
+    "original_title": "\u00d6ld\u00fcrd\u00fc\u011f\u00fcn \u015eeyler",
+    "release_date": "2025-04-25",
+    "year": "2025",
+    "rating": 6.3,
+    "overview": "Questioning the suspicious death of his mother, a university professor and his enigmatic gardener descend into a hypnotic maze of mirrors and memories. As family secrets surface and painful truths emerge, they spiral toward a devastating reckoning with the darkness lurking within us all.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kR8CHANk8KwQLWarMIQsk2mthhW.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/81aIon8MEVc22269MqR6tVkt9rx.jpg",
+    "genre_ids": [
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193685",
+    "status": "U",
+    "etag": "ccQ5K80e2fSumcxG2T3/aw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193685",
+          "url": "/sapi/download/video?action=get&k=b0WzvwtVArnLmCndbdsb0lDKlYaoLih6qYohJJwTUbgd827uUfXTKYBb5_0bAuSXsop8uq49LmvM2tHv8eiDacvb7HqfeYGDI80HCgcBr0Qj9DAY4k5P1U1ac_pO0Y-VB6qNurBzomZwOhaPcT9gXqnnlkUBRsD3ot5o-m8gU56mLI63J4I&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=D-ciz4E0M6QyMuGzSUkLNkdoGVI4ZkccTMlDipGTe41TQ9dVAiB5OQnu9hzOu-jlY_d8U4gxFOD1RHa267v-kqMZUumk_68npKLZDMUuARXPYFyCQkocikWevmkTnEDvtdiMVklh2UMYSHYjKlJLfS0VYFFF3Jwu-QwQa1vz4WlJfWgzRlkDNksbS2D0F5AwAkE&node=2i226",
+          "date": 1778265018075,
+          "creationdate": 1778264946000,
+          "modificationdate": 1778264946000,
+          "uploaded": 1778265006259,
+          "size": 362735566,
+          "name": "The-Things-You-Kill-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6871104,
+            "bitrate": 422331,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=oixkPAuaLzrKDrYvA4lPf6OOp6aO5J04p8AmvrmH1cb2MU1S1dmGPdrNLRnGHm8u9Q7XH8tEDEXWGnHT5YFF0NMgu1UYC3UmCvQx257S_mwFPvua2UJWKIzYZiiqyrmud86W3VO2OzUOsUautc093pDoLXeyO-p4-Sj7nawsRvn5eRWb9JMsCoE-gzcVtMffMDo&node=2i226",
+              "etag": "0ccQ5K80e2fSumcxG2T3/aw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=D-ciz4E0M6QyMuGzSUkLNkdoGVI4ZkccTMlDipGTe41TQ9dVAiB5OQnu9hzOu-jlY_d8U4gxFOD1RHa267v-kqMZUumk_68npKLZDMUuARXPYFyCQkocikWevmkTnEDvtdiMVklh2UMYSHYjKlJLfS0VYFFF3Jwu-QwQa1vz4WlJfWgzRlkDNksbS2D0F5AwAkE&node=2i226",
+              "etag": "0ccQ5K80e2fSumcxG2T3/aw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ccQ5K80e2fSumcxG2T3/aw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778265018175,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sGOevzvhTgytGMF6PquxPTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Things You Kill (2025)",
+  "media_kind": "movie"
+}
