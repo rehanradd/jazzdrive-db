@@ -1,0 +1,83 @@
+{
+  "name": "Shinchan-The-Spicy-Kasukabe-Dancers-in-India-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Shinchan-The-Spicy-Kasukabe-Dancers-in-India-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:46:52Z",
+  "remote_folder_id": 1755552,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194346",
+  "tmdb": {
+    "tmdb_id": 1404404,
+    "title": "Crayon Shin-chan the Movie: Super Hot! The Spicy Kasukabe Dancers",
+    "original_title": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u8d85\u83ef\u9e97\uff01\u707c\u71b1\u306e\u30ab\u30b9\u30ab\u30d9\u30c0\u30f3\u30b5\u30fc\u30ba",
+    "release_date": "2025-08-08",
+    "year": "2025",
+    "rating": 6.75,
+    "overview": "Shin-chan and his friends travel to India for a dance festival, but Bo-chan accidentally becomes possessed by an evil force from a mysterious backpack and turns into a powerful tyrant. Now, the Kasukabe Guard must work together to save Bo-chan and stop his rampage.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/6IAvfDmAqsFTFi66Qpf0GwpLiZP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uHwUVYtQUHm1nYVQOuz2xPQZzFH.jpg",
+    "genre_ids": [
+      16,
+      12,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194346",
+    "status": "U",
+    "etag": "RnHaIT3pImhllNvmXL42Kg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194346",
+          "url": "/sapi/download/video?action=get&k=N52yx1P9QHlOe5gYwZxSZpooWuZNxRbFw57IQ34f49ddErxne70DIF5XF9-5mi0Xd0kf3lZr6E3CsxDlXf4Ax_tD4j8mdo5Eb-J3DjPEA0ZuTP0zGlQjcDYHgeikP1shZFsSED8GdeQAE0LadVEbTqNgxBO7i6QILYpDQiGRyvzocHjOoEA&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=WoTj9miPTIU1brNsnPje4Ul-qvvFpElbSo65icUxjRENJd4n-V-tfTb_rU9rFWezc2a5tnmdZhjR4S4uTxyKNinLAmD7EXMMtndkjQe8yJFQMEYchvd7qwOzoF2F5fVpOOMDRys2in6S3Q1YwsfsqnvKwr159Na513gO27HH-crqBqLQaIDiHXCrCcvV_afthH4&node=2i226",
+          "date": 1778266011020,
+          "creationdate": 1778265944000,
+          "modificationdate": 1778265944000,
+          "uploaded": 1778266000179,
+          "size": 334056420,
+          "name": "Shinchan-The-Spicy-Kasukabe-Dancers-in-India-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6222807,
+            "bitrate": 429460,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=91GwAa80zjxO8h8jVo5AdScR_b0yX3f9Ms0D983ujE7XxTQYEJf7x7G0w6V3mHV3TjBXIFoLjRU2UCTAOlFuxMm4XRAE_5RfLcSsRiZsPnFbo8W7e9xQZulure8dZ_a7_fs9VrZXaiYMAp3Jq6ZM8bgNc_Rb8wC-1p0qtcwYimtUgqXA1fL4ktnDgolzqUpctHQ&node=2i226",
+              "etag": "0RnHaIT3pImhllNvmXL42Kg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=WoTj9miPTIU1brNsnPje4Ul-qvvFpElbSo65icUxjRENJd4n-V-tfTb_rU9rFWezc2a5tnmdZhjR4S4uTxyKNinLAmD7EXMMtndkjQe8yJFQMEYchvd7qwOzoF2F5fVpOOMDRys2in6S3Q1YwsfsqnvKwr159Na513gO27HH-crqBqLQaIDiHXCrCcvV_afthH4&node=2i226",
+              "etag": "0RnHaIT3pImhllNvmXL42Kg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RnHaIT3pImhllNvmXL42Kg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778266011098,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/smIJlCKCS7W4SVT_e7OcQzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Shinchan The Spicy Kasukabe Dancers In India (2025)",
+  "media_kind": "movie"
+}
