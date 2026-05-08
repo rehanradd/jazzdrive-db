@@ -1,0 +1,81 @@
+{
+  "name": "Is-It-Cake-Valentines-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Is-It-Cake-Valentines-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:06:11Z",
+  "remote_folder_id": 1754763,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193321",
+  "tmdb": {
+    "tmdb_id": 1610866,
+    "title": "Is It Cake? Valentines",
+    "original_title": "Is It Cake? Valentines",
+    "release_date": "2026-02-03",
+    "year": "2026",
+    "rating": 6.5,
+    "overview": "Cupid's arrow has struck the Is It Cake kitchen for the first-ever Valentines special! Three baking couples of master cake artists compete. Together, they tackle ALL NEW games, craft swoonworthy cakes, and attempt to fool the judges and each other! AND for the first time in Is It Cake history, there are games just for the viewer! With hearts pounding and money on the line, these couples are in for the sweetest date night of their lives!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/p0FvNm1dZnGTnUiYOGMTLl3eD9N.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/yf5m4DLsp9GKMkcUyChvCP8uhyF.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193321",
+    "status": "U",
+    "etag": "gGjEVPp8gzSoxoqOB2FZOg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193321",
+          "url": "/sapi/download/video?action=get&k=MhLIrf10wXoBOBmIdROhjkkmgMdeQN59a2C7sxWrT9NftiU6tCONsFRCrdxtTG5LGHyqZCFzxboE-vr8Ae-u1LsvT3hIfvl91c7yxR50MI8abeP7506HJfm3y5H6hgO6EBEjxqKLoEg5ocez7nLDKjpSPCZkeYl4YW71fQLltH2QHYrQHoI&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=rjyq7KjuBALiECwePg5AxqitazqXcEb4Od4Y5EGpFNdtTxvqx7pOALr4uxcI14qNzBrfo8dAZnlB1xOsGWx55fQANYN5LJ_ekTjRtoqibrsS-cwSQHS0aYjNSaz_uyjkcXDE6Y3FRasTLvC0qBxr5papCQN2SsTQ2osu1fBoomaiQPeOr78EuX6AMfuvBaWuod8&node=2i226",
+          "date": 1778259970790,
+          "creationdate": 1778259958000,
+          "modificationdate": 1778259958000,
+          "uploaded": 1778259966303,
+          "size": 138732321,
+          "name": "Is-It-Cake-Valentines-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 2663369,
+            "bitrate": 416712,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=TF2dGH4fHs-sveqBBzldlpKUj849v2VcXprmLd0t48dQ3oRcA-Ieaj1ndRFAQEvj7hg4TSpHktVIor6YEnHeYnDymkOkSJqmXAX_IM0GjnCR-_FIkcK5_j7O59z4F6bDnn_3ZMUAJF8g06btH4_7_5B3mTxPqoGRTc-Kw7iDeM2tFwXgPQyJ7n0oJMcTxUJRC_8&node=2i226",
+              "etag": "0gGjEVPp8gzSoxoqOB2FZOg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=rjyq7KjuBALiECwePg5AxqitazqXcEb4Od4Y5EGpFNdtTxvqx7pOALr4uxcI14qNzBrfo8dAZnlB1xOsGWx55fQANYN5LJ_ekTjRtoqibrsS-cwSQHS0aYjNSaz_uyjkcXDE6Y3FRasTLvC0qBxr5papCQN2SsTQ2osu1fBoomaiQPeOr78EuX6AMfuvBaWuod8&node=2i226",
+              "etag": "0gGjEVPp8gzSoxoqOB2FZOg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "gGjEVPp8gzSoxoqOB2FZOg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778259970867,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/pwBONY00RJmojiymNFRaLDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Is It Cake Valentines (2026)",
+  "media_kind": "movie"
+}
