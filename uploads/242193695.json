@@ -1,0 +1,82 @@
+{
+  "name": "Cleopatras-Final-Secret-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Cleopatras-Final-Secret-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:35:19Z",
+  "remote_folder_id": 1755539,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193695",
+  "tmdb": {
+    "tmdb_id": 1538573,
+    "title": "Cleopatra's Final Secret",
+    "original_title": "Cleopatra's Final Secret",
+    "release_date": "2025-09-25",
+    "year": "2025",
+    "rating": 7.5,
+    "overview": "After 20 years seeking Cleopatra's tomb, archaeologist K. Martinez's search shifts to an underwater Mediterranean site. She's joined by Titanic finder Bob Ballard, Egyptian Navy and dive teams to explore the location.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3S1f8REqAu3kUjN6M8hWAgdQh8s.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/klD0xdA1iOepMe8qm708Lks4YAQ.jpg",
+    "genre_ids": [
+      99,
+      36
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193695",
+    "status": "U",
+    "etag": "CQ4sFL4ylQ6O6l/OhK/+IA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193695",
+          "url": "/sapi/download/video?action=get&k=vKZ9XCpa5zTiHLb2pvs4WY_bjGg2TTOHL_uNOT1ieVyf7Nfo0ax8lseBfx8Ml9moZJup1kmnnKjrMvQaPYfKUq5oR1kbMisGIHugIYWVWAGwfVA5cjAcPXEeXhIVhtc7MjlB6KEpzIOuv1m-A39UufTTaTHWyBWPE44mmVLPk0ojKyBYrBE&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=GeL0S6CDQLfpkKSU3FzmlbrG8hdKLMLFmoPo-39zkO2QQJ8C1rAwYYJ9Fu5VV6UI5xruhsm8DoFZmQ2GizAgLOpCeCJhtoPr72RLDsBXg_fQQvqhEsSEUQmCbZqB7FexXflhw6HKtf5kTXwQhPui0RHSIfXZc6abma7aJaAQVN8OquzsyuQCQj-1Nra_rtEgXlk&node=2i226",
+          "date": 1778265318261,
+          "creationdate": 1778265274000,
+          "modificationdate": 1778265274000,
+          "uploaded": 1778265310860,
+          "size": 211943827,
+          "name": "Cleopatras-Final-Secret-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 3970943,
+            "bitrate": 426989,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=xJbjWoDDR9Zi_b6ephvTQyGFNGWZRO4Irgs2v9ljl6M64AndTKFc2b3zjMTiXvSsLiB-PfpYpmdrNnjrsAWlYnZUedEAg7KNj71dB8nuLa86T6NXu86HvVRTSiz3nU0xvliNVJzeTkYZYo3RkbVxwAYhNM8R2WEhFIRgsc3EuNcEEIPwN2nIU3BEqfBWam-67dc&node=2i226",
+              "etag": "0CQ4sFL4ylQ6O6l/OhK/+IA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=GeL0S6CDQLfpkKSU3FzmlbrG8hdKLMLFmoPo-39zkO2QQJ8C1rAwYYJ9Fu5VV6UI5xruhsm8DoFZmQ2GizAgLOpCeCJhtoPr72RLDsBXg_fQQvqhEsSEUQmCbZqB7FexXflhw6HKtf5kTXwQhPui0RHSIfXZc6abma7aJaAQVN8OquzsyuQCQj-1Nra_rtEgXlk&node=2i226",
+              "etag": "0CQ4sFL4ylQ6O6l/OhK/+IA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "CQ4sFL4ylQ6O6l/OhK/+IA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778265318345,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/T52_cv_uSRai0FPaz0ggGjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Cleopatras Final Secret (2025)",
+  "media_kind": "movie"
+}
