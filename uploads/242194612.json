@@ -1,0 +1,83 @@
+{
+  "name": "Smurfs-(2025)-Hindi-Dubbed--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Smurfs-(2025)-Hindi-Dubbed--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:14:36Z",
+  "remote_folder_id": 1755584,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194612",
+  "tmdb": {
+    "tmdb_id": 936108,
+    "title": "Smurfs",
+    "original_title": "Smurfs",
+    "release_date": "2025-06-30",
+    "year": "2025",
+    "rating": 5.8,
+    "overview": "When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. With the help of new friends, the Smurfs must discover what defines their destiny to save the universe.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8o6lkhL32xQJeB52IIG1us5BVey.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194612",
+    "status": "U",
+    "etag": "j0bNumzAXVe89mgeB74hrw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194612",
+          "url": "/sapi/download/video?action=get&k=0ycGSJNgVU7aArBna-0zaASDVHV32Ko91-4cQKDjmF_VLDd2ulvKlgr8PuvnA4WPPOWHXUfM2L6im9gsBHonAAQ27qF48BloJ74o0zSStO_u99yqNkKkuf9aecI5zZnxs7eeHtUHI9_EQGEYwD1SncRV5gBqLaQ0ZXsnwLh3nE5f7taCD-4&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=mxYXKCyFUxH0IdBemQrI-QegSd0VKruniugqMkDSKsfXmFJ5QrThQLMG1vkzUyQbBVBoYssh1wiFjo52FnMlIeFNEncAwRF9I5G0Yu4_EHWH6xPf4DSd_x2FEP5NcWQ9UPZtPkEGuQJ7zSIK-PwVizo4yzdzmhIrNawPnHLf3ZgCEwSXl1_Pat01FOWUFE7tShY&node=2i226",
+          "date": 1778267675435,
+          "creationdate": 1778267619000,
+          "modificationdate": 1778267619000,
+          "uploaded": 1778267666506,
+          "size": 287041206,
+          "name": "Smurfs-(2025)-Hindi-Dubbed--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5768568,
+            "bitrate": 398076,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=qbe_j5dP1HlgRJAs1FEkyatImQ3LjHBFnMaXqib2ft0Q8rcUP2pEv6-vR5XpNSi6GCpaffaWx3WjMzEvNkO3DygjOLKH_WFTqpDVbdl1-iQGhgVyeI7JRVJ41z0lNyAWxvNl60SlIojzjvN9E6sHwAurFLrwW9BlwEQR-1JaSdPLP0eClLXkQVFX75WoBqT15jM&node=2i226",
+              "etag": "0j0bNumzAXVe89mgeB74hrw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=mxYXKCyFUxH0IdBemQrI-QegSd0VKruniugqMkDSKsfXmFJ5QrThQLMG1vkzUyQbBVBoYssh1wiFjo52FnMlIeFNEncAwRF9I5G0Yu4_EHWH6xPf4DSd_x2FEP5NcWQ9UPZtPkEGuQJ7zSIK-PwVizo4yzdzmhIrNawPnHLf3ZgCEwSXl1_Pat01FOWUFE7tShY&node=2i226",
+              "etag": "0j0bNumzAXVe89mgeB74hrw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "j0bNumzAXVe89mgeB74hrw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778267675519,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/GftMyvQvRRWRpQmcjTpTSDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Smurfs (2025)",
+  "media_kind": "movie"
+}
