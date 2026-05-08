@@ -1,0 +1,84 @@
+{
+  "name": "Freakier-Friday-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Freakier-Friday-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:35:06Z",
+  "remote_folder_id": 1755605,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194705",
+  "tmdb": {
+    "tmdb_id": 1125257,
+    "title": "Freakier Friday",
+    "original_title": "Freakier Friday",
+    "release_date": "2025-08-06",
+    "year": "2025",
+    "rating": 6.838,
+    "overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
+    "genre_ids": [
+      35,
+      14,
+      10751,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194705",
+    "status": "U",
+    "etag": "pla8/PoNpoBbPrnJcy/HwA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194705",
+          "url": "/sapi/download/video?action=get&k=H_8yKjr1upvcZdJhe-iA3XGi-gYk_pUOupgY_AKH84nUvKNzRzXW87N5LK1a8nPd-oPop_-ruM2BjPfny3HnhXZ0ktYhKbS_p5R2L1kmlJQ4FRNFUHgYaOVgmOO3OJms0Pe89fwXFWHIMDwv_jN28GUI_1VBYz2qf740F1pM2LXVyA5nXCQ&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=jvMcQZV8GeXPJVVBs9EB5fFdYMVXYWnlCoOtXhBJ6m7YF-b4XL-vhq37FM88RFMHHBixgUsuTbhcbM6DWpYznv_3CmvzKDczYF_chou4b8StLh-L83Rh_o1khYIsPs24Tzqwq8w5UuocSdfa9OIP_AOiP59qwkXDsA4-fnOT_T9pCAaU_YQKwAtVKWjoXJ2NjB8&node=2i226",
+          "date": 1778268905258,
+          "creationdate": 1778268835000,
+          "modificationdate": 1778268835000,
+          "uploaded": 1778268895128,
+          "size": 351552354,
+          "name": "Freakier-Friday-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6640134,
+            "bitrate": 423548,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=fOqgNO_zSpKXyqZZFcPmTh_TA2JALQUwg2LQxD_Cd37i7cKtI3aT5c-IP-Q8kI4QeCRGV2-cRznRee7a5YkvTmLIPZe8WZZ7xHijGC6PcgyAXL-KMt296j6hxJYWnr2v8t2QNuU34qohik57mR-lAIfbPW5f72eAT9hgZ8R60oO9onfoBVaUzTZJvBx7BAurync&node=2i226",
+              "etag": "0pla8/PoNpoBbPrnJcy/HwA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=jvMcQZV8GeXPJVVBs9EB5fFdYMVXYWnlCoOtXhBJ6m7YF-b4XL-vhq37FM88RFMHHBixgUsuTbhcbM6DWpYznv_3CmvzKDczYF_chou4b8StLh-L83Rh_o1khYIsPs24Tzqwq8w5UuocSdfa9OIP_AOiP59qwkXDsA4-fnOT_T9pCAaU_YQKwAtVKWjoXJ2NjB8&node=2i226",
+              "etag": "0pla8/PoNpoBbPrnJcy/HwA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "pla8/PoNpoBbPrnJcy/HwA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778268905356,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/bPdJxeCfSr6IKPjAuxomozk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Freakier Friday (2025)",
+  "media_kind": "movie"
+}
