@@ -1,0 +1,83 @@
+{
+  "name": "Wicked--For-Good-(2025)-Hindi-HQ-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Wicked--For-Good-(2025)-Hindi-HQ-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:26:22Z",
+  "remote_folder_id": 1755555,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194660",
+  "tmdb": {
+    "tmdb_id": 967941,
+    "title": "Wicked: For Good",
+    "original_title": "Wicked: For Good",
+    "release_date": "2025-11-19",
+    "year": "2025",
+    "rating": 6.632,
+    "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
+    "genre_ids": [
+      14,
+      12,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194660",
+    "status": "U",
+    "etag": "h99inG1IxRgD/uzZM2W3FA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194660",
+          "url": "/sapi/download/video?action=get&k=a-x-ZvTk2d1OrudoZSjflRICugGox3k9Z6Y5TSjigOT2btjM-n8-geAhQdiIIZRwSdN-IVI-dWNyFrt9R-OdgzyNIBbkLf4EQCsxjcGDNnA_Y6TJqUyt4Oe6D1HhTsFzVS3sqLZTQBcGlBRKkXCs0JDEX6jxjLmntnCcLqCYf26mbaRrCX4&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=DNHROUOkpolieTcbmLV5M5SCu2IXjWfkWz_7ja7GDTAN_OTELgOixaTsCi5_Ia8nwIRnrMS1DDaSA4jCLwBRmbBItsWmyj1Q7ZYCgou15jw6KDekU7BF85LaWAapP5oG1MbRzOj2io4SApOxCSTLKXEu7oYMsFzqI7UyNvO8uqdn985XSD-_fhOG2bxqIT6OfeU&node=2i226",
+          "date": 1778268381830,
+          "creationdate": 1778268294000,
+          "modificationdate": 1778268294000,
+          "uploaded": 1778268368718,
+          "size": 415290024,
+          "name": "Wicked--For-Good-(2025)-Hindi-HQ-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7815998,
+            "bitrate": 425066,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=8pDtWKpMLK9cnuMNw2MVJEQ0AlUsIjKEo0K6vvYPtTCc6iT59TWWKKdP2bpNGU89waxEfn5RW-21gyVJy-X-JJirM5jsqkmUM1QxLZK6DL2tA4X_fw-sTM5Zu_id44RdaSXorbCv9DZyrEnWBZu2mXIyQfw_NGqiiOzf3NilS7RQPdji-t7Jn1aCP2WH-lcHTh4&node=2i226",
+              "etag": "0h99inG1IxRgD/uzZM2W3FA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=DNHROUOkpolieTcbmLV5M5SCu2IXjWfkWz_7ja7GDTAN_OTELgOixaTsCi5_Ia8nwIRnrMS1DDaSA4jCLwBRmbBItsWmyj1Q7ZYCgou15jw6KDekU7BF85LaWAapP5oG1MbRzOj2io4SApOxCSTLKXEu7oYMsFzqI7UyNvO8uqdn985XSD-_fhOG2bxqIT6OfeU&node=2i226",
+              "etag": "0h99inG1IxRgD/uzZM2W3FA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "h99inG1IxRgD/uzZM2W3FA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778268381937,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kugRW19pTquQ5AZpcwGzdDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Wicked For Good (2025)",
+  "media_kind": "movie"
+}
