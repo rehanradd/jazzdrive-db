@@ -1,0 +1,83 @@
+{
+  "name": "Frankenstein-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Frankenstein-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:39:41Z",
+  "remote_folder_id": 1755610,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194715",
+  "tmdb": {
+    "tmdb_id": 1062722,
+    "title": "Frankenstein",
+    "original_title": "Frankenstein",
+    "release_date": "2025-10-17",
+    "year": "2025",
+    "rating": 7.643,
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "genre_ids": [
+      18,
+      14,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194715",
+    "status": "U",
+    "etag": "XNyAGHrML1sgEccARrLy1g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194715",
+          "url": "/sapi/download/video?action=get&k=ge1D8dazpm6xidTcvOQPqE1fFZQS5ZeFP_pKKoddsSR-QXr-xwgzCcLpEvpU1AHU0QT54X8-d3_tG2Si8Wuc-bYdJT7KJXdITVyEtur2EUQpZds45wXx28Vv43JFX9Q68vBe2xDBQXI7Js1ke_9rlaQc1_mRw5CQXY6a431Q_5k1waD28qY&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=VF2AO7X5y6ZqOXP9v22nVSMKwUG2NfPlzECpfcWsOZcYqj1Xnu2NQVdSsXY5u_DsDVNrZsoGSz7kXdmI996e13KaA8LH9zQcS7k-flO7DviBw3ym5dosxwNKXzobPqaarJ1Z9oxkG41tq1JLAKM4gb59Pdl8jTKLUDKWV9uQ65qVd_I8IUkkNZwUfAvpWHENNv0&node=2i226",
+          "date": 1778269181205,
+          "creationdate": 1778269085000,
+          "modificationdate": 1778269085000,
+          "uploaded": 1778269167099,
+          "size": 482742047,
+          "name": "Frankenstein-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 9145856,
+            "bitrate": 422260,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=vm3cUKElkNd0ZRasbs_q3DnqGRpuD8WK8qS4_rftFA-Ful3mb8wkQ6_lWEKcZ655GPfPY-YdEcx58CYCZZq1HoL-MRPUyHGroVRSvzMU9zKscAzho7WVdf5pTtYyhWUkJ_qyZM3nV2aZ2LUpf0jp6JoiBf-dqd9WmQeKe1Ee1XfwfPuEtb8XA35_Wf5KK_i-mrQ&node=2i226",
+              "etag": "0XNyAGHrML1sgEccARrLy1g=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=VF2AO7X5y6ZqOXP9v22nVSMKwUG2NfPlzECpfcWsOZcYqj1Xnu2NQVdSsXY5u_DsDVNrZsoGSz7kXdmI996e13KaA8LH9zQcS7k-flO7DviBw3ym5dosxwNKXzobPqaarJ1Z9oxkG41tq1JLAKM4gb59Pdl8jTKLUDKWV9uQ65qVd_I8IUkkNZwUfAvpWHENNv0&node=2i226",
+              "etag": "0XNyAGHrML1sgEccARrLy1g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "XNyAGHrML1sgEccARrLy1g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778269181276,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/-LCulPm0QUipgW_ENjcRgjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Frankenstein (2025)",
+  "media_kind": "movie"
+}
