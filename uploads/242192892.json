@@ -1,0 +1,82 @@
+{
+  "name": "Firebreak-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Firebreak-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T16:54:17Z",
+  "remote_folder_id": 1754753,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242192892",
+  "tmdb": {
+    "tmdb_id": 1428862,
+    "title": "Firebreak",
+    "original_title": "Cortafuego",
+    "release_date": "2026-02-19",
+    "year": "2026",
+    "rating": 6.404,
+    "overview": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames do.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/okbpjIlAspXYfkllAqjMRtWgoDj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+    "genre_ids": [
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242192892",
+    "status": "U",
+    "etag": "pgSkMcHH5Vx+Ozc46XrpfQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242192892",
+          "url": "/sapi/download/video?action=get&k=So0rSqy6wPTldDLruK_W8lOEIx3AqlbwrzUA0FmKwwx7WKrH6PKlMcY8WeVR1eL6HsO9V64-kMnUs0ooOZJjs5muvkdUlSEdXwZyRFCD9s0Ph93-SkFMEzwGfXlOy4Me7q0XP9kLgnD8-EXOHJxG-9Pq1bUxkeIDJnM_nGbr1O9x6Zy68VQ&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=wAdrn94lGnR5eV3om2iHlluyputxIdg8q77OJw_eamFzsvA3N4hUIoSN8bx3q5xhBCL0JvquvaFHxC--SDciFbGxCuN_Ztx7AlYJNVckZua1kJi43GOMeSqJbwFF3awaYxXmMr2a8RdLMJLyGJu7LR2ahva9FHgl1WyTu97rQ3joC-2wNpDY1mUeHxFzN9d2gSs&node=2i226",
+          "date": 1778259255780,
+          "creationdate": 1778259229000,
+          "modificationdate": 1778259229000,
+          "uploaded": 1778259244614,
+          "size": 336924446,
+          "name": "Firebreak-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6437486,
+            "bitrate": 418703,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6VKiv6PKb_LD53PW8Nyc-6EOBRPoFt5ATnfe8VSbAQTl4J0Q21B8t1MoRBrC-soOa_1JujPEuzVYCW2QuD6CAxH4DlJbjhZmp3Xy2jK56bCDF_FCirX3yGCGrJRqEWcQZKDdDGOE1_r7agdptJK1cMcE7smhrBi9Mi0H-JmJZJ_L9d66FRsXFS1xEmP7qdI-COQ&node=2i226",
+              "etag": "0pgSkMcHH5Vx+Ozc46XrpfQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=wAdrn94lGnR5eV3om2iHlluyputxIdg8q77OJw_eamFzsvA3N4hUIoSN8bx3q5xhBCL0JvquvaFHxC--SDciFbGxCuN_Ztx7AlYJNVckZua1kJi43GOMeSqJbwFF3awaYxXmMr2a8RdLMJLyGJu7LR2ahva9FHgl1WyTu97rQ3joC-2wNpDY1mUeHxFzN9d2gSs&node=2i226",
+              "etag": "0pgSkMcHH5Vx+Ozc46XrpfQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "pgSkMcHH5Vx+Ozc46XrpfQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778259255859,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/OvJWUTTSStWqYiM4PqdkUTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Firebreak (2026)",
+  "media_kind": "movie"
+}
