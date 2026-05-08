@@ -1,0 +1,83 @@
+{
+  "name": "Dust-Bunny-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Dust-Bunny-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:17:42Z",
+  "remote_folder_id": 1754791,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193651",
+  "tmdb": {
+    "tmdb_id": 1043197,
+    "title": "Dust Bunny",
+    "original_title": "Dust Bunny",
+    "release_date": "2025-12-11",
+    "year": "2025",
+    "rating": 6.706,
+    "overview": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+    "genre_ids": [
+      14,
+      28,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193651",
+    "status": "U",
+    "etag": "gj1o+UmhWV/Y/9LL7ZTXCw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193651",
+          "url": "/sapi/download/video?action=get&k=1WumVYAetoZt4qV-L-xSc46ALFnkiVpCIvp0nVCm2wB4HD2XyaGMWxwoPsu3vQsz1AVSSKAJaPCn1PStlynfgY9NJCLGghPfyv9RXMTmbsUbnMJq09--oqdMYXqalMnPJISaL3w1Rp7r-ZAv7giwLxga9M84mxbSx4nxW5CCDhnG0RUR1os&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=1rTNvdoQGZAuL-xVAyGgLccZUI5pVMVLTnWy3GIJmL8V3eMnmTV5FEFthAK0iajajgqQQ2op6vQFC8KoHDsu8foeYaweYKmyzQ991iYiqPnHAlEedSAfVJhmJCUYYNZsItIsWZT-q7tZ7PEWs7tjfx2GkU6Bw8cLzRERovSNWjdIRltBNO55BEh-7OHTrwlYbeM&node=2i226",
+          "date": 1778264262067,
+          "creationdate": 1778264194000,
+          "modificationdate": 1778264194000,
+          "uploaded": 1778264251610,
+          "size": 337777432,
+          "name": "Dust-Bunny-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6353556,
+            "bitrate": 425308,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Ymaga3WH1WG9BILStYzXC4z8CTnZKwVq2S8F1udGxhUHXc46XBf1NPw1EI0VDjMHe5qLKqUm4MqBZjY3ZUnq4IWkP_up7kpRjmPGgI9GzWnisfnPB8XfUIkqIOcagrGh5x5aSQB8y0s1HU99nPRUA__WRaTYtkjbtjEt2mDx4qDlGjDLIunv6Exa42G8skELTR4&node=2i226",
+              "etag": "0gj1o+UmhWV/Y/9LL7ZTXCw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=1rTNvdoQGZAuL-xVAyGgLccZUI5pVMVLTnWy3GIJmL8V3eMnmTV5FEFthAK0iajajgqQQ2op6vQFC8KoHDsu8foeYaweYKmyzQ991iYiqPnHAlEedSAfVJhmJCUYYNZsItIsWZT-q7tZ7PEWs7tjfx2GkU6Bw8cLzRERovSNWjdIRltBNO55BEh-7OHTrwlYbeM&node=2i226",
+              "etag": "0gj1o+UmhWV/Y/9LL7ZTXCw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "gj1o+UmhWV/Y/9LL7ZTXCw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778264262151,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/4Hjdn8n_RIC02UOisQMVEjk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dust Bunny (2025)",
+  "media_kind": "movie"
+}
