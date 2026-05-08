@@ -1,0 +1,83 @@
+{
+  "name": "People-We-Meet-on-Vacation-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\People-We-Meet-on-Vacation-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T17:13:06Z",
+  "remote_folder_id": 1755137,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193348",
+  "tmdb": {
+    "tmdb_id": 1034716,
+    "title": "People We Meet on Vacation",
+    "original_title": "People We Meet on Vacation",
+    "release_date": "2026-01-06",
+    "year": "2026",
+    "rating": 6.963,
+    "overview": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193348",
+    "status": "U",
+    "etag": "gEGWDO0AgzXA7j50+bF0pA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193348",
+          "url": "/sapi/download/video?action=get&k=uKQGg1jjLNIdGwPCti3cav29tp7DQfIsXXzrWuhmOvRqBvqkvTCRncGc7Vf32CAyuozUgw5q_MPGW0nqMjdclnGJUk67XhKSAJJnBy6LcaYnuhMROAEZxbe3ZNKcGuGth4lJ8zyc66__0YfhGFJxzs9Dn0sj-jTNxYjxBgSXJD905ZgKNGI&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=JFO9QdVNowlMcu6No6ksYRifODP4d_5LxRlfpLFDH8Fz-N-7fM51yi9CHWVonXUxtHeusYy47autb-hqOgl1may7qbVzocF1q6xLkCLz604kXDO47o4CFU9ejjG15HcrMRzS1s5qN2Alqw57QSZlLFcYs8AFfACLai9dxcAyO0qLHknDLihbJ2axweuGDgR4ELc&node=2i226",
+          "date": 1778260385764,
+          "creationdate": 1778260356000,
+          "modificationdate": 1778260356000,
+          "uploaded": 1778260374353,
+          "size": 371373587,
+          "name": "People-We-Meet-on-Vacation-(2026)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7071333,
+            "bitrate": 420145,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_p-RpF19LqdUOWgsmzL8ZMwz1bgwu_XYCknR9m5KlAozv6eRGpjR5SYLCsOk75c9231vuVWVx7v9FtHIPrrmGIX8VUpjcRzHf8p8YqTMD2lit795s-h-O921Ajnry0LJ-H99aaGiCzL6GXOxgHWVVAKNIaad9-Vmpiq3Vwd6EdZqUzE3SkD5e7dmCMiFopOrGYE&node=2i226",
+              "etag": "0gEGWDO0AgzXA7j50+bF0pA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=JFO9QdVNowlMcu6No6ksYRifODP4d_5LxRlfpLFDH8Fz-N-7fM51yi9CHWVonXUxtHeusYy47autb-hqOgl1may7qbVzocF1q6xLkCLz604kXDO47o4CFU9ejjG15HcrMRzS1s5qN2Alqw57QSZlLFcYs8AFfACLai9dxcAyO0qLHknDLihbJ2axweuGDgR4ELc&node=2i226",
+              "etag": "0gEGWDO0AgzXA7j50+bF0pA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "gEGWDO0AgzXA7j50+bF0pA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778260385847,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/zvqWsb-pT8S4ukT4BHa_Lzk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "People We Meet On Vacation (2026)",
+  "media_kind": "movie"
+}
