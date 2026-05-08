@@ -1,0 +1,82 @@
+{
+  "name": "The-Carman-Family-Deaths-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\The-Carman-Family-Deaths-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:24:35Z",
+  "remote_folder_id": 1755596,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194656",
+  "tmdb": {
+    "tmdb_id": 1363282,
+    "title": "The Carman Family Deaths",
+    "original_title": "The Carman Family Deaths",
+    "release_date": "2025-11-18",
+    "year": "2025",
+    "rating": 6.743,
+    "overview": "A young man's dramatic rescue at sea spirals into accusations he murdered two members of his wealthy New England family.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yFc6F5PmAIdqpAU9wReCqLHWwMm.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7BzlM1VAL4lSoX93KmL9JKk8Vnc.jpg",
+    "genre_ids": [
+      99,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194656",
+    "status": "U",
+    "etag": "jQu83+Hy1dwKEw0VI401Sw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194656",
+          "url": "/sapi/download/video?action=get&k=2def5OgNKU48_tIwMZbIZthXboVSlTt7VpBm3LO9k6b0dipCjQWTCoE8R8dGQ7ZkPVxLZaOMf7u2g5cKa6LVoghWuexXqhHe2OcFcwMdC5U4Dw3H-2_YK_upvKHIKE6f76RO2erNjnpeVc49o67QwKMSNbBNJGlD9MlBrp4SV7wAGehH_CU&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=FiCD8jZNNjQeNfjcLJTYgfk1JVFtgJLTsn744-cGrkpNE5moWDVJKXmUX7edmrTvG2P8pGBwkGx-0TGiLoLgPf1Fa6v6B6mrZVVg8qevoaBZeCvJONd-7SkFm8tY8nI-KglzRGO04_j-bjeZhGc_H7AlPznX0s8x4v2kYC-se_BhCIsZjEWpzuXY-OO6h2vyK4c&node=2i226",
+          "date": 1778268274438,
+          "creationdate": 1778268217000,
+          "modificationdate": 1778268217000,
+          "uploaded": 1778268265740,
+          "size": 281848753,
+          "name": "The-Carman-Family-Deaths-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5434688,
+            "bitrate": 414888,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=__fX8cUbzMd33-WMCMsAtb5be62hbku4IjqggjTUcxyzCsZjP0eWbK_hKZ1qiKv7t6Nlf8Sc2dNNrKP809qLlzHYmYnz7ZH5OLWkiYrDDwXuc5K7ziWFnCYnP50XMx7KVDxcWFIydWbzs20xSNLlQhezQMa2qFwaejLEQX9yhbTJsIBNIOFuhTsNQabr6TyR80U&node=2i226",
+              "etag": "0jQu83+Hy1dwKEw0VI401Sw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=FiCD8jZNNjQeNfjcLJTYgfk1JVFtgJLTsn744-cGrkpNE5moWDVJKXmUX7edmrTvG2P8pGBwkGx-0TGiLoLgPf1Fa6v6B6mrZVVg8qevoaBZeCvJONd-7SkFm8tY8nI-KglzRGO04_j-bjeZhGc_H7AlPznX0s8x4v2kYC-se_BhCIsZjEWpzuXY-OO6h2vyK4c&node=2i226",
+              "etag": "0jQu83+Hy1dwKEw0VI401Sw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "jQu83+Hy1dwKEw0VI401Sw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778268274522,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Gzgo3uRvQyqvVpSzDUUTQDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Carman Family Deaths (2025)",
+  "media_kind": "movie"
+}
