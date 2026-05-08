@@ -1,0 +1,83 @@
+{
+  "name": "Return-to-the-Jurassic-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Return-to-the-Jurassic-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:06:22Z",
+  "remote_folder_id": 1755502,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193636",
+  "tmdb": {
+    "tmdb_id": 1418494,
+    "title": "Intruders: Who is the Trespasser",
+    "original_title": "\u91cd\u8fd4\u4f8f\u7f57\u7eaa",
+    "release_date": "2025-01-17",
+    "year": "2025",
+    "rating": 0.0,
+    "overview": "To develop a potent anti-cancer drug, a research team ventures to a secluded island in search of an ancient plant known as \"Fire Prison Vine Lotus\". On the island, they encounter attacks from prehistoric creatures and uncover Jurassic-era ruins. After numerous challenges and securing the plant's stamen, the team faces relentless pursuit by velociraptors, leading to their separation, with only three members surviving the ordeal.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ct5i2j09kAXK4NKjPYuSDRPphJr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zlhdLysLFuCEelsDwfhwMS7kqFp.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193636",
+    "status": "U",
+    "etag": "Bx406HrnWEBp39DTgk8lHw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193636",
+          "url": "/sapi/download/video?action=get&k=FR3cbETcGdvNn1Zzu-U71WkfrdG5VeAsvUSxMIVYZT9KsjMx1n5Aal52QBNpOlWtazzROhP0xS1VfBPJKRSE-1OKoZN-na0ZDry2iaB25VK7dOGlV73x2Evzg3tKb2G3rxL1hwhVVWGBo5BETlWjM8GdFZz--Y71OCTIaCGc50Y9gQIULYM&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=N8-ox_T3Oc9MsHjek3PR0ik0cg5kgRJlCJQiqRAeV9ayd5TEtnsJ5hyl18DQqulKLmuNw976bgwf7iwauHOYvIKMbHTdrzf59Fe9K0-0xxDqF39xB_qhwhDH1UbPvV1extg7kSOfzdBYq0-FBTVgVE1bI3s-wiMEv0-9c3oZgr5vtg6PmGaLW_BQqEB4wT0G0LA&node=2i226",
+          "date": 1778263582043,
+          "creationdate": 1778263538000,
+          "modificationdate": 1778263538000,
+          "uploaded": 1778263574967,
+          "size": 217912327,
+          "name": "Return-to-the-Jurassic-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 4171960,
+            "bitrate": 417860,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=E6NcERgw_XnQeA5dvG33Ky3nROl3wM0ksKmWSqeY4TwdjiBWnjHNK8tTe3_Uzt9W7mXG_q86GihOqvBkeeZpgGXT3fWydFdCZAjuup5u5r4AT31J3iMqSqgeF0tRXV4VqZemLrELvJVDSyXlsEc2lCw2RGPNdHQ6djSFvvaGUl-s5oM8Rg5zuxKIlJtj6vM9YbE&node=2i226",
+              "etag": "0Bx406HrnWEBp39DTgk8lHw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=N8-ox_T3Oc9MsHjek3PR0ik0cg5kgRJlCJQiqRAeV9ayd5TEtnsJ5hyl18DQqulKLmuNw976bgwf7iwauHOYvIKMbHTdrzf59Fe9K0-0xxDqF39xB_qhwhDH1UbPvV1extg7kSOfzdBYq0-FBTVgVE1bI3s-wiMEv0-9c3oZgr5vtg6PmGaLW_BQqEB4wT0G0LA&node=2i226",
+              "etag": "0Bx406HrnWEBp39DTgk8lHw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Bx406HrnWEBp39DTgk8lHw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778263582109,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kLBhm050TDa4H3iIlRw7EDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Return To The Jurassic (2025)",
+  "media_kind": "movie"
+}
