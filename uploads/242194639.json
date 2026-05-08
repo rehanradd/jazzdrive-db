@@ -1,0 +1,82 @@
+{
+  "name": "Two-Worlds-One-Wish-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Two-Worlds-One-Wish-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:19:31Z",
+  "remote_folder_id": 1755591,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194639",
+  "tmdb": {
+    "tmdb_id": 1522377,
+    "title": "Two Worlds One Wish",
+    "original_title": "\u0130ki D\u00fcnya Bir Dilek",
+    "release_date": "2025-11-24",
+    "year": "2025",
+    "rating": 7.378,
+    "overview": "Twenty-one years after a magical meeting at a children's hospital, Bilge and Can suddenly begin hearing each other's voices telepathically. What seems like a miracle soon reveals a hidden secret, as fate-reuniting them after decades-has much more in store.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2yZmwuXiQw58GiXwJwGNYtsDrEL.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194639",
+    "status": "U",
+    "etag": "CIodMsA5UVHvA0LUhdSeJg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194639",
+          "url": "/sapi/download/video?action=get&k=LO83jbFBWiYFMKqWUIwKBrT2AQBcmKHPwbmSDzToRBi87UbjTX9PmQUieGIX4kFsxKbOnFm-_qcFQ03EzbKrXWq-hCfO47AoUi0mQiSWDF99EeQr9Oo4TGCdWOAFv5_doKzGGyOwCi2qEMC4giVpYwinwUn3JC1EOboHJosrROohLZUCWM0&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=kjy0_Miwhd6fdm_DhXkH28vGHwKJqkEwGjguUWV623DkBkgg1UBlX74dfOHQurdW8zQPoPIE1JKFrSRxDDTi0pCLeM3wRG6HQ-ArwriLliJRNSr4l9fXQZu4WCn2nwSpVdXkAxCCyxoQJXoG0477neKF_3KQuPLF0otV17yVbruIuBqemqpZeZgZUr4xPND0OOY&node=2i226",
+          "date": 1778267970917,
+          "creationdate": 1778267899000,
+          "modificationdate": 1778267899000,
+          "uploaded": 1778267959533,
+          "size": 371921420,
+          "name": "Two-Worlds-One-Wish-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7089600,
+            "bitrate": 419681,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=-d4pwqQ4tcBDqqWRagUGPHWkJFAncdfp5-omdPxORMz8wqtUpm3jzunsXpvOP7v3m3CW6zZ2-MyGMvqYeOjg-Ys1SI8pzgij4FZZ9JJ1iEX56PmmjidzY17Gu7m3nOCfoY-Gg5GaSIv9hxic4CiNuigkPX2vPSNTVpCGvxBq-9lB2cp_8PGEleU12ZEc6WYvA3A&node=2i226",
+              "etag": "0CIodMsA5UVHvA0LUhdSeJg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=kjy0_Miwhd6fdm_DhXkH28vGHwKJqkEwGjguUWV623DkBkgg1UBlX74dfOHQurdW8zQPoPIE1JKFrSRxDDTi0pCLeM3wRG6HQ-ArwriLliJRNSr4l9fXQZu4WCn2nwSpVdXkAxCCyxoQJXoG0477neKF_3KQuPLF0otV17yVbruIuBqemqpZeZgZUr4xPND0OOY&node=2i226",
+              "etag": "0CIodMsA5UVHvA0LUhdSeJg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "CIodMsA5UVHvA0LUhdSeJg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778267970985,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/iPyg_d7OSn-5S5Ml1p4qojk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Two Worlds One Wish (2025)",
+  "media_kind": "movie"
+}
