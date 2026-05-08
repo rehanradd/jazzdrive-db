@@ -1,0 +1,83 @@
+{
+  "name": "Tornado-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Tornado-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:40:42Z",
+  "remote_folder_id": 1755612,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194718",
+  "tmdb": {
+    "tmdb_id": 1126915,
+    "title": "Tornado",
+    "original_title": "Tornado",
+    "release_date": "2025-05-30",
+    "year": "2025",
+    "rating": 6.219,
+    "overview": "When her father's puppet samurai show gets ambushed by a notorious gang, Tornado vows to seek vengeance and forge her own destiny by stealing their ill-gotten gold.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iow3KuKBJN2Hfqi7i7Tq3pZUbAa.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/db44XHVbqhQXr3tQQgYcw2gp39Z.jpg",
+    "genre_ids": [
+      18,
+      28,
+      37
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194718",
+    "status": "U",
+    "etag": "t0Je0cO8GI41R8aiLF2EKw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194718",
+          "url": "/sapi/download/video?action=get&k=s6PIxIYQcogAQFFvojL6iCcSBNhlh8FCV0Df66KZDGkTnmYtiWmkUavvGaJ0ddfqrymzLMeiHqlHqBgwzsaWgONFu6B-1QnDutCCpPhh9eQK3R_iuYFWOmSlSwW3LTMGKjCVZ45JrhsULqSzFcw40ZGS_tbrPSt9h3r3vpYquY1Tu1cm0RE&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=5QSENIr4wgjKs6jEwjFFuHB6-qLhNpQbJvytnQuny6jFJgS0Bbe4KwvEzg0gvr8KxbZ8zT0V7IEZcm5cAnW6y_8KCq0f7SPB-9tgbu8I8RNpHRqMirJr8E6HBr3t7nePf1EW1FGpzVYafkq7Uw-9_wY2N6KV8dwC_wszi1P2gYlF0kFIjJ9TeFZlDMoPj71JuOc&node=2i226",
+          "date": 1778269241661,
+          "creationdate": 1778269184000,
+          "modificationdate": 1778269184000,
+          "uploaded": 1778269232985,
+          "size": 286267191,
+          "name": "Tornado-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5430440,
+            "bitrate": 421722,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=d1QVmDKhOSFaJPpL9pqrKyxECmYOj7hfZSSqAMmU9KwpsQbhFFS9fyQYJg2fZrY0QjALJdernOZrXlU2IlaEP5jZ3CwTYjDzymTawVW_WgEM-2BYvrEaQfA2zm6Ys6EfAgR53YcA2qqWLLWDQtf0e7j7P4ns3L8CXjaAmjbgIPH9m3N4yXcotHsggZiGm__n0EM&node=2i226",
+              "etag": "0t0Je0cO8GI41R8aiLF2EKw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=5QSENIr4wgjKs6jEwjFFuHB6-qLhNpQbJvytnQuny6jFJgS0Bbe4KwvEzg0gvr8KxbZ8zT0V7IEZcm5cAnW6y_8KCq0f7SPB-9tgbu8I8RNpHRqMirJr8E6HBr3t7nePf1EW1FGpzVYafkq7Uw-9_wY2N6KV8dwC_wszi1P2gYlF0kFIjJ9TeFZlDMoPj71JuOc&node=2i226",
+              "etag": "0t0Je0cO8GI41R8aiLF2EKw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "t0Je0cO8GI41R8aiLF2EKw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778269241733,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/35dOVVJaTmy6VVDdDHZnITk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Tornado (2025)",
+  "media_kind": "movie"
+}
