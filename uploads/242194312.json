@@ -1,0 +1,82 @@
+{
+  "name": "No-Escape-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\No-Escape-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:39:12Z",
+  "remote_folder_id": 1755543,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194312",
+  "tmdb": {
+    "tmdb_id": 1508485,
+    "title": "No Escape",
+    "original_title": "\u63d2\u7fc5\u96be\u9003",
+    "release_date": "2025-07-05",
+    "year": "2025",
+    "rating": 3.0,
+    "overview": "Set against the sweeping backdrop of China\u2019s Inner Mongolian grasslands in the early 1990s, Impossible to Escape is a visceral crime-action thriller that pits relentless justice against ruthless lawlessness. Directed by Feng Baoning, the film follows veteran detective Zhang Xiao (played by Su Xin), a seasoned officer leading a task force to dismantle the brutal criminal empire of Guan Xiongfei (Du Yiheng), a merciless gangster terrorizing the region with audacious heists and savage violence.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eddv1XJWyN5trgetdOFplbRYx0C.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lVF9HCNczJvVT4yO7XDA5BaFXG0.jpg",
+    "genre_ids": [
+      28,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194312",
+    "status": "U",
+    "etag": "lEjp+wA5d/7XdKCD+9wTuQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194312",
+          "url": "/sapi/download/video?action=get&k=aHJP7o2bOqWq0EQHjTk76_BLJV18sb5WelEbzTDJUP3bwl2hRcddjfz2b5zr7sRKmf5ziNloR89ZIDza95eqwmBuv7CBPtaJf7bpNL0jk6CMTDz4jas8bsvrsOcHRCYkAoYWKC2_MKqaBUQYOOd6shxqs5NRrkt9IWEgjR30790peSvwJ8A&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=jtr_T5vyXJcn9WKVdfNgU-IpwFNFlddGlnHMh5SLQEatc31p1L0rY7AnK1tVfn6Xe5SmDFiT3eFPT_kG-RVK1j7Qk_g1A10nPrvU-8bMWKv-bnPjTz4xuB-VZaDW6KJ1nHAy5oqFP9MC_LaIXBEwkaeug-5mp-xcjnem_Pr8VOgPUH37sqsOBhI6OhbDkjDAwFA&node=2i226",
+          "date": 1778265551553,
+          "creationdate": 1778265488000,
+          "modificationdate": 1778265488000,
+          "uploaded": 1778265542044,
+          "size": 312534258,
+          "name": "No-Escape-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5923004,
+            "bitrate": 422129,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=F_He8foWy0sRT6h4k2w_I-rqLE78FT0250XxItlt49YMVT-8XAv_4luT10PlCmbcSzXTvdZ5GenUg0CdLDF8nq9aIyOpG0zVjvj6T3XeXPbgTCOkFoVnTi5VtZA1dDerwkyOlob3wITxzzdr13eTBJ_UL_FtgI65GsmH_FScmgpUyjtwPlQxph9YZwz2ncACl3E&node=2i226",
+              "etag": "0lEjp+wA5d/7XdKCD+9wTuQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=jtr_T5vyXJcn9WKVdfNgU-IpwFNFlddGlnHMh5SLQEatc31p1L0rY7AnK1tVfn6Xe5SmDFiT3eFPT_kG-RVK1j7Qk_g1A10nPrvU-8bMWKv-bnPjTz4xuB-VZaDW6KJ1nHAy5oqFP9MC_LaIXBEwkaeug-5mp-xcjnem_Pr8VOgPUH37sqsOBhI6OhbDkjDAwFA&node=2i226",
+              "etag": "0lEjp+wA5d/7XdKCD+9wTuQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "lEjp+wA5d/7XdKCD+9wTuQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778265551623,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/DJEq9ii7Q362MSMsLYXr0jk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "No Escape (2025)",
+  "media_kind": "movie"
+}
