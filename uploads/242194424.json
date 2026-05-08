@@ -1,0 +1,82 @@
+{
+  "name": "Murder-in-Monaco-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Murder-in-Monaco-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:59:11Z",
+  "remote_folder_id": 1755565,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194424",
+  "tmdb": {
+    "tmdb_id": 1584619,
+    "title": "Murder in Monaco",
+    "original_title": "Murder in Monaco",
+    "release_date": "2025-12-17",
+    "year": "2025",
+    "rating": 6.3,
+    "overview": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tlyKdcUn2qIBXpnCLw1uEqsRz8w.jpg",
+    "genre_ids": [
+      80,
+      99
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194424",
+    "status": "U",
+    "etag": "YCvFPmZBCXaYbrXx6eT2rQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194424",
+          "url": "/sapi/download/video?action=get&k=p5iWtp_hN5ILiwsxtTI1Zni8M7d6-7mBBfmcYQtljYSfQZ-PfXSbCOamlZOko0F4elS7_ZiAzFjJft4sBbeos4Ff0UzzO8JH0sxt8hfrk0yP4hMXRsE8o6vwHMRBFwn13anEgCd1rxUDC8VCp7Bu5q4mFQtBdO-x9yscyxvd0_7WJv6_4fA&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=Ehh28rj20Zk6-1iG9j_DBc-11rYB3NwujIPlVQp1AywHIqjLAYQ8epHYpgNYtiGMZM2TdRV36mnJr6ZaPg6zmSRA1yZYnzN-ow7pTc5Wi4rTQV43tIllsW9KCdSmeBNRQFqS5TJ5U46eylm6WguEFTPtAuf3X0kUnaWwFfYkMwFKz3qZ1o5tJfGv8ZghvagG0d0&node=2i226",
+          "date": 1778266749782,
+          "creationdate": 1778266693000,
+          "modificationdate": 1778266693000,
+          "uploaded": 1778266740774,
+          "size": 279825050,
+          "name": "Murder-in-Monaco-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5403200,
+            "bitrate": 414310,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=s8WwXTdOpGwL9v-zyXsJFH_sOu6lei96HLHYfm1MsQqWETCVPK3ryt_0bTcGKl3Cn5uQet1jEPKPtASqsZhTc7jAhFylh0o8abRRpAVQyDaOM8na9WRS487T7Sx-PeQpEYJJk4FYSt05nQ9Vfntr4Cj50bdXdJK6vexBY64HADDXybuP2atKu5z3opahTPMufbg&node=2i226",
+              "etag": "0YCvFPmZBCXaYbrXx6eT2rQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Ehh28rj20Zk6-1iG9j_DBc-11rYB3NwujIPlVQp1AywHIqjLAYQ8epHYpgNYtiGMZM2TdRV36mnJr6ZaPg6zmSRA1yZYnzN-ow7pTc5Wi4rTQV43tIllsW9KCdSmeBNRQFqS5TJ5U46eylm6WguEFTPtAuf3X0kUnaWwFfYkMwFKz3qZ1o5tJfGv8ZghvagG0d0&node=2i226",
+              "etag": "0YCvFPmZBCXaYbrXx6eT2rQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "YCvFPmZBCXaYbrXx6eT2rQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778266749853,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/57D_zUsQT3-9-nZPh-Ms4zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Murder In Monaco (2025)",
+  "media_kind": "movie"
+}
