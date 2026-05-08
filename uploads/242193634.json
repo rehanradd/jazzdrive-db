@@ -1,0 +1,84 @@
+{
+  "name": "Under-Fire-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Under-Fire-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T18:05:03Z",
+  "remote_folder_id": 1755500,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242193634",
+  "tmdb": {
+    "tmdb_id": 1511556,
+    "title": "Under Fire",
+    "original_title": "Under Fire",
+    "release_date": "2025-08-07",
+    "year": "2025",
+    "rating": 6.542,
+    "overview": "Story unfolds in the scorching heat of the Mexico border, where rival drug dealers Griff and Abbott arrive at a remote drop point for a routine drug deal. But when the exchange goes down, both reveal undercover badges \u2014 Griff is FBI, Abbott is DEA \u2014 and neither knew they were working the same case.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/oAFd9y3myakKyTAwcv0YIpxt08Z.jpg",
+    "genre_ids": [
+      28,
+      35,
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242193634",
+    "status": "U",
+    "etag": "IW3KXxfhBjZxLuvC22sbrw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242193634",
+          "url": "/sapi/download/video?action=get&k=hErO023eCjrKaQiF_mTBG5xLZWmSXfMbTOIzBanWr5WVwuqQ1ALozieL7bH1iy7NDYNcibtaHuAk0UT240M79FGAYzx29H_zlZJIyUEiQheSOE-HcXdo8fgAQXcmMomgO0y-C6ZG8vtoEWsPGRbJcPAApVggHTfnygYuQ-vePnfhduE5vqQ&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=P5m3YJgmB_IKJk5fClBmA_DeJCZlN0M_Be925UrtCoEhP41DyJOa6Cyk440RDGyYC2TS_9EbgBxxEodb9ObBfKkBMWcQsh812nIQlBg4YwOzm8ABnSSePzM8PFQHeQwP8UvA5SYRLYhbSDDFd4sOS1lr7fwhgT_-XwXsqfczZKhx5c1MbKXWVr1ivl1lCcKBHMY&node=2i226",
+          "date": 1778263502564,
+          "creationdate": 1778263445000,
+          "modificationdate": 1778263445000,
+          "uploaded": 1778263492383,
+          "size": 287141966,
+          "name": "Under-Fire-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5491584,
+            "bitrate": 418301,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=9wDUw4sPEas5IoomSNQTV0qj77dDviHY_nP195MKHopje4Wpzs8wUejhAFaYLU16WT7vgD-RL1AOKIOTL15qIPTs2qkk62s2xYrbBGWvzqWF2zu-RtoN6Orzijqh_2eHoJLi6gHmVa2i4H7X0kRWVN4_1gabOtPj6SdYDg0uyFAhc6M9DDrH_SY8g65xQBmreLU&node=2i226",
+              "etag": "0IW3KXxfhBjZxLuvC22sbrw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=P5m3YJgmB_IKJk5fClBmA_DeJCZlN0M_Be925UrtCoEhP41DyJOa6Cyk440RDGyYC2TS_9EbgBxxEodb9ObBfKkBMWcQsh812nIQlBg4YwOzm8ABnSSePzM8PFQHeQwP8UvA5SYRLYhbSDDFd4sOS1lr7fwhgT_-XwXsqfczZKhx5c1MbKXWVr1ivl1lCcKBHMY&node=2i226",
+              "etag": "0IW3KXxfhBjZxLuvC22sbrw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "IW3KXxfhBjZxLuvC22sbrw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778263502633,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kDYmwoxpT2GGaxUCzL9k1zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Under Fire (2025)",
+  "media_kind": "movie"
+}
