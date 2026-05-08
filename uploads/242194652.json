@@ -1,0 +1,83 @@
+{
+  "name": "Relay-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Relay-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:23:27Z",
+  "remote_folder_id": 1755593,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194652",
+  "tmdb": {
+    "tmdb_id": 1088166,
+    "title": "Relay",
+    "original_title": "Relay",
+    "release_date": "2025-08-21",
+    "year": "2025",
+    "rating": 6.923,
+    "overview": "A broker of lucrative payoffs between corrupt corporations and the individuals who threaten them breaks his own rules when a new client seeks his protection to stay alive.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1ZnEOaOUj2e2Fq6Y7wo9KeH5rS6.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194652",
+    "status": "U",
+    "etag": "G1CI1r4l5crHb4Vu1rh31A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194652",
+          "url": "/sapi/download/video?action=get&k=RWK8Gc8x2YAtxZyvev8HW3kST8wS1PWZZlXuxt_Ze-uK3XtFKKCk4W96FuRRzO8CbcEb-ooEExM41v1jPtdxYc4xY2Db9QuO0SVWn6KCS8MzRzonnefgGr3lPGGbjuyS3UIhKEIY6FtRtUR1nLauF0VR1ofGpp6h8-fpwuQzZ04FdvLLG-M&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=MED0AUqqXNcg-gaZLQQwSouPB6FPMAy4lHvh5f_17XL159T2LyVIrkclF5Nm724-XahvyEwR5vtJAS1BN0naJqRkFl6MWl2cBxZEp05RpzZX1VOXa7H_-JwHIjz61lwO0S5bmNmeihWyDLIHLH3g6vMOhvzYW664IntcxdePrajCsqOvuojdyKbHfBMRVGtSE3g&node=2i226",
+          "date": 1778268206879,
+          "creationdate": 1778268136000,
+          "modificationdate": 1778268136000,
+          "uploaded": 1778268195887,
+          "size": 344702771,
+          "name": "Relay-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6449000,
+            "bitrate": 427604,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Uy94DAqEvCFrpp8ZyTJ13nqZng-YtZPBohLGgVu_R6J5jr6CtTDBAZwUt3UBVqDjQC5zvRWTCaAiSDhC8QRfhFNMepAtZi9K8DHGLoc02SzD_4DSNVRBO0FwTkej_30eC84CIpmRdFh5h-xQiXXbsAqAqCCeBQ1gxChWueUNF-ORim8z82XeNd6XKpdjfOTSfR8&node=2i226",
+              "etag": "0G1CI1r4l5crHb4Vu1rh31A=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=MED0AUqqXNcg-gaZLQQwSouPB6FPMAy4lHvh5f_17XL159T2LyVIrkclF5Nm724-XahvyEwR5vtJAS1BN0naJqRkFl6MWl2cBxZEp05RpzZX1VOXa7H_-JwHIjz61lwO0S5bmNmeihWyDLIHLH3g6vMOhvzYW664IntcxdePrajCsqOvuojdyKbHfBMRVGtSE3g&node=2i226",
+              "etag": "0G1CI1r4l5crHb4Vu1rh31A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "G1CI1r4l5crHb4Vu1rh31A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778268206952,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/C_KmVqTYToSQG9IOzKkQ3zk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Relay (2025)",
+  "media_kind": "movie"
+}
