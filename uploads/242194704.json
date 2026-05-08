@@ -1,0 +1,85 @@
+{
+  "name": "Yadang--The-Snitch-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Yadang--The-Snitch-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:34:55Z",
+  "remote_folder_id": 1755604,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194704",
+  "tmdb": {
+    "tmdb_id": 1137179,
+    "title": "Yadang: The Snitch",
+    "original_title": "\uc57c\ub2f9",
+    "release_date": "2025-04-16",
+    "year": "2025",
+    "rating": 6.976,
+    "overview": "Navigating both the criminal underworld and law enforcement agencies, professional snitches called \"yadang\" provide covert information about the drug world to prosecutors and police. When a drug bust at a party attended by high-profile second-generation VIPs entangles those involved into a dangerous conspiracy, a seasoned yadang must do everything in his power not just to make it out on top, but alive.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/y7dsDbG8zVWkrkyOhA6ckZXX1uC.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/9pdoEzieGdUTlRWTAO7QP8q1tIo.jpg",
+    "genre_ids": [
+      80,
+      28,
+      35,
+      18,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194704",
+    "status": "U",
+    "etag": "sFG0BsNC1OsbBkXrCUdXCg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194704",
+          "url": "/sapi/download/video?action=get&k=PHfusrxNlpu3htcUVGyv9U4STjaW4MFrRXpn9he2sCxysQ-Od4uv-PGXhHAcaDlBrS07Yg0unb-mJUoChClqG2svK2E_61EFtp6dctvFcBC4lNbyVZP6-TMmsy7EQF84Z1uqToAV7gfQlAGO6MvcVTG4htiLD2r7j8gxIG2TEz5gut7FzlA&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=zvnZZGXF5NIPM_Ydcfxg74dWX_GUkMrGwjCHeahobKI1VrMyg32D4vwSqfiGV_T8rgHrYq1oO-g4XnRRNLh1JjiX9Grfg_0ztcafyoXGeL0mu51X5TtTcHkvV9bFiSa3NtJEtO37NeDdwjHTI2SZmTlRA7qHLh9WJCYjN45vPNoh1j4kEh-0cChYKXL3voxB-cM&node=2i226",
+          "date": 1778268894488,
+          "creationdate": 1778268814000,
+          "modificationdate": 1778268814000,
+          "uploaded": 1778268882777,
+          "size": 390265750,
+          "name": "Yadang--The-Snitch-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7375808,
+            "bitrate": 423292,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ZHf_6UI6Y5HVrny4JSJOLLZexZqCxLQSkm7uoeclb1GEmEGCZqp3ejkVSctdtJ6mXkQLVlnXhaM3iEVIY5-m08W0c3KchizLDDX5QdVypeGG64T9Q-95UYUrJnAZ-TMvj-RXlYHO23-AGvt-w_9gXqSisCO8z7OqNWq-swQN5DaTHq8WUouP7IrYbdxU7UKPX8Q&node=2i226",
+              "etag": "0sFG0BsNC1OsbBkXrCUdXCg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=zvnZZGXF5NIPM_Ydcfxg74dWX_GUkMrGwjCHeahobKI1VrMyg32D4vwSqfiGV_T8rgHrYq1oO-g4XnRRNLh1JjiX9Grfg_0ztcafyoXGeL0mu51X5TtTcHkvV9bFiSa3NtJEtO37NeDdwjHTI2SZmTlRA7qHLh9WJCYjN45vPNoh1j4kEh-0cChYKXL3voxB-cM&node=2i226",
+              "etag": "0sFG0BsNC1OsbBkXrCUdXCg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "sFG0BsNC1OsbBkXrCUdXCg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778268894558,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/abfQieONRne3wOk8CQ9ivTk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Yadang The Snitch (2025)",
+  "media_kind": "movie"
+}
