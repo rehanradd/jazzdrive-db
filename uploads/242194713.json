@@ -1,0 +1,84 @@
+{
+  "name": "Dark-Nuns-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Dark-Nuns-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:38:50Z",
+  "remote_folder_id": 1755609,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194713",
+  "tmdb": {
+    "tmdb_id": 1224993,
+    "title": "Dark Nuns",
+    "original_title": "\uac80\uc740 \uc218\ub140\ub4e4",
+    "release_date": "2025-01-24",
+    "year": "2025",
+    "rating": 6.259,
+    "overview": "Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2Abt2GgscAGtGAXTrhH44qPhugI.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xIB0jjWBuURB0K2Pr91VsjUNYsY.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194713",
+    "status": "U",
+    "etag": "3z2IJaLmK6M1Svl1WMKZGg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194713",
+          "url": "/sapi/download/video?action=get&k=CKoS8kZhHE5dtT2UI87KySw4z8Kr6EY_R-4V6xgxwqUtrlWh_cdEDMQh_Yuevj0pldvPhGBHb2_KIy1NFDkxYzG29SU4yygCY3mJ7wzRa6IIeAh7yTIv6acSEu5jMvzUD09wAuBLHjlVqMk1UCAewD4gzjKTbhGzq1NTQUMrpXZB0YF29kk&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=kbzHCEB-ysesfCXwOAeZT_7hNdTakG2K3U8ZpeEnHN63rAfZcJVhdzstaBW4dIBcrKVlhqVBCagmABODTt4A2oY4KrHhLh8JaByMKgglh6z_MMR-AYEmLIUC2uVraNb5Q_hiQwOpvevTS0koLlttHdO9vpwBkQOzL_XErhIIJBlm3HQvYZbGYkjIXSitiQJOlEc&node=2i226",
+          "date": 1778269129411,
+          "creationdate": 1778269055000,
+          "modificationdate": 1778269055000,
+          "uploaded": 1778269118359,
+          "size": 367092190,
+          "name": "Dark-Nuns-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6865667,
+            "bitrate": 427742,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=i49esIwSuqk5ToMC1IwGt2EUNZTDGuAiBCpNTyN7kQhnh6b8b8AeCkUX4W3-du9lNShtJmTCkpxIzLBgqqnIIiC4bPh1NV31XyGH-LqMXme5PtOZv2gcZJ5r0hW1Qj8ue7WM03KWL70la96Zb2FcXcnLWxoR1hoZWV8OQjz3gUXjwdJRSFxFkQQkUSrBxgUnCSw&node=2i226",
+              "etag": "03z2IJaLmK6M1Svl1WMKZGg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=kbzHCEB-ysesfCXwOAeZT_7hNdTakG2K3U8ZpeEnHN63rAfZcJVhdzstaBW4dIBcrKVlhqVBCagmABODTt4A2oY4KrHhLh8JaByMKgglh6z_MMR-AYEmLIUC2uVraNb5Q_hiQwOpvevTS0koLlttHdO9vpwBkQOzL_XErhIIJBlm3HQvYZbGYkjIXSitiQJOlEc&node=2i226",
+              "etag": "03z2IJaLmK6M1Svl1WMKZGg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "3z2IJaLmK6M1Svl1WMKZGg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778269129492,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/J16GtucySCSSzuB2qO_3IDk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dark Nuns (2025)",
+  "media_kind": "movie"
+}
