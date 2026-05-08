@@ -1,0 +1,82 @@
+{
+  "name": "Black-Phone-2-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Black-Phone-2-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:36:31Z",
+  "remote_folder_id": 1755607,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194709",
+  "tmdb": {
+    "tmdb_id": 1197137,
+    "title": "Black Phone 2",
+    "original_title": "Black Phone 2",
+    "release_date": "2025-10-15",
+    "year": "2025",
+    "rating": 6.695,
+    "overview": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+    "genre_ids": [
+      27,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194709",
+    "status": "U",
+    "etag": "vSAoV1bji0P76rG2NTtDFQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194709",
+          "url": "/sapi/download/video?action=get&k=pnZI10A7x3T7-QtlT1uD6srbp3HkiBXMJSai9__S2iVKPdmJikcCudpD6z3PNhD6of6vnFmZn8_6njwCXo0E6Cxxzc-z_-qmSOL2LH78Udw5mdANomwgZeH3Vzdw-67ft1MjtYEx_74p1Zm_NWQDb_W2Q6vgRLruvrep26PEnWNwq9Z9Hw0&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=T9D8Ovnyn3T667KfNImURFhNo98aCPK3nq-ebM9nCv0oNWoB5SJfrKzdCe4T07UTp_cPofSLLtbeom-SNxXbQHq14vmACpuJgWrIzpqKFnHr8__UFuaxo-VMHSo45bO34IwiejTdecYhHyckyPzje1sCef7g4reygeeuSWSDpgmy_5qJawOr56GZ1FokkyaISqw&node=2i226",
+          "date": 1778268990650,
+          "creationdate": 1778268917000,
+          "modificationdate": 1778268917000,
+          "uploaded": 1778268979767,
+          "size": 362828671,
+          "name": "Black-Phone-2-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6855033,
+            "bitrate": 423430,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=SFxD3Ar5b0aabMtPtqFLA9Zb2P_mJqhF217dybswylLC8rrNOZgmTumAErgJK7ZtyBeliG517DCvGmkv2Ma33VKwyj0XAvgiL1_6Q-WBV1JgPK0nzKnYM-eOpfUGaNNF8WktTX9s0rCThP4n-hf6bFTJF5xOXCz96sn8gQSFcupYuqtOTiIS9gtw_qNXSis0Geo&node=2i226",
+              "etag": "0vSAoV1bji0P76rG2NTtDFQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=T9D8Ovnyn3T667KfNImURFhNo98aCPK3nq-ebM9nCv0oNWoB5SJfrKzdCe4T07UTp_cPofSLLtbeom-SNxXbQHq14vmACpuJgWrIzpqKFnHr8__UFuaxo-VMHSo45bO34IwiejTdecYhHyckyPzje1sCef7g4reygeeuSWSDpgmy_5qJawOr56GZ1FokkyaISqw&node=2i226",
+              "etag": "0vSAoV1bji0P76rG2NTtDFQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "vSAoV1bji0P76rG2NTtDFQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778268990725,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xWhPSu0BRvC_EasqTo490Dk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Black Phone 2 (2025)",
+  "media_kind": "movie"
+}
