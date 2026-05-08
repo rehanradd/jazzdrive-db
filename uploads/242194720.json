@@ -1,0 +1,83 @@
+{
+  "name": "Hedda-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "C:\\Users\\RDP\\Downloads\\Video\\Hedda-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-08T19:41:58Z",
+  "remote_folder_id": 1754776,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242194720",
+  "tmdb": {
+    "tmdb_id": 997113,
+    "title": "Hedda",
+    "original_title": "Hedda",
+    "release_date": "2025-10-22",
+    "year": "2025",
+    "rating": 5.6,
+    "overview": "Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charged night, long-repressed desires and hidden tensions erupt\u2014pulling her and everyone around her into a spiral of manipulation, passion, and betrayal.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/cKZcDKawR79igCgDMSXlpkn8hLR.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242194720",
+    "status": "U",
+    "etag": "XduJIhanKHWRbD+Kh6OCOw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242194720",
+          "url": "/sapi/download/video?action=get&k=U95EKNL3B5m3GxtMmBBeOY6l1DMIQ22_8B0uW9M7Dxcoo22mTqasBI6AIrwjLdk3vKrC25dicXHHTzePAA75ZIwaIu5uRxWAwcMyrX2cE9bpmhwIIRwm7x5fr3ia0ywrfUU5rJbJwFfmWaV9Nvc7fFOjzsNFCe2d4JrvvSMkK0bDPF4wl4c&node=2i226",
+          "viewurl": "/sapi/download/video?action=get&k=41SXeartwl7iIrNk-28uBMEr2j36lno2tF4mVyGl5_3PqiiCPhwPuE3hjE93UkNYNOukApZlMaIojbbtZtkcSQyZJsTmVIr-2Fer6ju5SwYmLYtqp5Znp8Vfg6Nr6qxg4oTb0rpaPRWLelIox-_N0C_EDPC_A6vT3ttkzf3-MOsx0gaJiny4bZXdMy-ltX90_9Q&node=2i226",
+          "date": 1778269317549,
+          "creationdate": 1778269251000,
+          "modificationdate": 1778269251000,
+          "uploaded": 1778269307439,
+          "size": 340874356,
+          "name": "Hedda-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6500000,
+            "bitrate": 419537,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=w5G_F9ANXcRxBDJ5UgebZlYLjaXtNT-Ihr2Oi484qEpXOrbZLTzTxLgdUgg5QmhQQVEPoOk82wgUwQM2bmwpNacmbWlkNTWGBEMff8ud9gUzXyIoptwwENT1rjrBusPjM3gM19SO2Wc9mUWnx_0pS-TbFwYfiVbMcBA7VG8mFuqCBoV1NFHhHH4_l2EU3hBcEIg&node=2i226",
+              "etag": "0XduJIhanKHWRbD+Kh6OCOw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=41SXeartwl7iIrNk-28uBMEr2j36lno2tF4mVyGl5_3PqiiCPhwPuE3hjE93UkNYNOukApZlMaIojbbtZtkcSQyZJsTmVIr-2Fer6ju5SwYmLYtqp5Znp8Vfg6Nr6qxg4oTb0rpaPRWLelIox-_N0C_EDPC_A6vT3ttkzf3-MOsx0gaJiny4bZXdMy-ltX90_9Q&node=2i226",
+              "etag": "0XduJIhanKHWRbD+Kh6OCOw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "XduJIhanKHWRbD+Kh6OCOw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778269317630,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/kf_gvsfMQwSzluqZBABTazk3NTU1MTgzNjY3NzFfMjYxODU0Ng",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Hedda (2025)",
+  "media_kind": "movie"
+}
