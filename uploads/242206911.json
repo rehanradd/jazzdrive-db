@@ -1,0 +1,83 @@
+{
+  "name": "Duchess-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Duchess-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T12:53:18Z",
+  "remote_folder_id": 1754975,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206911",
+  "tmdb": {
+    "tmdb_id": 1005076,
+    "title": "Duchess",
+    "original_title": "Duchess",
+    "release_date": "2024-08-01",
+    "year": "2024",
+    "rating": 5.64,
+    "overview": "A tough, working-class petty criminal is drawn into the treacherous world of diamond smuggling and morphs into an anti-heroine to be reckoned with in the murky underworld.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/A6MQBEobDU0neBuKPqxkEYwD35K.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206911",
+    "status": "U",
+    "etag": "6S+bSCbzIo37H3BWKX9JVQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206911",
+          "url": "/sapi/download/video?action=get&k=9hiEWCUyr_PEiluS8Mmi_UsZa2dJopLJxk0UCT41x1B91iOvMrKPnFEeaH4SPSEH_D7f-lCD5TjrwbNVJBPkNWm3uVgnb1sLIuRSx4E7u25jNqbe2EJ1A6Zn1MB9tZe7NgkG4NqaeYKJGswMBEufOx5Sjh9iFKzQK7qvhJtYy913tmbHjyw&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=7eTZ5SODOAVN5nbb9HfJKA7bTOFwqDA5MiGlYRrfbiqaj_7sZsKQA-HSrp-mNGJAIhGt8HaCLzpCZH21IQma2D3AW504w_XWJPazwoQDFU7erSFmgBOrr_9ij7f06VE1YXnMCRF9-IZ97BQbIkuM_Gaps7Onhd3l7O8wGV4OPFO_qffRzoIYcbfW6JJitUmdTSc&node=2i182",
+          "date": 1778331196905,
+          "creationdate": 1778331160000,
+          "modificationdate": 1778331160000,
+          "uploaded": 1778331186292,
+          "size": 361642950,
+          "name": "Duchess-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6835168,
+            "bitrate": 423273,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=1S0HgbY4bY6EMeA67unNa97Lcm4xJY2WDkQvICUbBXxUrUM9sY-z4cwm-jvusqmfw8HDzhlQWvRRJtVFJDBPBC65Qt4KC513LcXafal0Ofi8d8BTZn52xqwFPht4yw3JQaQGrrkCwZzn8KFav50lBtt6HEX5RGs_8yM9i467zhSrURchyH-QUr7NzA7yBtXIKvA&node=2i182",
+              "etag": "06S+bSCbzIo37H3BWKX9JVQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=7eTZ5SODOAVN5nbb9HfJKA7bTOFwqDA5MiGlYRrfbiqaj_7sZsKQA-HSrp-mNGJAIhGt8HaCLzpCZH21IQma2D3AW504w_XWJPazwoQDFU7erSFmgBOrr_9ij7f06VE1YXnMCRF9-IZ97BQbIkuM_Gaps7Onhd3l7O8wGV4OPFO_qffRzoIYcbfW6JJitUmdTSc&node=2i182",
+              "etag": "06S+bSCbzIo37H3BWKX9JVQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "6S+bSCbzIo37H3BWKX9JVQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331197041,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/lVvtbHJYRDen37H6ETdH3Tg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Duchess (2024)",
+  "media_kind": "movie"
+}
