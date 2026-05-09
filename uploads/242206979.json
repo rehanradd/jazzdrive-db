@@ -1,0 +1,84 @@
+{
+  "name": "Damaged-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Damaged-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:18:31Z",
+  "remote_folder_id": 1755918,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206979",
+  "tmdb": {
+    "tmdb_id": 1105407,
+    "title": "Damaged",
+    "original_title": "Damaged",
+    "release_date": "2024-04-12",
+    "year": "2024",
+    "rating": 5.586,
+    "overview": "A Chicago detective travels to Scotland after an emerging serial killer\u2019s crimes match those that he investigated five years earlier, one of which was the crime scene of his murdered girlfriend.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hPU12uDcsVyaz368yjxa4BjDHXB.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206979",
+    "status": "U",
+    "etag": "97+qHGp/Nh40rnwGsrVrzQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206979",
+          "url": "/sapi/download/video?action=get&k=TShkhynqs6E5JP4vAmwx-cunB0cQnXsMjX9JDI7MCGxeNn8Z0lIj1Vbd4yIsG2tBYI8_iumHpbvOA-OK-Ix8Y3rk6gk-44KAZqdsWFitQOcNYN3ewZeuVPyMD7GaFigO42enfmOBsZsnmVZ8YZUR_2SqjMdxYR9xHPHxnX6huZRp37t8GSY&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=Xi83_aZWM3VyCwsARLqnWwlNoirXAPoPrqWnav8Etg3YJyg2qceDWw8UwnQsIPhdZufiLjIQy781UncErlm6P7E-JX24UYLm1TlNDpgGyPbBhczyTLW4wwLVTghxDXgEm_njsGHwWJ8m13svr0qxu7RBF2aQd85bFTJim4abL28730PaiaYg2r51QSiwbZa4XD0&node=2i182",
+          "date": 1778332710168,
+          "creationdate": 1778332668000,
+          "modificationdate": 1778332668000,
+          "uploaded": 1778332701090,
+          "size": 310000989,
+          "name": "Damaged-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5838720,
+            "bitrate": 424751,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=O24XQdxXcSWupfR8aDjzTqR-fdIIIvySg3xpU9RLCJCNC4HSrlfXZW1uxvYhDahMrTAmHe-Xn2-xD_KNoB4KkAqUFVyQ3vuUGDL4yoRfhCpMnwgurvHH3Uu1a3V2Fd8oAJRAIKfzmpyelsOcxkWrqnNqHj_YZ_9j1Suv71RkLOLrRfA_wivOJRMO_ihCZh_QcMw&node=2i182",
+              "etag": "097+qHGp/Nh40rnwGsrVrzQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Xi83_aZWM3VyCwsARLqnWwlNoirXAPoPrqWnav8Etg3YJyg2qceDWw8UwnQsIPhdZufiLjIQy781UncErlm6P7E-JX24UYLm1TlNDpgGyPbBhczyTLW4wwLVTghxDXgEm_njsGHwWJ8m13svr0qxu7RBF2aQd85bFTJim4abL28730PaiaYg2r51QSiwbZa4XD0&node=2i182",
+              "etag": "097+qHGp/Nh40rnwGsrVrzQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "97+qHGp/Nh40rnwGsrVrzQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332710294,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fURl4ItRT5q66VJut5aqfTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Damaged (2024)",
+  "media_kind": "movie"
+}
