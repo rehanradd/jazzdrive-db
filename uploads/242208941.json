@@ -1,0 +1,83 @@
+{
+  "name": "In-a-Violent-Nature-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\In-a-Violent-Nature-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T15:07:26Z",
+  "remote_folder_id": 1755994,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208941",
+  "tmdb": {
+    "tmdb_id": 1214509,
+    "title": "In a Violent Nature",
+    "original_title": "In a Violent Nature",
+    "release_date": "2024-05-31",
+    "year": "2024",
+    "rating": 5.572,
+    "overview": "The enigmatic resurrection, rampage, and retribution of an undead monster in a remote wilderness unleashes an iconic new killer after a locket is removed from a collapsed fire tower that entombed its rotting corpse.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/z31pODVM3uUB4bvirzxHdxrJIzb.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208941",
+    "status": "U",
+    "etag": "n/0mMqcCkNJoW+s/ZTIE1g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208941",
+          "url": "/sapi/download/video?action=get&k=BnlE3o-hXnE4Eq-CRnAo0ezKqMoOrh8ZDm9Itc3uEr9JpcGtf-HwTfsvrMc4SYOE5EfS70pD3CIpLiS_WlPblXU5whOcVpLqxLQOTP_Zc0I2WghH4feuwqEIDppZeFxMHhaX5zCUmQGtmhUMsXNks3guMGc-uzyER6vYY33HpOmSlXzncUg&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=CKpEzbGoWv80f59CsMItR9OhfWFV1nBGplXXlBqLDr_U4JRyZqiQi5AMJGtEkXeK3kQ_73K6wlH3oKQlxUlDhlyX3Ab7NgUzTzG4Dgtrio4oHM1zyddtbtz_Hh07aG5owH1VPaH-0PdfPjsZZqC9hQ2NrBtlDiJGP1XV0USmxWyBMBSACJEGFqRAPyt6uv3qVhg&node=2i182",
+          "date": 1778339245337,
+          "creationdate": 1778339143000,
+          "modificationdate": 1778339143000,
+          "uploaded": 1778339230277,
+          "size": 537184119,
+          "name": "In-a-Violent-Nature-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5644108,
+            "bitrate": 761408,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ZMK_bQapjbFlhriyrR5UnkMdeslzBkmWk9sQ2sRpp8nGPDdp-sQZGfcjPbRgn5iaFvItenS8CEOR9uB746bhG5DJ1Vg1_0dyfahnicB8z6r-au80h9ot8JNPdpxChLWMYMmY52wUxeGReDinC9JHLHLpC93_za0BxZsnYdcBhcL4AtJrMexBEDwFBWhgi36v2fo&node=2i182",
+              "etag": "0n/0mMqcCkNJoW+s/ZTIE1g=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=CKpEzbGoWv80f59CsMItR9OhfWFV1nBGplXXlBqLDr_U4JRyZqiQi5AMJGtEkXeK3kQ_73K6wlH3oKQlxUlDhlyX3Ab7NgUzTzG4Dgtrio4oHM1zyddtbtz_Hh07aG5owH1VPaH-0PdfPjsZZqC9hQ2NrBtlDiJGP1XV0USmxWyBMBSACJEGFqRAPyt6uv3qVhg&node=2i182",
+              "etag": "0n/0mMqcCkNJoW+s/ZTIE1g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "n/0mMqcCkNJoW+s/ZTIE1g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778339245462,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xSWbPt0dS8C-CojXYYMtUDg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "In A Violent Nature (2024)",
+  "media_kind": "movie"
+}
