@@ -1,0 +1,82 @@
+{
+  "name": "Eye-for-an-Eye-2-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Eye-for-an-Eye-2-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T12:54:56Z",
+  "remote_folder_id": 1755681,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206914",
+  "tmdb": {
+    "tmdb_id": 1235623,
+    "title": "Eye for an Eye 2",
+    "original_title": "\u76ee\u4e2d\u65e0\u4eba2",
+    "release_date": "2024-07-21",
+    "year": "2024",
+    "rating": 6.2,
+    "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bx6LoGl8L3hwgOCoD2H8JgIu7uC.jpg",
+    "genre_ids": [
+      28,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206914",
+    "status": "U",
+    "etag": "5+KkKFL6rrGWoDVG/BIPXQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206914",
+          "url": "/sapi/download/video?action=get&k=P6XLfZqUEihBia-j7cbPr9q1W-f1hYafdC-NoSiioCQajmeXhnbNfd2TxGkvrHVfxpH4YkzM5d-ZSduLeaVMuCSSqG6lWmjDGnGGQTM5-M-TgOX2PblFw49WQfOeG2BAkMbZH9NdQi9pvtnka5mTiFpu4sIjknoJmNC4d7dYYouKlzw-VRg&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=QClNycXaR1Ey_WNXrvUly4oURTAayTtSDxPfSTzodocG0Pbe7RrfT3FUscaSiJK-YvexCar8fR-CsJnLMaldihyjXc1fJ1J4ecf_J2HWp5WNI74k54CxAX27-Xop8hUwy7tTEzE7IHda80J-XBRdrwVSn8HMUR_Ka-b9KZMFRUiSL5XuUqGWyJsgU1nwuleMTFg&node=2i182",
+          "date": 1778331294834,
+          "creationdate": 1778331248000,
+          "modificationdate": 1778331248000,
+          "uploaded": 1778331286882,
+          "size": 285407442,
+          "name": "Eye-for-an-Eye-2-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies] (1).mp4",
+          "metadata": {
+            "duration": 5405824,
+            "bitrate": 422370,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=czQ9ab7NJbZoPjci9HceC3OqtvVmr88JAorhqE0k2qHEtfcsfOBdOJI0J6RhO4kDTPwg4taN0Bv3V0z1s7aUlqB6iYKGLHXC15_NyIqBb4qW1wPVnEv8iuHwfpM9uz0ZGtqwQo-GIEm9Qf9W4dKF0TDTaMx8MaSx26TJeVLXdQzctEFGXBtxSAH90L2sRF6wnc0&node=2i182",
+              "etag": "05+KkKFL6rrGWoDVG/BIPXQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=QClNycXaR1Ey_WNXrvUly4oURTAayTtSDxPfSTzodocG0Pbe7RrfT3FUscaSiJK-YvexCar8fR-CsJnLMaldihyjXc1fJ1J4ecf_J2HWp5WNI74k54CxAX27-Xop8hUwy7tTEzE7IHda80J-XBRdrwVSn8HMUR_Ka-b9KZMFRUiSL5XuUqGWyJsgU1nwuleMTFg&node=2i182",
+              "etag": "05+KkKFL6rrGWoDVG/BIPXQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "5+KkKFL6rrGWoDVG/BIPXQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331294970,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/0cbu1K28SsG0B-ETiJhHCzg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "1755681",
+  "share_folder_path": "Eye For An Eye 2 (2024)",
+  "media_kind": "movie"
+}
