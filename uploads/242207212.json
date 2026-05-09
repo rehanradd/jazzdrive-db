@@ -1,0 +1,82 @@
+{
+  "name": "My-Old-Ass-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\My-Old-Ass-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:33:34Z",
+  "remote_folder_id": 1755945,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207212",
+  "tmdb": {
+    "tmdb_id": 947891,
+    "title": "My Old Ass",
+    "original_title": "My Old Ass",
+    "release_date": "2024-09-13",
+    "year": "2024",
+    "rating": 6.784,
+    "overview": "An 18th birthday mushroom trip brings free-spirited Elliott face-to-face with her wisecracking 39-year-old self. But when Elliott\u2019s \"old ass\" starts handing out warnings about what her younger self should and shouldn't do, Elliott realizes she has to rethink everything about family, love, and what's becoming a transformative summer.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iPHsjvbFyGbeCEDC7u8Ib8U1zS6.jpg",
+    "genre_ids": [
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207212",
+    "status": "U",
+    "etag": "uGfT1Gip36wgYkIAFKs1iA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207212",
+          "url": "/sapi/download/video?action=get&k=siqCZwZRECY8RDt9jJw_k6JEHk8fYMmWz3cw3m-mkfJC_-hD7VU-9H4SMxJ4Kz69zVbIM2_j6C5Hv-bJUVwRAKlq6JfIJKbK49Tk0zzkbvrbQI2yIPtxT2x-IgXkcL0O64IHeBpTXKbxJx77ouaZF7EM6FjQzcM2uDQ4dnyszsE5UDczDtM&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=nXzFoeuKghHaOHvWHxy6ZUHzm2v1iCaNp4IdCdfs9VXHvvBSK1p0WmlHCMHRKJXE1omgC2Op5h13nWKL7y3hz3CEahaJ6LUhVCpV_phzJZR0Rut6WWf8uDoLAM1S_cqn7ZsE4ren9cVcAgugbFRNRgL0MAgIZOe30wmsUAqZ0c9Z22si-vMBTIaH1IBdz7SfNGQ&node=2i182",
+          "date": 1778333613096,
+          "creationdate": 1778333569000,
+          "modificationdate": 1778333569000,
+          "uploaded": 1778333597958,
+          "size": 496062913,
+          "name": "My-Old-Ass-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5154005,
+            "bitrate": 769984,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=DBjrVmdTUVp_xzxTMbAywOenpzKfsboQWzW_WVLbtqTGrbWHd4WT8tdCvEs_nje6agIT94qFoRqCAZ6Z1YAqYrXCzVBenB3tFZAU2FiRL2buluF2kKPvn2n-bR2qS-BeekGK5_JLY5t_nNvEpsvBwh0Vdw_ZjWaIaCtkH4TrWh8-cW3i13CDRpQ7BFz-HBIB04Y&node=2i182",
+              "etag": "0uGfT1Gip36wgYkIAFKs1iA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=nXzFoeuKghHaOHvWHxy6ZUHzm2v1iCaNp4IdCdfs9VXHvvBSK1p0WmlHCMHRKJXE1omgC2Op5h13nWKL7y3hz3CEahaJ6LUhVCpV_phzJZR0Rut6WWf8uDoLAM1S_cqn7ZsE4ren9cVcAgugbFRNRgL0MAgIZOe30wmsUAqZ0c9Z22si-vMBTIaH1IBdz7SfNGQ&node=2i182",
+              "etag": "0uGfT1Gip36wgYkIAFKs1iA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "uGfT1Gip36wgYkIAFKs1iA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778333613218,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/tyCcfpYeTmWEpzn_R6VDtjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "My Old Ass (2024)",
+  "media_kind": "movie"
+}
