@@ -1,0 +1,83 @@
+{
+  "name": "Dancing-Village-The-Curse-Begins-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Dancing-Village-The-Curse-Begins-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:54:22Z",
+  "remote_folder_id": 1755973,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207265",
+  "tmdb": {
+    "tmdb_id": 1176166,
+    "title": "Dancing Village: The Curse Begins",
+    "original_title": "Badarawuhi di Desa Penari",
+    "release_date": "2024-04-11",
+    "year": "2024",
+    "rating": 5.9,
+    "overview": "Mila must return a mystical bracelet to the \"Dancing Village,\" unaware that Badarawuhi - a mysterious, mythical being who rules the village - awaits her.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/A4kY5RKiPJ0sRknU4NojItr93Jr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ktn6J2TQX1XGHvFtxnKRB8xAbfB.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207265",
+    "status": "U",
+    "etag": "h0k/Yu4gFPOtiRZBaTqrnA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207265",
+          "url": "/sapi/download/video?action=get&k=aamrHrYMqPoShGWSrJHSIOOXicBZcMtQqyeN_OY6gH5q7SAsPcxIBiZusPBsxuetEwj4KmEBXpbW7v2MKUiPbap0G53oI01t1IY5qE-cOFZ7LA5YjmwK2WLATrca6HNuXNL12PlLJ9p7HbqxtmFrwMEoIdSzZlcFf9ldK2ifr9z4E9TY19A&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=dUGM0YN-JLNmGmfB3h7O7NvKnHVPLDeJATpcPpuf-f2APxwCDmrcmALNbvGPZuNs1wvenIxykUZd4_DZKUPHS3oGaS5xLXle4OmL3u6rxaXbx81xnk9E18A6Mr_htyZ36PJDRBUn1TN2afg0v7MXAilLQqXbmX0V1i-j-YdYGZdRiWYhy56fO-8oxxlmUFi4nN8&node=2i182",
+          "date": 1778334861565,
+          "creationdate": 1778334803000,
+          "modificationdate": 1778334803000,
+          "uploaded": 1778334842397,
+          "size": 699213329,
+          "name": "Dancing-Village-The-Curse-Begins-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7427808,
+            "bitrate": 753076,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=UirJ9yDeDVZC47aNPfNDjAXdRuvAUADHy_vBf5PUdPTZCPbY9jTMZKU8wUuyjwpnAb_tPK_E1nnNeI_xx7hn58n-GtCYHS9pMzC95OmnZc3n4J7FhbygdEDaywZyewmO2nUifXnF8sfLK2uOBttcAEv-qAANeOS7oeK3DdY789aSn2Y57BBbPw84j-kd4_8MkvI&node=2i182",
+              "etag": "0h0k/Yu4gFPOtiRZBaTqrnA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=dUGM0YN-JLNmGmfB3h7O7NvKnHVPLDeJATpcPpuf-f2APxwCDmrcmALNbvGPZuNs1wvenIxykUZd4_DZKUPHS3oGaS5xLXle4OmL3u6rxaXbx81xnk9E18A6Mr_htyZ36PJDRBUn1TN2afg0v7MXAilLQqXbmX0V1i-j-YdYGZdRiWYhy56fO-8oxxlmUFi4nN8&node=2i182",
+              "etag": "0h0k/Yu4gFPOtiRZBaTqrnA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "h0k/Yu4gFPOtiRZBaTqrnA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334861681,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/HTB2OYqYRMqB3PJY1QRPAzg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dancing Village The Curse Begins (2024)",
+  "media_kind": "movie"
+}
