@@ -1,0 +1,83 @@
+{
+  "name": "Twilight-of-the-Warriors--Walled-In-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Twilight-of-the-Warriors--Walled-In-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:59:00Z",
+  "remote_folder_id": 1755975,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207269",
+  "tmdb": {
+    "tmdb_id": 923667,
+    "title": "Twilight of the Warriors: Walled In",
+    "original_title": "\u4e5d\u9f8d\u57ce\u5be8\u4e4b\u570d\u57ce",
+    "release_date": "2024-05-01",
+    "year": "2024",
+    "rating": 7.005,
+    "overview": "In 1980s Hong Kong, troubled youth Chan Lok-kwun, a mainland refugee, struggles to survive in the Kowloon Walled City by joining underground fights. Betrayed by crime boss Mr. Big while trying to buy a fake ID, he steals drugs from him and seeks refuge in the Walled City, where he encounters Cyclone, a compassionate yet authoritative crime lord.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/h0tunBO4tMjvKVVG7fXqHgwOr5C.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/vnOc8bBkUyynscYKK4VAP1ti7jn.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207269",
+    "status": "U",
+    "etag": "M2ojrDmpurgefbOFfkZ4Fg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207269",
+          "url": "/sapi/download/video?action=get&k=xTlvx9-3hvcryqOAqWxUHljzLHwoL430TDO3N8kL4s1zalBVt64_8LUgbKz-oxKOVQEmTENLFQjuifYQR1ZP0fMbZu6s3u9NA0KDlo0OSeCieahP0xffUz0aiR7uZOdPAVXgzWb0I2dDMWnU8ILQ8rSbXnFCDT-rlMv8BkzhLkYugPuZNR0&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=A1Y2kU_ys1ZIPp-cK0HaOQaQUyAZeWd8SiOX86VzmvlqLiEk9RMM5JcXsgR1fRrxgZ6aLQrWKMXLiUA8ld8m1DH62UbEDNXAvbDGe95xCK2xfOXNi-KGFJ8fxPbm9SFACpy6I70bne6dTj1X0T6HyRJmTec1X0dv9ybHw_lpGl8vRUSnpQP8HEpxFw87mObCBHM&node=2i182",
+          "date": 1778335139717,
+          "creationdate": 1778335092000,
+          "modificationdate": 1778335092000,
+          "uploaded": 1778335123320,
+          "size": 589717711,
+          "name": "Twilight-of-the-Warriors--Walled-In-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6168640,
+            "bitrate": 764794,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=pTEjFdadBDgwKpXu03cD_tECQ2KI_6_OvabFk3Dc9Cl8c6CNMbWX3YfEFiOxTei6AstqgR3hweZz2RLhAq7lnZZnv4DhvimVvEvZfEFALuZQb4Ha5BJtgE1-Z4qaYO3i756JAihGB-zGxfjKN9C1tN_TQn3MU-utwy2V5VEaT9tUE1Ks81fqBNAixFkAeXJnVG8&node=2i182",
+              "etag": "0M2ojrDmpurgefbOFfkZ4Fg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=A1Y2kU_ys1ZIPp-cK0HaOQaQUyAZeWd8SiOX86VzmvlqLiEk9RMM5JcXsgR1fRrxgZ6aLQrWKMXLiUA8ld8m1DH62UbEDNXAvbDGe95xCK2xfOXNi-KGFJ8fxPbm9SFACpy6I70bne6dTj1X0T6HyRJmTec1X0dv9ybHw_lpGl8vRUSnpQP8HEpxFw87mObCBHM&node=2i182",
+              "etag": "0M2ojrDmpurgefbOFfkZ4Fg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "M2ojrDmpurgefbOFfkZ4Fg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778335139833,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/t98p9QNwQNmmXjgRP3JBPTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Twilight Of The Warriors Walled In (2024)",
+  "media_kind": "movie"
+}
