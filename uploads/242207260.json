@@ -1,0 +1,81 @@
+{
+  "name": "Terrifier-3-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Terrifier-3-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:52:21Z",
+  "remote_folder_id": 1755970,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207260",
+  "tmdb": {
+    "tmdb_id": 1034541,
+    "title": "Terrifier 3",
+    "original_title": "Terrifier 3",
+    "release_date": "2024-10-09",
+    "year": "2024",
+    "rating": 6.784,
+    "overview": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/bHfGHipZ32Oec94FDJO4mWs3aZ5.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207260",
+    "status": "U",
+    "etag": "e305TVb7J9iWkhoi/ZU17w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207260",
+          "url": "/sapi/download/video?action=get&k=-7N4jbYz1tY3Xo91wHWuweWRuW9Rl96KRjKENqzKql1fVX0BitaslwMuTMPE0umpKjroG-4LSHDIUHPRxTIqAGA0OuTNDe0BGhA64RaEk7d2SRE4NG_nYYYCpnQwp8Egyr5sA61TX1PlVw-zNF0t5v8fsMHIMhwWL-8STjrLI7Vs0-trpfw&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=P92NgbFpReG2NC5m8uOYhmnAc3CN4Em73fnYnz4nxHkl4mM08UdyQ8NjhWJJz_sqE8zbVSPI7axUdG5Cev8d6_m1H4g7LOrN5cDJeDm2SQ5FhGiIMLO2BoKimFleIuPJyu8UGCBEUp1MfD_w7aTfbdqOH-01iqqWS9WdDTTtK5nbOobsy-wde26S9o6rl2Gkzyc&node=2i182",
+          "date": 1778334740160,
+          "creationdate": 1778334681000,
+          "modificationdate": 1778334681000,
+          "uploaded": 1778334719401,
+          "size": 689566364,
+          "name": "Terrifier-3-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7195120,
+            "bitrate": 766704,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=z3GzEKoFktpdQJyYkwANO98c0Acm_W0YX5Tbo_Cx6CZrZ78t-VhewvqFWdyYyo5L0pAck-vfkbC49qc0alDKbVV1isgMLpy4xBvQeIJm9KMQNMCsb7Uxu9VFn5ZkoCYMwduPSVt4gr0dDeqaeYZQNMfcWj_lwD5nJDNjjYUu-PS0gwm15oTMoQpOPbLFjULmW1c&node=2i182",
+              "etag": "0e305TVb7J9iWkhoi/ZU17w=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=P92NgbFpReG2NC5m8uOYhmnAc3CN4Em73fnYnz4nxHkl4mM08UdyQ8NjhWJJz_sqE8zbVSPI7axUdG5Cev8d6_m1H4g7LOrN5cDJeDm2SQ5FhGiIMLO2BoKimFleIuPJyu8UGCBEUp1MfD_w7aTfbdqOH-01iqqWS9WdDTTtK5nbOobsy-wde26S9o6rl2Gkzyc&node=2i182",
+              "etag": "0e305TVb7J9iWkhoi/ZU17w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "e305TVb7J9iWkhoi/ZU17w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334740301,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/V_A5XssSTvubp5fkpAZx1zg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Terrifier 3 (2024)",
+  "media_kind": "movie"
+}
