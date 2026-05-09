@@ -1,0 +1,83 @@
+{
+  "name": "Warchief-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Warchief-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T15:01:35Z",
+  "remote_folder_id": 1755644,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208935",
+  "tmdb": {
+    "tmdb_id": 1067341,
+    "title": "Warchief",
+    "original_title": "Warchief",
+    "release_date": "2024-01-08",
+    "year": "2024",
+    "rating": 5.9,
+    "overview": "A band of guardians are tasked with protecting a messenger who must urgently deliver vital information to their king. On their deadly quest across an ancient land, they face incredible danger as they battle against plague-ridden outcasts, dark magic, and vile monsters.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zFGOcPh7qzkNhTVH2ER0rTz4mfi.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/pAkMlgS0zMO1iSh4tJNTvNT5SPt.jpg",
+    "genre_ids": [
+      14,
+      12,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208935",
+    "status": "U",
+    "etag": "6dcIM7MnV2YxRkmeUP4eAA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208935",
+          "url": "/sapi/download/video?action=get&k=cC5gUroE5bAmwhsBTgK6kRbWPae5IBnjC3x1BSxtxzujWxiYFGDooQfekNj31c_d4haB_WsSa7AJAsMNEq5_Okdm5-xqeds2vdzMAwK0GkkR6e34PMY5tIyDkzH3CLbQmAcA9EPn_jlBa_RMKcm1V9Cdps99napMbp95R5KiuEoGCfCntBI&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=G2zPM5klM_A2BhDjSntG2MLRVzXGQ01ThwU58tG_0lvTCkIDey9pQKLIFpsASjVKM2_D8RUxkZIhVAFtNrn_Lh5IEhy8zlGI_8IsUWSLgmjDPEGA7dvzhe3TcJZAtsijTfzJku1LqEx0fP96KDxfA3bPS1EvqfTpmChSMAcv7bjtMIp3KMYI8G6bi6tAlGrBIb0&node=2i182",
+          "date": 1778338894869,
+          "creationdate": 1778338787000,
+          "modificationdate": 1778338787000,
+          "uploaded": 1778338879598,
+          "size": 528742500,
+          "name": "Warchief-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5631466,
+            "bitrate": 751125,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=h4xWop1YcYx5TH0yD4c_4p0lIFDvcJvl64c9DUEYPUxsszCcywyquAgzh8zkgM6gH42YMoGuhHHhWnm6vq9rELzqQInSZB7gt6Uy4KvxB7Q0Jjnvp-R2PMbliAYJ-a9oIBbMQLqiP49h5KWWMFbYKt_93MT1Y4dvFG8ivJ6fDGuIeHY5kUx5K52O5ambRLgP0H0&node=2i182",
+              "etag": "06dcIM7MnV2YxRkmeUP4eAA=="
+            },
+            {
+              "w": 1280,
+              "h": 544,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=G2zPM5klM_A2BhDjSntG2MLRVzXGQ01ThwU58tG_0lvTCkIDey9pQKLIFpsASjVKM2_D8RUxkZIhVAFtNrn_Lh5IEhy8zlGI_8IsUWSLgmjDPEGA7dvzhe3TcJZAtsijTfzJku1LqEx0fP96KDxfA3bPS1EvqfTpmChSMAcv7bjtMIp3KMYI8G6bi6tAlGrBIb0&node=2i182",
+              "etag": "06dcIM7MnV2YxRkmeUP4eAA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "6dcIM7MnV2YxRkmeUP4eAA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778338894999,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/bnkXfbzDQ1KOdHU_usah5Dg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Warchief (2024)",
+  "media_kind": "movie"
+}
