@@ -1,0 +1,83 @@
+{
+  "name": "The-Seed-of-the-Sacred-Fig-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Seed-of-the-Sacred-Fig-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:40:26Z",
+  "remote_folder_id": 1755953,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207230",
+  "tmdb": {
+    "tmdb_id": 1278263,
+    "title": "The Seed of the Sacred Fig",
+    "original_title": "Les Graines du figuier sauvage",
+    "release_date": "2024-09-18",
+    "year": "2024",
+    "rating": 7.508,
+    "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zqZzYVE4DWv92xrYSCEELPcLnUP.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207230",
+    "status": "U",
+    "etag": "i1VuisU96QlmF5JoXzvtwQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207230",
+          "url": "/sapi/download/video?action=get&k=z9yHwSfk5AhuN1JPAsiN2IQd-OyJikfPW9vlKB5bUgEt8nRK4QsrU4KEk_VZdXAbl8CGOOWLtWyOLmSmgrHMRwBmJAznG1dMRtubZqOtAhgjfqaSiFdfHFbiyQYHU1o7T4j_dsIk8Z3AGusT41guuwovJKwmDhPu7E0cOThZBDv9HS-VO2k&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=nK8GWokTSaCrf-BJqmvDzqyWTbHpfDYIza8ExKy7JX1ZM39K_KzlSeBA97rS8CZyNDFkSmrwc6fiwXhz9L5K8gxnLhQBiLTbo1mV4kkl9NmwY41FL9i4SEss9YeRHuq1DkDP7WACPvmg2KnGOG8M3CGg2aNLMHugiN89yTOFbaKn6uFDe-AikFbYiP-M88ft5EQ&node=2i182",
+          "date": 1778334025890,
+          "creationdate": 1778333932000,
+          "modificationdate": 1778333932000,
+          "uploaded": 1778333997242,
+          "size": 962630769,
+          "name": "The-Seed-of-the-Sacred-Fig-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 10004896,
+            "bitrate": 769727,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=0UNOwuvW1ZEJ82awI0aJ93A_dVcMcQmr_Ox0cHaiDRHyVZyDLMOhs1v3ezMsmgZ5lb6pJhjPupaoReIk5A3Hf_Kldy81cHRZlvUnw3OQCOBbbLEvCYn5OuyMYCXOypAt14-TkQS9off9LIjUnwvOwg9YRmMOjYvBgqk-uWCizh88GDDn21xFY08nq4FQhEfvhXs&node=2i182",
+              "etag": "0i1VuisU96QlmF5JoXzvtwQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=nK8GWokTSaCrf-BJqmvDzqyWTbHpfDYIza8ExKy7JX1ZM39K_KzlSeBA97rS8CZyNDFkSmrwc6fiwXhz9L5K8gxnLhQBiLTbo1mV4kkl9NmwY41FL9i4SEss9YeRHuq1DkDP7WACPvmg2KnGOG8M3CGg2aNLMHugiN89yTOFbaKn6uFDe-AikFbYiP-M88ft5EQ&node=2i182",
+              "etag": "0i1VuisU96QlmF5JoXzvtwQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "i1VuisU96QlmF5JoXzvtwQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334026034,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/C8D1E5dhSo2kOVrFm3D8Tzg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Seed Of The Sacred Fig (2024)",
+  "media_kind": "movie"
+}
