@@ -1,0 +1,82 @@
+{
+  "name": "King-Kong-is-Coming-Back-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\King-Kong-is-Coming-Back-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:17:38Z",
+  "remote_folder_id": 1755917,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206978",
+  "tmdb": {
+    "tmdb_id": 1324947,
+    "title": "King Kong is Coming Back",
+    "original_title": "\u91d1\u521a\u5f52\u6765",
+    "release_date": "2024-08-04",
+    "year": "2024",
+    "rating": 1.0,
+    "overview": "After being lost in the forest as a child, Gu Yao is rescued by a kind-hearted giant gorilla and grows up isolated from human society. Fifteen years later, he encounters Ma Ke and her family during an expedition. As outside forces become aware of Gu Yao and the gorilla, tensions rise, leading to a dramatic series of events that explore the relationship between humans and nature.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ypnufXKWHwDEU6wTpl6oE8mqJ0F.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/e6UhUPIg2ujRrfXpvgupwLpCMlg.jpg",
+    "genre_ids": [
+      878,
+      28
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206978",
+    "status": "U",
+    "etag": "qs4PWrWYQrUKqFvgHmwx/A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206978",
+          "url": "/sapi/download/video?action=get&k=B5rsGDbwbjpLkvnGcMzHzSAEFa1uVmANpl5lTh95irNThYrEA38m0cJjk5z1ijuiB1-XV1_o1RxVIFsqbqCYjrQZzIQHQVBcBa3XJExnyAZOroK50KIOY1uGrS4FDlWDGBLSli-B1-D2qAN1PU6-PdT4v4pt9eHPfMri9BBJowFtD4a9hHk&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=SzCxaQghMxPqPHzu3WmgrbdR9vrDwORbC3_qhsL8DTatN0kfhFRjYu4BnjCUUC0Wa0nUb7YJFm8HuPFtx4PUNwEkivM-_LyjbZtlYeNfrIPckJYqu79cKjaBQXv8r7uR0NTllbSlvwoG7F5lH4Om4vAONhZi_HR6bxi0dGbZgraFtNGmOcupaJCPm6bItyCXYeM&node=2i182",
+          "date": 1778332656845,
+          "creationdate": 1778332619000,
+          "modificationdate": 1778332619000,
+          "uploaded": 1778332650654,
+          "size": 201083554,
+          "name": "King-Kong-is-Coming-Back-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 3808966,
+            "bitrate": 422337,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=HID0ylD_h2-L0xSD879gLnKLy-oAOTTviDmnmFlO9GtxbkGjvxSYmaV3pIBGMbUpB6gXGyZ4sRdxoLdkacCNgPrKECTPVkRN4jei119YtFFtIRcqvOq_fjcC7q5rj3HmYcBPkTd5FH6NHEnQIubsjfmaWBGnLugp1g2sUDVNEJzKJ_pFt17SxYpiee0DvhZqZns&node=2i182",
+              "etag": "0qs4PWrWYQrUKqFvgHmwx/A=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=SzCxaQghMxPqPHzu3WmgrbdR9vrDwORbC3_qhsL8DTatN0kfhFRjYu4BnjCUUC0Wa0nUb7YJFm8HuPFtx4PUNwEkivM-_LyjbZtlYeNfrIPckJYqu79cKjaBQXv8r7uR0NTllbSlvwoG7F5lH4Om4vAONhZi_HR6bxi0dGbZgraFtNGmOcupaJCPm6bItyCXYeM&node=2i182",
+              "etag": "0qs4PWrWYQrUKqFvgHmwx/A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "qs4PWrWYQrUKqFvgHmwx/A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332656976,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/R5jUfegfSr-SUzg1jWKRAzg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "King Kong Is Coming Back (2024)",
+  "media_kind": "movie"
+}
