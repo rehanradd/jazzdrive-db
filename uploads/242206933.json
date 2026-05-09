@@ -1,0 +1,81 @@
+{
+  "name": "The-Akaali-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Akaali-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:02:55Z",
+  "remote_folder_id": 1755693,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206933",
+  "tmdb": {
+    "tmdb_id": 1296170,
+    "title": "The Akaali",
+    "original_title": "\u0ba4\u0bbf \u0b85\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bbf",
+    "release_date": "2024-05-31",
+    "year": "2024",
+    "rating": 5.0,
+    "overview": "A newly appointed I.O. who finds herself digging into the past regarding a 7-year-old case where occult gangs and forces have been responsible for a series of satanic killings in the city. With the help of an ex-cop, can she race against time, hierarchy and sanity to stop a rituals and solve the case?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tP2PeEBybZC8orlVve96DeS7DcY.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fc0z9YX7vw8zanFlKglIiUibofa.jpg",
+    "genre_ids": [
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206933",
+    "status": "U",
+    "etag": "eVmo8FPxT6mlb63MQcq7Sw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206933",
+          "url": "/sapi/download/video?action=get&k=gSryhqRJeWs4w0SCjFdpgBlWUwSPZjJvv-5zkX68vry-iSzxXmpxc-Ftgn8EOi8Mb92Q1BalcwgvjZMbYVmO-ryc0qTTXIrLKZAlx3_slwPHfytXrdolw-fUtnrN2IWLDLXmsE927177JvxZ_uE1_wIVLls776Kc00i2ZL5OEkom4Enop-8&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=o8iIy1P1gDun6CMmPQtEQ4JlFi9X79UMxYdQNal2rGpkm94Mmmwr41KNxQOCN6eEl4_MvI-pr5RJPtmWjKKn505y1lXwhn5QDQN5iP9cgybqKihveYZK3_S2iDOLeHv26SE8AYBTvtcSlJeAHXQlSdET7NBZ4kO8Pt6BIPwwehPILkc586bpbjugM4nMxA453LM&node=2i182",
+          "date": 1778331773205,
+          "creationdate": 1778331728000,
+          "modificationdate": 1778331728000,
+          "uploaded": 1778331759572,
+          "size": 460904385,
+          "name": "The-Akaali-(2025)-Hindi-Dubbed-Movie--480p-[Orgmovies] (1).mp4",
+          "metadata": {
+            "duration": 8719422,
+            "bitrate": 422876,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=wxtd0hs2ahDe5JyMxdB8CKsM0uawe7RIPMYR4vMb2uFEC4z2o0m_K3xtY0VdlCIUCqykNw9SqPJgKRdsprdlDusO92l-cVnEY30eVNOhBwYnOHN9o3eMdoVwuVRsHk7x8ywcoqgr3qGVsbDMmzOL0DNwOgnX4yGcXDQ5XUaeyHxsZ2BhF2fDPy58-YhKh4rPYSo&node=2i182",
+              "etag": "0eVmo8FPxT6mlb63MQcq7Sw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=o8iIy1P1gDun6CMmPQtEQ4JlFi9X79UMxYdQNal2rGpkm94Mmmwr41KNxQOCN6eEl4_MvI-pr5RJPtmWjKKn505y1lXwhn5QDQN5iP9cgybqKihveYZK3_S2iDOLeHv26SE8AYBTvtcSlJeAHXQlSdET7NBZ4kO8Pt6BIPwwehPILkc586bpbjugM4nMxA453LM&node=2i182",
+              "etag": "0eVmo8FPxT6mlb63MQcq7Sw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "eVmo8FPxT6mlb63MQcq7Sw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331773353,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/aSi6_cI-Tgq09v-VJSmKCjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "1755693",
+  "share_folder_path": "The Akaali (2025)",
+  "media_kind": "movie"
+}
