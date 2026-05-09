@@ -1,0 +1,81 @@
+{
+  "name": "Dont-Tell-Mom-the-Babysitters-Dead-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Dont-Tell-Mom-the-Babysitters-Dead-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T12:52:31Z",
+  "remote_folder_id": 1755657,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206908",
+  "tmdb": {
+    "tmdb_id": 1251687,
+    "title": "Don't Tell Mom the Babysitter's Dead",
+    "original_title": "Don't Tell Mom the Babysitter's Dead",
+    "release_date": "2024-04-12",
+    "year": "2024",
+    "rating": 5.6,
+    "overview": "Seventeen year old Tanya's plans for a carefree summer are derailed when her stressed-to-the-limit mom takes off for a wellness retreat and puts Tanya and her three siblings in the charge of a crotchety (and racist) old babysitter. The babysitter\u2019s sudden death leaves the kids short on cash and reluctant to pull mom prematurely out of her much-needed R&R, so Tanya is forced to get a job. Posing as an adult, she gets a gig as the executive assistant at a fashion company and overnight is thrust into the world of adulthood and parenting.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/aMLrX8qaagRUESyPSJCARNlT8Xd.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xAAYm7bUC5LnAj2Hs2hePOMHh2z.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206908",
+    "status": "U",
+    "etag": "UTMynGzLI13IUG8q8O2POA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206908",
+          "url": "/sapi/download/video?action=get&k=mSK76cZ-eFe5n_ycnBNAp4X66BAzSKFknWlksrRg2AFaZMk4DbBK7af2lSYqLWSD8gqtFTrlwmwBVv-OAh3fFtoVzdTbno8Wh16DEHkken6Pk9_daXTLpqndrNlxKs3zYqNLAOgIvyAasNvsz4X8dida_CZB0uoH_ddkpEFy2ttqS_jcpoA&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=kyPehmt7_TlSGRE96WCVUoi3LqqWQxw04JoRrNsdXnDoqbEtODpoWk72rDMDqGYNl7E54vWJ6QJb3UbWpADbci0kSJ1AB8hr5d6y6i8DvnsFf00IFMRexa1QjLD4S52wasb7KkL-qcQSK2NxIt9CipXlv_rh0I7WCmFUpGfq3H_1usshbaZNO6q5ZnEbDFJ0Y9s&node=2i182",
+          "date": 1778331149666,
+          "creationdate": 1778331121000,
+          "modificationdate": 1778331121000,
+          "uploaded": 1778331140982,
+          "size": 311262385,
+          "name": "Dont-Tell-Mom-the-Babysitters-Dead-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies] (1).mp4",
+          "metadata": {
+            "duration": 5870088,
+            "bitrate": 424201,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=igeCXT3RS0u27fiyA-h66CvABZrY_lecrSLJFxnTfELptwqrHrp_4y788SJGvLAtz7DA31Fell1q72tml_RBkiWBPdB3G3I1BHs8p-jznNsp27JdmywLrrzZUWlbE5pKve6F-c949LRW36HwUCSZHr6ePXd54Ks0EU2gk4XZnnn_loT58druTx57eToQRqnatMs&node=2i182",
+              "etag": "0UTMynGzLI13IUG8q8O2POA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=kyPehmt7_TlSGRE96WCVUoi3LqqWQxw04JoRrNsdXnDoqbEtODpoWk72rDMDqGYNl7E54vWJ6QJb3UbWpADbci0kSJ1AB8hr5d6y6i8DvnsFf00IFMRexa1QjLD4S52wasb7KkL-qcQSK2NxIt9CipXlv_rh0I7WCmFUpGfq3H_1usshbaZNO6q5ZnEbDFJ0Y9s&node=2i182",
+              "etag": "0UTMynGzLI13IUG8q8O2POA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "UTMynGzLI13IUG8q8O2POA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331149788,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MpXvyEClQKKPd8z1FtzlLjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "1755657",
+  "share_folder_path": "Dont Tell Mom The Babysitters Dead (2024)",
+  "media_kind": "movie"
+}
