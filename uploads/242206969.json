@@ -1,0 +1,81 @@
+{
+  "name": "Snack-Shack-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Snack-Shack-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:13:51Z",
+  "remote_folder_id": 1755908,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206969",
+  "tmdb": {
+    "tmdb_id": 1037113,
+    "title": "Snack Shack",
+    "original_title": "Snack Shack",
+    "release_date": "2024-03-15",
+    "year": "2024",
+    "rating": 7.121,
+    "overview": "Inseparable best friends AJ and Moose decide to run the local pool's snack shack after their plan to sell home-brewed beer goes down the drain. Things take a turn when they meet Brooke, an effortlessly cool lifeguard who puts their big plans, and friendship, at risk.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/UxPjfVl50OGlJ6Ww8DXEDFzx7g.jpg",
+    "genre_ids": [
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206969",
+    "status": "U",
+    "etag": "MGO0+qM9PkI9TvnQM99mAg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206969",
+          "url": "/sapi/download/video?action=get&k=JabhuI5hxGhMspyqr8qfZnN4fmHt5cVeNfNg9LRYyEX5zsmPVOdKf4uomgB_zn9x1tzT3NkLdrqVmFwzSslSq6UWqEikNgaUltcI_u0qHlSgqn5dIdK-1IHzmMCr7oNp1CFCErS6bhRN4M__995Lp48-fRtO_-L_LEwBRJJfv3KqG8skE8k&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=tKqh0oBQQpMqPN_2klsIEAvBVKQIfOO1L-FdZgGjNCU-6bzgYVK3AgIGZiGSZCNBsqghy8BxHcb-aF3keyeIFVUHeIxMXjKpmj8VIK8LdkQ9V12DMumUPqbY4oDqx7gk4VIlWg0EKXgDC7TyKyU6nzkaXXjbLnpPeIeaLRqVXuvk2gAiK6K3uJBWTUSwE93JXNs&node=2i182",
+          "date": 1778332430092,
+          "creationdate": 1778332395000,
+          "modificationdate": 1778332395000,
+          "uploaded": 1778332419521,
+          "size": 358522111,
+          "name": "Snack-Shack-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6734384,
+            "bitrate": 425900,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=gIz5jgfyFt7v3EFAHmZ0V1sUF_DmZk52vEZ3Qq5zJlwVZnHnGLpB1nDvwireEHg4RhM6p5RRi96ux-hBlGRKWgXnZuEh0DeEY6lwHVxFh75Y_E4zFABTaNZYPHKrNtmMVYe7hv_FQ9Dexi8LnD22f-r3hDGo2im3zPTZ-Sh8m0fL3iy5NVTD9LI7de8ZB-PnqwE&node=2i182",
+              "etag": "0MGO0+qM9PkI9TvnQM99mAg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=tKqh0oBQQpMqPN_2klsIEAvBVKQIfOO1L-FdZgGjNCU-6bzgYVK3AgIGZiGSZCNBsqghy8BxHcb-aF3keyeIFVUHeIxMXjKpmj8VIK8LdkQ9V12DMumUPqbY4oDqx7gk4VIlWg0EKXgDC7TyKyU6nzkaXXjbLnpPeIeaLRqVXuvk2gAiK6K3uJBWTUSwE93JXNs&node=2i182",
+              "etag": "0MGO0+qM9PkI9TvnQM99mAg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "MGO0+qM9PkI9TvnQM99mAg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332430207,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/LppuHG0BT3CHYR84_NdbVjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Snack Shack (2024)",
+  "media_kind": "movie"
+}
