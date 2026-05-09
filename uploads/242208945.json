@@ -1,0 +1,82 @@
+{
+  "name": "Autumn-and-the-Black-Jaguar-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Autumn-and-the-Black-Jaguar-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T15:18:58Z",
+  "remote_folder_id": 1755995,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208945",
+  "tmdb": {
+    "tmdb_id": 959098,
+    "title": "Autumn and the Black Jaguar",
+    "original_title": "Le Dernier Jaguar",
+    "release_date": "2024-02-01",
+    "year": "2024",
+    "rating": 6.614,
+    "overview": "Growing up in the Amazon rainforest gave Autumn the rarest of friendships \u2013 a lost jaguar cub she named Hope. When a tragic event forces her to leave Hope for New York City, she dreams of going back to the rainforest and her friend. That opportunity soon comes when Autumn decides to return to the Amazon to save her beloved jaguar from animal traffickers who threaten her childhood village.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/krLaIUZezfBDBSdQA2ChVTg9t3Z.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/AvLiHSrfLCfKL2wvhOY8wkOkpLp.jpg",
+    "genre_ids": [
+      12,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208945",
+    "status": "U",
+    "etag": "foIKPKcaGJWk3egRVf/Uvw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208945",
+          "url": "/sapi/download/video?action=get&k=cIM7YdG56yozSYnz9p97K-twL3HiM7z2Of9WEutp1XhcEwAfIrSuw6iuk6aPH_6JfFnYCeI00UdQZD216mRH9oDM44DP2aA-xqeNULUdIy-9-wP-FbHrcjptkUlKLtQ4h4_UwgEk0DqcqW6eQk0DeMy4PBzykLs8ZgBdOdmi82Ool5_siCs&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=TmjTNRbTMg6pTx-fsDeNxd9IYAtG6TVmKA5vsITswv2rSPlLG6J0FD1kRFkhCcSJ16D5yyA_3YYQLrX2x_fMxnf0Vto0onn8cIHhEJnA57FLcdc9mFBSKE8TeTlHhD_EnrUrx17ufttXVz-P0tRJEPKZmTldxwpA9zMQBdoJWixFCVKY0KwMQqi-m9e2gkDXfCA&node=2i182",
+          "date": 1778339937117,
+          "creationdate": 1778339824000,
+          "modificationdate": 1778339824000,
+          "uploaded": 1778339920777,
+          "size": 582681672,
+          "name": "Autumn-and-the-Black-Jaguar-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5985376,
+            "bitrate": 778807,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=xUPJYFnbRHYzlaMOmL37rC4KLx-mkpBjlDd63fbL54-7ydPIULWpicN5FaU9vIXyiMcGjRvSfQAth9lIJVrqfQ4dSoMUx_Kzxolz9Rxb8Z_KfsCN37IiL3FJxkH2NkBtjomGzOTizOEpftLN-CDMBIUWRI43NjR9g_z6PvQOAD9geGjExaWetvwEMQ9dQtWMm28&node=2i182",
+              "etag": "0foIKPKcaGJWk3egRVf/Uvw=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=TmjTNRbTMg6pTx-fsDeNxd9IYAtG6TVmKA5vsITswv2rSPlLG6J0FD1kRFkhCcSJ16D5yyA_3YYQLrX2x_fMxnf0Vto0onn8cIHhEJnA57FLcdc9mFBSKE8TeTlHhD_EnrUrx17ufttXVz-P0tRJEPKZmTldxwpA9zMQBdoJWixFCVKY0KwMQqi-m9e2gkDXfCA&node=2i182",
+              "etag": "0foIKPKcaGJWk3egRVf/Uvw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "foIKPKcaGJWk3egRVf/Uvw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778339937257,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/RnNXTecqQxu0i-mI2w4P9Tg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Autumn And The Black Jaguar (2024)",
+  "media_kind": "movie"
+}
