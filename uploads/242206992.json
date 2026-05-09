@@ -1,0 +1,81 @@
+{
+  "name": "The-47-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-47-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:24:48Z",
+  "remote_folder_id": 1755930,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206992",
+  "tmdb": {
+    "tmdb_id": 1174481,
+    "title": "The 47",
+    "original_title": "El 47",
+    "release_date": "2024-09-06",
+    "year": "2024",
+    "rating": 7.421,
+    "overview": "Based on a true story, in late 1970s Barcelona, Manolo Vital, a bus driver, takes bold action to protest the neglect of Torre Bar\u00f3, an immigrant neighborhood. His act becomes a symbol of resistance against systemic inequality during a pivotal moment in the city\u2019s modern transformation.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gPEvUtPn4ohYMWavYRK7kAbQ8Zw.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tZdhMgbN7R1zDMAZ0zSFxxnClcM.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206992",
+    "status": "U",
+    "etag": "RkxOEHXKSVsV9ZM1Am4FDg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206992",
+          "url": "/sapi/download/video?action=get&k=_zzPwb98Q6jL81SE9IOHskj2ldp3xSp4DUVS2ddF67oMVIhcTKeGWIRC4eUEfJhjBuIlxCjCIoTpVUPa0BBVZuraJE8P2BMjYwrDoj6AXPVCpijHKM9rGAUTUL2GaX9_sj8_hOhw8J3emVJuj-cXsYuRx2pW1zMhqb5SsezCKZjZr85mBUI&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=ObK8Uc0GejTCU2d_AYDH1B8kz59Im7J9shxoz-ad5yZlDMzmy0N4-ThNVx9u7YVnBfGhICBwEx0ijX826LpdbMHK421z3NReRBvBLWbWusk-NDPPnMJ2im0H-jWp5fJXdJQbrI4sql_nETpl4JVvbLdmWWwbO8ZCCA1O0IWBT_D1B_2tu8NkL4CZ7CM9K4eDIZQ&node=2i182",
+          "date": 1778333087533,
+          "creationdate": 1778333036000,
+          "modificationdate": 1778333036000,
+          "uploaded": 1778333070377,
+          "size": 608673981,
+          "name": "The-47-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6348435,
+            "bitrate": 767022,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=wvXeUbsiyrh5p3BznYBDpQ0AgnjpWIDCTwIGv3O1inp4G_WM68PjGry4k1f0fNYbASH2IA5QPHhltnk7CWMZdHJgeunKsgwjE_W0lukJ-V7LRMfPm3d8UR3E79e0v5FpLxG1PkVD5-ylX9m4wrVHA0mP7L9Ko5vZz5WUz7AZDjtAzRl54CGwV89V5c9cMoO83ew&node=2i182",
+              "etag": "0RkxOEHXKSVsV9ZM1Am4FDg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ObK8Uc0GejTCU2d_AYDH1B8kz59Im7J9shxoz-ad5yZlDMzmy0N4-ThNVx9u7YVnBfGhICBwEx0ijX826LpdbMHK421z3NReRBvBLWbWusk-NDPPnMJ2im0H-jWp5fJXdJQbrI4sql_nETpl4JVvbLdmWWwbO8ZCCA1O0IWBT_D1B_2tu8NkL4CZ7CM9K4eDIZQ&node=2i182",
+              "etag": "0RkxOEHXKSVsV9ZM1Am4FDg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "RkxOEHXKSVsV9ZM1Am4FDg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778333087660,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/e9V7wwhUTj-NdSrlOemDyTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The 47 (2024)",
+  "media_kind": "movie"
+}
