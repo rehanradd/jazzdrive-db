@@ -1,0 +1,83 @@
+{
+  "name": "Chosen-Family-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Chosen-Family-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:48:46Z",
+  "remote_folder_id": 1755965,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207250",
+  "tmdb": {
+    "tmdb_id": 834966,
+    "title": "Chosen Family",
+    "original_title": "Chosen Family",
+    "release_date": "2024-02-17",
+    "year": "2024",
+    "rating": 4.7,
+    "overview": "Ann is a yoga teacher struggling to achieve inner peace despite the fact her family is driving her crazy and her dating life is miserable. She doesn't know how to say no and wants to fix everyone's problems.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/b6mTPplRvjtWUTwJQf90sZLrOFI.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/fh7xZ7QpILvh8a1lZINzE3QTKzE.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207250",
+    "status": "U",
+    "etag": "ouIxSZzvm8rVQKJuZAY7jQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207250",
+          "url": "/sapi/download/video?action=get&k=1YETJBfsJzUT3UP5pniCwUXMEmmjYuHzjKAoD4na_--vestTHksJTll6lkzMzAbtvxcXkuluwZUJrA0qAXcusmjQC8GqCh2n9LCxpDtWceGeVUXg6LHEkBckRW9hotb8mNN8nyhTiwwzyaDbcYSHKkvSXHzO07fq0Grf4QWXkl97Ucy8lps&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=V06NhqoHwMMLYqc6jj7PRMWFIq6j-UJGeOQESuAqM6AhQOjIIDrcDd9t1Zw8wtVW-wA--eFfj2lEbOoEPdo_gkPe_2VudedarGCuH8K6O1RN3Xi_uw3X3Oif0zb8-QsxIKYYtqTOuYNhm_CRvs0hV-wUeB5_t_95cudzD5TfeRvlQTm9YfxyPbTJEOGwNe6liwE&node=2i182",
+          "date": 1778334525476,
+          "creationdate": 1778334481000,
+          "modificationdate": 1778334481000,
+          "uploaded": 1778334510598,
+          "size": 502819693,
+          "name": "Chosen-Family-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5271964,
+            "bitrate": 763009,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ssjwftfMvbGxTv69lVY7nvZkurvIr3_J9MjtQyL2SsDcIyYPgzArTD8qZoj9DFKvemObVc2VMcloGYUs3ShSceehuxnHl7h6PKqw9kiNKsEWr_zybClKCEeAWPB2GMiEO9Ha5TaQgV06iJPZM-7oB--vJ3keQMDnmYNd9hiINkMZ6IyWuiVzA0w_gt6mCkp8Gdk&node=2i182",
+              "etag": "0ouIxSZzvm8rVQKJuZAY7jQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=V06NhqoHwMMLYqc6jj7PRMWFIq6j-UJGeOQESuAqM6AhQOjIIDrcDd9t1Zw8wtVW-wA--eFfj2lEbOoEPdo_gkPe_2VudedarGCuH8K6O1RN3Xi_uw3X3Oif0zb8-QsxIKYYtqTOuYNhm_CRvs0hV-wUeB5_t_95cudzD5TfeRvlQTm9YfxyPbTJEOGwNe6liwE&node=2i182",
+              "etag": "0ouIxSZzvm8rVQKJuZAY7jQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ouIxSZzvm8rVQKJuZAY7jQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334525598,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xsAxUS7OTNumiJD_g0ibiTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Chosen Family (2024)",
+  "media_kind": "movie"
+}
