@@ -1,0 +1,83 @@
+{
+  "name": "Crazy-Lizard-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Crazy-Lizard-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T15:04:17Z",
+  "remote_folder_id": 1755988,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208939",
+  "tmdb": {
+    "tmdb_id": 1442776,
+    "title": "Crazy Lizard",
+    "original_title": "\u72c2\u66b4\u5de8\u8725",
+    "release_date": "2024-03-27",
+    "year": "2024",
+    "rating": 6.2,
+    "overview": "A young man climbs into the mountains to pick up a meteorite that has fallen there and is killed by something. The \"thing\" descends to the village and begins to eat the inhabitants one by one, terrorizing the entire island.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9TFaFsSXedaALXTzba349euDeoY.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zxjFabSJKMAvuu3acNg78nuTuCs.jpg",
+    "genre_ids": [
+      28,
+      53,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208939",
+    "status": "U",
+    "etag": "hANfdIZpZuYg3fA7CNdbIw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208939",
+          "url": "/sapi/download/video?action=get&k=gi_KVYV6zUfISeYyi6N1JN0Oh-DJah4QlFZ3aMie2f2im2NLhvUtJNOcwQLPWzbuAjHj9KOMkhxdtUgeX8CgI-WQUPGpDgj1sdKDD8hcGenWHxqB27LCASE6IWUGBjJukaLycmRj81Rac5KxskKuE16PH0GPBUICPyivyGEeIEc2jgRTMuY&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=EqvOnOK_N-qctSZTzFV7sIoFzfBmOfoAX8AIU7VUfGjAXytAloozSuwUjGnR9no_ONfhogAgooQge-K4wAyO9KC7QcbC6ym1dE8IEyvZAzw2JXSh_Jffe1K-BFU2eKddkzIJWpWWT4f4w-fKVOrvLkvl2mbuT-bkHB8Xtb1-W81UNgYg7EgHIqcKsUh7nT0zGUs&node=2i182",
+          "date": 1778339055440,
+          "creationdate": 1778338971000,
+          "modificationdate": 1778338971000,
+          "uploaded": 1778339042583,
+          "size": 430235643,
+          "name": "Crazy-Lizard-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 4520192,
+            "bitrate": 761446,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=s5Kqdkuljq39y9tclzL4NYCaUmVhtZL1YpYKpknp9OkfvXrUgdzWbOS-96mBsiauMz605QOc-6GR0bD9VZXJVx2XtV7WU8oXSLN4pQC1tlG7prSt78gNltXUiI1gW2NZezSeVYndnUpJDIfIeJ9MffEEJN6Gmqzi70IwQusmiEnY_-a6DO6iCRLf0vX39GtjNF0&node=2i182",
+              "etag": "0hANfdIZpZuYg3fA7CNdbIw=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=EqvOnOK_N-qctSZTzFV7sIoFzfBmOfoAX8AIU7VUfGjAXytAloozSuwUjGnR9no_ONfhogAgooQge-K4wAyO9KC7QcbC6ym1dE8IEyvZAzw2JXSh_Jffe1K-BFU2eKddkzIJWpWWT4f4w-fKVOrvLkvl2mbuT-bkHB8Xtb1-W81UNgYg7EgHIqcKsUh7nT0zGUs&node=2i182",
+              "etag": "0hANfdIZpZuYg3fA7CNdbIw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "hANfdIZpZuYg3fA7CNdbIw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778339055589,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/lVC9sk5OQ7yyzx95eQbGQjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Crazy Lizard (2024)",
+  "media_kind": "movie"
+}
