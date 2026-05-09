@@ -1,0 +1,83 @@
+{
+  "name": "The-Ministry-of-Ungentlemanly-Warfare-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Ministry-of-Ungentlemanly-Warfare-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:03:57Z",
+  "remote_folder_id": 1754986,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206938",
+  "tmdb": {
+    "tmdb_id": 799583,
+    "title": "The Ministry of Ungentlemanly Warfare",
+    "original_title": "The Ministry of Ungentlemanly Warfare",
+    "release_date": "2024-04-18",
+    "year": "2024",
+    "rating": 7.016,
+    "overview": "During World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British WWII organization \u2014 the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/hm21I7yc6oYBogTloET3eXsVPlq.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10752
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206938",
+    "status": "U",
+    "etag": "ThF5aIh5MIyFHesw34lebQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206938",
+          "url": "/sapi/download/video?action=get&k=o__0T3NFMSz2aOqFetO12mxOFKa7IvuQRn7VCxEZGjqEshvPcApXSSlf5POSaYHNHYr-J18tySAyLjS0f40rF7uSX6w-hrPM-WDLr31kQ1nfL6FHS1AhGq_zWwIpUdf72o-Ke6bl0W8zs1xqS8vDVAF3sHO0I0qD6UnBCbOK0X85r8v3Tl4&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=zjyR8GrjfGu2nVY089qIoH0ke2gK5gDz13txCz8k36kZaCc3VmC5f3_FL7xad3WPi8HskbT7DC4cAldDUgPfNBvltIDa6RB4xEz8WZeScRht5zsN1RRHUcjjEEVP6SPQuGIGzRz11JP3IPEfHvbBxjsydb2cANRgdi3H8M8fvupQncXghBNHqGG-RTMcoXgxjbY&node=2i182",
+          "date": 1778331836796,
+          "creationdate": 1778331787000,
+          "modificationdate": 1778331787000,
+          "uploaded": 1778331825778,
+          "size": 384070386,
+          "name": "The-Ministry-of-Ungentlemanly-Warfare-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7248004,
+            "bitrate": 423918,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=EHd7MdJUT5uoRI6MeytQzo2wtq-UtZhq-CYnEafyQy6WVkWSxsKiBwMuCTfTr_64cRCa1oFZQrGxg0NNvUQ1XmaND8nr4U8hPiKmFdlqoL74WbPf722ZHHrlBaRodcj5LOdRgV3DveeggBBodp5_T5PDsulPEdsMRt4Y1xUmkfBczd_Vs_TGoe0ZFPwH_1kpLOM&node=2i182",
+              "etag": "0ThF5aIh5MIyFHesw34lebQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=zjyR8GrjfGu2nVY089qIoH0ke2gK5gDz13txCz8k36kZaCc3VmC5f3_FL7xad3WPi8HskbT7DC4cAldDUgPfNBvltIDa6RB4xEz8WZeScRht5zsN1RRHUcjjEEVP6SPQuGIGzRz11JP3IPEfHvbBxjsydb2cANRgdi3H8M8fvupQncXghBNHqGG-RTMcoXgxjbY&node=2i182",
+              "etag": "0ThF5aIh5MIyFHesw34lebQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ThF5aIh5MIyFHesw34lebQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331836920,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Xel_xB4USzmOdeMsltdmjzg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Ministry Of Ungentlemanly Warfare (2024)",
+  "media_kind": "movie"
+}
