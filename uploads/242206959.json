@@ -1,0 +1,83 @@
+{
+  "name": "The-Thicket-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Thicket-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:09:51Z",
+  "remote_folder_id": 1754999,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206959",
+  "tmdb": {
+    "tmdb_id": 395817,
+    "title": "The Thicket",
+    "original_title": "The Thicket",
+    "release_date": "2024-09-05",
+    "year": "2024",
+    "rating": 6.412,
+    "overview": "An innocent young man, Jack, goes on an epic quest to rescue his sister Lula after she has been kidnapped by the violent killer Cut Throat Bill and her gang. To save her, Jack enlists the help of a crafty bounty hunter named Reginald Jones, a grave-digging alcoholic son of an ex-slave, and a street-smart prostitute. The gang tracks Cut Throat Bill into the deadly no-man\u2019s land known as The Big Thicket \u2014 a place where blood and chaos reign.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jsvk8e0HgITFX0gbDEjj6hOytsP.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/3m7252MFY0YkOrr7SmnPEhuSha6.jpg",
+    "genre_ids": [
+      37,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206959",
+    "status": "U",
+    "etag": "U2u7Ms3voH5Ro3eAitBndg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206959",
+          "url": "/sapi/download/video?action=get&k=flLzgJGWMOVRVN35vYlgMGokM5BFWdYaDChyOLqO1u-l7SotkX6Q4Y5AWYY6FEwDpFFdA0UFvxzb9yC9wj0P6ol-9vrK3UQ__-WXRxAQenYCIHqcUZmqQ0b3wtvEDm3eguuFPy38DeZsjldu6-neAcI6EBwjcV5L2H1YIVeTHpv5XbSdtjA&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=_Ir1PcxAlLpeNwYMjANagnnL0Nn5L0aytYPwWSxx8bRhCVSZPwdf38FfBLACyezvKj1V3OdVe_W2dM-_4xxYbwvR6oKsVB3L_tCs6mspaBcOW72DtKy2r6Uih-B59k8jJvsfd9uJ-3oGUXJ02YJ_IZvRJXoOdSe-wRtyXMUT64EoItC3CjDK3_z77n3LPFARzCY&node=2i182",
+          "date": 1778332190873,
+          "creationdate": 1778332162000,
+          "modificationdate": 1778332162000,
+          "uploaded": 1778332180792,
+          "size": 333914028,
+          "name": "The-Thicket-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6316042,
+            "bitrate": 422940,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_aEOrXd87NUK_jMBkuCTnHpCopWYJFe8V6wZyuOsh5kQ0SjySM12QsaHbHPKyTC0YvHZN-ftSnyxeFg-Eai3GctnzfKBnOfqvVaopaoI3QqKvD7uBkZLrCt4TiDYkukFtImhI90oWa7Rg8g4_lFFE0RzV6qn9u4iRILLXJ7y0VP0JugnBQGf6oPNF58s_Za06N4&node=2i182",
+              "etag": "0U2u7Ms3voH5Ro3eAitBndg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=_Ir1PcxAlLpeNwYMjANagnnL0Nn5L0aytYPwWSxx8bRhCVSZPwdf38FfBLACyezvKj1V3OdVe_W2dM-_4xxYbwvR6oKsVB3L_tCs6mspaBcOW72DtKy2r6Uih-B59k8jJvsfd9uJ-3oGUXJ02YJ_IZvRJXoOdSe-wRtyXMUT64EoItC3CjDK3_z77n3LPFARzCY&node=2i182",
+              "etag": "0U2u7Ms3voH5Ro3eAitBndg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "U2u7Ms3voH5Ro3eAitBndg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332190992,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/aOfSciqESfuitaLrWBekHDg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Thicket (2024)",
+  "media_kind": "movie"
+}
