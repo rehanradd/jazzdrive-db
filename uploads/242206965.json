@@ -1,0 +1,83 @@
+{
+  "name": "The-Beast-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Beast-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:12:20Z",
+  "remote_folder_id": 1755905,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206965",
+  "tmdb": {
+    "tmdb_id": 914206,
+    "title": "The Beast",
+    "original_title": "La B\u00eate",
+    "release_date": "2024-02-07",
+    "year": "2024",
+    "rating": 6.327,
+    "overview": "In the near future where emotions have become a threat, Gabrielle finally decides to purify her DNA in a machine that will immerse her in her past lives and rid her of any strong feelings. She then meets Louis and feels a powerful connection, as if she had known him forever.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/96Jb7yjDkzluBqQZ21j54CJdYeM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/e4GdyAtLXbaTW1RmZIc8Atf3EFZ.jpg",
+    "genre_ids": [
+      878,
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206965",
+    "status": "U",
+    "etag": "cihJdeLchtLF9yuFoZxtAQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206965",
+          "url": "/sapi/download/video?action=get&k=S3YZlO3OivxQ-X4D24BvU0Ycmkg7X7_X7z5W-RcG0tS-eJFJ9SwJ22Dw1Ag028VivGseHvfimkXWl0mqFk5vRVgWVHiGVJvzuDDx0GHEpk_L8T49fK-ND7YK7w9LufzgFf8T_uhauZaFYIJMe1_8Wiv1eXH_CBe2-EgDbOCKttobuOXL3lo&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=T1ZHFFjBN1Cf4Is9AUeAbVOl-e6oWdd3a1GMycciK5SawR0GShfQYa-N2SSXg_KLz2Z959ahBJzpRBTTJ7mnw2A4cE07nYG_zofrShjKNoSEylu8xXSaRy7hspaZ9x7_HmTnkYNQySXlN58vV4ymYJU1Vk3x-v0bOvxrH-6NSduTx52U3SXA-bqt1mpJKZVFDw4&node=2i182",
+          "date": 1778332339396,
+          "creationdate": 1778332302000,
+          "modificationdate": 1778332302000,
+          "uploaded": 1778332327171,
+          "size": 439360648,
+          "name": "The-Beast-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 8301958,
+            "bitrate": 423380,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=SDUAYuslwL6uRAsLAZ9Sj8DrePmVa4yVGgcgBA1OozY79PjuV5-4VcogfPbHj1AtBX4ALoxGuZZonwaK-JmLTu2Dk2EY-AYaQcXKJwxbOLZLvGBwXqqM2pCjotwhU5HIvf-rAFN50Vel3Q04nXBDnIS0g-Iv02lK0oNMjSJ3w4z5ww59jqRYdguFZFD2nf9Q5No&node=2i182",
+              "etag": "0cihJdeLchtLF9yuFoZxtAQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=T1ZHFFjBN1Cf4Is9AUeAbVOl-e6oWdd3a1GMycciK5SawR0GShfQYa-N2SSXg_KLz2Z959ahBJzpRBTTJ7mnw2A4cE07nYG_zofrShjKNoSEylu8xXSaRy7hspaZ9x7_HmTnkYNQySXlN58vV4ymYJU1Vk3x-v0bOvxrH-6NSduTx52U3SXA-bqt1mpJKZVFDw4&node=2i182",
+              "etag": "0cihJdeLchtLF9yuFoZxtAQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "cihJdeLchtLF9yuFoZxtAQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332339513,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/vMdge2DYRB6rtOUQVYer9jg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Beast (2024)",
+  "media_kind": "movie"
+}
