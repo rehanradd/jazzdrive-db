@@ -1,0 +1,82 @@
+{
+  "name": "High-Forces-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\High-Forces-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:37:08Z",
+  "remote_folder_id": 1755948,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207224",
+  "tmdb": {
+    "tmdb_id": 949709,
+    "title": "High Forces",
+    "original_title": "\u5371\u673a\u822a\u7ebf",
+    "release_date": "2024-09-29",
+    "year": "2024",
+    "rating": 6.192,
+    "overview": "\"Anyone? There is ......\" A mysterious message from Gao Haojun comes from ten thousand meters in the air. A five-star A380 ultra-luxury airliner was hijacked on its international maiden voyage, and international security expert Gao Haojun stood up to a group of thugs, his daughter Xiaojun was trapped in the cabin, and Mike, the leader of the hijackers, threatened the lives of more than 800 people in the plane as a bargaining chip, and Xiaojun's mother, Fu Yuan, was also in danger. ...... Will the passengers on board be able to land safely and how should this crisis be resolved?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/b8xNJ39aOtEk3I7MFt8XJuN2bGS.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8lqfrOBQ2EcY7znD3LxTYcvlh25.jpg",
+    "genre_ids": [
+      28,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207224",
+    "status": "U",
+    "etag": "Fj4WAmN6NSo1rUwh9Q/q/Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207224",
+          "url": "/sapi/download/video?action=get&k=84O8ZWqO5ZUoQQmL3_DRv6_ejztDnzsGMpoe1yaxKdFihLhVpSNOUWjAP-BoAJiPtZINRKo4hL2RY5ctCzQzNjd_-rch68vAgIrCdhs5ir1UgZvIRFkVImGZB8gqHHmglUQ18AqT28Dfj4kqYv7XosKuMBDdcXmb58d03HmaP9hd3ynntj8&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=36odfOal7ds0Ehnr8WBAQUSa8X8qmwkzZvrfn8cSOVD8cya_6CuTNTxCvcOSlrEyA1dZiqUUbp8O_JnHySlfedkymZyQUkJZ3S2tZeByopgowMvesQACFn9aPcznOlnbEavlQGuqlPJ8SIpmCtOw0vCedGDfua_QbdSikRsm5zRU_cll-gaMF7GVj4SYiwqh6lk&node=2i182",
+          "date": 1778333827588,
+          "creationdate": 1778333750000,
+          "modificationdate": 1778333750000,
+          "uploaded": 1778333807794,
+          "size": 689216875,
+          "name": "High-Forces-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7162750,
+            "bitrate": 769779,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=A_B19BwiIF9Wvj5j6bkzrGmUkiOICex-5D3hWvK9g3UCmnTctM6_0khubSmSni9G8lbHBRhmTstpAfO_6jXTBk2VXZYjuIbuXLPXSs4I7UgbPxBbrlg51aVP3dDOPKN4_5GTuli00qkrdGvJf-NxhyDkFEbXmTEuI7l4z8Y0glNpR_BTPkl6gpjFXcYYnWW-VMA&node=2i182",
+              "etag": "0Fj4WAmN6NSo1rUwh9Q/q/Q=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=36odfOal7ds0Ehnr8WBAQUSa8X8qmwkzZvrfn8cSOVD8cya_6CuTNTxCvcOSlrEyA1dZiqUUbp8O_JnHySlfedkymZyQUkJZ3S2tZeByopgowMvesQACFn9aPcznOlnbEavlQGuqlPJ8SIpmCtOw0vCedGDfua_QbdSikRsm5zRU_cll-gaMF7GVj4SYiwqh6lk&node=2i182",
+              "etag": "0Fj4WAmN6NSo1rUwh9Q/q/Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Fj4WAmN6NSo1rUwh9Q/q/Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778333827776,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/oare9CvIRDqjQ_N2IlYYKTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "High Forces (2024)",
+  "media_kind": "movie"
+}
