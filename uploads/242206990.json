@@ -1,0 +1,81 @@
+{
+  "name": "Millers-in-Marriage-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Millers-in-Marriage-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:23:46Z",
+  "remote_folder_id": 1755928,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206990",
+  "tmdb": {
+    "tmdb_id": 1319968,
+    "title": "Millers in Marriage",
+    "original_title": "Millers in Marriage",
+    "release_date": "2024-09-06",
+    "year": "2024",
+    "rating": 6.0,
+    "overview": "Eve Miller, a former indie rock singer, struggles with her toxic marriage while growing attracted to a music journalist. Her sister Maggie, a bestselling author, faces marital discord as her career overshadows her husband's.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/5a8UmLL6uNgTaqX6AaanEcXBs6s.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206990",
+    "status": "U",
+    "etag": "9ydJ30NuIaDeiDvMDIVtxQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206990",
+          "url": "/sapi/download/video?action=get&k=itQ8Jz1VZBxvT6wzNpzGCMnGvJalp5ZReo1y776kEpAqERefq-rfV2zMmnP1ZgFN9RAFDQ84MV44OsSh84wPhtafeysOV17WtMBPYRqmrXWHEfq1bCfbMgtV-iVP0xRBGgh9_AQFwaRoPq8YW8QJBTDzoOMKko2QyfdU3kmXOjg05sCFxjA&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=djsC-cUetBV5G7NJAN5cvtPi23BJ64oegWM0wCxT_BAGRwZt12Hc3rNe1JGFsQ4ZDVSyALfGM3w-7LXN0w3ishoSMv72EQk3awIpUnq47Vwp5g4KQ7mTbub_I89I4wqwEyloBKDMGek8h6FBenjtLWvQLF4b4Xo8R6Rb7wPvo1ZJCq_jPaMZevyM1CWe5YKf2rw&node=2i182",
+          "date": 1778333025368,
+          "creationdate": 1778332969000,
+          "modificationdate": 1778332969000,
+          "uploaded": 1778333006459,
+          "size": 672387505,
+          "name": "Millers-in-Marriage-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7071360,
+            "bitrate": 760688,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=kqd0jFx0nQ2dUdp3CIbiIR9RpRbFWPu7s6cARiSi1K71Wk4PpABXWu7Kgf09XfmBG_GlAI3XluyxbCb5hiKD-mywLiNjHiTRTAcWixmw4VDKQYlowkEq_Ot-juDj6qaseOTRAILeJJBwdx_JPRGLvLvPum17C61VHmgtEUuTf7D9i1c3_imda86g0jfHhBwhChc&node=2i182",
+              "etag": "09ydJ30NuIaDeiDvMDIVtxQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=djsC-cUetBV5G7NJAN5cvtPi23BJ64oegWM0wCxT_BAGRwZt12Hc3rNe1JGFsQ4ZDVSyALfGM3w-7LXN0w3ishoSMv72EQk3awIpUnq47Vwp5g4KQ7mTbub_I89I4wqwEyloBKDMGek8h6FBenjtLWvQLF4b4Xo8R6Rb7wPvo1ZJCq_jPaMZevyM1CWe5YKf2rw&node=2i182",
+              "etag": "09ydJ30NuIaDeiDvMDIVtxQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "9ydJ30NuIaDeiDvMDIVtxQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778333025495,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/hVLnGTDRSO2kzDFybruxUzg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Millers In Marriage (2024)",
+  "media_kind": "movie"
+}
