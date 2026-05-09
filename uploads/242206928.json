@@ -1,0 +1,82 @@
+{
+  "name": "Panda-Plan-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Panda-Plan-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:00:33Z",
+  "remote_folder_id": 1755652,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206928",
+  "tmdb": {
+    "tmdb_id": 1160956,
+    "title": "Panda Plan",
+    "original_title": "\u718a\u732b\u8ba1\u5212",
+    "release_date": "2024-10-01",
+    "year": "2024",
+    "rating": 6.775,
+    "overview": "International action star Jackie Chan is invited to the adoption ceremony of a rare baby panda, but after an international crime syndicate attempts to kidnap the bear, Jackie has to save the bear using his stunt work skills.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8cc4AypHsnqcCQeIIpNoh6Wrc5B.jpg",
+    "genre_ids": [
+      28,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206928",
+    "status": "U",
+    "etag": "tHVrE8N6IegAsTgBc4P7tQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206928",
+          "url": "/sapi/download/video?action=get&k=yhc3aMud9_vySz0-Gwk3nPy5AGmJlQSBJ1a2kiUBPm7NgGlWvJgh-TrJk8S0Rm_EYJbgiMrOmhST7nWjcoglF3BOxtt2aAF4zexdhfnOud8aSUjFMFRsdwufZ8ycmmYviaL74srn8YNpQzcYsYqngceUJSCU1G5jabge46-n3g1ZdcjLPoM&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=s4Y3NN3ZEa9PSq2uFOQLbkxuXe9aZUYOHNtSU8UgMIhOVaw7usjJ2e9AKMYzfKey3T22lMN4b_2-fUcdOfLQ1g2M-elZVlniDVfWu4F19koH2RXPiw5mPczAKUqn_wgmLn-QV459MWUpv81iGhq59t0gtxjyq0MDIm9V2jpVo422Oy9Gk2SWCZrxPkOAeXMdK14&node=2i182",
+          "date": 1778331631561,
+          "creationdate": 1778331599000,
+          "modificationdate": 1778331599000,
+          "uploaded": 1778331622960,
+          "size": 310785957,
+          "name": "Panda-Plan-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies] (1).mp4",
+          "metadata": {
+            "duration": 5951459,
+            "bitrate": 417761,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=wH2Cx1GB1xc6V4u25PV47UmAaJe_QHJDghbva4AACwrt4d4Gnooq1QzbBXaCDS2ptDyxmn2KN1WonywmOYRAEkNlzMWMdR7682jRhn4QktY75RSVdghv17W2Fd2Gaax7-fQSYjdwtiByKrEtyVzmUtunDI6AUGoNsjPX7_8yi4MUC8vy3wdtFSscYIkjzGJusEs&node=2i182",
+              "etag": "0tHVrE8N6IegAsTgBc4P7tQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=s4Y3NN3ZEa9PSq2uFOQLbkxuXe9aZUYOHNtSU8UgMIhOVaw7usjJ2e9AKMYzfKey3T22lMN4b_2-fUcdOfLQ1g2M-elZVlniDVfWu4F19koH2RXPiw5mPczAKUqn_wgmLn-QV459MWUpv81iGhq59t0gtxjyq0MDIm9V2jpVo422Oy9Gk2SWCZrxPkOAeXMdK14&node=2i182",
+              "etag": "0tHVrE8N6IegAsTgBc4P7tQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "tHVrE8N6IegAsTgBc4P7tQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331631683,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/VFGggjhOQFym-VpIyU-UiTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "1755652",
+  "share_folder_path": "Panda Plan (2024)",
+  "media_kind": "movie"
+}
