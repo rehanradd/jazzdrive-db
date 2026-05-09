@@ -1,0 +1,85 @@
+{
+  "name": "Vina-Before-7-Days-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Vina-Before-7-Days-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:06:36Z",
+  "remote_folder_id": 1754991,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206945",
+  "tmdb": {
+    "tmdb_id": 1148817,
+    "title": "Vina: Before 7 Days",
+    "original_title": "Vina: Sebelum 7 Hari",
+    "release_date": "2024-05-08",
+    "year": "2024",
+    "rating": 6.2,
+    "overview": "Victim of atrocities by motorbike gangs in Cirebon, VINA did not accept that her death was called a single accident. Her spirit enters to reveal the facts. Before 7 Days, what actually happened?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qWedkukryS8hAXHjP2SRCsVuYjf.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/1V3nxNu6xwxOFQdMsCM699OsJCK.jpg",
+    "genre_ids": [
+      80,
+      27,
+      18,
+      9648,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206945",
+    "status": "U",
+    "etag": "BkN/mgB78skxggzUsascVQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206945",
+          "url": "/sapi/download/video?action=get&k=zWCbsje19LmvtwxUKlrQPDgibvWC7imeCIQET7aP5vwy5aox2N7Wy_4bMYkE58NGK28BiXokgu8J0VSlxKdULrXLRs0tITm1oQjGsESjwgq5Im1HUptZkdfp3I3OOqrM-zD2xC-RMrs8Ic_uPNwvQc1MzHTW5KgGlv3fr5JJ2RKjCxrZTCI&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=pvR3GA9okr0TqSB2xOxlMRBgzNnjMihsfI1E5DoEsszwr2MXTKoj91wIkDuV2OsOgULWISpqasLHFrjxkoflXjZ2Xk9y_msomemNbC7RQCAjN5lE6Vlc9vb9w-IaFGUbbPIa5X2C0QKFIKfjn6YZLwYiS3OrPbhfrlkqjO7IVwJe3hM-nc1gs8DavyMManiL0cw&node=2i182",
+          "date": 1778331994750,
+          "creationdate": 1778331942000,
+          "modificationdate": 1778331942000,
+          "uploaded": 1778331985688,
+          "size": 315720057,
+          "name": "Vina-Before-7-Days-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5994794,
+            "bitrate": 421325,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Qxl13gbImr6JiZY-ORV-ugXdMdFQXQ0j-RSpos9WyJXilaVbhZ7X_pk9SvKDEnDhnOBkOXHSQo4wQKVAIakJ4TuECOtJsrrGbksKTAanU8CrZN5_Kg55vtEZEVDXtL4v_apMiJhPh8nYmdnR938oXaYAifNo5Y5QKkmKk3xOPfY_PYjNwX_pxGc5Nizt4_XQGJE&node=2i182",
+              "etag": "0BkN/mgB78skxggzUsascVQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=pvR3GA9okr0TqSB2xOxlMRBgzNnjMihsfI1E5DoEsszwr2MXTKoj91wIkDuV2OsOgULWISpqasLHFrjxkoflXjZ2Xk9y_msomemNbC7RQCAjN5lE6Vlc9vb9w-IaFGUbbPIa5X2C0QKFIKfjn6YZLwYiS3OrPbhfrlkqjO7IVwJe3hM-nc1gs8DavyMManiL0cw&node=2i182",
+              "etag": "0BkN/mgB78skxggzUsascVQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "BkN/mgB78skxggzUsascVQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331994874,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fSxKS8dpR0aODSeG3oaSeDg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Vina Before 7 Days (2024)",
+  "media_kind": "movie"
+}
