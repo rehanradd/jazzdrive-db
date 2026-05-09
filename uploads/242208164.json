@@ -1,0 +1,82 @@
+{
+  "name": "Girls-Will-Be-Girls-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Girls-Will-Be-Girls-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T14:10:01Z",
+  "remote_folder_id": 1755978,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208164",
+  "tmdb": {
+    "tmdb_id": 1108828,
+    "title": "Girls Will Be Girls",
+    "original_title": "\u0917\u0930\u094d\u0932\u094d\u0938 \u0935\u093f\u0932 \u092c\u0940 \u0917\u0930\u094d\u0932\u094d\u0938",
+    "release_date": "2024-08-21",
+    "year": "2024",
+    "rating": 7.0,
+    "overview": "In a strict boarding school nestled in the Himalayas, 16-year-old Mira discovers desire and romance. But her sexual, rebellious awakening is disrupted by her mother who never got to come of age herself.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/psklilaTgyczbHidamDlpFWodb0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6YO8KUBFuH2fReUrAFmASoqQPjj.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208164",
+    "status": "U",
+    "etag": "Py0PS0Pj1b8F7rgentY5lg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208164",
+          "url": "/sapi/download/video?action=get&k=ZY8TdOqdBjhOgM5usaXUZuDb2UQ7tvTZDwZ9Jp-YM8t6czfi5AkOASzsloSin274KwqpVeTHj98YA7mgNQWB-zBaZzG63BEXTFLjtaUOzngIiY5ROe9Wd0ZF50ahYB1L38pmUeLwOy76jjqeBiDr_JMzfQ2wSJIYxyjOEjBRZ-PQaiAIQco&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=X_N1VSjaWLhSIhYfpTDK_vpvemW0GMIh8b1poH3JmWbM1PIi1DJst8WwUgNpv6vuAKz4Xh1L4NkOp15c7zvskcJGfa9StucKZK3x6bM-DbCveFCN5ij8Q2HgBQyrolmq_Trw6Mz-JNjIo5WjZ7JUhwZJ7Na4yKIkImuomhrRnUhngYJ8rtBvD3dssb4R1JcLsP8&node=2i182",
+          "date": 1778335800021,
+          "creationdate": 1778335665000,
+          "modificationdate": 1778335665000,
+          "uploaded": 1778335780323,
+          "size": 688473873,
+          "name": "Girls-Will-Be-Girls-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7161792,
+            "bitrate": 769052,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=TNvO5_EZIvnJts0ahKIlwHKoChron_KnnpOesCo8AvtZfMKEfwmjd6Cx36Iado0YNyMRbR5FlvfOayNX4sTcXeRqX0Pkp57Dmzq8bPZOxX0YMR2kIBntJ75mzLG3eip44BGl1UHT0W6hvgkrAc9D8FbPbf6S-uKNZa-cD5Az3i7OcvAwcP1IHkYZ3_UWmyBlEOc&node=2i182",
+              "etag": "0Py0PS0Pj1b8F7rgentY5lg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=X_N1VSjaWLhSIhYfpTDK_vpvemW0GMIh8b1poH3JmWbM1PIi1DJst8WwUgNpv6vuAKz4Xh1L4NkOp15c7zvskcJGfa9StucKZK3x6bM-DbCveFCN5ij8Q2HgBQyrolmq_Trw6Mz-JNjIo5WjZ7JUhwZJ7Na4yKIkImuomhrRnUhngYJ8rtBvD3dssb4R1JcLsP8&node=2i182",
+              "etag": "0Py0PS0Pj1b8F7rgentY5lg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Py0PS0Pj1b8F7rgentY5lg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778335800678,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/4SB4KkQjREyyh0-aYmCHIjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Girls Will Be Girls (2024)",
+  "media_kind": "movie"
+}
