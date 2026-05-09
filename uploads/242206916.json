@@ -1,0 +1,83 @@
+{
+  "name": "Get-Fast-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Get-Fast-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T12:56:08Z",
+  "remote_folder_id": 1755683,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206916",
+  "tmdb": {
+    "tmdb_id": 1369679,
+    "title": "Get Fast",
+    "original_title": "Get Fast",
+    "release_date": "2024-12-12",
+    "year": "2024",
+    "rating": 5.8,
+    "overview": "When The Thief\u2019s partner is kidnapped after stealing millions in cash from a merciless drug lord named Nushi, he reluctantly teams up with an angst-ridden orphan to rescue him. Nushi enlists her most trusted hitman, The Cowboy, a lovable charmer who\u2019s quick with his guns, to track down the Thief. Guns, cars, and explosions will give the newfound partners a head start, but how long will they be able to keep it up?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tDpTR7xhHu9cz1X4JAIRFwXyf6U.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/JMlVj6X2F1PuDz9OyHShThzpa2.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206916",
+    "status": "U",
+    "etag": "Xh9w653wJ6MX3ZgjULJYSg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206916",
+          "url": "/sapi/download/video?action=get&k=dR248hp6vt4i2LVBok1JQAcPxKJi34wpGkmprcFn8aYq2LXNEMWIsqDoKBfbret1NKgoYiU-ITX51mnhpi-8gVEq_05F8mlu6akdwiv4GQQGXBBBcFeb9V6I_520zIrkZdRzhfVLhSUylEsS1LEFf27wzOUynhHMip_UfF51Z4q5YkUJ-Ys&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=WJ8WhRGa6Cmu7MIPzgquuttJX4Yy4zVIH9u_kZDbtXJpjj6-t6wFwRiQVa-e-XJdP5drjtG7Aa0NODzvAnOJb4FrxiTPHyjQSaJ1Mp3vVW2KNVBlQaE2GdFncOSCtAy_UgLA3BM0wmghTZN1JCh6WoGQUe7R2_59fvMeT6v_ysp6PUH_MnmcCKJtOj1DAJneILU&node=2i182",
+          "date": 1778331367703,
+          "creationdate": 1778331307000,
+          "modificationdate": 1778331307000,
+          "uploaded": 1778331359726,
+          "size": 278544692,
+          "name": "Get-Fast-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies] (1).mp4",
+          "metadata": {
+            "duration": 5278816,
+            "bitrate": 422132,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=HJUtWQTTxuH3-4rbfvvWtNhvZr8-6u1KOAfarb9MyJUHfGxW_y05LfAMSW2Sjph1roZPfrRnrxMNgVYtDgWSonUoFh7lvpv6HyTAm94s2_NZPXaSLCUuafyKvEuOxjNCnX-wrS7qp5LP_7Bx3YwHc1b-zhN2oGyb66zABOx8LkT1DJPfn4R9MLsFG_xsjK0yCro&node=2i182",
+              "etag": "0Xh9w653wJ6MX3ZgjULJYSg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=WJ8WhRGa6Cmu7MIPzgquuttJX4Yy4zVIH9u_kZDbtXJpjj6-t6wFwRiQVa-e-XJdP5drjtG7Aa0NODzvAnOJb4FrxiTPHyjQSaJ1Mp3vVW2KNVBlQaE2GdFncOSCtAy_UgLA3BM0wmghTZN1JCh6WoGQUe7R2_59fvMeT6v_ysp6PUH_MnmcCKJtOj1DAJneILU&node=2i182",
+              "etag": "0Xh9w653wJ6MX3ZgjULJYSg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Xh9w653wJ6MX3ZgjULJYSg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331367823,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/JeVSszHNQsW_sE54Cv9tUDg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "1755683",
+  "share_folder_path": "Get Fast (2024)",
+  "media_kind": "movie"
+}
