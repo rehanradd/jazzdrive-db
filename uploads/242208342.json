@@ -1,0 +1,83 @@
+{
+  "name": "Paddington-in-Peru-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Paddington-in-Peru-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T14:34:27Z",
+  "remote_folder_id": 1755983,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208342",
+  "tmdb": {
+    "tmdb_id": 516729,
+    "title": "Paddington in Peru",
+    "original_title": "Paddington in Peru",
+    "release_date": "2024-11-08",
+    "year": "2024",
+    "rating": 6.822,
+    "overview": "Paddington travels to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey through the Amazon rainforest and up to the mountain peaks of Peru.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7N7CtZftqEvgojR3QloukU0oWPg.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208342",
+    "status": "U",
+    "etag": "N4Ck62bsRap8MoJF0/aThQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208342",
+          "url": "/sapi/download/video?action=get&k=P5skLOE90w7PsE_HYGXGzdnOem9roFejFQ1H601dAHzlnJV-5E0hBkf6O6Gbc4m0wv40EyAz9soJSGvU-_Ik_YnJwajlVOu0wi1gtuFFPYNIgIDzC_Qfv1jSecYTP7x0H-56Cw1aL1CRY_pMbCBehtG1_4KtHd_V3E-2vVkmc0LqPw7EKbM&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=kaXVMoO0Dvq4omz4ndJLzWtUingQ09X_SSxuoleFFLi_YGMnSgb3vz4uf7-850g-P6dKsWtT9lCO1J5R1r75w4du59ltRVXdW6IsFeuJvr_ngin5Ej7AViF1RtS9bdz3sWoPZNtf4ZCg56ZJ8OtERlBYRWOeDZxkth57JA4ECA0FsrJ_p7u0sKA7yeykjNnJfXw&node=2i182",
+          "date": 1778337266428,
+          "creationdate": 1778337149000,
+          "modificationdate": 1778337149000,
+          "uploaded": 1778337249549,
+          "size": 607547461,
+          "name": "Paddington-in-Peru-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6377625,
+            "bitrate": 762098,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=_Cnh_xGDHFVMxHlxtlbdoiysAOCoCqS7IJ_3-J8HMf1GS4ofeZwA3EqYGXWBNRPoWbsJjZWAQRUd-eKKEoPDcnmgqPsYfdJ_YUGfnw7Ax77JRcQi6qfSE3-A4sbKnEFT_r5jqEyoA0oWusf61FyVN4fwohJN1rzp9_86YoMSfAcvaSeoaraTnQW4ULoql3Czs_I&node=2i182",
+              "etag": "0N4Ck62bsRap8MoJF0/aThQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=kaXVMoO0Dvq4omz4ndJLzWtUingQ09X_SSxuoleFFLi_YGMnSgb3vz4uf7-850g-P6dKsWtT9lCO1J5R1r75w4du59ltRVXdW6IsFeuJvr_ngin5Ej7AViF1RtS9bdz3sWoPZNtf4ZCg56ZJ8OtERlBYRWOeDZxkth57JA4ECA0FsrJ_p7u0sKA7yeykjNnJfXw&node=2i182",
+              "etag": "0N4Ck62bsRap8MoJF0/aThQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "N4Ck62bsRap8MoJF0/aThQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778337266546,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/bnp8sgWTT7GB5Y_AHvstxTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Paddington In Peru (2024)",
+  "media_kind": "movie"
+}
