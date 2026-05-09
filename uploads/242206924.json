@@ -1,0 +1,84 @@
+{
+  "name": "Monster-Summer-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Monster-Summer-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T12:58:56Z",
+  "remote_folder_id": 1754982,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206924",
+  "tmdb": {
+    "tmdb_id": 928480,
+    "title": "Monster Summer",
+    "original_title": "Monster Summer",
+    "release_date": "2024-10-04",
+    "year": "2024",
+    "rating": 6.231,
+    "overview": "When a mysterious force begins to disrupt their big summer fun, Noah and his friends team up with a retired police detective to embark on a monstrous adventure to save their island.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zD2UZkh0DwbDEMuOKIR7jgwgulZ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sJL9R7V1VZcB7i6so6zrQSfYrWa.jpg",
+    "genre_ids": [
+      12,
+      14,
+      9648,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206924",
+    "status": "U",
+    "etag": "1GrFIjt9o8h4rDLK478OcQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206924",
+          "url": "/sapi/download/video?action=get&k=LyvW8FqhtJEGSc5ByKgSWkIvIUID_w0lsNokbpM8dR8QjetkALQ-QXC7WerJ8kUG-L5XE1__pSl1gUw4bHqjFeWKfqHKqQAogO3tW97W5Fwd5YyxrFnFULlxndmNbQZ6hj_Xd0hIbjItC78nkSVX2lvJVJnDsdqA8cdwzF9qMeATfYPg8JI&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=3JTEPWfzkQPR81h0mCAXXZkXvHzhFgsrEoU7f1YrY_7jDSE049vHkkUO16pgOszY428y9gH_81OzaeWa019XUjwAuduWyuvpeOZxu4m1jAUNe8fQLVPMDbol-BpGH0DfmqW6hPo8oeaOWNH1rrzLYXGjS9PakfMisNrjoSu9-u_z2ed8TdP7dGHS9aLctZLGkkU&node=2i182",
+          "date": 1778331535202,
+          "creationdate": 1778331489000,
+          "modificationdate": 1778331489000,
+          "uploaded": 1778331526262,
+          "size": 312023583,
+          "name": "Monster-Summer-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5887328,
+            "bitrate": 423993,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=thGiedhaukgaFXZbgmHNFEK1VjL0f-JZGe1xgcp5oiYqNsHGh0EQzD60JIzkLCbgy5nhVHnXEYdo7MvSwv33zTCixpKmZKQtHL2aNdA0ahcvOrl7OLPZYdmQmU85aRBEfKx27w3POvt8h_4DQA6blnPWXwJ8pW72ZRCz_mUZieTIx-ZsWYPFToNkxgV1wCBKTAk&node=2i182",
+              "etag": "01GrFIjt9o8h4rDLK478OcQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=3JTEPWfzkQPR81h0mCAXXZkXvHzhFgsrEoU7f1YrY_7jDSE049vHkkUO16pgOszY428y9gH_81OzaeWa019XUjwAuduWyuvpeOZxu4m1jAUNe8fQLVPMDbol-BpGH0DfmqW6hPo8oeaOWNH1rrzLYXGjS9PakfMisNrjoSu9-u_z2ed8TdP7dGHS9aLctZLGkkU&node=2i182",
+              "etag": "01GrFIjt9o8h4rDLK478OcQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "1GrFIjt9o8h4rDLK478OcQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331535356,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/0DaS51G_SxeE16Ji8BDJYDg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Monster Summer (2024)",
+  "media_kind": "movie"
+}
