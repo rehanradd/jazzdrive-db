@@ -1,0 +1,83 @@
+{
+  "name": "Greedy-People-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Greedy-People-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T12:55:58Z",
+  "remote_folder_id": 1754978,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206917",
+  "tmdb": {
+    "tmdb_id": 974250,
+    "title": "Greedy People",
+    "original_title": "Greedy People",
+    "release_date": "2024-08-23",
+    "year": "2024",
+    "rating": 6.382,
+    "overview": "The eclectic residents of a small, picturesque island town must navigate a sensational murder and the discovery of a million dollars, leading to a series of increasingly bad decisions which upend the once-peaceful community.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/aIUZiciO0nMh8MrhmsTaMWZvEWK.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8UyO7ivSeU2VVblZEsFUBxOd2wa.jpg",
+    "genre_ids": [
+      35,
+      9648,
+      80
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206917",
+    "status": "U",
+    "etag": "0ve9o8u3KCDXHIhsvJlWxg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206917",
+          "url": "/sapi/download/video?action=get&k=2_O9S75Vb_KF9870jcr9DwgM6czDAMUy2w9eE7YN4h-QVl3HuRsw9EUvUfeNwqAttjKrIeJOvyWU58FwQuj-SqDtp6cAHSUbn32J1Bx6cPF47qlC0dzNy_LsTdDj6w8bwmuol84VFm2B-ihn1tWvxaW_OSmxkKbUTd2VqKUOaSibVSc0cJw&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=uqrCbBmp0zk1BoUre6ORaVplXeIttdT_mZNCSQEnBfMUbuCFrimiHVlmTQ3Ss__xJuEtAtWaJtPYVJQeBckfcQrVG-ob7fMGblRDEJXk5Sta0FmrhOX7cClu1Mm5oQ9Q6hnb----cGYmaQPO6FPSmwjoJidLNtRhF6s-ySGCYk1sMExA_zVs4te4VKgzWjPj7SI&node=2i182",
+          "date": 1778331357813,
+          "creationdate": 1778331310000,
+          "modificationdate": 1778331310000,
+          "uploaded": 1778331347438,
+          "size": 358852886,
+          "name": "Greedy-People-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6751417,
+            "bitrate": 425217,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=CP8-BpBcSg_UNq464dgPJLLFdt3pYwgk7KPGlyDiKI40sOehZhFdltrHWlez7Uej0TuMCxGLQNpg0MMG1i3BEoPNwZwWP9XMR8I8U2S_139_-HiB-JCcCjdw0aDLlcSted3VRx2kVIDsevryAIcfrpDMq0nQ98iSxXyvU6lxFysbyt7of5FMnqQceYcZPzjS9zY&node=2i182",
+              "etag": "00ve9o8u3KCDXHIhsvJlWxg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=uqrCbBmp0zk1BoUre6ORaVplXeIttdT_mZNCSQEnBfMUbuCFrimiHVlmTQ3Ss__xJuEtAtWaJtPYVJQeBckfcQrVG-ob7fMGblRDEJXk5Sta0FmrhOX7cClu1Mm5oQ9Q6hnb----cGYmaQPO6FPSmwjoJidLNtRhF6s-ySGCYk1sMExA_zVs4te4VKgzWjPj7SI&node=2i182",
+              "etag": "00ve9o8u3KCDXHIhsvJlWxg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "0ve9o8u3KCDXHIhsvJlWxg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331357932,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/xnQuYR86SkWCjhL3NpQvsTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Greedy People (2024)",
+  "media_kind": "movie"
+}
