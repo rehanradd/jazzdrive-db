@@ -1,0 +1,87 @@
+{
+  "name": "Doraemon-the-Movie--Nobitas-Earth-Symphony-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Doraemon-the-Movie--Nobitas-Earth-Symphony-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T12:53:19Z",
+  "remote_folder_id": 1755678,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206909",
+  "tmdb": {
+    "tmdb_id": 1148677,
+    "title": "Doraemon the Movie: Nobita's Earth Symphony",
+    "original_title": "\u6620\u753b\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u5730\u7403\u4ea4\u97ff\u697d",
+    "release_date": "2024-03-01",
+    "year": "2024",
+    "rating": 6.765,
+    "overview": "When a malevolent entity intent on eradicating music from the world surfaces, Nobita and his friends must unite with supernatural companions to safeguard the planet.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/Z3mSxuPRNiFYxf1LBoGz3YrJzC.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14,
+      10402,
+      12,
+      35,
+      878
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206909",
+    "status": "U",
+    "etag": "jH+yBGrJovFweo0Z1lbZqg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206909",
+          "url": "/sapi/download/video?action=get&k=mQE0UlnquvAHpBJ-5pr-gAyX1j-p2hJYKjnJpWktBUh-jqqUUyg0OVuFphEFUwBz94E-R7ziBx-8OWapeELWMzSCusFP17YcM732YOb4QlTGiD6e7iLD4HBw-_N3EaT1CEXilB6oqAItzrMPjHZvM_HarmfyiOZrCBeN9G1rQ4qJ3uxDvsY&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=6ouokSRiAcFdYnjJYYWo2-8BBTDIsAHXieR2dQaPkaRWBrkSbhr_At8F1rfOXN4pD1lHN9XrK8GZwPQwoJPQx6adtcl5UnEhJXHPWfDFt6Y8dNYEcdqEZ2AU3zi65gWh2jwATMWgaEs41TZO9xwnmoKosx5zYgWIYeyk-U2zWfYmTaJ9UdKCilue1p3KSt3xHhA&node=2i182",
+          "date": 1778331197565,
+          "creationdate": 1778331147000,
+          "modificationdate": 1778331147000,
+          "uploaded": 1778331186749,
+          "size": 378018631,
+          "name": "Doraemon-the-Movie--Nobitas-Earth-Symphony-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies] (1).mp4",
+          "metadata": {
+            "duration": 6942227,
+            "bitrate": 435616,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=v5USIbrAldPVNJysGUq78zTGAXEyQVz9BOPi-8CH7rHrZUwKO09M46vXWDshcGXl5dKIaL9Uuo7rrf_4ED_ThboJ1EScw8qSUh60T3JSptn_ctZ7AZ8Lqc-oEazj4PVet33yOw7h0lpHRVLcdaNOFDNcT4ExsWBAmanNBZVJgP5LoRdjk64C6aSlSFBa9Sd9EoM&node=2i182",
+              "etag": "0jH+yBGrJovFweo0Z1lbZqg=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=6ouokSRiAcFdYnjJYYWo2-8BBTDIsAHXieR2dQaPkaRWBrkSbhr_At8F1rfOXN4pD1lHN9XrK8GZwPQwoJPQx6adtcl5UnEhJXHPWfDFt6Y8dNYEcdqEZ2AU3zi65gWh2jwATMWgaEs41TZO9xwnmoKosx5zYgWIYeyk-U2zWfYmTaJ9UdKCilue1p3KSt3xHhA&node=2i182",
+              "etag": "0jH+yBGrJovFweo0Z1lbZqg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "jH+yBGrJovFweo0Z1lbZqg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331197688,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/_IwINLR_RJiJhNBhEgseHTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "1755678",
+  "share_folder_path": "Doraemon The Movie Nobitas Earth Symphony (2024)",
+  "media_kind": "movie"
+}
