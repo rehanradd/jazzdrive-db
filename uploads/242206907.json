@@ -1,0 +1,81 @@
+{
+  "name": "Do-Not-Enter-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Do-Not-Enter-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T12:52:19Z",
+  "remote_folder_id": 1755677,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206907",
+  "tmdb": {
+    "tmdb_id": 1287717,
+    "title": "Do Not Enter",
+    "original_title": "No entres",
+    "release_date": "2024-08-15",
+    "year": "2024",
+    "rating": 6.734,
+    "overview": "Two working class youtubers \u2018in the making\u2019 enter an abandoned mansion to get their basketball back, and get lost inside while pranking each other. They record their \u2018quick adventure\u2019 with their phones for their audience, and tweak it with a fake phantom appearance to attract more followers to their YouTube channel. When uploaded the video goes viral, so they start a challenge: if the video reaches a certain number of views, they will enter the house again, at night, alone, totally unprotected. As fans react positively, they will do as promised, not only to discover and unveil the true nature of the place and their inhabitants, but to realize they might not be among the living anymore. Which opens a question - how far would you go to be famous?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1l6eDcH11b9aRmmd4a9WWwhVJ5T.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kNI01OBzgKmEXeWTIOsB2aVpVTw.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206907",
+    "status": "U",
+    "etag": "OL/rsvlzWZB7ltctw33OyA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206907",
+          "url": "/sapi/download/video?action=get&k=wwmfUx185pndcIOx3p-cxXKIieva86_l-70MYn1Kppn9JX1BIdsDULH6ZrasrMRgoeuyYEnBgSJX6KN-JFrLVwT2ITCktdHjK0klu92QvJUY-lbr7Q0nEvxye8n03FXnmvSF4KHq2tgxN94AQKpKICOY3UpgN86YhPz-Fm5WKHLTi2yden8&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=XEr5z3Zrn9F5U7DpsB-cMQQhkBd1R6OrzNkFoN6GO0gNoQHp_D1qz1xnwjB3gpqb4sMS1ob2e8MseOF2LMo6wURFtX_J9kLZNesGu_8Exuxr9ahW7u4B01EwwwtCBgsSi8s2Mdv5Q7SvlT6yOkq_TZXI0cnTDq8A73n4ar5lYds1Eo3FVjZzsDxDee6UqJcTvVs&node=2i182",
+          "date": 1778331138182,
+          "creationdate": 1778331095000,
+          "modificationdate": 1778331095000,
+          "uploaded": 1778331130163,
+          "size": 266946359,
+          "name": "Do-Not-Enter-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies] (1).mp4",
+          "metadata": {
+            "duration": 5090083,
+            "bitrate": 419555,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ilNpUYFHI0tWEmxzB4bNVggGJaiUNeGFOqH-jTyR7U6-kLup2OuWmt5B6ZIdBmaOKCStrUn7QmfIY26C6X2TtEjaezXJT2rDkoQ4jBNVdij3UbNHIpuNV34C-0eXWx4JU4vPnS7RRL2LZo0Z4vYIY-os7Wc8B_AC1kqg0jZgHJtkVs3iTxY4TclSarnHhTJb9b8&node=2i182",
+              "etag": "0OL/rsvlzWZB7ltctw33OyA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=XEr5z3Zrn9F5U7DpsB-cMQQhkBd1R6OrzNkFoN6GO0gNoQHp_D1qz1xnwjB3gpqb4sMS1ob2e8MseOF2LMo6wURFtX_J9kLZNesGu_8Exuxr9ahW7u4B01EwwwtCBgsSi8s2Mdv5Q7SvlT6yOkq_TZXI0cnTDq8A73n4ar5lYds1Eo3FVjZzsDxDee6UqJcTvVs&node=2i182",
+              "etag": "0OL/rsvlzWZB7ltctw33OyA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "OL/rsvlzWZB7ltctw33OyA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331138301,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/1mc3hqMIQdm70YnhXB-Jpzg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "1755677",
+  "share_folder_path": "Do Not Enter (2024)",
+  "media_kind": "movie"
+}
