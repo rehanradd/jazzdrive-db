@@ -1,0 +1,79 @@
+{
+  "name": "Mom-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Mom-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:12:03Z",
+  "remote_folder_id": 1755904,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206964",
+  "tmdb": {
+    "tmdb_id": 1284729,
+    "title": "Mom(s)",
+    "original_title": "Mom(s)",
+    "release_date": "2024-03-16",
+    "year": "2024",
+    "rating": 0.0,
+    "overview": "The fact that Abi has two moms shouldn\u2019t set her apart from any other teenage kid, but when the high school father-daughter dance posters start to go up all over school Abi can\u2019t help but feel like an outsider. The mean crowd rubs it in her face, Abi\u2019s friends don\u2019t seem to get it, it\u2019s all too much. Abi decides she doesn\u2019t want to go to the stupid dance, but Abi\u2019s best friend Lexi knows all too well what Abi wants. Lexi urges her to take a stand and show up to the dance with both her moms. When one of Abi\u2019s moms, Sandra, finds the father-daughter poster crumpled among Abi\u2019s things, she confronts her about it. With Sandra\u2019s help, Abi makes it so everyone is welcome at the dance.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rqyMXtgFzexuhVtiZ8joV9yGQoX.jpg",
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206964",
+    "status": "U",
+    "etag": "4ZwcmatvPZ3voAvCFjMFkw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206964",
+          "url": "/sapi/download/video?action=get&k=ySGCcB-4QHBTZ1okaPArCmNspH0GDOVS-FfyMCWdkfRKpmy397UO9RWz-lDneut3VAlBvnQMvhXufaExxuaAA5Zsdo5H3J6AjimcrSAOLxriuIN0JPNkVYQBIH1nJlsJoVZZQdU8_xb5MY-LOrB8wYDnMvVrPmN6GNhg_XkIHX7MjxXrcuk&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=h0g4W7jqeJYKe8uHxluTYa0DBWAwnUWfEW7IyElsiy8lVZD9Vk4FaJOMWaLPLHbOyZTt6QdDx6c7OaLjECigvEir8cKowDahOKqyqQkRBj9nqM7FQLhBhpfjx_w62o5LzmQ06gxtilC8yMP5U4W8Vlb_lA97B6nfOzwXeBW7-j88SJP2tEDIUewLGTO6NqlwMd0&node=2i182",
+          "date": 1778332322070,
+          "creationdate": 1778332275000,
+          "modificationdate": 1778332275000,
+          "uploaded": 1778332311989,
+          "size": 303940647,
+          "name": "Mom-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5734944,
+            "bitrate": 423984,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6Wx2y1h6NKCWsc_3KrC2oAdKthJmkV5I_8uMqE_T95ZRdkz51vtFZVVdqfdQGXAYGxZst-j9NEpm_TdfqBkGqc-UtLjPLt69d0hQqmsLgiiYadzcFoFG9O26PyIeMRbHJI9stz1Jz_6F4NAR3zTyokbuPga6Cf1CL2vlR9ixU3_3-9wIoLu7IabwRVWjmQXJyxE&node=2i182",
+              "etag": "04ZwcmatvPZ3voAvCFjMFkw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=h0g4W7jqeJYKe8uHxluTYa0DBWAwnUWfEW7IyElsiy8lVZD9Vk4FaJOMWaLPLHbOyZTt6QdDx6c7OaLjECigvEir8cKowDahOKqyqQkRBj9nqM7FQLhBhpfjx_w62o5LzmQ06gxtilC8yMP5U4W8Vlb_lA97B6nfOzwXeBW7-j88SJP2tEDIUewLGTO6NqlwMd0&node=2i182",
+              "etag": "04ZwcmatvPZ3voAvCFjMFkw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "4ZwcmatvPZ3voAvCFjMFkw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332322201,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/JrrYY3DUS42JZh6yC9FhBTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mom (2024)",
+  "media_kind": "movie"
+}
