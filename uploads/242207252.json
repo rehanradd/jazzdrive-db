@@ -1,0 +1,84 @@
+{
+  "name": "The-Little-Mermaid-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Little-Mermaid-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:49:06Z",
+  "remote_folder_id": 1755955,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207252",
+  "tmdb": {
+    "tmdb_id": 447277,
+    "title": "The Little Mermaid",
+    "original_title": "The Little Mermaid",
+    "release_date": "2023-05-18",
+    "year": "2023",
+    "rating": 6.276,
+    "overview": "The youngest of King Triton\u2019s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life \u2013 and her father\u2019s crown \u2013 in jeopardy.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lAs4Y5a8Pi86xDwuv8cx2prOVI2.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      14,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207252",
+    "status": "U",
+    "etag": "ZhUmTbJ/keVoJQ3f/BgFvQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207252",
+          "url": "/sapi/download/video?action=get&k=nPOtKFhFFOzn_G0X8L95-zEQm8TLV4eLWIyNEpbOzgcgcq_JfugzfF1lkw1kazRd3IavvDRUrsfdEiLa0ggT78ei1ggSXtSGO6gO8VIRY7pFFYXhdj8M3Jex_xdy45Mz4-JHX4IZiMkyf2h_SNR5SBg-oI8FOMzdQmNLvrwz0-RKO-P6Jac&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=xqcEUsN9Ykssyw8yGJKDI7axEZxe888ViTDAuhbmGs6oheYL0TV3MXmPJJQApqY4JqkUx0n_7iGKkXhJk1dI_XJi_xx77cZzO6wleR3nAXw4vS9-4OGfesa61dHUoPtywJSo2MTlE_fUSue3YuKE4cKGDpx58jALq0PYnBZAxUj-cU9x8eqzTzpJNUqScIW3KAg&node=2i182",
+          "date": 1778334545394,
+          "creationdate": 1778334502000,
+          "modificationdate": 1778334502000,
+          "uploaded": 1778334531303,
+          "size": 511009264,
+          "name": "The-Little-Mermaid-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5326924,
+            "bitrate": 767436,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=3VxmRPKqcNwwi8XED3fhF7FQ91dSbie31VBTFtLpB78eix7mm1H6efEGbpmY6SnaBhpUzblvmgDi7ocgtp726-l4s3z2xQ48eARbV54Wmbq1zbpp2QyBKKluUqZr0FCDKOYntpYHE22LUFD5z7oeGLZCd1II_QoCAwNPb0_mPTQKIeLTb0AmOuDD_lOW5EgPZzU&node=2i182",
+              "etag": "0ZhUmTbJ/keVoJQ3f/BgFvQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=xqcEUsN9Ykssyw8yGJKDI7axEZxe888ViTDAuhbmGs6oheYL0TV3MXmPJJQApqY4JqkUx0n_7iGKkXhJk1dI_XJi_xx77cZzO6wleR3nAXw4vS9-4OGfesa61dHUoPtywJSo2MTlE_fUSue3YuKE4cKGDpx58jALq0PYnBZAxUj-cU9x8eqzTzpJNUqScIW3KAg&node=2i182",
+              "etag": "0ZhUmTbJ/keVoJQ3f/BgFvQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ZhUmTbJ/keVoJQ3f/BgFvQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334545513,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/APeKDBtSQXuXrk4YtVDvtTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Little Mermaid (2024)",
+  "media_kind": "movie"
+}
