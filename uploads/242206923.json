@@ -1,0 +1,81 @@
+{
+  "name": "Mercy-Land-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Mercy-Land-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T12:58:50Z",
+  "remote_folder_id": 1754981,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206923",
+  "tmdb": {
+    "tmdb_id": 931558,
+    "title": "Mercy Land",
+    "original_title": "Mercy Land",
+    "release_date": "2022-05-01",
+    "year": "2022",
+    "rating": 4.0,
+    "overview": "In a dystopian world that has been damaged by climate change, a mother and her daughter must try to survive as they are terrorised by clan warfare.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1J0KDBdyksKAUN6rTvGR740otfn.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8mM5VKIFqFA5pJAe3FJQSXvPZg8.jpg",
+    "genre_ids": [
+      878
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206923",
+    "status": "U",
+    "etag": "771DHqwnr6oWTsZq4UZd4A==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206923",
+          "url": "/sapi/download/video?action=get&k=SFwlBcg4nrD9VsCGGzbS9drSy7eQCCksV8sRXloCHZyfejojvENxvt8PFGqqX8XPuY2RaAW6I18xU31gv8PXvmSxBdhHT8AVYWtTySiKHoSqpWDDfSPpTUrbXq57y5kzTcwWM1yCQojiTAU8WGBZTTKhvgnuvjmyQ7YfMwkcAqdZROmbPdo&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=yr7MwTScSdPLehw14sGJeK0bllv-9c-dYVbugj0YH5DalQFqlbbIiu2lVqOe8d6CbuOikoCVycACxJsC0eSeZrCeSLYXD6Dc7_u8VDsH4MeWAynDbCE0dLKThCylLnkPsGOjJgHzBttkQm4Rb3lvVPkUxRB7AkQuyfOnbsUhuX8AlJ1umu8gX9K476t4W2IOOjk&node=2i182",
+          "date": 1778331528942,
+          "creationdate": 1778331485000,
+          "modificationdate": 1778331485000,
+          "uploaded": 1778331518635,
+          "size": 333410892,
+          "name": "Mercy-Land-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6288718,
+            "bitrate": 424138,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ShVsGAtV3i-nr-ykSjyjdGqKpXEUG5PLEuTmijOg3VSbnVonEgJpzG8KyC-WflrZ_KwqgLkt7ougTbUoxd6Go4MDs41h-zgTqe6hSLFc18-t4uPh49LJI2Z1RweUtk8nV1Aqm0y1fQHSW2c_WBHdF-DWo_Lg0aw70s51Kzv33_OTNjhd6H51MRmEGNSHVFLtuLw&node=2i182",
+              "etag": "0771DHqwnr6oWTsZq4UZd4A=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=yr7MwTScSdPLehw14sGJeK0bllv-9c-dYVbugj0YH5DalQFqlbbIiu2lVqOe8d6CbuOikoCVycACxJsC0eSeZrCeSLYXD6Dc7_u8VDsH4MeWAynDbCE0dLKThCylLnkPsGOjJgHzBttkQm4Rb3lvVPkUxRB7AkQuyfOnbsUhuX8AlJ1umu8gX9K476t4W2IOOjk&node=2i182",
+              "etag": "0771DHqwnr6oWTsZq4UZd4A=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "771DHqwnr6oWTsZq4UZd4A==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331529080,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/fStUyZdvTvmvHg2GX5Iqbjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Mercy Land (2024)",
+  "media_kind": "movie"
+}
