@@ -1,0 +1,82 @@
+{
+  "name": "Dr.-Sanders-Sleep-Cure-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Dr.-Sanders-Sleep-Cure-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:14:46Z",
+  "remote_folder_id": 1755910,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206971",
+  "tmdb": {
+    "tmdb_id": 1236769,
+    "title": "Dr. Sander's Sleep Cure",
+    "original_title": "Dr. Sanderi uneteraapia",
+    "release_date": "2024-01-31",
+    "year": "2024",
+    "rating": 3.0,
+    "overview": "A man, plagued by insomnia, turns to Doctor Sander's Sleep Cure tapes for relief, becoming the unwitting star of his own nightmarish productions, navigating through bizarre and morbid dreamscapes filled with macabre humor.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iyslMalSLEDJzOoJDafLR9rKOt4.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6ayBIfjCUMDQJZ0hB1TAkFcHfxe.jpg",
+    "genre_ids": [
+      14,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206971",
+    "status": "U",
+    "etag": "R7I/xRpgw75gNKrNJMMFxQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206971",
+          "url": "/sapi/download/video?action=get&k=hLZ_yetoyazyHUvzNDHq6pTolDxlR7M4DB5UFIc0RN4XRTtrANHHpF84UtV9g9SAlULVDjgY5tyFkxk5AgfE8HpQEGcrsBdoYVc-aUl-9QU_3Y4trVSNXIJrmH2D2xgV9e6ZFzrypXCF5SMEEKocKZG3XQgjZBTE_GMUajwb_7iAnByZo7Q&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=o0LPIOzJo_PnPbRAxdFfQkV5UsaNcloBb_qXT8z0L018V0oqgRdk7EQJwfEamIQOtZhoPYfzT4IOz3RMcAx33eloQlrlZ1kULNqBjpfZIfzLvUAljuCXitjIckbWlBgxWlN6eDeE5rgIU6xnhc2iQex8GtCT8bXqNWHO8iU-qpjH1PMqKHEPCqcRcYUby-hSOG0&node=2i182",
+          "date": 1778332485798,
+          "creationdate": 1778332442000,
+          "modificationdate": 1778332442000,
+          "uploaded": 1778332475620,
+          "size": 332647438,
+          "name": "Dr.-Sanders-Sleep-Cure-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6157269,
+            "bitrate": 432201,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ZlN4wrhEbw9jG_uONbUNxTIAyV-Wx6zPZqI7FxPkUfKCxaOfEByiXmrxJZcB5P4-J1-Y66S7qkgSNcdxnnTXP4RKRorkn9q4OxyZICvuL78f8ZJGUmyIUXt1urVpLTuubNtd0_9G6OHmmQCza00Ej6hbXnOBoyMbNzVMEHAOOzZYyJK_KrUISkk57epJd0YxfJg&node=2i182",
+              "etag": "0R7I/xRpgw75gNKrNJMMFxQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=o0LPIOzJo_PnPbRAxdFfQkV5UsaNcloBb_qXT8z0L018V0oqgRdk7EQJwfEamIQOtZhoPYfzT4IOz3RMcAx33eloQlrlZ1kULNqBjpfZIfzLvUAljuCXitjIckbWlBgxWlN6eDeE5rgIU6xnhc2iQex8GtCT8bXqNWHO8iU-qpjH1PMqKHEPCqcRcYUby-hSOG0&node=2i182",
+              "etag": "0R7I/xRpgw75gNKrNJMMFxQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "R7I/xRpgw75gNKrNJMMFxQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332485917,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/WS-QMXNxT9Sq848j9k2NCTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dr Sanders Sleep Cure (2024)",
+  "media_kind": "movie"
+}
