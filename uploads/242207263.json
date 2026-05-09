@@ -1,0 +1,82 @@
+{
+  "name": "River-of-Blood-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\River-of-Blood-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:53:13Z",
+  "remote_folder_id": 1755972,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207263",
+  "tmdb": {
+    "tmdb_id": 1222064,
+    "title": "River of Blood",
+    "original_title": "River of Blood",
+    "release_date": "2024-12-12",
+    "year": "2024",
+    "rating": 6.02,
+    "overview": "Four kayakers take the wrong river into a jungle inhabited by a tribe of merciless cannibals.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/kgCfN7zuC2k9VaqeDdquUwroC8u.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/zCSLLLe8o0CJarDKk2IJQsLXqkl.jpg",
+    "genre_ids": [
+      27,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207263",
+    "status": "U",
+    "etag": "empO0q33/FVHU77P/NIGTA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207263",
+          "url": "/sapi/download/video?action=get&k=dTkc2fGfOJDA0I4AM6YAQyfPEcsKIxBZHtX2jvqmdC20T6YXUo7TTRszs-WXx3GwLd-DQUq7aGPBPMPOFRORRYi6xYel8qD0L_YdES61sun65hyLS8iq8bn5JQ-LcvP7i436SM8R1VYpWdXQuGryc1AhgsNFJGamLgtvqCcaQspFMpVURko&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=h7u-1Wx1Iy8YaYN91OmmEpWV6eHBL2Tcia2hABaW8RwsZ7o-brhuHYadIsG6MiFsYjAQwnC0Lss0wUB9sMtdWu0mRy-WbzV443fm0QjYKDeV5eLb4KHfLpyi-_XGPFJhxwdlmNIoc4Ev03WMknya4wcK45BU118KptP3miSRM2IfSfhjvT7f4v-Xnx5jgNnngEM&node=2i182",
+          "date": 1778334792573,
+          "creationdate": 1778334751000,
+          "modificationdate": 1778334751000,
+          "uploaded": 1778334778590,
+          "size": 494710385,
+          "name": "River-of-Blood-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5209280,
+            "bitrate": 759737,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=kKzTQieK5CrosfQYSDB5A5WsZl9G4B_dTKnzIWS4--uzJoO0iXr1wV_FDI21gfKo-PY-4LdXjcsWq9lWydEOT6AG_MYrzA20pNOgf8Mw90rmxhPQbQlNxkDn2vYoPOGiwBmMNQSIHSvR9_AvzHjrE970Ge4CUbwD9WIOwbPfoyoNisGPQB7rpaDR8r-zZZI3TvM&node=2i182",
+              "etag": "0empO0q33/FVHU77P/NIGTA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=h7u-1Wx1Iy8YaYN91OmmEpWV6eHBL2Tcia2hABaW8RwsZ7o-brhuHYadIsG6MiFsYjAQwnC0Lss0wUB9sMtdWu0mRy-WbzV443fm0QjYKDeV5eLb4KHfLpyi-_XGPFJhxwdlmNIoc4Ev03WMknya4wcK45BU118KptP3miSRM2IfSfhjvT7f4v-Xnx5jgNnngEM&node=2i182",
+              "etag": "0empO0q33/FVHU77P/NIGTA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "empO0q33/FVHU77P/NIGTA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334792704,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/ibt0Vnj_SxSdBpWP2MdZeDg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "River Of Blood (2024)",
+  "media_kind": "movie"
+}
