@@ -922,5 +922,33 @@
     "github_synced_at": null,
     "gsheets_status": null,
     "gsheets_synced_at": null
+  },
+  "59fa5cedda9077ffbc4de598a38291c49babbd023a47138b83ee0e8ccf14f766": {
+    "name": "Subservience-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+    "path": "D:\\New folder\\Subservience-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+    "mediatype": "video",
+    "size_bytes": 333566943,
+    "uploaded_at": "2026-05-09T13:02:02Z",
+    "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206931",
+    "remote_id": "242206931",
+    "remote_folder_id": "1755691",
+    "tmdb_title": "Subservience",
+    "tmdb_year": "2024",
+    "tmdb_rating": 6.619,
+    "tmdb_poster": "https://image.tmdb.org/t/p/w500/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+    "tmdb_overview": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+    "raw_response": "{\"success\": \"Media uploaded successfully\", \"id\": \"242206931\", \"status\": \"U\", \"etag\": \"SZa60dTgPllLoUWKv/jnpw==\", \"metadata\": {\"mediaserverurl\": \"https://cloud.jazzdrive.com.pk\", \"videos\": [{\"id\": \"242206931\", \"url\": \"/sapi/download/video?action=get&k=afED7F07wYwWEKPSIla_jZmIuxDw8NDIswITuO9H2TxK4xmDdgQ0yzEpmcx9ToePZnbKeqZJv-1lGo9-Hv_p7vk2rWNIzBVoZXoHku_j0uFmjF6ywUjhZHjzSJa7cjTLmwyjvUM-21vB5W1LARUMbuuBSSsjnmUaZi0GQ1Vr_ObR0EyWPak&node=2i182\", \"viewurl\": \"/sapi/download/video?action=get&k=N0MCh0YnyO5Fnlnv_OjeC7XLT7RYiRbow6mJxEZjK0NCJkUMn5-4_0GPchnDEXX1AfnsHpZcH65sPvUZqQ06xaJWklBy230CicgJd3gl8xlF-QeYztkK_xSjQ0vKwmjYpfUWN3td3BkVXPe5q7a2SpZmXJEvsQaNym4cyPp07bO1_m2knAt5fghJPLycRjqtuu0&node=2i182\", \"date\": 1778331721709, \"creationdate\": 1778331688000, \"modificationdate\": 1778331688000, \"uploaded\": 1778331711956, \"size\": 333566943, \"name\": \"Subservience-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies] (1).mp4\", \"metadata\": {\"duration\": 6340292, \"bitrate\": 420885, \"codec\": \"h264\", \"height\": 306, \"width\": 720, \"audiocodec\": \"mp3\"}, \"playbackurl\": \"\", \"transcodingstatus\": \"E\", \"thumbnails\": [{\"w\": 256, \"h\": 108, \"size\": \"176\", \"url\": \"/sapi/download/video?action=get&k=uf6gt4uROk5k1B1ry7cbw0Xk777DHYqqUM3bUIFpbGyTP2Y_3v1bUJwuzcec25HkZPjlwUoAbe81Un-cDoykbLv3Ql52OkTUZE1L7xAoj3l8fXmZ-fUT3Zys-e15VFEeg3RH_Ci50L-xtnMAqtcIyRFFulSZVTQixqp-DCjjVo2kQHFukPb0t2wb8LS4fipT1EA&node=2i182\", \"etag\": \"0SZa60dTgPllLoUWKv/jnpw==\"}, {\"w\": 720, \"h\": 306, \"size\": \"504\", \"url\": \"/sapi/download/video?action=get&k=N0MCh0YnyO5Fnlnv_OjeC7XLT7RYiRbow6mJxEZjK0NCJkUMn5-4_0GPchnDEXX1AfnsHpZcH65sPvUZqQ06xaJWklBy230CicgJd3gl8xlF-QeYztkK_xSjQ0vKwmjYpfUWN3td3BkVXPe5q7a2SpZmXJEvsQaNym4cyPp07bO1_m2knAt5fghJPLycRjqtuu0&node=2i182\", \"etag\": \"0SZa60dTgPllLoUWKv/jnpw==\"}], \"mediatype\": \"video\", \"status\": \"U\", \"etag\": \"SZa60dTgPllLoUWKv/jnpw==\", \"favorite\": false}]}, \"responsetime\": 1778331721846, \"type\": \"video\"}",
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/8GsPP8w7T0ehFhU8owpsKjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+    "share_key": "",
+    "share_link_id": "69344",
+    "share_label_id": "",
+    "share_validation_key": "",
+    "share_folder_id": "1755691",
+    "share_folder_path": "Subservience (2024)",
+    "media_kind": "movie",
+    "github_status": null,
+    "github_synced_at": null,
+    "gsheets_status": null,
+    "gsheets_synced_at": null
   }
 }
