@@ -1,0 +1,82 @@
+{
+  "name": "Touch-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Touch-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:05:30Z",
+  "remote_folder_id": 1754990,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206944",
+  "tmdb": {
+    "tmdb_id": 1032472,
+    "title": "Touch",
+    "original_title": "Snerting",
+    "release_date": "2024-05-29",
+    "year": "2024",
+    "rating": 7.357,
+    "overview": "Soon after the break of the pandemic and realizing that his clock is ticking, Kristofer gets the urge to embark on a journey to try to find out what really happened when his Japanese girlfriend mysteriously vanished without a trace from London fifty years earlier.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yNXfG1CBVzffksd2EkEpJ9NXFOT.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/yexLinpa15gWj3LGYOcpFwOHbnU.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206944",
+    "status": "U",
+    "etag": "ty/WnCK20JjgXdLgCxQd1w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206944",
+          "url": "/sapi/download/video?action=get&k=f32h0zWodAYXv-jhnXWpiCBUExmKSZUcwHE3ZITaRLquPO2o_5Ns86eO1CJ1SiIkO9PUPCqDwIKWyVGUIQXLIsekeQm0xQnnWOTHhaVEoSXy-kteG_tbjoZnGBmF4gHTsJpEYhVwmhe3kJ9P7hPEej7aXUNb8GOSult9_FMutsgvF-1gE2U&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=iqT1jcwbbiErZC9uBIeKPBcsEIKKA5ANslex9jgFVpa0PI4dUP6pJu4y9DWBgec2VSRbwdD0j-ynP7W1SQKQrL9Yc30JHUm1WcM3Y717H4AAcLJf45f6g7MTql27VXsqg2NgP3a6mUcY17IkEU-4jq3ERLlfB4MnMgFPG1iV4IJ5FouJfwhZbB4h2cLvZvsgyWo&node=2i182",
+          "date": 1778331929567,
+          "creationdate": 1778331896000,
+          "modificationdate": 1778331896000,
+          "uploaded": 1778331918332,
+          "size": 387087717,
+          "name": "Touch-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7270781,
+            "bitrate": 425910,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=eW2RQsnthPbbBabR1GcSNaZR4a7A7YSPVmQF8MPZfrSNbAB_Gy816U1C9hWUDRFwAl5NIHHzkJFWiCOi10n2X_175i9DG9ul3krc5IKjkc3F0q9aCgFmyCITwfJq_3LI8FzB375rFnODA-STxF2y-XhVTG6J1GZ0oYrjmoIiSUD5gtsRKsBAiMSo3MODKGDDCd4&node=2i182",
+              "etag": "0ty/WnCK20JjgXdLgCxQd1w=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=iqT1jcwbbiErZC9uBIeKPBcsEIKKA5ANslex9jgFVpa0PI4dUP6pJu4y9DWBgec2VSRbwdD0j-ynP7W1SQKQrL9Yc30JHUm1WcM3Y717H4AAcLJf45f6g7MTql27VXsqg2NgP3a6mUcY17IkEU-4jq3ERLlfB4MnMgFPG1iV4IJ5FouJfwhZbB4h2cLvZvsgyWo&node=2i182",
+              "etag": "0ty/WnCK20JjgXdLgCxQd1w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ty/WnCK20JjgXdLgCxQd1w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331929709,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/4Njm0YYZSjyrR3gSUU3ppjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Touch (2024)",
+  "media_kind": "movie"
+}
