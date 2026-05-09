@@ -1,0 +1,82 @@
+{
+  "name": "I-Saw-the-TV-Glow-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\I-Saw-the-TV-Glow-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:45:50Z",
+  "remote_folder_id": 1755950,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207241",
+  "tmdb": {
+    "tmdb_id": 858017,
+    "title": "I Saw the TV Glow",
+    "original_title": "I Saw the TV Glow",
+    "release_date": "2024-05-03",
+    "year": "2024",
+    "rating": 6.068,
+    "overview": "In late-90s suburbia, a lonely teenager meets a girl at school who introduces him to a mysterious late-night T.V. show \u2014 a vision of a supernatural world pulsing beneath their own. As time goes on, however, questions begin to arise about why the show sometimes seems more real than their own lives. In the pale glow of the television, their view of reality begins to crack.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/jKulL2hdp5S7dVbpoItAtdCyzXI.jpg",
+    "genre_ids": [
+      18,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207241",
+    "status": "U",
+    "etag": "DfuMTojx/gmRXavqV9Rw3Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207241",
+          "url": "/sapi/download/video?action=get&k=JIcJ9NJvpVcD78NFUiqx_FzvV5vHOSqRP2urqA7stu3LT6yxvrGR5j7IrEmURJolkpzbISgpUpsB4_BAxoZQLYnoVn_YtOz3Jv4oCOliPksc_VseIk-8vNAryk-TyD-OvBstLRtnq18qmT_8YYlXP3O3KNTUVc4MWTzJ_8bouvPMFbg5Wd8&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=Tsepyy16yRWhbqRj71LW1jczzeo2mYUt9j9zIwu2Z7W_Si7C17JJ1Qq8o5TXAo6Y5iqYqpQ-PAJUCafm1ty4PwmbKEIIaZyxTIvzleZKlBYrXh43GEdtQmjYmWeUDyZycvQ3ti0H7j_5RI1zqObfWGz49aNb3QTmAVolGB1mJdiGRM8GvBph9g_GfNtgQPQ2h2o&node=2i182",
+          "date": 1778334348971,
+          "creationdate": 1778334292000,
+          "modificationdate": 1778334292000,
+          "uploaded": 1778334326065,
+          "size": 578157737,
+          "name": "I-Saw-the-TV-Glow-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6033409,
+            "bitrate": 766608,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=SUVXP53yHqXQ8vKrCvcNSU4TJzY8cS7y0yQPAbHK75ST4VP9z8glpA4XoX0iVmHxYmFqH0uhSLrOmkYlqVympy-WesOzpfcpP-Udim3Ti9YXDwm592Q7rFRlPuBF_fQlVl7FOMOs2iOPk6dsTO7YDyjh7V5ljurNcM_qTV7DKSnUr67Zj1YBeKZpIKQJ-aZq7Vs&node=2i182",
+              "etag": "0DfuMTojx/gmRXavqV9Rw3Q=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Tsepyy16yRWhbqRj71LW1jczzeo2mYUt9j9zIwu2Z7W_Si7C17JJ1Qq8o5TXAo6Y5iqYqpQ-PAJUCafm1ty4PwmbKEIIaZyxTIvzleZKlBYrXh43GEdtQmjYmWeUDyZycvQ3ti0H7j_5RI1zqObfWGz49aNb3QTmAVolGB1mJdiGRM8GvBph9g_GfNtgQPQ2h2o&node=2i182",
+              "etag": "0DfuMTojx/gmRXavqV9Rw3Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "DfuMTojx/gmRXavqV9Rw3Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334349112,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/aCgqKkfGTl-iJA5wRwI9bzg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "I Saw The Tv Glow (2024)",
+  "media_kind": "movie"
+}
