@@ -1,0 +1,82 @@
+{
+  "name": "Haikyu-The-Dumpster-Battle-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Haikyu-The-Dumpster-Battle-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:14:24Z",
+  "remote_folder_id": 1755909,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206970",
+  "tmdb": {
+    "tmdb_id": 1012201,
+    "title": "HAIKYU!! The Dumpster Battle",
+    "original_title": "\u5287\u5834\u7248\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30b4\u30df\u6368\u3066\u5834\u306e\u6c7a\u6226",
+    "release_date": "2024-02-16",
+    "year": "2024",
+    "rating": 7.696,
+    "overview": "Shoyo Hinata joins Karasuno High's volleyball club to be like his idol, a former Karasuno player known as the 'Little Giant'. But Hinata soon learns that he must team up with his middle school nemesis, Tobio Kageyama. Their clashing styles form a surprising weapon, but can their newfound teamwork defeat their rival Nekoma High in the highly anticipated 'Dumpster Battle', the long awaited ultimate showdown between two opposing underdog teams?",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/cZmOrIOkJ2SNfVdiO85dUbOAYnL.jpg",
+    "genre_ids": [
+      16,
+      35
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206970",
+    "status": "U",
+    "etag": "azx29c527zTanQKjdLRBbw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206970",
+          "url": "/sapi/download/video?action=get&k=hsmhTedSKaBYKrjiDoTCu5ot1KVzvkKUJMuBNfrQla2drraHnjGhrSAVLniOr4UQ1Q8tntQLLww4-ocLNjOru5pBrNUTEJMvI3OC3aLf8MgfZjfVLvHOgdpe9X_cmNfphHMugS4EVPCxTZRufCi4-kTm6B55EGmRxAfD53cikVltJPiZzXY&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=27Sz1ZwmC9r58nTx_8dGpIl45gy6Fu6rGLSWWJaacaIEMExo9ESj0jD_YI5gWuy3wAx-VGBvWmUsvMO-0Zu2BclET6dQSqEb-snyyIdlJpBUHiICPub-o34id3EBDoT2knDCVJyszEJxo7634vK30hIr9MSx0b33CNlUBICg6oADu9ianwseWRTZm5A0VmxdNaw&node=2i182",
+          "date": 1778332463329,
+          "creationdate": 1778332438000,
+          "modificationdate": 1778332438000,
+          "uploaded": 1778332455519,
+          "size": 266489108,
+          "name": "Haikyu-The-Dumpster-Battle-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5068032,
+            "bitrate": 420658,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=I_auTewKDZAkmnupZPBkIDaSWq-OzgsX7bDHj383oeFc3QbTMjuzs-yGWaaKoRXz7NZeE8-xqDeeQA9a7JSFF8B6GE4aQEwxHcA_Rn9S8NC3OtA7rFeK9R2iIuVR3EARQSiPe1HhzlDO7hJE9ysav_YLkt1slQzBy3QySxFzPcq2KWbBkF3ijdXz7f9XLhUqno8&node=2i182",
+              "etag": "0azx29c527zTanQKjdLRBbw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=27Sz1ZwmC9r58nTx_8dGpIl45gy6Fu6rGLSWWJaacaIEMExo9ESj0jD_YI5gWuy3wAx-VGBvWmUsvMO-0Zu2BclET6dQSqEb-snyyIdlJpBUHiICPub-o34id3EBDoT2knDCVJyszEJxo7634vK30hIr9MSx0b33CNlUBICg6oADu9ianwseWRTZm5A0VmxdNaw&node=2i182",
+              "etag": "0azx29c527zTanQKjdLRBbw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "azx29c527zTanQKjdLRBbw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332463447,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Mke4fPNxQ3yWidOUsh_6oTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Haikyu The Dumpster Battle (2024)",
+  "media_kind": "movie"
+}
