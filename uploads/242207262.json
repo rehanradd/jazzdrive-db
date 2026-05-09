@@ -1,0 +1,81 @@
+{
+  "name": "Ordinary-Angels-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Ordinary-Angels-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:53:25Z",
+  "remote_folder_id": 1755971,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207262",
+  "tmdb": {
+    "tmdb_id": 974036,
+    "title": "Ordinary Angels",
+    "original_title": "Ordinary Angels",
+    "release_date": "2024-02-22",
+    "year": "2024",
+    "rating": 7.673,
+    "overview": "Inspired by the incredible true story of a hairdresser who single-handedly rallies an entire community to help a widowed father save the life of his critically ill young daughter.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/rBo0yYQTruIYEuXdyCAyVVlNb2H.jpg",
+    "genre_ids": [
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207262",
+    "status": "U",
+    "etag": "Upmw+3z14Yo7FYsKK9JXTA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207262",
+          "url": "/sapi/download/video?action=get&k=wCVpN3Koi-NMIoas7XcJSL4aLTjRjrj0uuFfISDyMrKm9gx62vQLUGejQbDmIRKRRn5q-8rYeP2-Fe5nULf5vPmfNqvD3N1B-xmzm1ef5CP4If4EwSGNycL6U32WHIHvrw9RTxdx818vkJUL-mXOlj0Au4Bb1-NAaSBlkDXMl-VaOpkZCTU&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=-VJMnhctpZ9Lw_mX1j0FOiHlalWupLJbX466bM2oGaQRIA5V6kfMdmLMn5zkzgaqPI56quCXgKql2XlK6f5SE1OdSxgGXim1eweorG08HlvX_qMG0A2jzwURl7157_cdRXhUddVpbg_aJ-aVnLUg9cy5UgsgjddlI3Tjaj0qEeRw3_uOWkkVpF2pWWyLE9pYmgo&node=2i182",
+          "date": 1778334804514,
+          "creationdate": 1778334746000,
+          "modificationdate": 1778334746000,
+          "uploaded": 1778334785255,
+          "size": 677314504,
+          "name": "Ordinary-Angels-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7080298,
+            "bitrate": 765294,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=VOKWr-xgTJTVsFWj5er15bsEIu3fa40sX47p3hT1TkGE9YJKdmgGjYiJ9QC4ZbDkejjX2MnGGO3z_B6EtyMJ_pz2JY0ZNAf5Iom1Cti4teHe8vHavsiZ0dfaXqZvEM0V17VupudiE4KeXMTKXSTmFVZirQG-2IGdopNwWGE5bUy8XuiSOUMO1f2nTmchusDRF-g&node=2i182",
+              "etag": "0Upmw+3z14Yo7FYsKK9JXTA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=-VJMnhctpZ9Lw_mX1j0FOiHlalWupLJbX466bM2oGaQRIA5V6kfMdmLMn5zkzgaqPI56quCXgKql2XlK6f5SE1OdSxgGXim1eweorG08HlvX_qMG0A2jzwURl7157_cdRXhUddVpbg_aJ-aVnLUg9cy5UgsgjddlI3Tjaj0qEeRw3_uOWkkVpF2pWWyLE9pYmgo&node=2i182",
+              "etag": "0Upmw+3z14Yo7FYsKK9JXTA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Upmw+3z14Yo7FYsKK9JXTA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334804649,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/sl9pCJ9ASx-v_MJqjIYFczg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Ordinary Angels (2024)",
+  "media_kind": "movie"
+}
