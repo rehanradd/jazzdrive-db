@@ -1,0 +1,83 @@
+{
+  "name": "IF-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\IF-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:10:39Z",
+  "remote_folder_id": 1755901,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206961",
+  "tmdb": {
+    "tmdb_id": 639720,
+    "title": "IF",
+    "original_title": "IF",
+    "release_date": "2024-05-08",
+    "year": "2024",
+    "rating": 6.962,
+    "overview": "After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+    "genre_ids": [
+      35,
+      14,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206961",
+    "status": "U",
+    "etag": "zg1H69AlZbpC+UQinzrnHQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206961",
+          "url": "/sapi/download/video?action=get&k=82wJDGjjon-gRselku2lecDm3kRkMH7hcGkyuBY0RO8P3zzTCm0ifqJeXrFO8WhbFASOnBg6R2aYexu9MLRre78iBKgEd-ppKwUEeuulTSTGuQZ2YBGHxlluGqZQ57462fC5MAJ-hFu5OqcXxSYFWXwC799oP0PoF36Z4yzT9O3_kOtHUsM&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=kfz09cgDgk6vVAWMm1nDi2e7yJHeRy811VW0HlKDGQt52BqW-8ORCD8e9MYPOk7WJ-Bt5wgfJY6fT5Yd57AIIDdegQelTzTMsJRkYq6RrdOe0AoIgGMPawwu0WaXnvo0f60xtv8-e76ZWLM57vUr7hEN7mH-ULAgqLJX6sI-me-FmFgtPVi0kPF902X1wXOsRW8&node=2i182",
+          "date": 1778332238078,
+          "creationdate": 1778332202000,
+          "modificationdate": 1778332202000,
+          "uploaded": 1778332228566,
+          "size": 333771167,
+          "name": "IF-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6285632,
+            "bitrate": 424805,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ecI7y0GTtJEO3IfTKQDHTzZC0J82BkDYon19bJq8sy95c0hsogLwNY40TLUylNLATxUZ0e4dmJamuQ3ZmmhpzdlNf0y7HDlRoCYwocEBdiEQHPkmh7YawDAXBYFyMF9-_3Iuxh7BJ-mFSwd-X5rfncqXU6lPkz2qrMbCp_E5RmdjsAaMS6uLG6byxmzSznsfkAQ&node=2i182",
+              "etag": "0zg1H69AlZbpC+UQinzrnHQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=kfz09cgDgk6vVAWMm1nDi2e7yJHeRy811VW0HlKDGQt52BqW-8ORCD8e9MYPOk7WJ-Bt5wgfJY6fT5Yd57AIIDdegQelTzTMsJRkYq6RrdOe0AoIgGMPawwu0WaXnvo0f60xtv8-e76ZWLM57vUr7hEN7mH-ULAgqLJX6sI-me-FmFgtPVi0kPF902X1wXOsRW8&node=2i182",
+              "etag": "0zg1H69AlZbpC+UQinzrnHQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "zg1H69AlZbpC+UQinzrnHQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332238206,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/EGCUx4v-QdyQCwkEmFR66zg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "If (2024)",
+  "media_kind": "movie"
+}
