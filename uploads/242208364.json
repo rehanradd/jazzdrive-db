@@ -1,0 +1,82 @@
+{
+  "name": "The-Fire-Inside-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Fire-Inside-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T14:46:45Z",
+  "remote_folder_id": 1755986,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208364",
+  "tmdb": {
+    "tmdb_id": 610219,
+    "title": "The Fire Inside",
+    "original_title": "The Fire Inside",
+    "release_date": "2024-12-25",
+    "year": "2024",
+    "rating": 7.283,
+    "overview": "Claressa Shields, a high school junior from Flint, Michigan, aided by her tough-love coach, Jason Crutchfield, pushes past all limitations to become the first American woman to win an Olympic gold medal in boxing. But even at the pinnacle of success, Claressa has to reckon with the fact that not all dreams are created equal, and the real fight has only just begun.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/dMorkoCdZJ1xmKv0VAXcpUax6Ar.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/GtWV2PAAFZYYHAy788RI6xOMJ8.jpg",
+    "genre_ids": [
+      18,
+      36
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208364",
+    "status": "U",
+    "etag": "zzwardsaIPv7iv1CAKO7KA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208364",
+          "url": "/sapi/download/video?action=get&k=Cdm9n4qiLqh_99DRpxouSZO6MRB1XNZC88zzQYe-NaToOhlaXssM9jb-fdIEzNg-T7rs9deYoHrEx_YC08eiwQoYcvdP9PGbD8xsBNzIfDwhEkvWNm6A_F7IvvNEScAL7NgArrrTss8YEK6jX73frBlzMxKL3_bKZzOVF73LCrKIVFtwhvk&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=E4PFlettoG_rQv6C21HU1dfrAiKGudGaS51lQdYJel6q1QOqvReAKsV9u_VYnpRCXgy5dhOpaAyzM7ABg_Z5TAQzGUQNsMdHbBYv5pwZ_JaYibyyMPnZHC422JeCgd0t2V0k2WpM4I3BEsT5ZOQp7BMblKHX2pE9UbPcvzSKJM5e-6RV9iqZWeal1WfUFaUQoZo&node=2i182",
+          "date": 1778338004300,
+          "creationdate": 1778337888000,
+          "modificationdate": 1778337888000,
+          "uploaded": 1778337987730,
+          "size": 599534060,
+          "name": "The-Fire-Inside-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6300002,
+            "bitrate": 761312,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=6MbPD8LERgAhkjNxRPPaVjvRwAZXHNuIBaTNaHKtwhQHVfozbJ8Ac5xeWNMn2jmCkxPDaJv7hSbAOV-otxEGcqUZ-wAdbbWY9mo2Dhcb1FF7GgmevTeNO0Lwuc_fBaaLiU8TMRly1qu74mkoa70FW-gr2AQO1iV6ptCEznoVevktjZGXGNDDpwI7c_UgYd6qxiY&node=2i182",
+              "etag": "0zzwardsaIPv7iv1CAKO7KA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=E4PFlettoG_rQv6C21HU1dfrAiKGudGaS51lQdYJel6q1QOqvReAKsV9u_VYnpRCXgy5dhOpaAyzM7ABg_Z5TAQzGUQNsMdHbBYv5pwZ_JaYibyyMPnZHC422JeCgd0t2V0k2WpM4I3BEsT5ZOQp7BMblKHX2pE9UbPcvzSKJM5e-6RV9iqZWeal1WfUFaUQoZo&node=2i182",
+              "etag": "0zzwardsaIPv7iv1CAKO7KA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "zzwardsaIPv7iv1CAKO7KA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778338004429,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/TNAtgM_3SSmtCm8cKW6Qgjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Fire Inside (2024)",
+  "media_kind": "movie"
+}
