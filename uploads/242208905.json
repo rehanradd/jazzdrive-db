@@ -1,0 +1,83 @@
+{
+  "name": "September-5-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\September-5-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T14:57:32Z",
+  "remote_folder_id": 1755989,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208905",
+  "tmdb": {
+    "tmdb_id": 1211472,
+    "title": "September 5",
+    "original_title": "September 5",
+    "release_date": "2024-11-07",
+    "year": "2024",
+    "rating": 6.996,
+    "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/nEH7XUCeWsEuJtGgWUVUl6MEQW0.jpg",
+    "genre_ids": [
+      53,
+      18,
+      36
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208905",
+    "status": "U",
+    "etag": "LW4BX4qHjxvQefrF2fWtPA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208905",
+          "url": "/sapi/download/video?action=get&k=Ov2pItW6Y_YFzjrzOCLnF3wjUWt1PKK29QfdgKsrryWhSgwUNkgaFUP_mjC1BORUMdXVgljg-roK9XsIJv-hzYZxIoALgUhQqbbBD9yAt26er6FptGgUXOZ29itUmNNF4C2AVa2bfHFVxYZ3YkKFTP7ESEtwaVqWivL63ee6GxrQsf4STxE&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=Mub4rKy4ho7G9v2hP2T9VUNn0flQCl44vzmSAexH31L5RqTDhAePm-Rz9TOii396JqPMCJaKtVetcf3gTp4Opob508O8Re2guLDXEUZiQ2ID6XGTR_nGCDNmXTIQeDMza_MddDZYrFhko1adOWdBt61gvoTKtzBXNcUStPgxRQP_-2vmLs1i_aZOv-AZm16BrLs&node=2i182",
+          "date": 1778338651377,
+          "creationdate": 1778338547000,
+          "modificationdate": 1778338547000,
+          "uploaded": 1778338635176,
+          "size": 511339496,
+          "name": "September-5-(2024)-Hindi-ORG-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5444022,
+            "bitrate": 751414,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=EvYL8UhwRgzBA7qIFhJ4QwO3Ek4G2oez4twQ80wQBSZ4qkgfrLN8OCDAb_TIBZnlaFYFL0Mmweu97Fiwj_zbAraTu7X4EBKuTwFqwGJ_S-dgTjoNApEyz4B2eHE3SiIrhnBINCIt9FDB_1nnw3X5Zmlxfdsqj3IabXv21BzJ2R4JBuKaroXL8aMHN0mEXZJboCI&node=2i182",
+              "etag": "0LW4BX4qHjxvQefrF2fWtPA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=Mub4rKy4ho7G9v2hP2T9VUNn0flQCl44vzmSAexH31L5RqTDhAePm-Rz9TOii396JqPMCJaKtVetcf3gTp4Opob508O8Re2guLDXEUZiQ2ID6XGTR_nGCDNmXTIQeDMza_MddDZYrFhko1adOWdBt61gvoTKtzBXNcUStPgxRQP_-2vmLs1i_aZOv-AZm16BrLs&node=2i182",
+              "etag": "0LW4BX4qHjxvQefrF2fWtPA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "LW4BX4qHjxvQefrF2fWtPA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778338651494,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/6r3Bhg_sRsq61Zj6ClgS8Tg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "September (2024)",
+  "media_kind": "movie"
+}
