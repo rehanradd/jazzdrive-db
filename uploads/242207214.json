@@ -1,0 +1,84 @@
+{
+  "name": "Guy-Manley--Super-Spy-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Guy-Manley--Super-Spy-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:34:32Z",
+  "remote_folder_id": 1755943,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207214",
+  "tmdb": {
+    "tmdb_id": 1181214,
+    "title": "Guy Manley: Super Spy",
+    "original_title": "Guy Manley: A Real Movie",
+    "release_date": "2024-09-13",
+    "year": "2024",
+    "rating": 6.4,
+    "overview": "Guy Manley, formerly the world\u2019s most preeminent secret agent, who, while drowning in his alcohol-filled retirement, is brought back for one last mission by his former boss Buck Cash. His mission? Kill Buck's brother, Rich Cash, keeping him from being elected the city's new mayor, thereby stopping him from becoming the most powerful person in the world!",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sQIElGaXYAnQZKt5FzGSLl4P4Kh.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sPZcvygiIWuq8douju9PQcibfrq.jpg",
+    "genre_ids": [
+      28,
+      35,
+      878,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207214",
+    "status": "U",
+    "etag": "s61M0nlYayciexCr/S/e0g==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207214",
+          "url": "/sapi/download/video?action=get&k=oecRMGxV2xOwpnOAgChJpCUM821oDPiD1KsRohqOgXMkZUY3jxYYimTnWV0gl5BfBF5A-2ZPrYsN0DaOjqYdqFljg7YzW5_-d10Dtt32cnCzlsGPPJibibVuQPi35Vzxz1RCEVPcy4XXu8qzX704lOcrxg9I-qVVmZgl2VVStjxoseuCOrs&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=vnpZO4IHUCvrCDluteqs_mdwvPlaImWV91loRYulo7B5YMEjFBItBw-li_w7MfZrqEj9f5QG73iNcSWlzOdB8Vp5q13JFdt-XK6IF75sxITnWi-rQZ1_9TcxXsSXC5Ky4wQx-t_DxHmsgQg38P696w5tNlqjo5xCuAbZAlJMZXbHGfuuVUpGq2c6K0XQZ1a2bpA&node=2i182",
+          "date": 1778333671106,
+          "creationdate": 1778333622000,
+          "modificationdate": 1778333622000,
+          "uploaded": 1778333655065,
+          "size": 551712687,
+          "name": "Guy-Manley--Super-Spy-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5755500,
+            "bitrate": 766866,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=Rp6dkpEsK4zWnr75IkzWBt4Jz92OkFFiaTYdmEaIsZ5_r49sN0ws-J4YlyKTzBUMf7JbGUdRKe3CYkpUBPhwQ_Aqu8tEET8K4yqdmw2xN7-HUSjKcKKebC9mODwCTTzKok7sdgNNCiMsMq1W7HzkOgz2OHcb7OLP7ocvxkUOhgPTIWZK5x7pKvylVSaGa9_S1AY&node=2i182",
+              "etag": "0s61M0nlYayciexCr/S/e0g=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=vnpZO4IHUCvrCDluteqs_mdwvPlaImWV91loRYulo7B5YMEjFBItBw-li_w7MfZrqEj9f5QG73iNcSWlzOdB8Vp5q13JFdt-XK6IF75sxITnWi-rQZ1_9TcxXsSXC5Ky4wQx-t_DxHmsgQg38P696w5tNlqjo5xCuAbZAlJMZXbHGfuuVUpGq2c6K0XQZ1a2bpA&node=2i182",
+              "etag": "0s61M0nlYayciexCr/S/e0g=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "s61M0nlYayciexCr/S/e0g==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778333671229,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/F5cpoJvXQsGTfsRP8rTaJjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "1755943",
+  "share_folder_path": "Guy Manley Super Spy (2024)",
+  "media_kind": "movie"
+}
