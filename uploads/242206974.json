@@ -1,0 +1,83 @@
+{
+  "name": "Weekend-in-Taipei-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Weekend-in-Taipei-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:16:03Z",
+  "remote_folder_id": 1755913,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206974",
+  "tmdb": {
+    "tmdb_id": 1167271,
+    "title": "Weekend in Taipei",
+    "original_title": "Weekend in Taipei",
+    "release_date": "2024-09-19",
+    "year": "2024",
+    "rating": 6.342,
+    "overview": "A former DEA agent and a former undercover operative revisit their romance during a fateful weekend in Taipei, unaware of the dangerous consequences of their past.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/9n2gwsUiCmDVLjaIkbaOSHxcEsI.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206974",
+    "status": "U",
+    "etag": "cpM419gntEGjFHJYl+L40Q==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206974",
+          "url": "/sapi/download/video?action=get&k=UCTcOsQPc1PPnPucwBJeUU7QFTnZFIA9NVZVHe32dDwq5Dtgi9Hvz_DpwTRinD0lZNgsj2AQYw2QpCmNZGcUfVuLBiTuHu3IZdmrcyRA8N10ee_Y2pDUb8Iwe1uvStC_SvNID1M0rurZeX_bm_uVIhNJdSDhhPZYk4zt2CV7hMj2JqP4wD0&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=c9wl_JDJJGXheIAh4OLeoC1VkeSPz0gJ5cE-FIQogJy0b4uVOR76GPLi9QmRx_sqiKlE3K7c_wJi4ZDw4Jp1MMUJa1QoWFpTXWQRKU-rMe892KzYkUEU9sA3ysRc6uBHo9STI_FYUwwPpr_wUTouXfRcs5f2J6gm7GDSwbN2b-UIy_ZHmjpHsx4UJJaT06CLIJc&node=2i182",
+          "date": 1778332562369,
+          "creationdate": 1778332515000,
+          "modificationdate": 1778332515000,
+          "uploaded": 1778332553263,
+          "size": 311814272,
+          "name": "Weekend-in-Taipei-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5920000,
+            "bitrate": 421370,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=izWV9V3maVwWWsQstvUH20oTyQktmXJhnAGtKINdAhVL7hEnSKx_ECZrO5y9AQz8yuBStmurHBofIj9H29mV7x9sNnOJVI0TcwGDLOzAGvwWAz7ngGNEyOp5yxVHXE4d-I377Mhrvsx_aaSNudToh8aOJy8bYxgy5CanqDlviiTClAO3Txu2V-BL9wpbCFFfpJY&node=2i182",
+              "etag": "0cpM419gntEGjFHJYl+L40Q=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=c9wl_JDJJGXheIAh4OLeoC1VkeSPz0gJ5cE-FIQogJy0b4uVOR76GPLi9QmRx_sqiKlE3K7c_wJi4ZDw4Jp1MMUJa1QoWFpTXWQRKU-rMe892KzYkUEU9sA3ysRc6uBHo9STI_FYUwwPpr_wUTouXfRcs5f2J6gm7GDSwbN2b-UIy_ZHmjpHsx4UJJaT06CLIJc&node=2i182",
+              "etag": "0cpM419gntEGjFHJYl+L40Q=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "cpM419gntEGjFHJYl+L40Q==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332562489,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/O_iwu9tYSiKZtzEufhg8hjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Weekend In Taipei (2024)",
+  "media_kind": "movie"
+}
