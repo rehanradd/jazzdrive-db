@@ -1,0 +1,82 @@
+{
+  "name": "Heretic-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Heretic-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:43:01Z",
+  "remote_folder_id": 1755655,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207236",
+  "tmdb": {
+    "tmdb_id": 1138194,
+    "title": "Heretic",
+    "original_title": "Heretic",
+    "release_date": "2024-10-31",
+    "year": "2024",
+    "rating": 6.976,
+    "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+    "genre_ids": [
+      53,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207236",
+    "status": "U",
+    "etag": "02aU9OgpLySZNOcIBdqSFQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207236",
+          "url": "/sapi/download/video?action=get&k=r7f5v5zP93JuvU_lNZhZmlvtbIjMO6Uuns1QXlwcqIAV6AtwAc0zhOZw4ZgMwO78MkVwz_dTqSZmHpgYw3EFQGc8X8axYppAlMSigu4YcCFQzeB7m8Mio6XI_uf236m7Z3L8zCxxdMCOdxZTrzffJoPM3jeQ6B9d3ZW-op7zX3AhGYs0jMc&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=X0cRNH3hRLznnsXmoBL9TBEuCmtmzErg1LIAxNo-sT17ilRNpWLrKd5MyeU4peGzAPADjQeT3nWAqZxlZ85ZN6MZZE8U5ILK-D2IM3HiN5QoZuTJuVaAO7rIBpefiCC3KMrIkHFPnSjgTJHEYmhgsUJVQ1axRIDvtCpW33F_IdvT3fc2wceZ7cS11nMqEtuzWTU&node=2i182",
+          "date": 1778334179909,
+          "creationdate": 1778334119000,
+          "modificationdate": 1778334119000,
+          "uploaded": 1778334160936,
+          "size": 643629443,
+          "name": "Heretic-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6675392,
+            "bitrate": 771345,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=t4cQ8xhXY3TVr86jnsWqeoRJXiy9Z0i6C8CO94sLcUlDpuzGPQDDZcQDQ3_ygVu_fChKcs7jqA5BlbNitp5ufUPQwOFrtgPJvCqhUtDz3QXF2LMqAFCfr6ua5vakQkHF_eLFHzE_jvv4kyywnf7Ahv865URKCXS19tKB6q_mR1BwkQ25w4H6ouy_KrJQ6TBzZjk&node=2i182",
+              "etag": "002aU9OgpLySZNOcIBdqSFQ=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=X0cRNH3hRLznnsXmoBL9TBEuCmtmzErg1LIAxNo-sT17ilRNpWLrKd5MyeU4peGzAPADjQeT3nWAqZxlZ85ZN6MZZE8U5ILK-D2IM3HiN5QoZuTJuVaAO7rIBpefiCC3KMrIkHFPnSjgTJHEYmhgsUJVQ1axRIDvtCpW33F_IdvT3fc2wceZ7cS11nMqEtuzWTU&node=2i182",
+              "etag": "002aU9OgpLySZNOcIBdqSFQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "02aU9OgpLySZNOcIBdqSFQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334180507,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Urail4W6QduADR8tEY_LMzg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Heretic (2024)",
+  "media_kind": "movie"
+}
