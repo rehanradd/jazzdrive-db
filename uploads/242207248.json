@@ -1,0 +1,84 @@
+{
+  "name": "Absolution-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Absolution-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:48:12Z",
+  "remote_folder_id": 1755964,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207248",
+  "tmdb": {
+    "tmdb_id": 974453,
+    "title": "Absolution",
+    "original_title": "Absolution",
+    "release_date": "2024-10-31",
+    "year": "2024",
+    "rating": 5.9,
+    "overview": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn\u2019t done with him and won\u2019t loosen their grip willingly.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53,
+      9648
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207248",
+    "status": "U",
+    "etag": "WQYufQgIu3eeNvpMk1y1gg==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207248",
+          "url": "/sapi/download/video?action=get&k=K2t4PqL41AqY50uUws00BXYcU2H80W6uFMxo7hFyCfzzBeE5ZD4mgWXHT2p-Gq4NgaHx8Jtdo_CteBWU3SWXd2zfZCoLpX0S8apaPkGMDk4uf8McQ68sGNLSc5lmHzd8qk21rmuwXv008VXp0mxiH4DMvLtu4QodN1xst3tMwJ-kD7fkGeo&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=k5dK0bjZusYey7zp_gCYv0Hf8UXtjYM3UKgSQzlb6XTeDwcKGvTl4tHvfgD9uXlRQzF3sBws17wxcryoFpcTmE02Ob8p2_ROG9Q5LSa6eRuggmxKgHf9h2Nx4OFX7LNYBiCL6Sgx52OdzynsLOLoMSzzHuTTl4jmhSwTOFdDoeW4DdL8iOsyi8UGQTk1BlEZLhw&node=2i182",
+          "date": 1778334491563,
+          "creationdate": 1778334438000,
+          "modificationdate": 1778334438000,
+          "uploaded": 1778334473114,
+          "size": 645553618,
+          "name": "Absolution-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6738649,
+            "bitrate": 766389,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=d1w7zyhF2QC-SVrkABxgZyKdlolG-Xy7xrKbF9-gzzt2yLvfTGF6E7j9L1l52oU9uVhxOtU6a0j7QI5VMBd11g2gBxjGr2x0YxyW6-Os61-vWfBg3xEZQvsdRrUNNYyiuOeTqWviXAm448VYtWHx1t64XV6MpNFiOCxC5Pktd4FP_qkYfLM1ldiDTScaBJizpjc&node=2i182",
+              "etag": "0WQYufQgIu3eeNvpMk1y1gg=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=k5dK0bjZusYey7zp_gCYv0Hf8UXtjYM3UKgSQzlb6XTeDwcKGvTl4tHvfgD9uXlRQzF3sBws17wxcryoFpcTmE02Ob8p2_ROG9Q5LSa6eRuggmxKgHf9h2Nx4OFX7LNYBiCL6Sgx52OdzynsLOLoMSzzHuTTl4jmhSwTOFdDoeW4DdL8iOsyi8UGQTk1BlEZLhw&node=2i182",
+              "etag": "0WQYufQgIu3eeNvpMk1y1gg=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "WQYufQgIu3eeNvpMk1y1gg==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778334491678,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/9gByu8z9SWGOFtcu0HVN0Tg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Absolution (2024)",
+  "media_kind": "movie"
+}
