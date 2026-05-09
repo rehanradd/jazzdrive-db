@@ -1,0 +1,82 @@
+{
+  "name": "Your-Fault-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Your-Fault-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:10:18Z",
+  "remote_folder_id": 1755900,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206960",
+  "tmdb": {
+    "tmdb_id": 1156593,
+    "title": "Your Fault",
+    "original_title": "Culpa tuya",
+    "release_date": "2024-12-26",
+    "year": "2024",
+    "rating": 7.082,
+    "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206960",
+    "status": "U",
+    "etag": "8/J38fsKyo/6OBx0s0mQ5w==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206960",
+          "url": "/sapi/download/video?action=get&k=RpiAyXP03QhFGT-lTvbSXn-n1huNUgRUoSXNnXWdvzskmWdR3w0zit98qBdDJzm-JCteyqqNq1jcibT9aiAQY3Q8cPBiyY2BqyLWo42RsmchcdHwv0wtR0qbw9AH3fiOj9R5TYH3VNPxpno2Dau--YkaSyAV3TyOB0WqGcLnLaav3lTBRuc&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=ol6DBmTGscoGJ5WF4FpnwxaCoH8bWNe_eV3s4sIhWV-STisnz3hPnRiZ8-lFJrtVp9APW4yP-701949v3qXDOWzM2v2NTGXQ6nDN4StpCdsKKmyqJfqmAsNk2WA6DRGqtYnkNCGRUlersbvQ-Q3NLaW8CUrxTLD4ZCwxhSGoLVFtce4k_aG_CEE0iie0nmgx2R4&node=2i182",
+          "date": 1778332217043,
+          "creationdate": 1778332168000,
+          "modificationdate": 1778332168000,
+          "uploaded": 1778332205556,
+          "size": 376637096,
+          "name": "Your-Fault-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 7222280,
+            "bitrate": 417194,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=eQEe4Z0eoRm64uxCgI86aomZBR1yTpjoFgBPHUDZ3GpsCrFFYyMNSpMT3urfjFqLFLjI-QQeZ5b3vms7YENTZ4vJgnwf9OD1ocJHG6h74mFlzN7qhx0WaXykj6_a-u27llGRYRbIacC3miw2R0SMjtnQkvPxPkBcNfVXV3cvDZrI8gCFJONRDHhbFb5UjZ0Kt0M&node=2i182",
+              "etag": "08/J38fsKyo/6OBx0s0mQ5w=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=ol6DBmTGscoGJ5WF4FpnwxaCoH8bWNe_eV3s4sIhWV-STisnz3hPnRiZ8-lFJrtVp9APW4yP-701949v3qXDOWzM2v2NTGXQ6nDN4StpCdsKKmyqJfqmAsNk2WA6DRGqtYnkNCGRUlersbvQ-Q3NLaW8CUrxTLD4ZCwxhSGoLVFtce4k_aG_CEE0iie0nmgx2R4&node=2i182",
+              "etag": "08/J38fsKyo/6OBx0s0mQ5w=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "8/J38fsKyo/6OBx0s0mQ5w==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332217169,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/gWC8CI09RS2AIR-5HMDnUTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Your Fault (2024)",
+  "media_kind": "movie"
+}
