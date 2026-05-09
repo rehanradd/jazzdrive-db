@@ -1,0 +1,82 @@
+{
+  "name": "Dominique-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Dominique-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T14:59:37Z",
+  "remote_folder_id": 1755991,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208922",
+  "tmdb": {
+    "tmdb_id": 1331375,
+    "title": "Dominique",
+    "original_title": "Dominique",
+    "release_date": "2024-10-11",
+    "year": "2024",
+    "rating": 6.667,
+    "overview": "Dominique, a well-trained assassin, flees from her troubled past in an attempt to begin a new life in South America. However, she soon finds herself in a town plagued with violence and corruption. Facing brutal attacks from the police and mafia, Dominique must decide whether to protect herself or an innocent family that has taken her in.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jvug7Esd89yNLJwGvUfeQ9j69cE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uGjvdT5CAPIlTBYAXnHPzoEIgkC.jpg",
+    "genre_ids": [
+      28,
+      53
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208922",
+    "status": "U",
+    "etag": "gUsr6st1aeV1tgY3628GoA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208922",
+          "url": "/sapi/download/video?action=get&k=rkkP3eG-NfzQ2yJZK4_p6bjrCy5iOira9X_dfcH4WBt6jnyRCZho8OlYCi2S3pYAJZ--k9PhqeugiHjVZbcw9GcLxNQGSrt9eqc2Cw8UZBuj9gfehc4c7C_jEPsFoHPB18a8hD3_NVTvdeLfvYIxNFiKr8N_HyROjGvdLokZ0QP-nx4-KA8&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=949T12QyUVRbQMwsPSJ_yoz7sQvOFofX224fAGFFpE62Py3z_-a171-ubJ6ea3sY1IHMzEoloqDUyAVNBwVwiShPRgVYe15rBH0DHEiDk982paLCAZ5SjzsP7GAGCeq8ZTG00C_aAc9Okj7JcRAmFreoeRu-fLhmsDMJB_Z06oikvH3h__iyVzVZrdzAFLYh1xA&node=2i182",
+          "date": 1778338776418,
+          "creationdate": 1778338662000,
+          "modificationdate": 1778338662000,
+          "uploaded": 1778338759934,
+          "size": 569243789,
+          "name": "Dominique-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6021562,
+            "bitrate": 756273,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=ooRrTQU2xqMaJcDkhoy9vaMG8w5DB4xAT3S5eewapLLizfNloH9aMsvl1RcpmYtspNtfUJWZzsbSU5tS3rY_8NOdbPT5FO2-8Pvb2dnk7AOuEwz0EOe16x5Klp-GqOwnqC9GX6Q8MczCbioK_wDx0uAN7C7tGVpQMdYCxVDOY0h5HiMMoLQRhH2yyTc7xDVWdyg&node=2i182",
+              "etag": "0gUsr6st1aeV1tgY3628GoA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=949T12QyUVRbQMwsPSJ_yoz7sQvOFofX224fAGFFpE62Py3z_-a171-ubJ6ea3sY1IHMzEoloqDUyAVNBwVwiShPRgVYe15rBH0DHEiDk982paLCAZ5SjzsP7GAGCeq8ZTG00C_aAc9Okj7JcRAmFreoeRu-fLhmsDMJB_Z06oikvH3h__iyVzVZrdzAFLYh1xA&node=2i182",
+              "etag": "0gUsr6st1aeV1tgY3628GoA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "gUsr6st1aeV1tgY3628GoA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778338776538,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/-8m-LjFBQImr-x_CgpvuCjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Dominique (2024)",
+  "media_kind": "movie"
+}
