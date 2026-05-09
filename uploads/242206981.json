@@ -1,0 +1,83 @@
+{
+  "name": "Watchmen--Chapter-I-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Watchmen--Chapter-I-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:19:07Z",
+  "remote_folder_id": 1755920,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206981",
+  "tmdb": {
+    "tmdb_id": 1155058,
+    "title": "Watchmen: Chapter I",
+    "original_title": "Watchmen: Chapter I",
+    "release_date": "2024-08-12",
+    "year": "2024",
+    "rating": 7.382,
+    "overview": "In 1985, the murder of a government-sponsored superhero draws his outlawed colleagues out of retirement and into a mystery that threatens to upend their personal lives and the world itself.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/tE2vZ6HdlmKaBh0wpsvHCf7HJKo.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4cazJU7Jjb5EukxmT7XRCoO9VnV.jpg",
+    "genre_ids": [
+      16,
+      18,
+      878
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206981",
+    "status": "U",
+    "etag": "b4LXRjocnnmsb2+0kLBHbw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206981",
+          "url": "/sapi/download/video?action=get&k=O5rqfXzTCTcczyCbvFEYjPe9g8Byhj4iy6FUskgl3tOZDoEFRyzmrC15F-pt_P-m6WyDY2IVED-E997R8wobDJyWj4gVhlPJc0Bv0OtXV4N0L0utjqWqeHChX9eKQBf3t5N6wDWcRYsGaQYtLxGVYWnzPH9zUP63YzOvZkSd--e27gkd2Lw&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=SI7X4oJ459NozPl01pCCBFt8MxJuBiEIhzBi50ZShX0_Wdw7CWj3Mqwk7zrrIgmmBALjKnioC5IKyEKNuBsB9X-DoQzUk4QP_60Ufn9_SAlw3lcBi4LDX0CgtmRQD3V-KrbeWuqyVuC-Jntuml9oV6f5xtAuJxcJ7nZhw-MkamjqDLQV4H10ewN-4OZwNFo3Jlo&node=2i182",
+          "date": 1778332746826,
+          "creationdate": 1778332718000,
+          "modificationdate": 1778332718000,
+          "uploaded": 1778332738785,
+          "size": 268961027,
+          "name": "Watchmen--Chapter-I-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5025088,
+            "bitrate": 428189,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=39YrmzK-v92ZpWnfrEFcMdS4LfO1KTWunKTqMQE6FVOKXhgL5jomPrRqkK3GfKPLCCHUfKmPsbk8ZGvhfcLBqM0xBU0YnU1Y3TP_LV1Q-LsZ5uGfbeurDMQqJ0vpMV9A540PQxMD3wkDOsSWInvKKwuZV54Keg4Bm8hwd2RR1bd4acnjzCMIy4LxpjMQni1ruCA&node=2i182",
+              "etag": "0b4LXRjocnnmsb2+0kLBHbw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=SI7X4oJ459NozPl01pCCBFt8MxJuBiEIhzBi50ZShX0_Wdw7CWj3Mqwk7zrrIgmmBALjKnioC5IKyEKNuBsB9X-DoQzUk4QP_60Ufn9_SAlw3lcBi4LDX0CgtmRQD3V-KrbeWuqyVuC-Jntuml9oV6f5xtAuJxcJ7nZhw-MkamjqDLQV4H10ewN-4OZwNFo3Jlo&node=2i182",
+              "etag": "0b4LXRjocnnmsb2+0kLBHbw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "b4LXRjocnnmsb2+0kLBHbw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332746960,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/KajGPqs3RTC15tQs8ZdckTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Watchmen Chapter I (2024)",
+  "media_kind": "movie"
+}
