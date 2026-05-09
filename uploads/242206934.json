@@ -1,0 +1,83 @@
+{
+  "name": "The-Fix-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Fix-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:02:57Z",
+  "remote_folder_id": 1755694,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206934",
+  "tmdb": {
+    "tmdb_id": 931940,
+    "title": "The Fix",
+    "original_title": "The Fix",
+    "release_date": "2024-06-23",
+    "year": "2024",
+    "rating": 5.232,
+    "overview": "When a troubled model takes a new drug at a party, she suffers a shocking transformation. Pursued by authorities and a dangerous gang, she hunts for a fix to reverse these effects, only to discover her mutations could save the human race.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vY7bY2xZymoIOti4WM5K29OMzCS.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4PXjYqkuBabnSAOaacAERf2D9zE.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206934",
+    "status": "U",
+    "etag": "ULDbEBc6ZPm10o++rHGPQQ==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206934",
+          "url": "/sapi/download/video?action=get&k=GOa6SlwKXqyvMSESqu3uzeum9IIxTrpDTEgqrURzXtlpmeOkEz5_KzTNSwZFUnqRXJT19th8CD1BDCKl0w3mftz-leHMeXm7XVoLidni2rp9atafhMWde5j5mjrpmVHYvWD2TNDuaC8nqkIRzwhqMDjUSNkYNoMNvPJazTlBQ0OBjTb0__A&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=JxiCH2XqgEbfZ8YroKzfIQs_asm0VVm63LVZ7CwKejw5IgLnBu4Z31V0jz9YOHQMZWQerdLaGcRS4EkY00BkVnd3a9_XBU9K0xB_JhPOnDO8KZ0p5c_p0TE5Qz5d5hvCtfS9ZmPgmJXWg0d7fUCw-3QeseXmZcmdOIxVtlAbdjBDxg4fKFKWA64PyZ7Gv6T2vS8&node=2i182",
+          "date": 1778331776604,
+          "creationdate": 1778331732000,
+          "modificationdate": 1778331732000,
+          "uploaded": 1778331767287,
+          "size": 319153335,
+          "name": "The-Fix-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies] (1).mp4",
+          "metadata": {
+            "duration": 5899119,
+            "bitrate": 432814,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=O1rmfbCsSy6jEX4I1h3rhIh8bSCod3pKMdE9jLLtRlSbapxDr4OW1w_a1mtVb3hWJJXYRi-PSN4D8IzUE0WbE9PLNBJafvZk1-IRaHPf_qX4HK3BSCYzdzmSmxXgcSDJW13JsxbeVjR0vNDZohBZjI6jlMfTKRZPm5VYzDO-ZwK1L2CB6g0sNtQSnOMqQ6zuOkU&node=2i182",
+              "etag": "0ULDbEBc6ZPm10o++rHGPQQ=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=JxiCH2XqgEbfZ8YroKzfIQs_asm0VVm63LVZ7CwKejw5IgLnBu4Z31V0jz9YOHQMZWQerdLaGcRS4EkY00BkVnd3a9_XBU9K0xB_JhPOnDO8KZ0p5c_p0TE5Qz5d5hvCtfS9ZmPgmJXWg0d7fUCw-3QeseXmZcmdOIxVtlAbdjBDxg4fKFKWA64PyZ7Gv6T2vS8&node=2i182",
+              "etag": "0ULDbEBc6ZPm10o++rHGPQQ=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "ULDbEBc6ZPm10o++rHGPQQ==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778331776728,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/Wfb483nyTZeEu4BS9mdiZjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Fix (2024)",
+  "media_kind": "movie"
+}
