@@ -1,0 +1,79 @@
+{
+  "name": "Divine-Hunter-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Divine-Hunter-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:28:44Z",
+  "remote_folder_id": 1755936,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242207202",
+  "tmdb": {
+    "tmdb_id": 1559072,
+    "title": "Divine Hunter",
+    "original_title": "Divine Hunter",
+    "release_date": "",
+    "year": null,
+    "rating": 0.0,
+    "overview": "A Qing Dynasty detective fakes an assassination attempt on an inspector to investigate embezzled relief funds. After nearly dying, he catches the criminal and later opens a martial arts school.",
+    "poster_path": null,
+    "backdrop_path": null,
+    "genre_ids": []
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242207202",
+    "status": "U",
+    "etag": "sj6/uLzm5+XHuZrWheLoSA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242207202",
+          "url": "/sapi/download/video?action=get&k=Odeq8r4eEADJxq8imXEitYyXS4NXHWeUE-IncViVOI1Wrhghyln_3t4QnK1GgmprkZln8xIjDdNPAVWT2e70ZeXceWYmn6iYxRMiaq3LhHfKvfCqOAOhjN7TTsP_I0k-xFT62cm73iwYYxsu16BoQsvtOKElw1j1Pz6uBkBigvjdV833sd0&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=tXN3xxfmR9gvllGA85hChAz9Swnn0dHtBnSB8mXLOglM36a99b0sws7hv61rcX6QPvQKZiqYPNvYyX96uhkq0BkhhdUJuQLZgSExZvPcjA12BsIzrsVVW8acE4Yvn4P48asKx0JYHdAu-ISxT2e_fN9s552znsDEg45GNfC_FXB8VC3gPUDFn3g1xus7efre5Cc&node=2i182",
+          "date": 1778333322199,
+          "creationdate": 1778333278000,
+          "modificationdate": 1778333278000,
+          "uploaded": 1778333307197,
+          "size": 515227696,
+          "name": "Divine-Hunter-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5319087,
+            "bitrate": 774911,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=yrcdU3P9wv-SOGdqeKyBaK5DZf0t93xLsnH14rNBwY5K7phkbdIGnZSP0CVVYGa5hnFA-H2ebuDeLnhKhC4l1KedwLbi39deFb53edgJSrL2eF6JdnfjAiP4O6VdyhAREO1EUBy6TcNFtN8SUaUC3a9OeeAsP9Myz8QP_kb4ho-WL9wc1P8_n93Vrk6zGzb-wqI&node=2i182",
+              "etag": "0sj6/uLzm5+XHuZrWheLoSA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=tXN3xxfmR9gvllGA85hChAz9Swnn0dHtBnSB8mXLOglM36a99b0sws7hv61rcX6QPvQKZiqYPNvYyX96uhkq0BkhhdUJuQLZgSExZvPcjA12BsIzrsVVW8acE4Yvn4P48asKx0JYHdAu-ISxT2e_fN9s552znsDEg45GNfC_FXB8VC3gPUDFn3g1xus7efre5Cc&node=2i182",
+              "etag": "0sj6/uLzm5+XHuZrWheLoSA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "sj6/uLzm5+XHuZrWheLoSA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778333322332,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/7q82voJSQLmVUGWRE70fYTg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Divine Hunter (2024)",
+  "media_kind": "movie"
+}
