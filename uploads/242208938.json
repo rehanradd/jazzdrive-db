@@ -1,0 +1,83 @@
+{
+  "name": "The-Best-Christmas-Pageant-Ever-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\The-Best-Christmas-Pageant-Ever-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T15:03:38Z",
+  "remote_folder_id": 1755958,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242208938",
+  "tmdb": {
+    "tmdb_id": 1206617,
+    "title": "The Best Christmas Pageant Ever",
+    "original_title": "The Best Christmas Pageant Ever",
+    "release_date": "2024-11-07",
+    "year": "2024",
+    "rating": 6.919,
+    "overview": "The Herdman kids are undeniably the worst kids in the history of the world. They lie, steal, cheat, bully and overall terrorize their small community. But this Christmas, they're taking over their local church Pageant \u2013 and they just might unwittingly teach a shocked little town the true meaning of Christmas.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/6XjvhydAlXbQodoWbIf77H0Dd9R.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/c9BVXtdbayYMu3FdK8aAYyqts45.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242208938",
+    "status": "U",
+    "etag": "s3+lSvKzq6iKTu2+SqmlxA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242208938",
+          "url": "/sapi/download/video?action=get&k=7UNfgLMuy_oD72uIXxvH_vJhLhNUJjyEvk4v-nTSU7hm0Y-HxhMr1aC3K2zwUKA-EzANoYS_77wX6Qb84lMnwh1G-fBhun4bmr289tB4CyZHh4dyq1y67fP71J57R0GVHHzX_L3WgWeqrxA63x1Jtvhi0QLunWHQ2mmA5peLw7HEipIYE_0&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=bbGSfGa7-NvZYjbi6ORuZUq3mlp2QvIgVb5i-RLJW7F84bdFHOzgnfx-q3uPHrjYkL4I4zyW-pHjRl5qI0Tgc4OVhfFkzGDILzVjlC6OSJjADFZ4q8J8xiapEcrPzQkhrRvje-YddnAXiT6P4eowfFAuhFKefBZt1tvf9DJyWfG4QtcUqyzRQyAaRUlWHrYfzdo&node=2i182",
+          "date": 1778339017362,
+          "creationdate": 1778338905000,
+          "modificationdate": 1778338905000,
+          "uploaded": 1778339001286,
+          "size": 569064191,
+          "name": "The-Best-Christmas-Pageant-Ever-(2024)-Hindi-Dubbed-Movie--720p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5961920,
+            "bitrate": 763598,
+            "codec": "h264",
+            "height": 544,
+            "width": 1280,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=NyEsqAra__ZMv9Ey0U3iGH3CNtgOn5cmERrmevlV34fOob_tLXa3ryBTIY1HZeodAPo7xnre4hDvF-jHEusG7DlUeNBjg43EfNWlZGH4rDxQ0repBXk6RR9Nga9nrOGE_XP-onv8OhpGLlGlk1BDZJpfJznkYVbslguF9zz8NPp-5MNnuLm3JGDWdkS4XD_2kQo&node=2i182",
+              "etag": "0s3+lSvKzq6iKTu2+SqmlxA=="
+            },
+            {
+              "w": 1024,
+              "h": 435,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=bbGSfGa7-NvZYjbi6ORuZUq3mlp2QvIgVb5i-RLJW7F84bdFHOzgnfx-q3uPHrjYkL4I4zyW-pHjRl5qI0Tgc4OVhfFkzGDILzVjlC6OSJjADFZ4q8J8xiapEcrPzQkhrRvje-YddnAXiT6P4eowfFAuhFKefBZt1tvf9DJyWfG4QtcUqyzRQyAaRUlWHrYfzdo&node=2i182",
+              "etag": "0s3+lSvKzq6iKTu2+SqmlxA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "s3+lSvKzq6iKTu2+SqmlxA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778339017488,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/QDIJVmR-SPGq2t0wxIdhSjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "The Best Christmas Pageant Ever (2024)",
+  "media_kind": "movie"
+}
