@@ -1,0 +1,82 @@
+{
+  "name": "We-Live-in-Time-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\We-Live-in-Time-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:09:13Z",
+  "remote_folder_id": 1754997,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206957",
+  "tmdb": {
+    "tmdb_id": 1100099,
+    "title": "We Live in Time",
+    "original_title": "We Live in Time",
+    "release_date": "2024-10-10",
+    "year": "2024",
+    "rating": 7.222,
+    "overview": "An up-and-coming chef and a recent divorc\u00e9e find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206957",
+    "status": "U",
+    "etag": "Hkj0Y3P/5Gu45JbYZCqgZA==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206957",
+          "url": "/sapi/download/video?action=get&k=tjCcw8dHu40Z2a9i1OZKuauQQ8T4RceJNrsF5Nm77hkr_jMvXlPlcuv3pbXH56qzM4VAfwP_vYsAUznnGR9LbQoVhEt4gQUqBtzCi0KXmaTXbIUPjtqNQbROlpyHZ3tPhEmZNZVrCDVZam7Fclm8jE47Aaj7D05NfR96uREPSCTQTcpdtqM&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=BzKiuU-bAFcrcr61UErBdKjBiVz2oXUVgJmGGc2eNkht1kyVk-kL0RAIb21e6WtBg2TxNWhD49rU2-rsYqi3la9gOdbYR7s4-eCP0bVAUqwFFF3jN2thMfAlmwHHF7rSfiGQDO6WHGrHdOXmYwUTjC3c-L60ixIZPCkTc5gT156UgHDeoO4a38weVPVnvO9_sRI&node=2i182",
+          "date": 1778332151842,
+          "creationdate": 1778332102000,
+          "modificationdate": 1778332102000,
+          "uploaded": 1778332141212,
+          "size": 348100065,
+          "name": "We-Live-in-Time-(2024)-Hindi-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 6464120,
+            "bitrate": 430808,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=zi_H2fTHmyAeUNDQs5hMUBEryqDdWNhe5_sswHTPduRMzSPA4bjPGyIyuqsnRzdrv_VR12eueaK9vxig0oaQ-f8trHbjQfzf92VQz6272UGzbv7MisOsJrVeomclQ5JsSJ8G2VV7BFo1qdnla9LzQrH2NRA5roEtw3bQIBvrsUzsHZyvmRbdQuRmCHkK1FJ_nz0&node=2i182",
+              "etag": "0Hkj0Y3P/5Gu45JbYZCqgZA=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=BzKiuU-bAFcrcr61UErBdKjBiVz2oXUVgJmGGc2eNkht1kyVk-kL0RAIb21e6WtBg2TxNWhD49rU2-rsYqi3la9gOdbYR7s4-eCP0bVAUqwFFF3jN2thMfAlmwHHF7rSfiGQDO6WHGrHdOXmYwUTjC3c-L60ixIZPCkTc5gT156UgHDeoO4a38weVPVnvO9_sRI&node=2i182",
+              "etag": "0Hkj0Y3P/5Gu45JbYZCqgZA=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "Hkj0Y3P/5Gu45JbYZCqgZA==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332151965,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/MW1Z8Jh-R6elYmeGkHSz4Dg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "We Live In Time (2024)",
+  "media_kind": "movie"
+}
