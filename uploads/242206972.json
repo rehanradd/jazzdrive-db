@@ -1,0 +1,81 @@
+{
+  "name": "Tarot-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "path": "D:\\New folder\\Tarot-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+  "uploaded_at": "2026-05-09T13:15:04Z",
+  "remote_folder_id": 1755911,
+  "mediatype": "video",
+  "stream_link": "https://cloud.jazzdrive.com.pk/ui/html/video.html?id=242206972",
+  "tmdb": {
+    "tmdb_id": 719221,
+    "title": "Tarot",
+    "original_title": "Tarot",
+    "release_date": "2024-05-01",
+    "year": "2024",
+    "rating": 6.354,
+    "overview": "When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/otfoeC96neoOdA4HqsX06OWuzE9.jpg",
+    "genre_ids": [
+      27
+    ]
+  },
+  "response": {
+    "success": "Media uploaded successfully",
+    "id": "242206972",
+    "status": "U",
+    "etag": "G8AYoGp10vlDPv4ywmzJUw==",
+    "metadata": {
+      "mediaserverurl": "https://cloud.jazzdrive.com.pk",
+      "videos": [
+        {
+          "id": "242206972",
+          "url": "/sapi/download/video?action=get&k=RJ3IJ37uNltWZlwymzHmQA018Qp9nZZADVXYY-l1rCxxMydbgSY4txIEN9yDR5OEBkTMFy56fhuk4h2fh-SqngxBWMUD6iIsnXdWeudMdaglUgUXJQdkadcmasMR4dPPggDvF_SNUYXLSiV8wYC89J8cBBpHgbItIWRcuo-C2PWhAu6S3AA&node=2i182",
+          "viewurl": "/sapi/download/video?action=get&k=CD_nuAwbI_OEianBK2BtYSPapvjfT9iMD7Bs_tfUNn6EqTwz91A1FyWuX1Gb_RzoxETZZ1spsUhlyAt9Yf-u7uvDX-RibIDVdULK1BIoE5pnnezqXdPUIu3_eziTAJQF37k4M25O41oUNaUZSq1CNfSMFpi6sAZfp7P5yBQ-Hq3fHLinwaMXGFRWOuV44cRL644&node=2i182",
+          "date": 1778332503220,
+          "creationdate": 1778332474000,
+          "modificationdate": 1778332474000,
+          "uploaded": 1778332493763,
+          "size": 299178221,
+          "name": "Tarot-(2024)-Hindi-ORG-Dubbed-Movie--480p-[Orgmovies].mp4",
+          "metadata": {
+            "duration": 5640511,
+            "bitrate": 424327,
+            "codec": "h264",
+            "height": 306,
+            "width": 720,
+            "audiocodec": "mp3"
+          },
+          "playbackurl": "",
+          "transcodingstatus": "E",
+          "thumbnails": [
+            {
+              "w": 256,
+              "h": 108,
+              "size": "176",
+              "url": "/sapi/download/video?action=get&k=AUqujVKit-WG_t6L3TX3gEesEszGwCNNGCnZA4XbtZZwmhUW5NyxtAGIm4jS-0eD5dTUXRdm2n_L2YXwzgPE7Vw47VmGHA9eMNHJpl0XmvWZ3Y0cJi0BVlRUfhbau7BqaHvzYGy81iF7Ds3jkXG4mkPtl3ZUtbLevZl-D9WQgy4AtRwwWUuG4gy2z2FTzr8sTDY&node=2i182",
+              "etag": "0G8AYoGp10vlDPv4ywmzJUw=="
+            },
+            {
+              "w": 720,
+              "h": 306,
+              "size": "504",
+              "url": "/sapi/download/video?action=get&k=CD_nuAwbI_OEianBK2BtYSPapvjfT9iMD7Bs_tfUNn6EqTwz91A1FyWuX1Gb_RzoxETZZ1spsUhlyAt9Yf-u7uvDX-RibIDVdULK1BIoE5pnnezqXdPUIu3_eziTAJQF37k4M25O41oUNaUZSq1CNfSMFpi6sAZfp7P5yBQ-Hq3fHLinwaMXGFRWOuV44cRL644&node=2i182",
+              "etag": "0G8AYoGp10vlDPv4ywmzJUw=="
+            }
+          ],
+          "mediatype": "video",
+          "status": "U",
+          "etag": "G8AYoGp10vlDPv4ywmzJUw==",
+          "favorite": false
+        }
+      ]
+    },
+    "responsetime": 1778332503352,
+    "type": "video"
+  },
+  "share_url": "https://cloud.jazzdrive.com.pk/share/f/XL_mkH-rTYa310dPwTKysjg5NzM0MTYyMzg3NzFfMjYyMDczNw",
+  "share_key": "",
+  "share_folder_id": "",
+  "share_folder_path": "Tarot (2024)",
+  "media_kind": "movie"
+}
