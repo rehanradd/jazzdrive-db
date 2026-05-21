@@ -1,5 +1,5 @@
 {
-  "scan:jazz_1_242352111": {
+  "1": {
     "id": 1,
     "fingerprint": "scan:jazz_1_242352111",
     "title_id": 5,
@@ -28,9 +28,11 @@
     "github_synced_at": 1779396967,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "Mortal Kombat II",
+    "tmdb_year": "2026"
   },
-  "scan:jazz_1_242343097": {
+  "2": {
     "id": 2,
     "fingerprint": "scan:jazz_1_242343097",
     "title_id": null,
@@ -59,9 +61,11 @@
     "github_synced_at": 1779396968,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242345311": {
+  "3": {
     "id": 3,
     "fingerprint": "scan:jazz_1_242345311",
     "title_id": null,
@@ -90,9 +94,11 @@
     "github_synced_at": 1779396969,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242345313": {
+  "4": {
     "id": 4,
     "fingerprint": "scan:jazz_1_242345313",
     "title_id": null,
@@ -121,9 +127,11 @@
     "github_synced_at": 1779396971,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242345315": {
+  "5": {
     "id": 5,
     "fingerprint": "scan:jazz_1_242345315",
     "title_id": null,
@@ -152,9 +160,11 @@
     "github_synced_at": 1779396972,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242345314": {
+  "6": {
     "id": 6,
     "fingerprint": "scan:jazz_1_242345314",
     "title_id": null,
@@ -183,9 +193,11 @@
     "github_synced_at": 1779396974,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242345309": {
+  "7": {
     "id": 7,
     "fingerprint": "scan:jazz_1_242345309",
     "title_id": null,
@@ -214,9 +226,11 @@
     "github_synced_at": 1779396975,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242345308": {
+  "8": {
     "id": 8,
     "fingerprint": "scan:jazz_1_242345308",
     "title_id": null,
@@ -245,9 +259,11 @@
     "github_synced_at": 1779396976,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242345300": {
+  "9": {
     "id": 9,
     "fingerprint": "scan:jazz_1_242345300",
     "title_id": null,
@@ -276,9 +292,11 @@
     "github_synced_at": 1779396978,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242343096": {
+  "10": {
     "id": 10,
     "fingerprint": "scan:jazz_1_242343096",
     "title_id": null,
@@ -307,9 +325,11 @@
     "github_synced_at": 1779396979,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242373442": {
+  "11": {
     "id": 11,
     "fingerprint": "scan:jazz_1_242373442",
     "title_id": 4,
@@ -338,9 +358,11 @@
     "github_synced_at": 1779396980,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "Interstellar",
+    "tmdb_year": "2014"
   },
-  "scan:jazz_1_242373443": {
+  "14": {
     "id": 14,
     "fingerprint": "scan:jazz_1_242373443",
     "title_id": 1,
@@ -369,9 +391,11 @@
     "github_synced_at": 1779396981,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "Dune: Part Two",
+    "tmdb_year": "2024"
   },
-  "scan:jazz_1_242352657": {
+  "18": {
     "id": 18,
     "fingerprint": "scan:jazz_1_242352657",
     "title_id": 3,
@@ -400,9 +424,11 @@
     "github_synced_at": 1779396983,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "I Can Only Imagine 2",
+    "tmdb_year": "2026"
   },
-  "scan:jazz_1_242361088": {
+  "21": {
     "id": 21,
     "fingerprint": "scan:jazz_1_242361088",
     "title_id": 2,
@@ -431,9 +457,11 @@
     "github_synced_at": 1779396984,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "Animal",
+    "tmdb_year": "2023"
   },
-  "scan:jazz_1_242361517": {
+  "25": {
     "id": 25,
     "fingerprint": "scan:jazz_1_242361517",
     "title_id": 6,
@@ -462,9 +490,11 @@
     "github_synced_at": 1779396985,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "Chal Mera Putt 3",
+    "tmdb_year": "2021"
   },
-  "scan:jazz_1_242362933": {
+  "29": {
     "id": 29,
     "fingerprint": "scan:jazz_1_242362933",
     "title_id": null,
@@ -493,9 +523,11 @@
     "github_synced_at": 1779396986,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242363538": {
+  "33": {
     "id": 33,
     "fingerprint": "scan:jazz_1_242363538",
     "title_id": null,
@@ -524,9 +556,11 @@
     "github_synced_at": 1779396988,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242363524": {
+  "34": {
     "id": 34,
     "fingerprint": "scan:jazz_1_242363524",
     "title_id": null,
@@ -555,9 +589,11 @@
     "github_synced_at": 1779396989,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242363531": {
+  "38": {
     "id": 38,
     "fingerprint": "scan:jazz_1_242363531",
     "title_id": null,
@@ -586,9 +622,11 @@
     "github_synced_at": 1779396990,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242363527": {
+  "39": {
     "id": 39,
     "fingerprint": "scan:jazz_1_242363527",
     "title_id": null,
@@ -617,9 +655,11 @@
     "github_synced_at": 1779396991,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242363286": {
+  "43": {
     "id": 43,
     "fingerprint": "scan:jazz_1_242363286",
     "title_id": 9,
@@ -648,9 +688,11 @@
     "github_synced_at": 1779396993,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "The Super Mario Galaxy Movie",
+    "tmdb_year": "2026"
   },
-  "scan:jazz_1_242364001": {
+  "47": {
     "id": 47,
     "fingerprint": "scan:jazz_1_242364001",
     "title_id": 11,
@@ -679,9 +721,11 @@
     "github_synced_at": 1779396994,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "Avatar: Fire and Ash",
+    "tmdb_year": "2025"
   },
-  "scan:jazz_1_242364007": {
+  "51": {
     "id": 51,
     "fingerprint": "scan:jazz_1_242364007",
     "title_id": null,
@@ -710,9 +754,11 @@
     "github_synced_at": 1779396995,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242364004": {
+  "52": {
     "id": 52,
     "fingerprint": "scan:jazz_1_242364004",
     "title_id": null,
@@ -741,9 +787,11 @@
     "github_synced_at": 1779396996,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": null,
+    "tmdb_year": null
   },
-  "scan:jazz_1_242363529": {
+  "56": {
     "id": 56,
     "fingerprint": "scan:jazz_1_242363529",
     "title_id": 7,
@@ -772,9 +820,11 @@
     "github_synced_at": 1779396997,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "The Ninth Gate",
+    "tmdb_year": "1999"
   },
-  "scan:jazz_1_242363265": {
+  "61": {
     "id": 61,
     "fingerprint": "scan:jazz_1_242363265",
     "title_id": 8,
@@ -803,9 +853,11 @@
     "github_synced_at": 1779396999,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "Inuyashiki",
+    "tmdb_year": "2018"
   },
-  "scan:jazz_1_242363288": {
+  "66": {
     "id": 66,
     "fingerprint": "scan:jazz_1_242363288",
     "title_id": 10,
@@ -834,9 +886,11 @@
     "github_synced_at": 1779397000,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "Mithde",
+    "tmdb_year": "2025"
   },
-  "scan:jazz_1_242381146": {
+  "71": {
     "id": 71,
     "fingerprint": "scan:jazz_1_242381146",
     "title_id": 12,
@@ -865,6 +919,74 @@
     "github_synced_at": 1779397001,
     "gsheets_status": null,
     "gsheets_synced_at": null,
-    "raw_json": null
+    "raw_json": null,
+    "tmdb_title": "The Dark Knight",
+    "tmdb_year": "2008"
+  },
+  "76": {
+    "id": 76,
+    "fingerprint": "upl:6dbf82ec2b9d318b19503a9c",
+    "title_id": 13,
+    "source": "upload",
+    "account_id": 26,
+    "filename": "Inception.(2010).720p.Dual.Audio.(Hin-Eng).[Vegamovies.NL].mkv",
+    "local_path": null,
+    "media_kind": null,
+    "season": null,
+    "episode": null,
+    "size_bytes": null,
+    "quality": null,
+    "remote_id": "242381252",
+    "remote_folder_id": "1759541",
+    "remote_file_id": null,
+    "folder_path": null,
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/hHDC5xjPR2GBz1DxITA9CzA0NzE3MTIzNzE2NzFfMjYwMzgwMA",
+    "share_key": null,
+    "share_link_id": null,
+    "share_folder_id": null,
+    "download_url": null,
+    "uploaded_at": 1779398312,
+    "scanned_at": null,
+    "is_ready": 1,
+    "github_status": "ok",
+    "github_synced_at": 1779398314,
+    "gsheets_status": null,
+    "gsheets_synced_at": null,
+    "raw_json": null,
+    "tmdb_title": "Inception",
+    "tmdb_year": "2010"
+  },
+  "77": {
+    "id": 77,
+    "fingerprint": "upl:406b6c910084e760f99a35f4",
+    "title_id": 14,
+    "source": "upload",
+    "account_id": 26,
+    "filename": "Oppenheimer.2023.720p.iMAX.BluRay.Hindi.DD5.1-English.5.1.ESub.x264-Vegamovies.to.mkv",
+    "local_path": null,
+    "media_kind": null,
+    "season": null,
+    "episode": null,
+    "size_bytes": null,
+    "quality": null,
+    "remote_id": "242381254",
+    "remote_folder_id": "1759542",
+    "remote_file_id": null,
+    "folder_path": null,
+    "share_url": "https://cloud.jazzdrive.com.pk/share/f/fG-TAMIpS2SM3WRSx4xq3zA0NzE3MTIzNzE2NzFfMjYwMzgwMA",
+    "share_key": null,
+    "share_link_id": null,
+    "share_folder_id": null,
+    "download_url": null,
+    "uploaded_at": 1779398603,
+    "scanned_at": null,
+    "is_ready": 1,
+    "github_status": "ok",
+    "github_synced_at": 1779398604,
+    "gsheets_status": null,
+    "gsheets_synced_at": null,
+    "raw_json": null,
+    "tmdb_title": "Oppenheimer",
+    "tmdb_year": "2023"
   }
 }
